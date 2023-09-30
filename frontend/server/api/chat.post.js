@@ -5,7 +5,13 @@ export default defineEventHandler(async (event) => {
 	messages = messages.concat(previosMessages);
 	let prompt =
 		messages.map((message) => `${message.role}: ${message.message}`).join('\n') + `\nAI:`;
-	const req = await fetch('https://college-carlo-editorial-sub.trycloudflare.com/api/v1/chat', {
+	prompt = "hello, wha tis you rname?"
+	console.log(prompt)
+	// let prompt = "What is your name?";
+	// let prompt = message.message
+	// let prompt = `${message.role}: ${message.message}`+`\nAI:`
+	
+	const req = await fetch('https://michael-dave-mas-privileges.trycloudflare.com/api/v1/chat', {
 		method: 'POST',
 		headers: {
 			'Content-Type': 'application/json',
@@ -28,10 +34,40 @@ export default defineEventHandler(async (event) => {
 	});
 
 	const res = await req.json();
-	console.log(res)
+	const result = res['results'][0]['history']['visible'][0];
+    console.log(result); // You can replace this with your desired handling
+
+	// const result = res.choices[0];
+	return {
+		message: result.text
+	};
+
+
+	// Check if the request was successful (status code 200)
+    if (req.status === 200) {
+        // Parse the JSON response
+        const responseJson = await req.json();
+        const result = responseJson['results'][0]['history']['visible'][0];
+        console.log(result); // You can replace this with your desired handling
+
+        // Handle the response data here
+
+    } else {
+        // Handle errors here (e.g., non-200 status codes)
+        console.error(`Request failed with status ${req.status}`);
+    }
+});
+
+/*
+	const res = await req.json();
+	// print()
+	// console.log(res.stringify())
 	// const result = res.choices[0];
 	result = res.response
+	console.log(result.stringify())
+
 	return {
 		message: result.text
 	};
 });
+*/
