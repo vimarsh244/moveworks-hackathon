@@ -3,10 +3,34 @@ export default defineEventHandler(async (event) => {
 	let messages = [];
 	const previosMessages = await readBody(event);
 	messages = messages.concat(previosMessages);
+	/*
+	console.log(messages)
 	let prompt =
 		messages.map((message) => `${message.role}: ${message.message}`).join('\n') + `\nAI:`;
-	prompt = "hello, wha tis you rname?"
+	// prompt = "hello, wha tis you rname?"
 	console.log(prompt)
+	*/
+
+
+// Convert the JSON strings in the messages array into objects
+	console.log(messages)
+// Parse the JSON string into an array of message objects
+	const messageObjects = JSON.parse(messages[0]);
+
+	// Create a formatted prompt string
+	let prompt = "";
+
+	for (let i = 0; i < messageObjects.length; i++) {
+	const message = messageObjects[i];
+	
+	if (message.role === "User") {
+		prompt += `User: ${message.message}\n`;
+	} else if (message.role === "AI") {
+		prompt += `AI: ${message.message || '...'}\n`;
+	}
+	}
+	console.log(prompt);
+
 	// let prompt = "What is your name?";
 	// let prompt = message.message
 	// let prompt = `${message.role}: ${message.message}`+`\nAI:`
@@ -24,7 +48,7 @@ export default defineEventHandler(async (event) => {
 
 
 			user_input: prompt,
-			temperature: 0.1,
+			temperature: 0.0,
 			max_new_tokens: 512,
 			// top_p: 1.0,
 			// frequency_penalty: 0,
@@ -34,12 +58,12 @@ export default defineEventHandler(async (event) => {
 	});
 
 	const res = await req.json();
-	const result = res['results'][0]['history']['visible'][0];
+	const result = res['results'][0]['history']['visible'][0][1];
     console.log(result); // You can replace this with your desired handling
 
 	// const result = res.choices[0];
 	return {
-		message: result.text
+		message: result
 	};
 
 
