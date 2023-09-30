@@ -52,19 +52,19 @@ We partner with the world’s most innovative companies. Learn how Palo Alto Net
 
 ![bot-logo-hero](https://www.moveworks.com/hubfs/img/site/home-page/headers/bot-logo-hero.jpg)
 
-![Bhavin](https://www.moveworks.com/hs-fs/hubfs/Bhavin.jpg?width=500&height=500&name=Bhavin.jpg)
+![Bhavin](https://www.moveworks.com/hs-fs/hubfs/Bhavin.jpg?&height=500&name=Bhavin.jpg)
 
 Bhavin Shah is the CEO and Co-Founder of Moveworks. He is a serial entrepreneur with two decades of experience taking companies from inception to scale and from private to public. Prior to Moveworks, he was CEO of Refresh.io, which LinkedIn acquired in 2015.
 
 Shah has a Master’s degree in Education, Technology, and Business from Stanford University and a B.S. in Computer Science from the University of California, San Diego.
 
-![Vaibhav](https://www.moveworks.com/hs-fs/hubfs/Vaibhav.jpg?width=500&height=500&name=Vaibhav.jpg)
+![Vaibhav](https://www.moveworks.com/hs-fs/hubfs/Vaibhav.jpg?&height=500&name=Vaibhav.jpg)
 
 Vaibhav Nivargi is the CTO and Co-Founder of Moveworks, where he leads the engineering organization. Prior to Moveworks, Nivargi founded ClearStory Data, a big data and analytics company, and was also one of the early engineers at Aster Data, a pioneering big data company acquired in 2011. 
 
 Nivargi has a Master’s degree in Computer Science from Stanford University.
 
-![Varun](https://www.moveworks.com/hs-fs/hubfs/Varun.jpg?width=500&height=500&name=Varun.jpg)
+![Varun](https://www.moveworks.com/hs-fs/hubfs/Varun.jpg?&height=500&name=Varun.jpg)
 
 Varun Singh is Vice President of Product and Co-Founder of Moveworks. Prior to Moveworks, Singh was Lead Product Manager at Facebook, where he built enterprise software that helped Facebook scale through a combination of data, machine learning, and chatbots.
 

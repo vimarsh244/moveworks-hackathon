@@ -46,7 +46,7 @@ Crucially, these bots depend on a team of engineers to build every single flow, 
 
 
 
-![blog-figure-03b-mobile@2x-4](https://www.moveworks.com/hs-fs/hubfs/Imported_Blog_Media/blog-figure-03b-mobile@2x-4.png?width=450&height=504&name=blog-figure-03b-mobile@2x-4.png)
+![blog-figure-03b-mobile@2x-4](https://www.moveworks.com/hs-fs/hubfs/Imported_Blog_Media/blog-figuret-03b-mobile@2x-4.png?&height=504&name=blog-figure-03b-mobile@2x-4.png)
 
 Figure 1: Rules-based chatbots with pre-scripted responses can’t keep up
 
@@ -64,7 +64,7 @@ Virtual assistants are another type of conversational AI that can perform tasks 
 
 
 
-![AdaptiveResponse_PPL-1](https://www.moveworks.com/hs-fs/hubfs/AdaptiveResponse_PPL-1.png?width=400&height=475&name=AdaptiveResponse_PPL-1.png)
+![AdaptiveResponse_PPL-1](https://www.moveworks.com/hs-fs/hubfs/AdaptiveResponse_PPL-1.png?&height=475&name=AdaptiveResponse_PPL-1.png)
 
 Figure 2: Conversations can go in an infinite number of directions. 
 

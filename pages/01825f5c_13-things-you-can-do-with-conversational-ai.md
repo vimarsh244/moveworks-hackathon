@@ -38,31 +38,31 @@ Today, I’m here to show you that conversational AI is more than just a buzzwor
 
 The power of conversational AI lies in its ability to respond dynamically. It isn’t limited by dialog flows or pre-scripted solutions. An AI-powered chatbot can help you perform complex, multistep tasks like setting up PTO, troubleshooting Adobe Acrobat, or submitting an expense report — without forcing you to learn a new interface. It immediately understands user requests and responds in seconds.
 
-![PrpChat_HR_Benefits_LocationBased_Toronto-blog45](https://www.moveworks.com/hs-fs/hubfs/PrpChat_HR_Benefits_LocationBased_Toronto-blog45.jpg?width=334&name=PrpChat_HR_Benefits_LocationBased_Toronto-blog45.jpg)
+![PrpChat_HR_Benefits_LocationBased_Toronto-blog45](https://www.moveworks.com/hs-fs/hubfs/PrpChat_HR_Benefits_LocationBased_Toronto-blog45.jpg?&name=PrpChat_HR_Benefits_LocationBased_Toronto-blog45.jpg)
 
 A major reason employees reach out to their IT or HR team is just to get basic questions answered. Conversational AI can resolve common issues autonomously, freeing support teams up to address higher-priority work.
 
-![Software_Provisioning-blog45](https://www.moveworks.com/hs-fs/hubfs/Software_Provisioning-blog45.jpeg?width=314&name=Software_Provisioning-blog45.jpeg)
+![Software_Provisioning-blog45](https://www.moveworks.com/hs-fs/hubfs/Software_Provisioning-blog45.jpeg?&name=Software_Provisioning-blog45.jpeg)
 
 With conversational AI, you can autonomously provision, or de-provision, the software your employees need to get work done. Instead of spending an hour on the phone with IT, they can ask a chatbot for access and receive a response in as little as seconds.
 
-![Manage_Permissions-blog45](https://www.moveworks.com/hs-fs/hubfs/Manage_Permissions-blog45.jpeg?width=314&name=Manage_Permissions-blog45.jpeg)
+![Manage_Permissions-blog45](https://www.moveworks.com/hs-fs/hubfs/Manage_Permissions-blog45.jpeg?&name=Manage_Permissions-blog45.jpeg)
 
 Even the most capable support teams can find it difficult to keep track of hundreds of different users and all their permissions. When an employee asks for access to Tableau, a deeply integrated conversational AI can offer up a personalized solution, depending on that employee’s access level.
 
-![Unlock_Accounts-v2-blog45](https://www.moveworks.com/hs-fs/hubfs/Unlock_Accounts-v2-blog45.jpeg?width=334&name=Unlock_Accounts-v2-blog45.jpeg)
+![Unlock_Accounts-v2-blog45](https://www.moveworks.com/hs-fs/hubfs/Unlock_Accounts-v2-blog45.jpeg?&name=Unlock_Accounts-v2-blog45.jpeg)
 
 By integrating with identity management systems like Active Directory and Okta, conversational AI can proactively message employees to prevent lockouts and securely restore access with no help desk involvement.
 
-![PrpChat-Fill-Forms-Light-blog45](https://www.moveworks.com/hs-fs/hubfs/PrpChat-Fill-Forms-Light-blog45.jpeg?width=334&name=PrpChat-Fill-Forms-Light-blog45.jpeg)
+![PrpChat-Fill-Forms-Light-blog45](https://www.moveworks.com/hs-fs/hubfs/PrpChat-Fill-Forms-Light-blog45.jpeg?&name=PrpChat-Fill-Forms-Light-blog45.jpeg)
 
 Conversational AI makes it possible for employees to fill out and submit forms directly in their chat platform, using natural language. Filling forms — a process that once involved many different platforms and steps — can be completed quickly and conversationally.
 
-![PrpChat-Reset-Password-blog45](https://www.moveworks.com/hs-fs/hubfs/PrpChat-Reset-Password-blog45.jpeg?width=334&name=PrpChat-Reset-Password-blog45.jpeg)
+![PrpChat-Reset-Password-blog45](https://www.moveworks.com/hs-fs/hubfs/PrpChat-Reset-Password-blog45.jpeg?&name=PrpChat-Reset-Password-blog45.jpeg)
 
 Large enterprises typically handle several thousand password issues every month. With conversational AI, employees can reset passwords by asking a chatbot for help, meaning thousands fewer IT tickets to worry about.
 
-![Accelerate-Approals-v2-blog45](https://www.moveworks.com/hs-fs/hubfs/Accelerate-Approals-v2-blog45.jpeg?width=334&name=Accelerate-Approals-v2-blog45.jpeg)
+![Accelerate-Approals-v2-blog45](https://www.moveworks.com/hs-fs/hubfs/Accelerate-Approals-v2-blog45.jpeg?&name=Accelerate-Approals-v2-blog45.jpeg)
 
 Conversational AI can automatically route approvals to the right hands. Managers can easily accept or deny access using natural language, ensuring that employees get what they need, from software to PTO, quickly and securely.
 
@@ -70,15 +70,15 @@ Conversational AI can automatically route approvals to the right hands. Managers
 
 Companies use a range of strategies to communicate with their employees en masse, but usually it comes down to firing off a bunch of emails. Even if your people pay attention to their inboxes, this approach doesn’t make it easy for employees to ask follow-up questions provide information to your comms team on who’s acted and who hasn’t. Conversational AI flips the script, turning one-way messages into two-way conversations.
 
-![Follow-up-questions-blog45](https://www.moveworks.com/hs-fs/hubfs/Follow-up-questions-blog45.jpeg?width=334&name=Follow-up-questions-blog45.jpeg)
+![Follow-up-questions-blog45](https://www.moveworks.com/hs-fs/hubfs/Follow-up-questions-blog45.jpeg?&name=Follow-up-questions-blog45.jpeg)
 
 Employees will always have questions when their company launches a new policy or updates a security protocol. Whereas an email is a dead-end, when you send a message with a chatbot, you’re sending an expert capable of answering any follow-up questions.
 
-![HR_OnboardingMsg-blog45](https://www.moveworks.com/hs-fs/hubfs/HR_OnboardingMsg-blog45.jpeg?width=334&name=HR_OnboardingMsg-blog45.jpeg)
+![HR_OnboardingMsg-blog45](https://www.moveworks.com/hs-fs/hubfs/HR_OnboardingMsg-blog45.jpeg?&name=HR_OnboardingMsg-blog45.jpeg)
 
 On their first day at a job, new hires drown in information. By sending onboarding materials via a conversational chatbot, employees can start their jobs right — with the ability to prioritize top-of-mind questions on day one.
 
-![Targeted-Follow-up-messages-blog45](https://www.moveworks.com/hs-fs/hubfs/Targeted-Follow-up-messages-blog45.jpeg?width=334&name=Targeted-Follow-up-messages-blog45.jpeg)
+![Targeted-Follow-up-messages-blog45](https://www.moveworks.com/hs-fs/hubfs/Targeted-Follow-up-messages-blog45.jpeg?&name=Targeted-Follow-up-messages-blog45.jpeg)
 
 Your campaign doesn’t end after you send your message. Conversational AI offers visibility into your comm’s performance. When you know who’s seen it and who’s taken action, you can send a targeted reminder to ensure that the change you want to happen happens.
 
@@ -86,15 +86,15 @@ Your campaign doesn’t end after you send your message. Conversational AI offer
 
 Solving a support issue involves multiple conversations between employees and service desks. But when each issue is considered a unique, individual problem, it’s hard to see the big picture. By handling this back-and-forth over chat, conversational AI resolves issues faster, minimizing support wait times and, even more critically, offering unique insights into how to improve existing systems.
 
-![Security-WFH-blog45](https://www.moveworks.com/hs-fs/hubfs/Security-WFH-blog45.jpeg?width=334&name=Security-WFH-blog45.jpeg)
+![Security-WFH-blog45](https://www.moveworks.com/hs-fs/hubfs/Security-WFH-blog45.jpeg?&name=Security-WFH-blog45.jpeg)
 
 Every company has common support issues, from troubleshooting the VPN to getting a Zoom Pro license. AI can offer insight into the issues employees have so that your team can build the right resources and make it even easier for everyone to get the specific help they need.
 
-![Triage-issues-rights-expert-blog45](https://www.moveworks.com/hs-fs/hubfs/Triage-issues-rights-expert-blog45.jpeg?width=334&name=Triage-issues-rights-expert-blog45.jpeg)
+![Triage-issues-rights-expert-blog45](https://www.moveworks.com/hs-fs/hubfs/Triage-issues-rights-expert-blog45.jpeg?&name=Triage-issues-rights-expert-blog45.jpeg)
 
 Many companies have hundreds or even thousands of assignment groups, meaning that service desk agents struggle to determine where to route issues. A chatbot solves common support issues instantly, but when expert help is needed — AI understands and routes requests to the right assignment group.
 
-![Automate-ticket-backnforth-blog45](https://www.moveworks.com/hs-fs/hubfs/Automate-ticket-backnforth-blog45.jpeg?width=334&name=Automate-ticket-backnforth-blog45.jpeg)
+![Automate-ticket-backnforth-blog45](https://www.moveworks.com/hs-fs/hubfs/Automate-ticket-backnforth-blog45.jpeg?&name=Automate-ticket-backnforth-blog45.jpeg)
 
 Support tickets can take forever to solve because they involve multiple conversations between employees and service desks. But conversational AI handles back-and-forth autonomously. From updating employees to nudging agents to closing tickets, AI makes support seamless.
 

@@ -102,7 +102,7 @@ All of this boils down to everyone from the CEO to service leaders having a more
 
 
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/undefined-2.png?width=565&height=574&name=undefined-2.png)
+![Image](https://www.moveworks.com/hs-fs/hubfs/undefined-2.png?&height=574&name=undefined-2.png)
 
 Figure 1: Using NLU techniques trained on over half a billion support tickets, AI analytics can pull key insights from unstructured data, like IT support tickets.
 

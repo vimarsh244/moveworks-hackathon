@@ -54,7 +54,7 @@ We’ve written at length on our approach to these first two components. And tod
 
 Figure 2: Conversations can go in an infinite number of directions. Chatbots need to be flexible enough to keep up in the face of uncertainty. 
 
-![700x428_DynamicFlow_ConversationGrid-Compressed_v02](https://www.moveworks.com/hs-fs/hubfs/700x428_DynamicFlow_ConversationGrid-Compressed_v02.gif?width=760&name=700x428_DynamicFlow_ConversationGrid-Compressed_v02.gif)
+![700x428_DynamicFlow_ConversationGrid-Compressed_v02](https://www.moveworks.com/hs-fs/hubfs/700x428_DynamicFlow_ConversationGrid-Compressed_v02.gif?&name=700x428_DynamicFlow_ConversationGrid-Compressed_v02.gif)
 
  
 

@@ -88,7 +88,7 @@ Incremental improvements in knowledge creation and identity management increased
 
 
 
-![blog-mw-Aug2021-fig04-update](https://www.moveworks.com/hs-fs/hubfs/blog-mw-Aug2021-fig04-update.png?width=650&height=650&name=blog-mw-Aug2021-fig04-update.png)
+![blog-mw-Aug2021-fig04-update](https://www.moveworks.com/hs-fs/hubfs/blog-mw-Aug2021-fig04-update.png?&height=650&name=blog-mw-Aug2021-fig04-update.png)
 
 Figure 2: loanDepot’s virtual agent started solving issues from day one. Today, Moveworks-powered Elle-Dee uses AI to keep up with new use cases across support departments, ensuring happy employees.
 

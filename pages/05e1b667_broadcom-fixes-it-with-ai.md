@@ -36,7 +36,7 @@ In our first week with the bot, we were excited to see it resolve about 8% of ou
 
 
 
-![04_MW_BLOG_1Bot_Infographic_v01](https://www.moveworks.com/hs-fs/hubfs/img/blog/04_MW_BLOG_1Bot_Infographic_v01.jpg?width=1366&name=04_MW_BLOG_1Bot_Infographic_v01.jpg)
+![04_MW_BLOG_1Bot_Infographic_v01](https://www.moveworks.com/hs-fs/hubfs/img/blog/04_MW_BLOG_1Bot_Infographic_v01.jpg?&name=04_MW_BLOG_1Bot_Infographic_v01.jpg)
 
 Our journey actually started about three years ago when we began looking for an AI platform that could take over as the first line of IT support for employees. It was a frustrating search. Almost every solution we looked at required us to write scripts, build dialogs, or train machine learning models. So it was a breath of fresh air when we found Moveworks. They understood that the value of an AI chatbot is all about the learning. It’s all about how it learns to understand what employees are asking for, and solve their problems automatically. Learning is different from teaching or training. We didn’t want to have a system we had to teach or train — we wanted something that could continually learn, all on its own.
 

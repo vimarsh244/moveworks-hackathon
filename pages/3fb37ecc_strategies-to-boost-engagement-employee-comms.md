@@ -50,7 +50,7 @@ By itself, the collaboration tool is not a magic bullet — employees can ignore
 
  
 
-![Grimse_Mark_CIO_19-04-11_3232](https://www.moveworks.com/hs-fs/hubfs/Grimse_Mark_CIO_19-04-11_3232.jpg?width=300&name=Grimse_Mark_CIO_19-04-11_3232.jpg)
+![Grimse_Mark_CIO_19-04-11_3232](https://www.moveworks.com/hs-fs/hubfs/Grimse_Mark_CIO_19-04-11_3232.jpg?&name=Grimse_Mark_CIO_19-04-11_3232.jpg)
 
 Read about how Robert Half built a virtual workplace with AI →
 
@@ -68,7 +68,7 @@ The challenge for comms teams is that manually tailoring messages to individual 
 
  
 
-![Kota_Prakash_CIO](https://www.moveworks.com/hs-fs/hubfs/Photos_heroes/Kota_Prakash_CIO.jpg?width=300&name=Kota_Prakash_CIO.jpg)
+![Kota_Prakash_CIO](https://www.moveworks.com/hs-fs/hubfs/Photos_heroes/Kota_Prakash_CIO.jpg?&name=Kota_Prakash_CIO.jpg)
 
 Find out how Autodesk used AI to transform their employee experience →
 
@@ -86,7 +86,7 @@ Inspired by the results of our customers, we worked to apply their best practice
 
 
 
-![PrpChat_EmployeeComms_HR_CompleteEnrollment](https://www.moveworks.com/hs-fs/hubfs/PrpChat_EmployeeComms_HR_CompleteEnrollment.png?width=500&name=PrpChat_EmployeeComms_HR_CompleteEnrollment.png)
+![PrpChat_EmployeeComms_HR_CompleteEnrollment](https://www.moveworks.com/hs-fs/hubfs/PrpChat_EmployeeComms_HR_CompleteEnrollment.png?&name=PrpChat_EmployeeComms_HR_CompleteEnrollment.png)
 
 Figure 1: Inspired by the success of our customers, we use employee comms at Moveworks to ensure that everyone is on the same page. 
 
@@ -102,7 +102,7 @@ To replicate this most successful model of communication — talking to people �
 
  
 
-![AmithNair_Vituity_ListingPage](https://www.moveworks.com/hs-fs/hubfs/AmithNair_Vituity_ListingPage.png?width=300&name=AmithNair_Vituity_ListingPage.png)
+![AmithNair_Vituity_ListingPage](https://www.moveworks.com/hs-fs/hubfs/AmithNair_Vituity_ListingPage.png?&name=AmithNair_Vituity_ListingPage.png)
 
 Read more about Vituity’s employee comms strategy →
 

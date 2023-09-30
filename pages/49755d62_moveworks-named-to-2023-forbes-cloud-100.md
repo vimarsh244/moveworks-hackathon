@@ -42,7 +42,7 @@ This award and the values it promotes affirm that the world now knows what’s p
 
 
 
-![nasdaq-moveworks-cloud100](https://www.moveworks.com/hs-fs/hubfs/nasdaq-moveworks-cloud100.png?width=499&height=499&name=nasdaq-moveworks-cloud100.png)
+![nasdaq-moveworks-cloud100](https://www.moveworks.com/hs-fs/hubfs/nasdaq-moveworks-cloud100.png?&height=499&name=nasdaq-moveworks-cloud100.png)
 
 Before the recent AI boom, when many were still unaware of the potential for conversational AI in business, Moveworks was trailblazing and developing enterprise solutions as far back as 2016. 
 

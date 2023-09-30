@@ -34,7 +34,7 @@ Creating this simple experience forced us to build machine learning components t
 
  
 
-![Vaibhav_02](https://www.moveworks.com/hs-fs/hubfs/Moveweb/photos/Vaibhav_02.jpg?width=300&name=Vaibhav_02.jpg)
+![Vaibhav_02](https://www.moveworks.com/hs-fs/hubfs/Moveweb/photos/Vaibhav_02.jpg?&name=Vaibhav_02.jpg)
 
  
 
@@ -48,7 +48,7 @@ So here’s the question: What would it take to create a chatbot that people act
 
 
 
-![MIE_GIF2](https://www.moveworks.com/hs-fs/hubfs/MIE_GIF2.gif?width=600&name=MIE_GIF2.gif)
+![MIE_GIF2](https://www.moveworks.com/hs-fs/hubfs/MIE_GIF2.gif?&name=MIE_GIF2.gif)
 
 Figure 1: The Moveworks Intelligence Engine has five components, which work together to resolve employee support issues end-to-end. 
 

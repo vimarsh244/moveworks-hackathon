@@ -28,15 +28,15 @@ So what does it take to make a seamless transition? The challenge looks differen
 
 That’s why leading companies are using automation and AI to resolve support issues instantly — at scale. We broke down the top use cases for automation:
 
-![Moveworks sends targeted employee communications en mass](https://www.moveworks.com/hs-fs/hubfs/Moveweb/Device%20Screenshots/PrpChat-Website-expense%20reporting.png?width=50&name=PrpChat-Website-expense%20reporting.png)
+![Moveworks sends targeted employee communications en mass](https://www.moveworks.com/hs-fs/hubfs/Moveweb/Device%20Screenshots/PrpChat-Website-expense%20reporting.png?&name=PrpChat-Website-expense%20reporting.png)
 
 Target your comms 
 
-![Moveworks lets employees look up conference room location via chat](https://www.moveworks.com/hs-fs/hubfs/Moveweb/Device%20Screenshots/PrpChat-Website-Room_Lookup.png?width=50&name=PrpChat-Website-Room_Lookup.png)
+![Moveworks lets employees look up conference room location via chat](https://www.moveworks.com/hs-fs/hubfs/Moveweb/Device%20Screenshots/PrpChat-Website-Room_Lookup.png?&name=PrpChat-Website-Room_Lookup.png)
 
 Deliver instant answers 
 
-![Moveworks sends and collects feedback from smart forms](https://www.moveworks.com/hs-fs/hubfs/Moveweb/Device%20Screenshots/PrpChat-Website-Certificate%20of%20Vaccination.png?width=50&name=PrpChat-Website-Certificate%20of%20Vaccination.png)
+![Moveworks sends and collects feedback from smart forms](https://www.moveworks.com/hs-fs/hubfs/Moveweb/Device%20Screenshots/PrpChat-Website-Certificate%20of%20Vaccination.png?&name=PrpChat-Website-Certificate%20of%20Vaccination.png)
 
 Serve smart forms 
 

@@ -78,7 +78,7 @@ Because we know what employees are asking, we can adjust accordingly, building r
 
 Figure 3: With the insights provided by our dashboards, we know how to best improve our onboarding process.
 
-![Performance Insights Dashboards-1](https://www.moveworks.com/hs-fs/hubfs/Performance%20Insights%20Dashboards-1.jpeg?width=664&name=Performance%20Insights%20Dashboards-1.jpeg)
+![Performance Insights Dashboards-1](https://www.moveworks.com/hs-fs/hubfs/Performance%20Insights%20Dashboards-1.jpeg?&name=Performance%20Insights%20Dashboards-1.jpeg)
 
  
 

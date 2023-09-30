@@ -40,7 +40,7 @@ The result? While ML automates routine tasks across nearly every industry, those
 
 
 
-![08_MW_Blog_KeywordsBrittle](https://www.moveworks.com/hs-fs/hubfs/img/blog/2019-11-13-triage/08_MW_Blog_KeywordsBrittle.png?width=1366&name=08_MW_Blog_KeywordsBrittle.png)
+![08_MW_Blog_KeywordsBrittle](https://www.moveworks.com/hs-fs/hubfs/img/blog/2019-11-13-triage/08_MW_Blog_KeywordsBrittle.png?&name=08_MW_Blog_KeywordsBrittle.png)
 
 Figure 1: Unlike math problems that computers can approach as a series of discrete operations, the meaning of a sentence can’t be gleaned from its individual words without context.
 
@@ -52,7 +52,7 @@ At a high level, automated ticket triage entails correlating an IT ticket’s va
 
 Figure 2: After learning from labeled tickets, Moveworks’ models can then make predictions about unlabeled data.
 
-![08_MW_Blog_ContentImage04_LabelledTix-2](https://www.moveworks.com/hs-fs/hubfs/img/blog/2019-11-13-triage/08_MW_Blog_ContentImage04_LabelledTix-2.jpg?width=1366&name=08_MW_Blog_ContentImage04_LabelledTix-2.jpg)
+![08_MW_Blog_ContentImage04_LabelledTix-2](https://www.moveworks.com/hs-fs/hubfs/img/blog/2019-11-13-triage/08_MW_Blog_ContentImage04_LabelledTix-2.jpg?&name=08_MW_Blog_ContentImage04_LabelledTix-2.jpg)
 
 Needless to say, supervised learning depends on a historical set of tickets that are accurately labeled. That’s why — before supervised learning begins — Moveworks validates both that the historical tickets have indeed been labeled consistently and that machine learning is the right solution to the problem at hand. In rare cases, we see an erratic distribution of labels for a given field, which prompts us to work with the service desk team to identify the problematic areas and suggest ways to improve the quality of the labels. 
 
@@ -62,7 +62,7 @@ But why is that context important? Couldn’t an automated triaging tool assign 
 
 
 
-![08_MW_Blog_ContentImage07_UserContext-2](https://www.moveworks.com/hs-fs/hubfs/img/blog/2019-11-13-triage/08_MW_Blog_ContentImage07_UserContext-2.png?width=2000&name=08_MW_Blog_ContentImage07_UserContext-2.png)
+![08_MW_Blog_ContentImage07_UserContext-2](https://www.moveworks.com/hs-fs/hubfs/img/blog/2019-11-13-triage/08_MW_Blog_ContentImage07_UserContext-2.png?&name=08_MW_Blog_ContentImage07_UserContext-2.png)
 
 Figure 3: Historical tickets submitted by employees in the same department help Moveworks differentiate between these requests — facilitating not only ticket routing but also resolution. 
 
@@ -72,7 +72,7 @@ Yet even machine learning models are prone to miss the needle in such an enormou
 
 
 
-![IT Email (1)](https://www.moveworks.com/hs-fs/hubfs/img/blog/2019-11-13-triage/IT%20Email%20(1).png?width=1688&name=IT%20Email%20(1).png)
+![IT Email (1)](https://www.moveworks.com/hs-fs/hubfs/img/blog/2019-11-13-triage/IT%20Email%20(1).png?&name=IT%20Email%20(1).png)
 
 Figure 4: A superficial analysis of keywords would probably assign this ticket to the IT Service Desk, as opposed to the Salesforce Admin group where it belongs.
 
@@ -92,7 +92,7 @@ In order for this experience to be useful, however, the models must be able to g
 
 
 
-![08_MW_Blog_ContentImage07_ITWordEmbedding-1](https://www.moveworks.com/hs-fs/hubfs/img/blog/2019-11-13-triage/08_MW_Blog_ContentImage07_ITWordEmbedding-1.png?width=2000&name=08_MW_Blog_ContentImage07_ITWordEmbedding-1.png)
+![08_MW_Blog_ContentImage07_ITWordEmbedding-1](https://www.moveworks.com/hs-fs/hubfs/img/blog/2019-11-13-triage/08_MW_Blog_ContentImage07_ITWordEmbedding-1.png?&name=08_MW_Blog_ContentImage07_ITWordEmbedding-1.png)
 
 Figure 5: Understanding the relationships between words allows Moveworks to generalize insights about syntax and semantics, despite the superficial differences between organizations. 
 
@@ -100,7 +100,7 @@ With ML-powered triage, nearly every ticket is automatically routed, dramaticall
 
 
 
-![MTTR (1)](https://www.moveworks.com/hs-fs/hubfs/img/blog/2019-11-13-triage/MTTR%20(1).png?width=1749&name=MTTR%20(1).png)
+![MTTR (1)](https://www.moveworks.com/hs-fs/hubfs/img/blog/2019-11-13-triage/MTTR%20(1).png?&name=MTTR%20(1).png)
 
 Figure 6: Automated ticket triaging is finally a reality — and the technology is only getting better.
 

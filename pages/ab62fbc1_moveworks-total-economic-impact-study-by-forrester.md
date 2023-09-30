@@ -56,7 +56,7 @@ No matter how, or in what language, employees describe their problems, our bot g
 
 
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/undefined-Jun-01-2023-11-53-28-2675-PM.png?width=420&height=186&name=undefined-Jun-01-2023-11-53-28-2675-PM.png)
+![Image](https://www.moveworks.com/hs-fs/hubfs/undefined-Jun-01-2023-11-53-28-2675-PM.png?&height=186&name=undefined-Jun-01-2023-11-53-28-2675-PM.png)
 
 Figure 1: Moveworks understand what employees need, no matter how they ask.
 
@@ -70,7 +70,7 @@ The key to realizing these savings is integrating and connecting apps, systems, 
 
 
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/undefined-Jun-01-2023-11-53-28-6132-PM.png?width=420&height=246&name=undefined-Jun-01-2023-11-53-28-6132-PM.png)
+![Image](https://www.moveworks.com/hs-fs/hubfs/undefined-Jun-01-2023-11-53-28-6132-PM.png?&height=246&name=undefined-Jun-01-2023-11-53-28-6132-PM.png)
 
 Figure 2: Moveworks connects disparate apps and workflows across domains, allowing users to access support in a single conversational interface.
 
@@ -86,7 +86,7 @@ Ultimately, Moveworks enables support teams to avoid time-consuming, low-value t
 
 
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/undefined-Jun-01-2023-11-53-28-4251-PM.png?width=420&height=278&name=undefined-Jun-01-2023-11-53-28-4251-PM.png)
+![Image](https://www.moveworks.com/hs-fs/hubfs/undefined-Jun-01-2023-11-53-28-4251-PM.png?&height=278&name=undefined-Jun-01-2023-11-53-28-4251-PM.png)
 
 Figure 3: HR can create a wonderfully positive work environment — but only if they’re not constantly dealing with time-consuming, routine issues. AI can step in, answering questions in seconds and sending info proactively.
 
@@ -100,7 +100,7 @@ Moveworks helps craft targeted, actionable messages that resonate with employees
 
 
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/undefined-Jun-01-2023-11-53-28-7755-PM.png?width=524&height=364&name=undefined-Jun-01-2023-11-53-28-7755-PM.png)
+![Image](https://www.moveworks.com/hs-fs/hubfs/undefined-Jun-01-2023-11-53-28-7755-PM.png?&height=364&name=undefined-Jun-01-2023-11-53-28-7755-PM.png)
 
 Figure 4: Moveworks offers visibility into how employees engage with campaigns. 
 

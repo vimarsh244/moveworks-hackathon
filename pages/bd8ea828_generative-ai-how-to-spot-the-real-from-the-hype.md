@@ -4,7 +4,7 @@ Forrester names Moveworks a leader in Chatbot for IT operations. Read the report
 
 Moveworks named a Forrester leader in Chatbot for IT operations. 
 
-![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
+![Image | ](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
 
 Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
 
@@ -24,9 +24,9 @@ A member of the Moveworks team will be in touch within the next 24 hours.
 Bhavin Shah, CEO and Founder
 
 
-![](https://www.moveworks.com/hubfs/featured-image-design-biz-dimension-of-GPT-pt2.jpg)
+![ | ](https://www.moveworks.com/hubfs/featured-image-design-biz-dimension-of-GPT-pt2.jpg)
 
-![](https://www.moveworks.com/hubfs/featured-image-design-biz-dimension-of-GPT-pt2.jpg)
+![ | ](https://www.moveworks.com/hubfs/featured-image-design-biz-dimension-of-GPT-pt2.jpg)
 
 Over the past three decades, a handful of products like Google's search engine, Tesla’s electric vehicles, and Apple's iPhone have been the tech industry's game-changers, leaving previous products in the dust. I think we can safely add OpenAI’s ChatGPT to that list.
 
@@ -64,7 +64,10 @@ We’ll start with some basics: the conversational AI landscape can be divided i
 
 
 
-![Screen Shot 2023-01-23 at 10.50.43 AM](https://www.moveworks.com/hs-fs/hubfs/Screen%20Shot%202023-01-23%20at%2010.50.43%20AM.png?width=542&height=386&name=Screen%20Shot%202023-01-23%20at%2010.50.43%20AM.png)
+![Screen Shot 2023-01-23 at 10.50.43 AM | Middle Layer
+
+The enterprise
+Application Layer Al sweet spot](https://www.moveworks.com/hs-fs/hubfs/Screen%20Shot%202023-01-23%20at%2010.50.43%20AM.png?&height=386&name=Screen%20Shot%202023-01-23%20at%2010.50.43%20AM.png)
 
 Figure 1: When you’re investing in a new tool, remember: What’s hard and what’s expensive are ultimately the differentiators. A company that lies at the intersection of the foundation, middle, and application layers will be able to differentiate itself from the competition.
 
@@ -134,37 +137,37 @@ Let us show you all you can get from conversational AI in a quick demo with our 
 
 Contact Moveworks to learn how AI can supercharge your workforce's productivity.
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
+![Image | in](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
 
 
           Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
 
 
           Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
 
 
           3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
 
 
           Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
 
 
           From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
+![Image | 8](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
 
 
           AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.

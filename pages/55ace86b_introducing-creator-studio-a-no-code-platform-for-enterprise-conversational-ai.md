@@ -54,7 +54,7 @@ Traditional conversational AI toolkits can be complex and difficult to work with
 
 Figure 1: With Creator Studio Paths, you can generate customer conversational AI use cases with natural language.
 
-![230331_CreatorStudio_Paths](https://www.moveworks.com/hs-fs/hubfs/230331_CreatorStudio_Paths.gif?width=765&height=450&name=230331_CreatorStudio_Paths.gif)
+![230331_CreatorStudio_Paths](https://www.moveworks.com/hs-fs/hubfs/230331_CreatorStudio_Paths.gif?&height=450&name=230331_CreatorStudio_Paths.gif)
 
 Paths makes it possible for anyone to use a system conversationally. Let’s look at expense management. Instead of finding the right app and figuring out the new user interface, employees to access their expense reports conversationally, saving time and effort for both themselves and their managers.
 
@@ -62,7 +62,7 @@ Other use cases include: 
 
 Figure 2: Enable your employees to access their expenses with a simple question with Creator Studio.
 
-![prp-chat-queries-finance-expenses](https://www.moveworks.com/hs-fs/hubfs/prp-chat-queries-finance-expenses.png?width=300&height=454&name=prp-chat-queries-finance-expenses.png)
+![prp-chat-queries-finance-expenses](https://www.moveworks.com/hs-fs/hubfs/prp-chat-queries-finance-expenses.png?&height=454&name=prp-chat-queries-finance-expenses.png)
 
  
 
@@ -72,7 +72,7 @@ With Queries workspace, employees can access data from any system, app, or workf
 
 Figure 3: With Creator Studio Queries, you can securely access data from any system. 
 
-![230331_CreatorStudio_Queries](https://www.moveworks.com/hs-fs/hubfs/230331_CreatorStudio_Queries.gif?width=765&height=450&name=230331_CreatorStudio_Queries.gif)
+![230331_CreatorStudio_Queries](https://www.moveworks.com/hs-fs/hubfs/230331_CreatorStudio_Queries.gif?&height=450&name=230331_CreatorStudio_Queries.gif)
 
 With the ability to enable data queries across applications, Creator Studio can enhance efficiency and productivity for employees, including the Sales team. For example, by allowing the applicable employee to query Salesforce data, Creator Studio can surface essential account information, freeing up time for more impactful analyses and prospect conversations.
 
@@ -80,7 +80,7 @@ Other use cases include: 
 
 Figure 4: Creator Studio lets anyone query Salesforce data so your team can focus on more impactful analyses.
 
-![prp-chat-queries-sales-ops](https://www.moveworks.com/hs-fs/hubfs/prp-chat-queries-sales-ops.png?width=300&height=467&name=prp-chat-queries-sales-ops.png)
+![prp-chat-queries-sales-ops](https://www.moveworks.com/hs-fs/hubfs/prp-chat-queries-sales-ops.png?&height=467&name=prp-chat-queries-sales-ops.png)
 
  
 
@@ -90,7 +90,7 @@ With Events workspace, you can integrate with any application to streamline noti
 
 Figure 5: With Creator Studio Events, you can send proactive, actionable recommendations.
 
-![230331_CreatorStudio_Events](https://www.moveworks.com/hs-fs/hubfs/230331_CreatorStudio_Events.gif?width=765&height=450&name=230331_CreatorStudio_Events.gif)
+![230331_CreatorStudio_Events](https://www.moveworks.com/hs-fs/hubfs/230331_CreatorStudio_Events.gif?&height=450&name=230331_CreatorStudio_Events.gif)
 
 From a user-experience perspective, Creator Studio helps employees act quickly in the face of critical events. With its rapid incident escalation capabilities, your team can resolve issues quickly and with minimal disruption.
 
@@ -98,7 +98,7 @@ Other use cases include: 
 
 Figure 6: Creator Studio helps developers to rapidly escalate business critical incidents.
 
-![prp-chat-events-outage-alert](https://www.moveworks.com/hs-fs/hubfs/prp-chat-events-outage-alert.png?width=300&height=543&name=prp-chat-events-outage-alert.png)
+![prp-chat-events-outage-alert](https://www.moveworks.com/hs-fs/hubfs/prp-chat-events-outage-alert.png?&height=543&name=prp-chat-events-outage-alert.png)
 
  
 

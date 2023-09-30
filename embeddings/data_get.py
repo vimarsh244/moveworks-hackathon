@@ -27,6 +27,19 @@ def generate_filename(url):
     url_hash = hashlib.sha1(url_path.encode()).hexdigest()[:8]
     return f"{url_hash}_{os.path.basename(url_path)}.md"
 
+
+
+# Function to prune the width part from image URLs
+def prune_image_width(image_url):
+    # Remove the width parameter from the URL
+    return re.sub(r'\?width=\d+', '?', image_url)
+
+
+
+def prune_image_url(image_url):
+    return image_url.split('?')[0]
+
+
 # Function to scrape text and images from a webpage and save as Markdown with inline images
 def scrape_and_save_as_markdown(url, output_dir):
     response = requests.get(url)
@@ -48,15 +61,11 @@ def scrape_and_save_as_markdown(url, output_dir):
             elif element.name == 'img':
                 alt_text = element.get('alt', 'Image')
                 img_url = element.get('src', '')
+                img_url = prune_image_width(img_url)
 
                 if img_url.startswith('http'):
                     markdown_file.write(f"![{alt_text}]({img_url})\n\n")
 
-
-# Function to prune the width part from image URLs
-def prune_image_width(image_url):
-    # Remove the width parameter from the URL
-    return re.sub(r'\?width=\d+', '', image_url)
 
 # Function to perform OCR on an image and return the extracted text (only for supported formats)
 # Function to perform OCR on an image and return the extracted text (only for supported formats)
@@ -88,9 +97,10 @@ def update_alt_text_with_ocr(markdown_dir):
                     img_url = match.group(2)
 
                     # Prune image width if necessary
-                    img_url = prune_image_width(img_url)
+                    img_url = prune_image_url(img_url)
 
                     # Perform OCR (only for supported formats) and update alt-text
+                    print("doing OCR for : " + img_url)
                     extracted_text = perform_ocr(img_url)
                     if extracted_text:
                         markdown_content = markdown_content.replace(match.group(0), f"![{alt_text} | {extracted_text.strip()}]({img_url})")
@@ -129,6 +139,7 @@ if __name__ == "__main__":
     model_name = "paraphrase-MiniLM-L6-v2"
     embeddings_output_file = "embeddings.index"
 
+    print("getting sitemap...")
     # Create output directory if it doesn't exist
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
@@ -136,11 +147,14 @@ if __name__ == "__main__":
     # Extract URLs from sitemap.xml
     urls = extract_sitemap_urls(sitemap_url)
 
+    print("downloading pages...")
     # Scrape and save as Markdown
     # for url in urls:
     #     scrape_and_save_as_markdown(url, output_dir)
 
     markdown_dir = output_dir
+    
+    print("doing OCR")
 
     update_alt_text_with_ocr(markdown_dir)
 

@@ -40,7 +40,7 @@ For all these reasons, providing rapid, 24/7 support to a remote workforce is no
 
 Figure 1: As employees transition to working from home, IT teams are handling a growing number of requests for software, which Moveworks can automatically provision on their behalf. For instance, requests for Zoom were up 140% from March 4-14, month-over-month.
 
-![zoom-access](https://www.moveworks.com/hs-fs/hubfs/img/blog/zoom-access.png?width=600&name=zoom-access.png)
+![zoom-access](https://www.moveworks.com/hs-fs/hubfs/img/blog/zoom-access.png?&name=zoom-access.png)
 
 To address these challenges, the Moveworks bot converses with employees in natural language straight on the messaging tool they use every day — driving them to submit their IT issues on our platform rather than over email. And even if they do send an email, Moveworks intercepts it and updates the submitter on the messaging tool. Moveworks then determines what an employee is asking for using a combination of machine learning models, before autonomously resolving the issue via deep integrations with other software. Our AI can also search your entire knowledge base to find the most relevant, snippet-sized answers to employees’ questions, such as those about COVID-19 preparedness. In fact, our internal Moveworks bot, which we call “M8,” has been indispensable during our company-wide shift to work-from-home. 
 
@@ -48,13 +48,13 @@ Below are four primary components of our ongoing efforts to aid our customers in
 
 Moveworks’ broadcast capability was a roadmap feature that we’ve now made ready and available to customers. It enables IT leadership to send out mass communication to either the entire company or to targeted groups based on their seniority, the risk-level of their location, and so on. Whereas mass emails tend to get lost in the inbox — with only about 1% engagement — broadcast messages sent through Moveworks average a 30% engagement rate. And because Moveworks fields employees’ questions, communications sent via the bot don’t end up flooding the IT team with requests for clarification.
 
-![m8-flow](https://www.moveworks.com/hs-fs/hubfs/img/blog/m8-flow.png?width=600&name=m8-flow.png)
+![m8-flow](https://www.moveworks.com/hs-fs/hubfs/img/blog/m8-flow.png?&name=m8-flow.png)
 
 Figure 2: Moveworks can disseminate broadcast announcements from the IT team on messaging tools like Slack and Microsoft Teams, and then provide those teams detailed analytics on employee engagement.
 
 Moveworks’ semantic search scours your company’s entire knowledge base to match employees’ questions with snippet-sized answers. Semantic search was originally optimized to answer IT questions, like how to add virtual backgrounds on Zoom meetings. But thanks to significant work from our engineering team, we can now answer COVID-19 related questions as well — and even supplement your existing knowledge base with the resources we’ve created.
 
-![M8-semantic-search](https://www.moveworks.com/hs-fs/hubfs/img/blog/M8-semantic-search.png?width=600&name=M8-semantic-search.png)
+![M8-semantic-search](https://www.moveworks.com/hs-fs/hubfs/img/blog/M8-semantic-search.png?&name=M8-semantic-search.png)
 
 Figure 3: Our internal Moveworks bot, M8, demonstrating how semantic search answers employees’ COVID-19 questions.
 
@@ -62,7 +62,7 @@ As IT tickets submitted through conventional avenues have risen, so too have mes
 
 Figure 4: We’ve seen a flurry of activity that looks just like this across our customers’ IT support channels on Slack. Moveworks ensures that not a single message gets lost in the shuffle.
 
-![12_MW_Blog_Content_ZoomRequests](https://www.moveworks.com/hs-fs/hubfs/img/blog/12_MW_Blog_Content_ZoomRequests.png?width=600&name=12_MW_Blog_Content_ZoomRequests.png)
+![12_MW_Blog_Content_ZoomRequests](https://www.moveworks.com/hs-fs/hubfs/img/blog/12_MW_Blog_Content_ZoomRequests.png?&name=12_MW_Blog_Content_ZoomRequests.png)
 
 We’ve scaled up our infrastructure and increased our monitoring coverage across all our product offerings, recognizing that core Moveworks functionalities — like helping employees get instant access to software — will prove to be crucial. We’re standing by to guarantee our customers prompt assistance on any issues or questions, in addition to working with their IT leaders to implement new capabilities as needed.
 

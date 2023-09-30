@@ -64,13 +64,13 @@ You could give ChatGPT one hundred percent of the context needed to give you the
 
 
 
-![ChatGPT_Hallucination1](https://www.moveworks.com/hs-fs/hubfs/ChatGPT_Hallucination1.png?width=559&height=353&name=ChatGPT_Hallucination1.png)
+![ChatGPT_Hallucination1](https://www.moveworks.com/hs-fs/hubfs/ChatGPT_Hallucination1.png?&height=353&name=ChatGPT_Hallucination1.png)
 
 Quoting from different sources can’t solve the problem either since the model often takes sentences out of context and reassembles them into a paragraph to create an incorrect answer. In the instance below, the pricing of g4dn.xlarge is grafted to g4dn.4xlarge. 
 
 
 
-![ChatGPT_Hallucination2](https://www.moveworks.com/hs-fs/hubfs/ChatGPT_Hallucination2.png?width=559&height=433&name=ChatGPT_Hallucination2.png)
+![ChatGPT_Hallucination2](https://www.moveworks.com/hs-fs/hubfs/ChatGPT_Hallucination2.png?&height=433&name=ChatGPT_Hallucination2.png)
 
 The subtlety of these inaccuracies can appear innocent but have much broader implications when dealing with more sensitive subjects. To the untrained eye, incorrect statements could very well seem true. In its research, OpenAI acknowledges this challenge, stating that hallucination poses a very real threat when LLMs are used for real-world applications — like responding to employee questions in a business setting or providing automated patient support in a healthcare setting.
 
@@ -92,7 +92,7 @@ Just as the car driver can apply the accelerator and the brake to change the car
 
 
 
-![JiangChen_LLM_Visual](https://www.moveworks.com/hs-fs/hubfs/JiangChen_LLM_Visual.png?width=769&height=510&name=JiangChen_LLM_Visual.png)
+![JiangChen_LLM_Visual](https://www.moveworks.com/hs-fs/hubfs/JiangChen_LLM_Visual.png?&height=510&name=JiangChen_LLM_Visual.png)
 
 Adding to that challenge, programming an LLM is currently limited to writing prompts. But, as visualized by the diagram above, written prompts are limited. At this time, prompt length can’t exceed 2048 tokens. While that number could extend, it doesn’t address the core challenge of only being able to communicate with LLMs via text-based prompts of limited size.
 
@@ -112,7 +112,7 @@ For example, if an LLM was trained on data from 2020, like GPT3.5, the model Cha
 
 
 
-![JamesWebb_ChatGPT](https://www.moveworks.com/hs-fs/hubfs/JamesWebb_ChatGPT.png?width=559&height=319&name=JamesWebb_ChatGPT.png)
+![JamesWebb_ChatGPT](https://www.moveworks.com/hs-fs/hubfs/JamesWebb_ChatGPT.png?&height=319&name=JamesWebb_ChatGPT.png)
 
 Even though people are attempting to put a search engine underneath it to bring in fresh data, it isn’t easy to instruct the LLM to override parts of the model’s knowledge while retaining the other in order to generate an up-to-date answer. There is no guarantee that an LLM won’t give out stale information even though the search engine it is paired with has up-to-date information. This poses a novel and unique challenge, especially with respect to a business setting, where most of the information is private and changes in real-time.
 

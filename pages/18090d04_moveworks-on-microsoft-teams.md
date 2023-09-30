@@ -4,7 +4,7 @@ Forrester names Moveworks a leader in Chatbot for IT operations. Read the report
 
 Moveworks named a Forrester leader in Chatbot for IT operations. 
 
-![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
+![Image | ](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
 
 Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
 
@@ -32,11 +32,30 @@ Better employee experienceMoveworks autonomously resolves, on average, 40% of al
 
 More ROI from existing automationEnterprises running Microsoft Teams and Moveworks derive better ROI on their existing automated services. Moveworks makes this possible because its conversational AI understands the IT issue when the employee reports it in a Microsoft Teams chat. Moveworks takes immediate action, executing the appropriate automated service.
 
-![SoftwareAccess_Mobile_MSTeams_InDevice](https://www.moveworks.com/hs-fs/hubfs/img/blog/SoftwareAccess_Mobile_MSTeams_InDevice.png?width=375&height=751&name=SoftwareAccess_Mobile_MSTeams_InDevice.png)
+![SoftwareAccess_Mobile_MSTeams_InDevice | © salable
+
+Ok, you need Microsoft 368.
+
+Do you want me to get
+Microsoft 365 for you?
+Microsoft when and where you
+need it. Work anywhere, anytime,
+on any device. Microsoft 368s,
+ready when you a.
+
+Got it, working on it.
+
+v Ok, Ihave reached out to
+Kai Carter to get Microsoft 365.
+approval for you. I'll et you
+know when it's approved.
+
+By the way, your access request
+is tracked in ticket](https://www.moveworks.com/hs-fs/hubfs/img/blog/SoftwareAccess_Mobile_MSTeams_InDevice.png?&height=751&name=SoftwareAccess_Mobile_MSTeams_InDevice.png)
 
 “Moveworks is a rare breed of technology that immediately provides value back that we can invest in other areas of IT.”
 
-![Image](https://www.moveworks.com/hubfs/img/partner%20pages/Teams/Milind-Wagle.jpg)
+![Image | Coir](https://www.moveworks.com/hubfs/img/partner%20pages/Teams/Milind-Wagle.jpg)
 
 ![Seagen](https://www.moveworks.com/hubfs/seagen.svg)
 
@@ -44,5 +63,5 @@ More ROI from existing automationEnterprises running Microsoft Teams and Movewor
 
 ![Robert Half](https://www.moveworks.com/hubfs/img/clients/logos/sized/Reverse/robert_half.svg)
 
-![Request Demo](https://no-cache.hubspot.com/cta/default/4204135/01fb8c68-5711-46f6-afd0-c984065bc3c4.png)
+![Request Demo | ](https://no-cache.hubspot.com/cta/default/4204135/01fb8c68-5711-46f6-afd0-c984065bc3c4.png)
 

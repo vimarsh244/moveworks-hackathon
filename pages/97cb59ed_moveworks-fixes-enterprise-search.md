@@ -4,7 +4,7 @@ Forrester names Moveworks a leader in Chatbot for IT operations. Read the report
 
 Moveworks named a Forrester leader in Chatbot for IT operations. 
 
-![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
+![Image | ](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
 
 Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
 
@@ -24,9 +24,9 @@ A member of the Moveworks team will be in touch within the next 24 hours.
 Yi Liu, Tech Lead and Manager, Machine Learning
 
 
-![05_MW_Blog_Feature_SemanticSearch](https://www.moveworks.com/hubfs/img/blog/20191016-semantic-search/05_MW_Blog_Feature_SemanticSearch.jpg)
+![05_MW_Blog_Feature_SemanticSearch | ](https://www.moveworks.com/hubfs/img/blog/20191016-semantic-search/05_MW_Blog_Feature_SemanticSearch.jpg)
 
-![05_MW_Blog_Feature_SemanticSearch](https://www.moveworks.com/hubfs/img/blog/20191016-semantic-search/05_MW_Blog_Feature_SemanticSearch.jpg)
+![05_MW_Blog_Feature_SemanticSearch | ](https://www.moveworks.com/hubfs/img/blog/20191016-semantic-search/05_MW_Blog_Feature_SemanticSearch.jpg)
 
 When we talk about search, Google usually comes to mind. If you ask Google “How much muscle can you gain in a week?”, Google not only finds the relevant web page, but also extracts the exact answer in a short paragraph from that web page. 
 
@@ -34,7 +34,21 @@ This “featured snippet” style of answer is so useful that Google displays it
 
 
 
-![NEW_05_MW_Blog_ContentImage01_GoogleSearchToday](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191016-semantic-search/NEW_05_MW_Blog_ContentImage01_GoogleSearchToday.png?width=1359&name=NEW_05_MW_Blog_ContentImage01_GoogleSearchToday.png)
+![NEW_05_MW_Blog_ContentImage01_GoogleSearchToday | how much muscle can you gain in a week & Q
+All Images Videos Shopping Maps More Settings Tools
+About 148,000,000 results (0.46 seconds)
+g Based on all of this, here's how fast you can expect to build muscle on average:
+sea rch Average Natural MAN: between 0.25 and 0.5 pounds of muscle per week (or about
+1-2 pounds of muscle gained per month). Average Natural WOMAN: between 0.12 —
+tod ay aan 0.25 pounds of muscle per week (or about 0.5-1 pound of muscle gained per
+
+month). May 15,2018
+
+How Much Muscle Can You Gain & How Fast Can You Build It?
+
+https://www.aworkoutroutine.com/how-much-muscle-can-you-gain/
+
+@ About this result [Feedback](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191016-semantic-search/NEW_05_MW_Blog_ContentImage01_GoogleSearchToday.png?&name=NEW_05_MW_Blog_ContentImage01_GoogleSearchToday.png)
 
 Figure 1: Fully-phrased questions make up a growing portion of searches
 
@@ -44,7 +58,20 @@ Consumer search hasn’t always been a great experience, but in the last two dec
 
 
 
-![enterprise search is broken](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191016-semantic-search/NEW_05_MW_Blog_ContentImage02_EnterpriseSearchBroken.png?width=1366&name=NEW_05_MW_Blog_ContentImage02_EnterpriseSearchBroken.png)
+![enterprise search is broken | Search results for 'How do | setup my Java environment?'
+
+201 9 & Email Interruption Tonight at 11:00 PM Eastern
+E nter rise If the site is UP but you cant access the page, try one of the below solutions: Browser Related Problems Force a fi
+p can be achieved by pressing CTRL + F5 keys at the same
+sea rch Article: KB0000002 - Published: 2y ago
+0
+j I
+stl | | b ro ke n . & Howcan| find the MAC address of my Ethernet or wireless interface?
+
+How can | find the MAC address of my Ethernet or wireless interface in Mac OS X? InMac OS X, your MAC (Media A
+distinct from thelP addressassigned to your Mac, and is defined
+
+Article: KB0000031 - Published: 4y ago](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191016-semantic-search/NEW_05_MW_Blog_ContentImage02_EnterpriseSearchBroken.png?&name=NEW_05_MW_Blog_ContentImage02_EnterpriseSearchBroken.png)
 
 Figure 2: In the enterprise, most search tools remain primitive
 
@@ -58,7 +85,15 @@ On the other hand, a typical company wiki or knowledge base might contain only 5
 
 
 
-![05_MW_Blog_ContentImage03_DataPool](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191016-semantic-search/05_MW_Blog_ContentImage03_DataPool.png?width=1366&name=05_MW_Blog_ContentImage03_DataPool.png)
+![05_MW_Blog_ContentImage03_DataPool | 12 BILLION
+
+Internet pages
+
+VS
+
+30 - 3000
+
+Company wiki pages](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191016-semantic-search/05_MW_Blog_ContentImage03_DataPool.png?&name=05_MW_Blog_ContentImage03_DataPool.png)
 
 Figure 3: In the enterprise, there is less data to mine
 
@@ -72,7 +107,30 @@ But keyword tagging is incredibly brittle, and requires significant manual effor
 
 
 
-![05_MW_Blog_ContentImage04_KeywordsBrittle-1](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191016-semantic-search/05_MW_Blog_ContentImage04_KeywordsBrittle-1.png?width=1366&name=05_MW_Blog_ContentImage04_KeywordsBrittle-1.png)
+![05_MW_Blog_ContentImage04_KeywordsBrittle-1 | Query: Can someone help issue me a new laptop? |
+
+ 
+
+Keywords: help || issue || laptop
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Document: . .
+Help with common laptop issues
+
+Last updated May 16, 2018](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191016-semantic-search/05_MW_Blog_ContentImage04_KeywordsBrittle-1.png?&name=05_MW_Blog_ContentImage04_KeywordsBrittle-1.png)
 
 Figure 4: Keyword tagging is brittle
 
@@ -84,7 +142,10 @@ A second reason keyword tagging is brittle is that it ignores semantics. Semanti
 
 
 
-![NEW_05_MW_Blog_ContentImage06_KeywordsIgnoreSymantics](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191016-semantic-search/NEW_05_MW_Blog_ContentImage06_KeywordsIgnoreSymantics.png?width=1366&name=NEW_05_MW_Blog_ContentImage06_KeywordsIgnoreSymantics.png)
+![NEW_05_MW_Blog_ContentImage06_KeywordsIgnoreSymantics | Nihal Q Sarah
+
+The new VPN client is great! Use it. The new VPN client is a great
+You won’t be disappointed. | disappointment. Don’t use it! |](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191016-semantic-search/NEW_05_MW_Blog_ContentImage06_KeywordsIgnoreSymantics.png?&name=NEW_05_MW_Blog_ContentImage06_KeywordsIgnoreSymantics.png)
 
 Figure 5: Keyword tagging ignores semantics
 
@@ -96,7 +157,29 @@ For the query “What is Box?”, there is only one keyword; “Box.” By only 
 
 
 
-![NEW_05_MW_Blog_ContentImage07_KeywordsCantDisambiguate](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191016-semantic-search/NEW_05_MW_Blog_ContentImage07_KeywordsCantDisambiguate.png?width=1366&name=NEW_05_MW_Blog_ContentImage07_KeywordsCantDisambiguate.png)
+![NEW_05_MW_Blog_ContentImage07_KeywordsCantDisambiguate | Query:
+
+Keywords:
+
+(ignores stopwords and punctuation)
+
+Document:
+
+What is Box? |
+
+ 
+
+What is Box | 2
+
+ 
+
+ 
+
+ 
+
+ 
+
+How to order a cardboard box](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191016-semantic-search/NEW_05_MW_Blog_ContentImage07_KeywordsCantDisambiguate.png?&name=NEW_05_MW_Blog_ContentImage07_KeywordsCantDisambiguate.png)
 
 Figure 6: Keyword-based systems can’t distinguish between multiple meanings of a word
 
@@ -104,7 +187,25 @@ Another common trait of enterprise language is that it is often symptomatic in n
 
 
 
-![NEW_05_MW_Blog_ContentImage08_EnterpriseLanguageSymptomatic](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191016-semantic-search/NEW_05_MW_Blog_ContentImage08_EnterpriseLanguageSymptomatic.png?width=1366&name=NEW_05_MW_Blog_ContentImage08_EnterpriseLanguageSymptomatic.png)
+![NEW_05_MW_Blog_ContentImage08_EnterpriseLanguageSymptomatic | Natalia
+
+My laptop monitor turned blue! |
+
+ 
+
+Windows Blue Screen of Death (BSOD)
+Error troubleshooting guide
+Last updated May 16, 2018
+
+Marc
+
+| need to request paternity leave |
+
+ 
+
+California Paid Family Leave claims
+process
+Last updated Feb 21, 2019](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191016-semantic-search/NEW_05_MW_Blog_ContentImage08_EnterpriseLanguageSymptomatic.png?&name=NEW_05_MW_Blog_ContentImage08_EnterpriseLanguageSymptomatic.png)
 
 Figure 7:  In the enterprise, employees tend to describe symptoms
 
@@ -118,7 +219,12 @@ To understand what a user is asking for, we have to treat their questions as com
 
 
 
-![05_MW_Blog_ContentImage10_SentenceContext-1](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191016-semantic-search/05_MW_Blog_ContentImage10_SentenceContext-1.png?width=1366&name=05_MW_Blog_ContentImage10_SentenceContext-1.png)
+![05_MW_Blog_ContentImage10_SentenceContext-1 | WAS
+
+How many attendees can Zoom meeting support with two-way audio
+
+Focus Word: Core Topic Entity: Context:
+Numbers in answer Topic of answer Mentions in answer](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191016-semantic-search/05_MW_Blog_ContentImage10_SentenceContext-1.png?&name=05_MW_Blog_ContentImage10_SentenceContext-1.png)
 
 Figure 8: Machine learning analyzes syntax, structure, and semantics
 
@@ -130,7 +236,22 @@ Word embedding and sentence embedding are two important machine learning techniq
 
 Figure 9: Word embedding is a technique for finding relationships between words
 
-![05_MW_Blog_ContentImage11_IdentifyKeywordsPhrases](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191016-semantic-search/05_MW_Blog_ContentImage11_IdentifyKeywordsPhrases.png?width=1366&name=05_MW_Blog_ContentImage11_IdentifyKeywordsPhrases.png)
+![05_MW_Blog_ContentImage11_IdentifyKeywordsPhrases | Q David 3.1m
+
+. How many attendees cana
+Zoom meeting support with
+two-way audio? |
+
+   
+ 
+
+, attendees *
+participants «
+
+   
+
+.. you can have up to 100 video participants in any meetings. These participants
+have two-way video, audio, and collaboration features ...](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191016-semantic-search/05_MW_Blog_ContentImage11_IdentifyKeywordsPhrases.png?&name=05_MW_Blog_ContentImage11_IdentifyKeywordsPhrases.png)
 
 A key output of embedding models is the ability to identify synonymous words and phrases in order to help a search system cross the infamous lexical gap, which refers to the vast difference in the way that questions are structured, compared with their answers. For example, I might have a question about how many attendees I can invite to a Zoom video conference, but a simple search for "attendees" fails to yield an answer because Zoom refers to users as "participants." Through the use of word embedding, our search system knows those two words refer to the same thing.
 
@@ -138,7 +259,45 @@ Understanding synonymous words and phrases also helps us to figure out alternate
 
 Figure 10: Alternate queries are other ways to phrase the question
 
-![05_MW_Blog_ContentImage12_IdentifyKeywordsPhrases](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191016-semantic-search/05_MW_Blog_ContentImage12_IdentifyKeywordsPhrases.png?width=1366&name=05_MW_Blog_ContentImage12_IdentifyKeywordsPhrases.png)
+![05_MW_Blog_ContentImage12_IdentifyKeywordsPhrases | Q Nihal 3:11 pm Original query
+——E—oe
+
+My laptop won’t power up |
+
+ 
+
+Alternate quel
+My computer won't start | Afernate query
+
+ 
+
+ 
+
+Alternate que?
+My Lenovo won’t turn on query
+
+ 
+
+ 
+
+ 
+
+. Alternate quel
+Computer not starting | Akemate quay’
+
+ 
+
+ 
+
+Alte te
+My laptop won’t start even when plugged in o_o.
+
+ 
+
+ 
+
+Alternate que!
+Macbook won't boot - has ablack screen te WEY,](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191016-semantic-search/05_MW_Blog_ContentImage12_IdentifyKeywordsPhrases.png?&name=05_MW_Blog_ContentImage12_IdentifyKeywordsPhrases.png)
 
 To do this we combine the outputs of word and sentence embeddings with sequence-to-sequence (Seq2Seq) machine learning techniques. These techniques allow us to “encode” a piece of text in one format and then “decode” it in another. It’s a popular technique for language translation where you might “encode” English language text and “decode” it in Spanish. Here we use it to figure out the multitude of different ways a question could be phrased.
 
@@ -150,7 +309,36 @@ The trick here is using the syntax and semantics of the question to predict what
 
 
 
-![05_MW_Blog_ContentImage13_PredictAnswer-1](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191016-semantic-search/05_MW_Blog_ContentImage13_PredictAnswer-1.png?width=1366&name=05_MW_Blog_ContentImage13_PredictAnswer-1.png)
+![05_MW_Blog_ContentImage13_PredictAnswer-1 | >0 5O.06U6OCOUULUCUOCOO
+
+Natalia sp
+
+I can’t login to Okta,
+
+Ivy apm
+
+How do! setup the VPN? |
+
+James sip
+
+What is GDPR? | ----------------+----2-eeteeeeeeeeetees
+
+Marianne 3:11 Pi
+
+Who is Yousuf Khan? |
+
+Bruno 3:11PM
+Where is the Golden Gate conference room?
+
+anne eeee: » Troubleshooting article
+
+co » How-to article
+
+oo » Definitional article
+
+coe » Person information
+
+noose » Room information](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191016-semantic-search/05_MW_Blog_ContentImage13_PredictAnswer-1.png?&name=05_MW_Blog_ContentImage13_PredictAnswer-1.png)
 
 Figure 11: Query typing identifies what sort of question or statement the employee has typed
 
@@ -162,7 +350,44 @@ Our approach to solving this problem is to divide and conquer long knowledge art
 
 
 
-![05_MW_Blog_ContentImage14_DocumentSnippeting](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191016-semantic-search/05_MW_Blog_ContentImage14_DocumentSnippeting.png?width=1366&name=05_MW_Blog_ContentImage14_DocumentSnippeting.png)
+![05_MW_Blog_ContentImage14_DocumentSnippeting | Add emoji to Slack messages
+
+‘Add emoji to your messages by typing the emoji code or selecting from the emoji
+menu You can even add your own easy-to-remember emoji alias to use in Slack.
+
+ 
+
+Type the emoji code
+
+Factoid
+
+‘Type these codes to quickly add emoji to your,
+
+ 
+
+messages!
+
+“What emoji codes does Slack use” If you can't remember the entire code, ust type _: followed by the first fewletters
+
+and an autocomplete menu will appear. Select the emoji you want to use, or from
+your desktop, press | Tab to cycle through the list.
+
+Emojimatehingta"
+@staco: BF:tada:
+estanabata tree: @ stang Grauus: ata
+
+—
++ ta ee
+
+    
+ 
+
+ 
+
+Whole document ~«
+
+Likely answer to:
+“How do | use emojis in Slack”](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191016-semantic-search/05_MW_Blog_ContentImage14_DocumentSnippeting.png?&name=05_MW_Blog_ContentImage14_DocumentSnippeting.png)
 
 Figure 12: Dividing a knowledge base article into answers, or snippets
 
@@ -174,7 +399,16 @@ By training a neural network with tens of millions of examples of questions and 
 
 Figure 13: Seq2Seq techniques help map questions to answers
 
-![05_MW_Blog_ContentImage15_Seq2Seq](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191016-semantic-search/05_MW_Blog_ContentImage15_Seq2Seq.png?width=1366&name=05_MW_Blog_ContentImage15_Seq2Seq.png)
+![05_MW_Blog_ContentImage15_Seq2Seq | can someone help issue me a laptop replacement
+
+O O O O O O O O
+
+O >O > O +O ~O *O)
+
+Oo *O ~O O +O +O ~O
+
+O O O Oo Oo Oo Oo Oo O
+request a new laptop using this form on ServiceNow](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191016-semantic-search/05_MW_Blog_ContentImage15_Seq2Seq.png?&name=05_MW_Blog_ContentImage15_Seq2Seq.png)
 
 One of the amazing aspects of this model is that it's very good at putting words into context. Let’s look at the example shown above:
 
@@ -188,7 +422,64 @@ Of course, the really hard part in all of this is returning these answers in les
 
 Figure 14: Finding answers for questions
 
-![05_MW_Blog_ContentImage16_FindAnswers-1](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191016-semantic-search/05_MW_Blog_ContentImage16_FindAnswers-1.png?width=1366&name=05_MW_Blog_ContentImage16_FindAnswers-1.png)
+![05_MW_Blog_ContentImage16_FindAnswers-1 | Multi-page KBA
+How-to
+snippet
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ENGAGEMENT
+METRICS,
+
+ 
+
+ 
+
+t(w)
+MATCHING
+‘MODEL
+t(w)
+RELEVANCE
+‘MODEL
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+¥
+f(w)
+
+QUERY
+
+MODEL](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191016-semantic-search/05_MW_Blog_ContentImage16_FindAnswers-1.png?&name=05_MW_Blog_ContentImage16_FindAnswers-1.png)
 
 As a company focused on solving IT support issues using AI, we spend a lot of time looking at the types of issues raised or questions asked by employees in the enterprise; search does not address everything. We’ve had to build many different techniques to address employee needs like unlocking accounts, provisioning software, creating email groups, and other requests that require end-to-end automation rather than answers. But search is a critical part of the support experience for employees: typically, about 1 in 3 support issues are troubleshooting or information-seeking in nature.
 
@@ -200,37 +491,37 @@ Moveworks has met these challenges by applying NLU and advanced machine learning
 
 To learn more about why NLU matters for IT, and how it helps deliver enterprise help more quickly and more easily, see our posts:
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
+![Image | in](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
 
 
           Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
 
 
           Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
 
 
           3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
 
 
           Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
 
 
           From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
+![Image | 8](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
 
 
           AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.

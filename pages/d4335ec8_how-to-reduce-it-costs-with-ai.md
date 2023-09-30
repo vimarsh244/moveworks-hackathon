@@ -48,7 +48,7 @@ In this instance, AI not only improves productivity and offers agents the opport
 
 Figure 1: With AI, IT support issues, like account unlocks or software provisioning, won’t slow your team down.
 
-![Software_Provisioning-blog45](https://www.moveworks.com/hs-fs/hubfs/Software_Provisioning-blog45.jpeg?width=500&height=246&name=Software_Provisioning-blog45.jpeg)
+![Software_Provisioning-blog45](https://www.moveworks.com/hs-fs/hubfs/Software_Provisioning-blog45.jpeg?&height=246&name=Software_Provisioning-blog45.jpeg)
 
  
 
@@ -60,7 +60,7 @@ Identifying potential problems before they occur allows businesses to improve th
 
 
 
-![FIG-02-Software_Provisioning-blog48](https://www.moveworks.com/hs-fs/hubfs/FIG-02-Software_Provisioning-blog48.png?width=500&height=582&name=FIG-02-Software_Provisioning-blog48.png)
+![FIG-02-Software_Provisioning-blog48](https://www.moveworks.com/hs-fs/hubfs/FIG-02-Software_Provisioning-blog48.png?&height=582&name=FIG-02-Software_Provisioning-blog48.png)
 
 Figure 2: With AI, IT support issues, like account unlocks or software provisioning, won’t slow your team down.
 
@@ -74,7 +74,7 @@ With knowledge of where they’re falling short, organizations can take steps to
 
 Figure 3: AI can filter issues intelligently, revealing the real story behind your support tickets.
 
-![img-EXI-hotspot-highlight-1](https://www.moveworks.com/hs-fs/hubfs/Imported%20sitepage%20images/img-EXI-hotspot-highlight-1.png?width=713&height=501&name=img-EXI-hotspot-highlight-1.png)
+![img-EXI-hotspot-highlight-1](https://www.moveworks.com/hs-fs/hubfs/Imported%20sitepage%20images/img-EXI-hotspot-highlight-1.png?&height=501&name=img-EXI-hotspot-highlight-1.png)
 
  
 
@@ -88,7 +88,7 @@ AI can help support teams to better meet the needs of their employees — withou
 
 Figure 4: AI can pull information from any backend support system, from IT to HR to finance to facilities.
 
-![AdaptiveResponse_PPL-1](https://www.moveworks.com/hs-fs/hubfs/AdaptiveResponse_PPL-1.png?width=500&height=594&name=AdaptiveResponse_PPL-1.png)
+![AdaptiveResponse_PPL-1](https://www.moveworks.com/hs-fs/hubfs/AdaptiveResponse_PPL-1.png?&height=594&name=AdaptiveResponse_PPL-1.png)
 
  
 
@@ -100,7 +100,7 @@ AI's ability to work 24/7 can help IT support teams provide better employee supp
 
 Figure 5: AI works 24/7. If an employee is locked out of their account, they won’t have to wait hours to get help.
 
-![PrpChat-Reset-Password-blog45](https://www.moveworks.com/hs-fs/hubfs/PrpChat-Reset-Password-blog45.jpeg?width=500&height=223&name=PrpChat-Reset-Password-blog45.jpeg)
+![PrpChat-Reset-Password-blog45](https://www.moveworks.com/hs-fs/hubfs/PrpChat-Reset-Password-blog45.jpeg?&height=223&name=PrpChat-Reset-Password-blog45.jpeg)
 
  
 
@@ -114,7 +114,7 @@ Separately, AI is capable of translating information from your backend systems a
 
 Figure 6: AI can surface the most relevant answer to each employee in their language of choice.
 
-![blog_PTO_spanish](https://www.moveworks.com/hs-fs/hubfs/blog_PTO_spanish.png?width=500&height=576&name=blog_PTO_spanish.png)
+![blog_PTO_spanish](https://www.moveworks.com/hs-fs/hubfs/blog_PTO_spanish.png?&height=576&name=blog_PTO_spanish.png)
 
  
 
@@ -128,7 +128,7 @@ From a financial perspective, of course, IT organizations that don’t eliminate
 
 Figure 7: AI can handle the back-and-forth communication with employees to add comments, nudge agents, check status, and cancel requests, so your help desk doesn’t have to.
 
-![Automate-ticket-backnforth-blog45](https://www.moveworks.com/hs-fs/hubfs/Automate-ticket-backnforth-blog45.jpeg?width=500&height=276&name=Automate-ticket-backnforth-blog45.jpeg)
+![Automate-ticket-backnforth-blog45](https://www.moveworks.com/hs-fs/hubfs/Automate-ticket-backnforth-blog45.jpeg?&height=276&name=Automate-ticket-backnforth-blog45.jpeg)
 
  
 
@@ -142,7 +142,7 @@ AI can triage IT tickets more efficiently than a person because it can process a
 
 Figure 8: Many companies have hundreds or even thousands of assignment groups, meaning that service desk agents struggle to determine where to route issues. AI understands and routes requests to the right group.
 
-![Triage-issues-rights-expert-blog45](https://www.moveworks.com/hs-fs/hubfs/Triage-issues-rights-expert-blog45.jpeg?width=500&height=249&name=Triage-issues-rights-expert-blog45.jpeg)
+![Triage-issues-rights-expert-blog45](https://www.moveworks.com/hs-fs/hubfs/Triage-issues-rights-expert-blog45.jpeg?&height=249&name=Triage-issues-rights-expert-blog45.jpeg)
 
  
 
@@ -154,7 +154,7 @@ The cost savings of bringing together all support under one AI umbrella can be h
 
 Figure 9: HR can create a wonderfully positive work environment — but only if they’re not constantly dealing with time-consuming, routine issues. AI can step in, answering questions in seconds and sending info proactively.
 
-![49-BLOG-HR_OnboardingMsg](https://www.moveworks.com/hs-fs/hubfs/49-BLOG-HR_OnboardingMsg.jpeg?width=500&height=438&name=49-BLOG-HR_OnboardingMsg.jpeg)
+![49-BLOG-HR_OnboardingMsg](https://www.moveworks.com/hs-fs/hubfs/49-BLOG-HR_OnboardingMsg.jpeg?&height=438&name=49-BLOG-HR_OnboardingMsg.jpeg)
 
  
 
@@ -166,7 +166,7 @@ Organizations that invest in AI can expect to see an increase in the value of th
 
 Figure 10: While every company is unquestionably unique, many use the same IT to conduct business. Thanks to Collective Learning, AI can grow as you grow, constantly adjusting as new needs arise and teams evolve.
 
-![blog-illos-1D-1](https://www.moveworks.com/hs-fs/hubfs/Imported_Blog_Media/blog-illos-1D-1.png?width=500&height=349&name=blog-illos-1D-1.png)
+![blog-illos-1D-1](https://www.moveworks.com/hs-fs/hubfs/Imported_Blog_Media/blog-illos-1D-1.png?&height=349&name=blog-illos-1D-1.png)
 
  
 

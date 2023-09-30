@@ -36,7 +36,7 @@ So it should come as no surprise that when an employee is in a moment of need in
 
 
 
-![Moveworks automated support channels](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191022-intercept-all-issues/IT_Support_Channels.jpg?width=1366&name=IT_Support_Channels.jpg)
+![Moveworks automated support channels](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191022-intercept-all-issues/IT_Support_Channels.jpg?&name=IT_Support_Channels.jpg)
 
 Figure 1: IT teams need to support many communications channels
 
@@ -50,7 +50,7 @@ Consider a good old-fashioned email. For an employee, it’s a great channel, be
 
 
 
-![Employee support timeline](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191022-intercept-all-issues/Ticket_Timeline_new.jpg?width=1262&name=Ticket_Timeline_new.jpg)
+![Employee support timeline](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191022-intercept-all-issues/Ticket_Timeline_new.jpg?&name=Ticket_Timeline_new.jpg)
 
 Figure 2: Issues filed and managed via email often suffer delays in resolution
 
@@ -62,7 +62,7 @@ It’s worth pointing out that some employees do use portals. Some even prefer p
 
 
 
-![Web portal](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191022-intercept-all-issues/IT_WebPortal_Wireframe.jpg?width=857&name=IT_WebPortal_Wireframe.jpg)
+![Web portal](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191022-intercept-all-issues/IT_WebPortal_Wireframe.jpg?&name=IT_WebPortal_Wireframe.jpg)
 
 Figure 3: As portals become complex, employees find them hard to navigate 
 
@@ -96,7 +96,7 @@ A well-instrumented IT environment often knows about an issue before the affecte
 
 
 
-![Bot_ReachOut_Chat](https://www.moveworks.com/hs-fs/hubfs/Bot_ReachOut_Chat.jpg?width=760&name=Bot_ReachOut_Chat.jpg)
+![Bot_ReachOut_Chat](https://www.moveworks.com/hs-fs/hubfs/Bot_ReachOut_Chat.jpg?&name=Bot_ReachOut_Chat.jpg)
 
 Figure 4: IT systems can reach out to employees to alert them about issues
 

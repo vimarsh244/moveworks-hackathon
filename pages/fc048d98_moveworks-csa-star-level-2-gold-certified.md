@@ -52,7 +52,7 @@ In our increasingly cloud-centric environment, we believe it’s critical to go 
 
 Security is ingrained in every aspect of our business:
 
-![Vaibhav_02](https://www.moveworks.com/hs-fs/hubfs/Moveweb/photos/Vaibhav_02.jpg?width=300&name=Vaibhav_02.jpg)
+![Vaibhav_02](https://www.moveworks.com/hs-fs/hubfs/Moveweb/photos/Vaibhav_02.jpg?&name=Vaibhav_02.jpg)
 
 Security starts with our employees. We have strict requirements and access controls in place for every employee who works with customer data. Rigorous background checks, data privacy, and security training ensure that your data is always in the right hands.
 

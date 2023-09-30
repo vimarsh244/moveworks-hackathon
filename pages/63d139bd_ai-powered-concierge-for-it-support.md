@@ -46,7 +46,7 @@ With the above challenges in mind, we spent the last several years engineering, 
 
 
 
-![blog-57-4-faster resolution](https://www.moveworks.com/hs-fs/hubfs/img/blog/blog-57-4-faster%20resolution.png?width=2092&name=blog-57-4-faster%20resolution.png)
+![blog-57-4-faster resolution](https://www.moveworks.com/hs-fs/hubfs/img/blog/blog-57-4-faster%20resolution.png?&name=blog-57-4-faster%20resolution.png)
 
  
 
@@ -54,7 +54,7 @@ When tech issues take forever to fix, it’s usually because they involve lots o
 
 While most IT issues require less than two comments to resolve, high-touch issues that need more comments significantly increase the mean time to resolution, or MTTR.
 
-![graphic-2graphs](https://www.moveworks.com/hs-fs/hubfs/img/blog/graphic-2graphs.png?width=5804&name=graphic-2graphs.png)
+![graphic-2graphs](https://www.moveworks.com/hs-fs/hubfs/img/blog/graphic-2graphs.png?&name=graphic-2graphs.png)
 
  
 
@@ -62,7 +62,7 @@ The fundamental obstacle here is that IT agents need to take action every single
 
 Reducing that delay from days down to just seconds is a task tailor-made for an AI system, provided it could:
 
-![graphic-1up-wht](https://www.moveworks.com/hs-fs/hubfs/img/blog/graphic-1up-wht.png?width=760&name=graphic-1up-wht.png)
+![graphic-1up-wht](https://www.moveworks.com/hs-fs/hubfs/img/blog/graphic-1up-wht.png?&name=graphic-1up-wht.png)
 
 We created Concierge to tackle these core challenges. With advanced natural language understanding (NLU), Concierge could converse directly with employees — without help desk agents needing to intervene. But in order to do so, we had to rethink such communication from the bottom up.
 
@@ -78,7 +78,7 @@ Concierge comprises numerous capabilities — three of which are especially resp
 
 
 
-![CONCIERGE_v02-1](https://www.moveworks.com/hs-fs/hubfs/CONCIERGE_v02-1.jpg?width=760&name=CONCIERGE_v02-1.jpg)
+![CONCIERGE_v02-1](https://www.moveworks.com/hs-fs/hubfs/CONCIERGE_v02-1.jpg?&name=CONCIERGE_v02-1.jpg)
 
  
 
@@ -88,11 +88,11 @@ That’s why Moveworks analyzed over one million IT tickets from across our cust
 
 Faster resolution time for the average IT issue, by individual Moveworks Concierge capability.
 
-![graphic-3across-bw 2](https://www.moveworks.com/hs-fs/hubfs/img/blog/graphic-3across-bw%202.png?width=760&name=graphic-3across-bw%202.png)
+![graphic-3across-bw 2](https://www.moveworks.com/hs-fs/hubfs/img/blog/graphic-3across-bw%202.png?&name=graphic-3across-bw%202.png)
 
 Crucially, this acceleration does not disrupt backend workflows or force IT teams to adjust to a new process. Instead, Concierge handles employee-facing communication and uses AI to drive faster engagement, enabling those teams to concentrate on resolving issues. We built Concierge to do what AI does best — manage a mind-numbing amount of information — to complement the areas where IT specialists excel.
 
-![Harris_Russ_CIO_19-04-12_1882_Resized-1](https://www.moveworks.com/hs-fs/hubfs/Harris_Russ_CIO_19-04-12_1882_Resized-1.jpg?width=300&name=Harris_Russ_CIO_19-04-12_1882_Resized-1.jpg)
+![Harris_Russ_CIO_19-04-12_1882_Resized-1](https://www.moveworks.com/hs-fs/hubfs/Harris_Russ_CIO_19-04-12_1882_Resized-1.jpg?&name=Harris_Russ_CIO_19-04-12_1882_Resized-1.jpg)
 
 For the large enterprises that have already implemented Concierge — Equinix, Autodesk, Broadcom, Nutanix, and Medallia, to name a few — such time savings translate directly to profits. With multimillion-dollar IT budgets to maximize, better efficiency means not only fewer delays for employees but also more resources to allocate on other projects.
 

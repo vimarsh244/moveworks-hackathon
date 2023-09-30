@@ -4,7 +4,7 @@ Forrester names Moveworks a leader in Chatbot for IT operations. Read the report
 
 Moveworks named a Forrester leader in Chatbot for IT operations. 
 
-![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
+![Image | ](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
 
 Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
 
@@ -28,9 +28,9 @@ Andrew Mairena, Product Manager
 Cody Kala, Machine Learning Tech Lead
 
 
-![](https://www.moveworks.com/hubfs/img/blog/08_MW_Blog_Feature_Triage_v02.png)
+![ | P00](https://www.moveworks.com/hubfs/img/blog/08_MW_Blog_Feature_Triage_v02.png)
 
-![](https://www.moveworks.com/hubfs/img/blog/08_MW_Blog_Feature_Triage_v02.png)
+![ | P00](https://www.moveworks.com/hubfs/img/blog/08_MW_Blog_Feature_Triage_v02.png)
 
 Waiting for an important IT issue to be resolved is frustrating. Fortunately, for many common issues, the IT team can all but eliminate that delay by providing automatic resolution, powered by artificial intelligence. We’ve already seen on this blog how AI tackles tickets that once took three days to remediate and handles them from start to finish in under a minute.
 
@@ -42,7 +42,52 @@ It takes an average of five hours, in fact, before an IT service desk agent firs
 
 
 
-![Ticket_Timeline_new](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191022-intercept-all-issues/Ticket_Timeline_new.jpg?width=1262&name=Ticket_Timeline_new.jpg)
+![Ticket_Timeline_new | Employee
+
+IT agent
+
+ 
+
+ 
+ 
+
+ 
+
+Escalated
+to level 3
+
+Triaged to
+level 2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Assigned to
+an agent
+
+ 
+
+ 
+
+Ask employee for
+a clarification
+
+ 
+
+ 
+
+Ask manager
+for approval
+
+Issue
+resolved](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191022-intercept-all-issues/Ticket_Timeline_new.jpg?&name=Ticket_Timeline_new.jpg)
 
 Figure 1: IT tickets can take days to reach the right hands with the proper context — all before resolution gets underway.
 
@@ -56,7 +101,19 @@ When you file an IT ticket for an issue — such as “Help, I forgot my passwor
 
 
 
-![10_MW_Blog_ContentImage_ITemail](https://www.moveworks.com/hs-fs/hubfs/img/blog/2019-11-13-triage/10_MW_Blog_ContentImage_ITemail.png?width=1246&name=10_MW_Blog_ContentImage_ITemail.png)
+![10_MW_Blog_ContentImage_ITemail | IT@example.com
+
+Need help - locked out of my account
+
+Hi IT,
+
+I've been locked out of my Okta account since this morning and wasn't able to get back
+in. Can you please help?
+
+Thank you!
+
+Robert Smith
+Sr. Director, Sales Development](https://www.moveworks.com/hs-fs/hubfs/img/blog/2019-11-13-triage/10_MW_Blog_ContentImage_ITemail.png?&name=10_MW_Blog_ContentImage_ITemail.png)
 
 Figure 2: Common IT tickets like this one are easy to fix — but still can spend hours in the queue.
 
@@ -72,7 +129,7 @@ In an attempt to avoid these complications, some companies have outsourced their
 
 
 
-![08_MW_Blog_ContentImage05_RoutingTix](https://www.moveworks.com/hs-fs/hubfs/img/blog/2019-11-13-triage/08_MW_Blog_ContentImage05_RoutingTix.jpg?width=1366&name=08_MW_Blog_ContentImage05_RoutingTix.jpg)
+![08_MW_Blog_ContentImage05_RoutingTix | UUUUUUUUUUUUUYIU](https://www.moveworks.com/hs-fs/hubfs/img/blog/2019-11-13-triage/08_MW_Blog_ContentImage05_RoutingTix.jpg?&name=08_MW_Blog_ContentImage05_RoutingTix.jpg)
 
 Figure 3: Routing a ticket to one of 50 or more assignment groups is a challenge for human agents.
 
@@ -86,7 +143,40 @@ Classical machine learning models that tried to predict these values learned onl
 
 Figure 4: Making sense of data entails training ML models on certain features, but deciding which features are predictive requires sophisticated, modern techniques like BERT.
 
-![08_MW_Blog_ContentImage03_MachineLearningProcess](https://www.moveworks.com/hs-fs/hubfs/img/blog/2019-11-13-triage/08_MW_Blog_ContentImage03_MachineLearningProcess.png?width=2000&name=08_MW_Blog_ContentImage03_MachineLearningProcess.png)
+![08_MW_Blog_ContentImage03_MachineLearningProcess | Labelled data
+
+Pott ttt tre rene een een enn nen enn ene nee nn nn enn een me mm
+
+ 
+
+N
+
+ 
+
+A
+IN >
+
+ 
+
+Z\
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+LA
+
+ 
+
+Data Feature Selection Model](https://www.moveworks.com/hs-fs/hubfs/img/blog/2019-11-13-triage/08_MW_Blog_ContentImage03_MachineLearningProcess.png?&name=08_MW_Blog_ContentImage03_MachineLearningProcess.png)
 
  
 
@@ -94,7 +184,38 @@ Beyond the feature selection challenge, perhaps the biggest barrier standing in 
 
 Figure 5: Even in a company with 2,000 employees like the one above, ticket triaging models must be able to cope with small amounts of data, since each assignment group only deals with a handful of tickets regarding a particular IT issue.
 
-![08_MW_Blog_ContentImage08_LearningFromTix](https://www.moveworks.com/hs-fs/hubfs/img/blog/2019-11-13-triage/08_MW_Blog_ContentImage08_LearningFromTix.jpg?width=1366&name=08_MW_Blog_ContentImage08_LearningFromTix.jpg)
+![08_MW_Blog_ContentImage08_LearningFromTix | 24,000 support tickets per year
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+14,400 incident tickets 9,600 request tickets
+10,080 training tickets 20% test 10% eval
+—
+a
+FOP! ip
+BR EE RAR acca
+TIE TEE
+SSM CARE ee,
+ee ee
+Assignment group: Assignment group: Assignment group: Assignment group: Assignment group:
+Service desk Security Access Finance HR
+4,000 tickets 1,000 tickets 800 tickets 650 tickets 200 tickets](https://www.moveworks.com/hs-fs/hubfs/img/blog/2019-11-13-triage/08_MW_Blog_ContentImage08_LearningFromTix.jpg?&name=08_MW_Blog_ContentImage08_LearningFromTix.jpg)
 
 For ML models that learn from just one organization, the small data conundrum marks the end of the road, since each new ticket might be entirely unfamiliar to the model. It’s the equivalent of googling the word “platypus” and having the search results predicated on just your own previous search history about platypuses — which is likely nonexistent — as opposed to the billions upon billions of related searches that actually inform Google’s algorithms. Of course, as we learned, different organizations face different challenges in the IT domain, so generalizing between them isn’t easy. But insights about the similarity of words, as well as the role they play in determining a sentence’s overall meaning, are more universal. Again, that’s Part 2.
 
@@ -106,37 +227,37 @@ But that, thankfully, is not the end of the story. A seemingly uncrackable code 
 
 Contact Moveworks to learn more about how our deep learning automates ticket triage.
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
+![Image | in](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
 
 
           Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
 
 
           Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
 
 
           3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
 
 
           Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
 
 
           From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
+![Image | 8](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
 
 
           AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.

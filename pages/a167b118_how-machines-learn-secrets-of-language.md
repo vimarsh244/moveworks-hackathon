@@ -36,7 +36,7 @@ In this blog, we’ll explore how that new approach is streamlining human-comput
 
 Figure 1: Overcoming the language barrier between humans and computers requires probabilistic chatbots, which engage users in natural conversation.
 
-![Continuum human-computer interaction](https://www.moveworks.com/hs-fs/hubfs/Continuum.png?width=1366&name=Continuum.png)
+![Continuum human-computer interaction](https://www.moveworks.com/hs-fs/hubfs/Continuum.png?&name=Continuum.png)
 
 All of us have had bad experiences with chatbots. The question is, what does it take to build a good experience? Not surprisingly, if you want a chatbot that works, it needs a strong enough understanding of language to be conversational.
 
@@ -52,7 +52,7 @@ The following four examples demonstrate how each kind of context plays a key rol
 
 Figure 2: Understanding syntax allows chatbots to disambiguate similar user utterances, separating important signals from distracting noise.
 
-![syntactic-context](https://www.moveworks.com/hs-fs/hubfs/blog-02-figure-02-mobile@2crop.png?width=512&name=blog-02-figure-02-mobile@2crop.png)
+![syntactic-context](https://www.moveworks.com/hs-fs/hubfs/blog-02-figure-02-mobile@2crop.png?&name=blog-02-figure-02-mobile@2crop.png)
 
 One of the fundamental challenges of understanding language is that the same words often have different meanings, depending on the syntax of the sentence. And determining the relevant meaning is the only way to decide which information in that sentence is actionable signal and which is irrelevant noise. This deep, syntactic knowledge takes a layer cake of machine learning techniques, from semantic frame parsing to entity inference to statistical grammar models.
 
@@ -60,7 +60,7 @@ In Figure 2, both requests for IT support use the words “marketing” and “B
 
 Figure 3: By taking into account the user, bots can deliver information specific to that individual user’s needs, based on their role, location, or department.
 
-![user-context](https://www.moveworks.com/hs-fs/hubfs/user-context.png?width=1600&name=user-context.png)
+![user-context](https://www.moveworks.com/hs-fs/hubfs/user-context.png?&name=user-context.png)
 
 But understanding what a user wants takes more than just looking at syntax. Take a look at Figure 3. There are two very similar requests, both about accessing a regional dashboard. Before taking into account the users’ roles and departments, these requests appear identical. However, for Akbar, a sales director, our machine learning models tell us probabilistically that he needs access to Salesforce to view the relevant dashboard; whereas Paula, an analyst, needs access to Tableau, where her organization’s financial data lives.
 
@@ -68,7 +68,7 @@ The difference between Akbar and Paula is a perfect illustration of the differen
 
  Figure 4: Domain context allows chatbots to deliver responses that are specific to a particular organization.
 
-![domain-context](https://www.moveworks.com/hs-fs/hubfs/blog-02-figure-04-mobile@2crop.png?width=760&name=blog-02-figure-04-mobile@2crop.png)
+![domain-context](https://www.moveworks.com/hs-fs/hubfs/blog-02-figure-04-mobile@2crop.png?&name=blog-02-figure-04-mobile@2crop.png)
 
 Already, by factoring in syntactic and user context, we’ve gone a long way toward demystifying the complexity of language, but there is another critical component of conversation left out of this picture. 
 
@@ -78,7 +78,7 @@ To make conversational AI successful, we needed models built to understand that 
 
 Figure 5: Awareness of past conversational back-and-forth helps chatbots disambiguate user requests and respond with relevant information.
 
-![historical-context](https://www.moveworks.com/hs-fs/hubfs/blog-02-figure-05-mobile@2crop.png?width=760&name=blog-02-figure-05-mobile@2crop.png)
+![historical-context](https://www.moveworks.com/hs-fs/hubfs/blog-02-figure-05-mobile@2crop.png?&name=blog-02-figure-05-mobile@2crop.png)
 
 Historical context allows a bot to respond differently to the same utterance, depending on past conversations. While simple at first glance, “This issue has been fixed” can actually be quite a complex statement.
 
@@ -96,7 +96,7 @@ An added challenge is that a conversation doesn’t look like a list of search r
 
 
 
-![blog-02-figure-06-mobile@2crop](https://www.moveworks.com/hs-fs/hubfs/blog-02-figure-06-mobile@2crop.png?width=512&name=blog-02-figure-06-mobile@2crop.png)
+![blog-02-figure-06-mobile@2crop](https://www.moveworks.com/hs-fs/hubfs/blog-02-figure-06-mobile@2crop.png?&name=blog-02-figure-06-mobile@2crop.png)
 
 Figure 6: Making decisions based on models — not hardcoded rules — allows chatbots to adjust to changing context in real time.
 
@@ -108,7 +108,7 @@ This leads us to another inherent benefit of machine learning — a chatbot lear
 
 
 
-![solutions-bid-IT-issue-resolution](https://www.moveworks.com/hs-fs/hubfs/solutions-bid-IT-issue-resolution.png?width=1600&name=solutions-bid-IT-issue-resolution.png)
+![solutions-bid-IT-issue-resolution](https://www.moveworks.com/hs-fs/hubfs/solutions-bid-IT-issue-resolution.png?&name=solutions-bid-IT-issue-resolution.png)
 
 Figure 7: Different solutions bid for the opportunity to solve an IT issue. When one or multiple options reach the confidence threshold, a response is sent to the user in seconds.
 

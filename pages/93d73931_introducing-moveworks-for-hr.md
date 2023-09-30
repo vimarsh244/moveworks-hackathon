@@ -4,7 +4,7 @@ Forrester names Moveworks a leader in Chatbot for IT operations. Read the report
 
 Moveworks named a Forrester leader in Chatbot for IT operations. 
 
-![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
+![Image | ](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
 
 Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
 

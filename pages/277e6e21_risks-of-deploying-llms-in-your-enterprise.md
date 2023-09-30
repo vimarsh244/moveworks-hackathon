@@ -140,7 +140,7 @@ The lifecycle of an LLM can be broadly categorized into four major stages, each 
 
 
 
-![fig1_llm_lifecycle-1](https://www.moveworks.com/hs-fs/hubfs/fig1_llm_lifecycle-1.png?width=266&height=297&name=fig1_llm_lifecycle-1.png)
+![fig1_llm_lifecycle-1](https://www.moveworks.com/hs-fs/hubfs/fig1_llm_lifecycle-1.png?&height=297&name=fig1_llm_lifecycle-1.png)
 
 Figure 1: The large language model (LLM) lifecycle 
 
@@ -172,7 +172,7 @@ For example, suppose the model needs to "forget" specific information or relearn
 
 
 
-![diagram2-adapters](https://www.moveworks.com/hs-fs/hubfs/diagram2-adapters.png?width=340&height=300&name=diagram2-adapters.png)
+![diagram2-adapters](https://www.moveworks.com/hs-fs/hubfs/diagram2-adapters.png?&height=300&name=diagram2-adapters.png)
 
 Figure 2: Adapters can help manage privacy considerations within the LLM lifecycle.
 

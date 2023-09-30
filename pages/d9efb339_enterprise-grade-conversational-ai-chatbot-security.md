@@ -60,7 +60,7 @@ Building trust into conversational AI means implementing proper data privacy pro
 
 
 
-![Screenshot 2023-03-08 at 1.53.20 PM](https://www.moveworks.com/hs-fs/hubfs/Screenshot%202023-03-08%20at%201.53.20%20PM.png?width=1187&height=852&name=Screenshot%202023-03-08%20at%201.53.20%20PM.png)
+![Screenshot 2023-03-08 at 1.53.20 PM](https://www.moveworks.com/hs-fs/hubfs/Screenshot%202023-03-08%20at%201.53.20%20PM.png?&height=852&name=Screenshot%202023-03-08%20at%201.53.20%20PM.png)
 
 Figure 1: Conversational AI platform overview detailing eight fundamentals of conversational AI trustworthiness.
 

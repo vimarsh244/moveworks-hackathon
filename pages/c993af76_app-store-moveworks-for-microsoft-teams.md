@@ -38,15 +38,15 @@ Now, the Moveworks chatbot app is available for customers to install directly fr
 
 Mike Ammerlaan, Director, Microsoft 365 Ecosystem at Microsoft
 
-![Access Software](https://www.moveworks.com/hs-fs/hubfs/img/blog/Adding-Moveworks-to-Microsoft-Teams/01_Access-Software.png?width=1366&name=01_Access-Software.png)
+![Access Software](https://www.moveworks.com/hs-fs/hubfs/img/blog/Adding-Moveworks-to-Microsoft-Teams/01_Access-Software.png?&name=01_Access-Software.png)
 
-![Account Access](https://www.moveworks.com/hs-fs/hubfs/img/blog/Adding-Moveworks-to-Microsoft-Teams/04_Account-Access.png?width=1366&name=04_Account-Access.png)
+![Account Access](https://www.moveworks.com/hs-fs/hubfs/img/blog/Adding-Moveworks-to-Microsoft-Teams/04_Account-Access.png?&name=04_Account-Access.png)
 
-![Answers](https://www.moveworks.com/hs-fs/hubfs/img/blog/Adding-Moveworks-to-Microsoft-Teams/03_Answers.png?width=1366&name=03_Answers.png)
+![Answers](https://www.moveworks.com/hs-fs/hubfs/img/blog/Adding-Moveworks-to-Microsoft-Teams/03_Answers.png?&name=03_Answers.png)
 
-![Groups Access](https://www.moveworks.com/hs-fs/hubfs/img/blog/Adding-Moveworks-to-Microsoft-Teams/02_Groups-Access.png?width=1366&name=02_Groups-Access.png)
+![Groups Access](https://www.moveworks.com/hs-fs/hubfs/img/blog/Adding-Moveworks-to-Microsoft-Teams/02_Groups-Access.png?&name=02_Groups-Access.png)
 
-![Ticket Accleration](https://www.moveworks.com/hs-fs/hubfs/img/blog/Adding-Moveworks-to-Microsoft-Teams/05_Ticket-Accleration.png?width=1366&name=05_Ticket-Accleration.png)
+![Ticket Accleration](https://www.moveworks.com/hs-fs/hubfs/img/blog/Adding-Moveworks-to-Microsoft-Teams/05_Ticket-Accleration.png?&name=05_Ticket-Accleration.png)
 
  
 
@@ -58,7 +58,7 @@ You can read Equinix’s success story here on Microsoft.com.
 
 
 
-![bring new users to teams](https://www.moveworks.com/hs-fs/hubfs/CS%20Deck%20Slides-WEB-2.png?width=700&name=CS%20Deck%20Slides-WEB-2.png)
+![bring new users to teams](https://www.moveworks.com/hs-fs/hubfs/CS%20Deck%20Slides-WEB-2.png?&name=CS%20Deck%20Slides-WEB-2.png)
 
 Particularly in this new normal of remote work, the ability to remain productive anywhere and anytime defines successful employees. But without a physical office or access to in-person help, these employees often don’t know where to find critical resources.
 

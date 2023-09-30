@@ -68,7 +68,7 @@ At Moveworks, security is ingrained in every aspect of our business. Whether weâ
 
 Saran Mandair VP of Global IT, DocuSign
 
-![Moveworks customer - Saran Mandair](https://www.moveworks.com/hs-fs/hubfs/img/clients/BnW-purple-BG/Headshot_SaranMandair_DocuSign_Left.png?width=450&name=Headshot_SaranMandair_DocuSign_Left.png)
+![Moveworks customer - Saran Mandair](https://www.moveworks.com/hs-fs/hubfs/img/clients/BnW-purple-BG/Headshot_SaranMandair_DocuSign_Left.png?&name=Headshot_SaranMandair_DocuSign_Left.png)
 
 ![Image](https://www.moveworks.com/hubfs/Icon-Security-ConfidentialityBuiltIntoDev-48x48-Dark.svg)
 

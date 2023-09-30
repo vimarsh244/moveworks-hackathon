@@ -44,7 +44,7 @@ Read the full announcement here →
 
 
 
-![product_launch_german_BSOD](https://www.moveworks.com/hs-fs/hubfs/product_launch_german_BSOD.png?width=493&name=product_launch_german_BSOD.png)
+![product_launch_german_BSOD](https://www.moveworks.com/hs-fs/hubfs/product_launch_german_BSOD.png?&name=product_launch_german_BSOD.png)
 
 Figure 1: Employees deserve the same quality of support — no matter where they are or which language they speak.
 
@@ -60,7 +60,7 @@ Read a deep dive on our unique and powerful approach to multilingual support →
 
  
 
-![product_launch_moveworks_web](https://www.moveworks.com/hs-fs/hubfs/product_launch_moveworks_web.gif?width=1024&name=product_launch_moveworks_web.gif)
+![product_launch_moveworks_web](https://www.moveworks.com/hs-fs/hubfs/product_launch_moveworks_web.gif?&name=product_launch_moveworks_web.gif)
 
 Figure 2: Moveworks for Web ensures every employee gets the help they need — on whichever platform they prefer. 
 

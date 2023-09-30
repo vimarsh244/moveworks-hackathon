@@ -40,7 +40,7 @@ With omnichannel support — no matter which channel an employee prefers — the
 
 Figure 1: To ensure a positive employee experience, support teams must provide the same great experience on every channel.
 
-![datasheet-Omnichannel-3icons](https://www.moveworks.com/hs-fs/hubfs/datasheet-Omnichannel-3icons.jpg?width=557&name=datasheet-Omnichannel-3icons.jpg)
+![datasheet-Omnichannel-3icons](https://www.moveworks.com/hs-fs/hubfs/datasheet-Omnichannel-3icons.jpg?&name=datasheet-Omnichannel-3icons.jpg)
 
  
 
@@ -52,7 +52,7 @@ A critical step in building a modern support process is ensuring consistency acr
 
 Figure 2: Moveworks lives in the messaging platforms employees use every day, picking up and continuing conversations from other support channels, as needed.
 
-![datasheet-Omnichannel-email-4x](https://www.moveworks.com/hs-fs/hubfs/datasheet-Omnichannel-email-4x.jpg?width=675&name=datasheet-Omnichannel-email-4x.jpg)
+![datasheet-Omnichannel-email-4x](https://www.moveworks.com/hs-fs/hubfs/datasheet-Omnichannel-email-4x.jpg?&name=datasheet-Omnichannel-email-4x.jpg)
 
 The goal of omnichannel support is to help employees help themselves. So once you’ve ensured the same access to support across channels, step two is creating the same exact experience everywhere. Because, more often than not, every support system has an entirely different interface. No one has to learn how to use a new portal or remember the correct email address to get hardware help.
 
@@ -62,7 +62,7 @@ With a conversational interface that lives on every support channel, you’ll cr
 
 Figure 3: With Moveworks for Web, users who prefer to get help on enterprise portals can easily access all the skills, features, forms, and knowledge at Moveworks’ disposal. 
 
-![datasheet-Omnichannel-EnterpriseWebPortals](https://www.moveworks.com/hs-fs/hubfs/datasheet-Omnichannel-EnterpriseWebPortals.jpg?width=600&name=datasheet-Omnichannel-EnterpriseWebPortals.jpg)
+![datasheet-Omnichannel-EnterpriseWebPortals](https://www.moveworks.com/hs-fs/hubfs/datasheet-Omnichannel-EnterpriseWebPortals.jpg?&name=datasheet-Omnichannel-EnterpriseWebPortals.jpg)
 
  
 
@@ -74,7 +74,7 @@ When every employee has a secure profile that knows their department, location, 
 
 Figure 4: Moveworks personalizes messages to cut through the noise. By precisely targeting comms based on employees’ locations and support preferences, our bot meets employees on their terms.
 
-![datasheet-Omnichannel-personalization-v4b (1)](https://www.moveworks.com/hs-fs/hubfs/datasheet-Omnichannel-personalization-v4b%20(1).jpg?width=600&name=datasheet-Omnichannel-personalization-v4b%20(1).jpg)
+![datasheet-Omnichannel-personalization-v4b (1)](https://www.moveworks.com/hs-fs/hubfs/datasheet-Omnichannel-personalization-v4b%20(1).jpg?&name=datasheet-Omnichannel-personalization-v4b%20(1).jpg)
 
 The mark of a truly mature support process is a great employee experience. And the foundation of a great employee experience is meeting employees on their terms.
 

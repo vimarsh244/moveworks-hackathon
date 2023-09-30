@@ -60,7 +60,7 @@ Data annotation ensures high-quality training data and, consequently, the accura
 
 Figure 1:“Necesito un nuevo equipo para mi equipo” means “I need a new computer for my team.” Google incorrectly translates the statement since it’s not trained on enterprise data. This is just one example of how generalized language models can be wrong.
 
-![image3-31](https://www.moveworks.com/hs-fs/hubfs/image3-31.png?width=691&height=356&name=image3-31.png)
+![image3-31](https://www.moveworks.com/hs-fs/hubfs/image3-31.png?&height=356&name=image3-31.png)
 
  
 
@@ -84,7 +84,7 @@ Before going through the Language Core™, the bot conducts on-the-fly translati
 
 Figure 2: How Moveworks translates non-English user utterances.
 
-![image1-33](https://www.moveworks.com/hs-fs/hubfs/image1-33.png?width=691&height=288&name=image1-33.png)
+![image1-33](https://www.moveworks.com/hs-fs/hubfs/image1-33.png?&height=288&name=image1-33.png)
 
  
 
@@ -98,7 +98,7 @@ Moveworks' models leverage multilingual named entity recognition. We preemptivel
 
 Figure 3: Here is an example of Moveworks' multilingual support named entity recognition. “Roman” and “Trello” are identified as entities and are not translated. 
 
-![image2-35](https://www.moveworks.com/hs-fs/hubfs/image2-35.png?width=691&height=288&name=image2-35.png)
+![image2-35](https://www.moveworks.com/hs-fs/hubfs/image2-35.png?&height=288&name=image2-35.png)
 
  
 
