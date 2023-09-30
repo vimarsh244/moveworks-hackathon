@@ -2,9 +2,9 @@
 
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
 
-Thank you.
 
-A member of the Moveworks team will be in touch within the next 24 hours.
+
+
 
 
 
@@ -16,9 +16,9 @@ A member of the Moveworks team will be in touch within the next 24 hours.
 Varun Singh, VP Product
 
 
-![Why understanding natural language is hard](https://www.moveworks.com/hubfs/img/blog/03_MW_Blog_Feature_WhyUnderstandingNLIsHard.png)
+![Why understanding natural language is hard | ](https://www.moveworks.com/hubfs/img/blog/03_MW_Blog_Feature_WhyUnderstandingNLIsHard.png)
 
-![Why understanding natural language is hard](https://www.moveworks.com/hubfs/img/blog/03_MW_Blog_Feature_WhyUnderstandingNLIsHard.png)
+![Why understanding natural language is hard | ](https://www.moveworks.com/hubfs/img/blog/03_MW_Blog_Feature_WhyUnderstandingNLIsHard.png)
 
 The ability to string a few words together to convey ideas is central to what makes humanity unique. In fact, our civilization wouldn't exist without natural language. For about 100,000 years, it has remained central to how we communicate our ideas and coordinate our actions. It’s part of what makes us human.
 
@@ -32,7 +32,7 @@ A single word can have many possible meanings. At work, someone might try to add
 
 The way someone describes an issue rarely matches the title of the corresponding article
 
-![natural language - description](https://www.moveworks.com/hs-fs/hubfs/img/blog/03_MW_Blog_ContentImage02.png?noresize&width=660&name=03_MW_Blog_ContentImage02.png)
+![natural language - description | Natalia My laptop monitor turned blue! | Windows Blue Screen of Death (BSOD) Error troubleshooting guide Last updated May 16, 2018](https://www.moveworks.com/hs-fs/hubfs/img/blog/03_MW_Blog_ContentImage02.png)
 
 As mentioned in the last blog, a good service desk agent draws on experience to grasp what the employee is talking about, but for a natural language understanding (NLU) system, this isn't so easy. Scripted rules are impractical. It would take hundreds of rules, for example, to match all the ways people ask to add a colleague to a list. An NLU system needs to operate more like a service desk agent, by ignoring irrelevant words (what we call “noise”), recognizing what entities the person is talking about, and identifying the person’s intent.
 
@@ -40,7 +40,7 @@ As mentioned in the last blog, a good service desk agent draws on experience to 
 
 Not every word in a request is important; NLU systems must detect the words that matter
 
-![NLU systems](https://www.moveworks.com/hs-fs/hubfs/img/blog/03_MW_Blog_ContentImage03.png?noresize&width=760&name=03_MW_Blog_ContentImage03.png)
+![NLU systems | Alex | have to manage a marketing project for Bradley Smith so | need a Trello iaanen license Bradley Smith to the Alex](https://www.moveworks.com/hs-fs/hubfs/img/blog/03_MW_Blog_ContentImage03.png)
 
 Language is vast, and you’re only scratching the surface by counting the 600,000 entries in the Oxford English Dictionary. Words can be assembled in many different ways, making it hard to predict which combination of words a person will put together to describe an issue.
 
@@ -48,7 +48,7 @@ Language is vast, and you’re only scratching the surface by counting the 600,0
 
 Keyword-based search struggles with the different meanings words take on, in context
 
-![natural language - keyword search](https://www.moveworks.com/hs-fs/hubfs/img/blog/03_MW_Blog_ContentImage01.png?noresize&width=760&name=03_MW_Blog_ContentImage01.png)
+![natural language - keyword search | © What is the process to order a monitor? | ® Ineed to monitor the order process. | Q | can’t process a monitor order. |](https://www.moveworks.com/hs-fs/hubfs/img/blog/03_MW_Blog_ContentImage01.png)
 
 Our brains are built to handle the vast variety of words, quickly associating each word we read or hear with its probable meaning. If you hear the words “bank”, you can associate it with a few different meanings — a river bank, a bank where your deposit your salary, to “bank on” a person, and so on. To disambiguate the meaning, your brain quickly looks at the context of the word in the sentence, as well as the relation of the sentence to the overall context of what you’re doing and talking about.Now consider an NLU system that tries to find the meanings of words quickly. A hard-coded approach is slow, since it needs to test each word it reads against a list of words, looking for a match. A faster approach is to look for common patterns in what people say, and learn which words are likely to appear where in the pattern. IT requests have common patterns that can be understood with machine learning models that take sentence semantics into account. When we know the pattern, we know which word is likely to be someone’s name, and which is likely to be the name of a software package — even without looking up a dictionary.
 
@@ -58,43 +58,43 @@ No one likes to waste their time explaining — or listening to — every little
 
 A good NLU system uses context to clarify ambiguous questions and statements
 
-![NLU system context](https://www.moveworks.com/hs-fs/hubfs/img/blog/03_MW_Blog_ContentImage04.png?noresize&width=760&name=03_MW_Blog_ContentImage04.png)
+![NLU system context | v Juan 320 Where is john lennon located? | Moveworks Ok, you are asking about the John Lennon conference room. Here is what | found: | “Vese ad](https://www.moveworks.com/hs-fs/hubfs/img/blog/03_MW_Blog_ContentImage04.png)
 
 As people trained on years of having conversations, we draw on our senses and memory to get context effortlessly. When we try to create an NLU system to do this, we see it’s not effortless. Contextual cues that a person would pick up are not available to the NLU, unless we build a way to supply information like time, identity, and location.
 
 When we send a message to someone, we usually type just a few words because we know we can fall back on conversation to clear things up. If our friend wants more detail, she’ll just ask for it, conversationally.It turns out, basic conversational ability is hard to build in an NLU system. Think about our expectations when we chat with a friend. We’re thrown off if a reply strays from the thread, we hate to repeat what we’ve said, and we want just enough information in each reply. Too much, and we feel man-splained; too little, and we feel ignored.To build an NLU system that gives people a natural flow of conversation, we need a probabilistic approach. When talking with a friend, you’re never 100% certain what sort of response your friend is waiting for, so you choose the words you think are most likely to get your point across, right now. Machine learning-based systems are well suited to probabilistic problems like this. If a machine learning model has been trained on enough relevant data, it can accurately predict the right response in a situation. In an upcoming post, we’ll dive into useful techniques that can address this and the other hard problems that stand in the way of building a good NLU system.
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png)
 
 
           Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png)
 
 
           Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
+![Image | Ay TECHNOLOGY &](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png)
 
 
           3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png)
 
 
           Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
+![Image | a . oe ° ° * ° ° ° ra](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png)
 
 
           From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png)
 
 
           AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.

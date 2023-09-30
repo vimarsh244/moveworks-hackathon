@@ -2,9 +2,9 @@
 
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
 
-Thank you.
 
-A member of the Moveworks team will be in touch within the next 24 hours.
+
+
 
 
 
@@ -30,9 +30,9 @@ Someone from our team will be in touch with you shortly.
 
 ![Image](https://www.moveworks.ai/hubfs/img/integrations/mark-only/google-drive-logo.svg)
 
-![Image](https://www.moveworks.ai/hubfs/img/integrations/mark-only/GoogleHangoutsChat.png)
+![Image | ](https://www.moveworks.ai/hubfs/img/integrations/mark-only/GoogleHangoutsChat.png)
 
-![Image](https://www.moveworks.ai/hubfs/guru-icon.png)
+![Image | ](https://www.moveworks.ai/hubfs/guru-icon.png)
 
 ![Image](https://www.moveworks.com/hubfs/img/integrations/mark-only/jamf.svg)
 
@@ -70,9 +70,9 @@ Someone from our team will be in touch with you shortly.
 
 ![Image](https://www.moveworks.ai/hubfs/img/integrations/mark-only/google-drive-logo.svg)
 
-![Image](https://www.moveworks.ai/hubfs/img/integrations/mark-only/GoogleHangoutsChat.png)
+![Image | ](https://www.moveworks.ai/hubfs/img/integrations/mark-only/GoogleHangoutsChat.png)
 
-![Image](https://www.moveworks.ai/hubfs/guru-icon.png)
+![Image | ](https://www.moveworks.ai/hubfs/guru-icon.png)
 
 ![Image](https://www.moveworks.com/hubfs/img/integrations/mark-only/jamf.svg)
 

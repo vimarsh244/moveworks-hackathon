@@ -2,9 +2,9 @@
 
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
 
-Thank you.
 
-A member of the Moveworks team will be in touch within the next 24 hours.
+
+
 
 
 
@@ -48,7 +48,7 @@ Is the Customer Success team constantly troubleshooting Zoom? Are engineers bloc
 
 Figure 1: Employee Experience Insights filters issues intelligently by both persona and time. 
 
-![EXI_Blog_Figure02_v02 | J Employee Experience Insights What did remote employees ~ need help with in Q2, 2022 ~ ? | Overall, 25 Select an Employee Persona ~ say 7.1% 7.5/10 aa hecero tre ita eee eurin ears zation benchmark: 94.3% Organization benchmark: 8.3 ola Infrastructure Authentication Troublesh aren 7 hr ae en __@Presales y Provision YARD yam " ae eee) Manage Anis 7.7 hr KAUig sis _ cee is ee](https://www.moveworks.com/hs-fs/hubfs/EXI_Blog_Figure02_v02.jpeg)
+![EXI_Blog_Figure02_v02 | » Employee Experience Insights What did remote employees ~ need help with in Q2, 2022 ~ ? Nam) Von TOM =) ey -VM tested) Pay, 7.1% 7.5/10 Tie Me oeto Cel Employee Sentiment zation benchmark: 94.3% Cera e nnn vous iurU ack) lea Tlic (ei vc Authentication Troublesh 7hr ue elE] F ” EAs Manage 7.1 hr KAUig Update | Rag](https://www.moveworks.com/hs-fs/hubfs/EXI_Blog_Figure02_v02.jpeg)
 
  
 

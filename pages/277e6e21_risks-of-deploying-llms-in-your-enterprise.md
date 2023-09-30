@@ -2,9 +2,9 @@
 
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
 
-Thank you.
 
-A member of the Moveworks team will be in touch within the next 24 hours.
+
+
 
 
 
@@ -24,9 +24,9 @@ Damián Hasse, Chief Information Security Officer, Moveworks
 Rahul Kukreja, Security Solutions Architect, Moveworks
 
 
-![](https://www.moveworks.com/hubfs/threat-modeling-ft-image.png)
+![ | ](https://www.moveworks.com/hubfs/threat-modeling-ft-image.png)
 
-![](https://www.moveworks.com/hubfs/threat-modeling-ft-image.png)
+![ | ](https://www.moveworks.com/hubfs/threat-modeling-ft-image.png)
 
 Editor’s note: Adam Shostack, President of Shostack + Associates, contributed to this post.The AI world has been buzzing with excitement since the launch of ChatGPT. Widespread enthusiasm for the technology has created a modern-day gold rush, with everyone from casual users to corporations and investors joining the race to tap into its power.
 
@@ -132,7 +132,7 @@ The lifecycle of an LLM can be broadly categorized into four major stages, each 
 
 
 
-![fig1_llm_lifecycle-1](https://www.moveworks.com/hs-fs/hubfs/fig1_llm_lifecycle-1.png?&height=297&name=fig1_llm_lifecycle-1.png)
+![fig1_llm_lifecycle-1 | Pre-training and training LLMs Fine-tuning LLM for a specific task/purpose End customer usage Further fine-tuning LLM based ‘on customer feedback](https://www.moveworks.com/hs-fs/hubfs/fig1_llm_lifecycle-1.png)
 
 Figure 1: The large language model (LLM) lifecycle 
 
@@ -164,7 +164,7 @@ For example, suppose the model needs to "forget" specific information or relearn
 
 
 
-![diagram2-adapters](https://www.moveworks.com/hs-fs/hubfs/diagram2-adapters.png?&height=300&name=diagram2-adapters.png)
+![diagram2-adapters | Pre-trained LLMs Add and fine-tune additional parameters Fine-tuned LLMs adapter Adapter: Fine-tune adapter layers with specific data (not influencing the global model)](https://www.moveworks.com/hs-fs/hubfs/diagram2-adapters.png)
 
 Figure 2: Adapters can help manage privacy considerations within the LLM lifecycle.
 
@@ -372,37 +372,37 @@ In addition to the resources shared earlier, we found the below resources useful
 
 Learn more about what it takes to ensure conversational AI security for the enterprise.
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png)
 
 
           Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png)
 
 
           Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
+![Image | Ay TECHNOLOGY &](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png)
 
 
           3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png)
 
 
           Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
+![Image | a . oe ° ° * ° ° ° ra](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png)
 
 
           From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png)
 
 
           AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.

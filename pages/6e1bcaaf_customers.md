@@ -2,9 +2,9 @@
 
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
 
-Thank you.
 
-A member of the Moveworks team will be in touch within the next 24 hours.
+
+
 
 
 
@@ -16,13 +16,13 @@ A member of the Moveworks team will be in touch within the next 24 hours.
           Help desk agents’ workload automated by Moveworks
         
 
-![luminis-logo](https://www.moveworks.com/hubfs/img/site/logos/luminis-logo.png)
+![luminis-logo | ](https://www.moveworks.com/hubfs/img/site/logos/luminis-logo.png)
 
 
           Avg. time Moveworks takes to solve employees’ issues
         
 
-![nutanix](https://www.moveworks.com/hubfs/nutanix.png)
+![nutanix | ](https://www.moveworks.com/hubfs/nutanix.png)
 
 
           Employees who are highly satisfied with Moveworks
@@ -64,7 +64,7 @@ A member of the Moveworks team will be in touch within the next 24 hours.
 
 ![broadcom](https://www.moveworks.com/hubfs/img/clients/logos/sized/Reverse/broadcom.svg?noresize)
 
-![CS-light-hero-ConsumerEnergy-logo](https://www.moveworks.com/hubfs/CS-light-hero-ConsumerEnergy-logo.png?noresize)
+![CS-light-hero-ConsumerEnergy-logo | ](https://www.moveworks.com/hubfs/CS-light-hero-ConsumerEnergy-logo.png)
 
 ![Moveworks customer - The Wonderful Company](https://www.moveworks.com/hubfs/img/clients/logos/sized/Reverse/logo-wonderful-co-rev.svg)
 
@@ -116,7 +116,7 @@ Learn how conversational AI helped Wellstar put its people first — with a chat
 
 ![Moveworks customer - Hearst](https://www.moveworks.com/hubfs/Hearst_Logo%20Sized%20-%20Reverse.svg)
 
-![Moveworks customer - Luminis ](https://www.moveworks.com/hubfs/Luminislogo.png)
+![Moveworks customer - Luminis | ](https://www.moveworks.com/hubfs/Luminislogo.png)
 
 ![Moveworks customer - Mercari](https://www.moveworks.com/hubfs/img/clients/logos/sized/Reverse/mercari.svg)
 

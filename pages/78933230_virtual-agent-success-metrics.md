@@ -2,9 +2,9 @@
 
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
 
-Thank you.
 
-A member of the Moveworks team will be in touch within the next 24 hours.
+
+
 
 
 
@@ -16,9 +16,9 @@ A member of the Moveworks team will be in touch within the next 24 hours.
 Varun Singh, VP of Product
 
 
-![](https://www.moveworks.com/hubfs/37_Blog-mw-hero-03c.jpg)
+![ | ](https://www.moveworks.com/hubfs/37_Blog-mw-hero-03c.jpg)
 
-![](https://www.moveworks.com/hubfs/37_Blog-mw-hero-03c.jpg)
+![ | ](https://www.moveworks.com/hubfs/37_Blog-mw-hero-03c.jpg)
 
 Every company wants to grow. But with thousands of issues to solve and employees working all over the world, supporting a growing workforce has never been a greater challenge. That’s why support teams are increasingly turning to virtual agents to get their people the help they need — anytime and anywhere.
 
@@ -52,7 +52,7 @@ It's easy to get lost in the numbers, but in a larger sense, it’s clear this b
 
 Figure 1: Seagen’s virtual agent instantly resolves employees’ problems, tackling an increasing number of issues over time.
 
-![resolutio_seagen](https://www.moveworks.com/hs-fs/hubfs/resolutio_seagen.png?noresize&width=650&name=resolutio_seagen.png)
+![resolutio_seagen | Paul 7:50 AM | want to upgrade to the latest OS, but are there any bugs that would keep me from wanting to? hh Moveworks 7:49 AM VV OK, just checked our knowledge base, here is the closest answer | could find: -» Upgrading to macOS Catalina Known issues and bugs One common MacOS Catalina problem that people have encountered is that macOS 10.15 fails to download, with some users seeing an error message that says “macOS Catalina download has failed.” Read full article... See](https://www.moveworks.com/hs-fs/hubfs/resolutio_seagen.png)
 
  
 
@@ -80,7 +80,7 @@ Incremental improvements in knowledge creation and identity management increased
 
 
 
-![blog-mw-Aug2021-fig04-update](https://www.moveworks.com/hs-fs/hubfs/blog-mw-Aug2021-fig04-update.png?&height=650&name=blog-mw-Aug2021-fig04-update.png)
+![blog-mw-Aug2021-fig04-update | WV Gwen 7:49 AM | just started, my last job used Trello - what’s our project management software? Moveworks 7:49 AM Ok, | understand you need to obtain access to Asana, our project managment software. Do you want me to get Asana for you? @ Asana is a web and mobile application designed to help teams organize, track, and manage their work. Not relevant Cancel Gwen 7:49 AM yes, pls! Moveworks 7:49 AM Got it, working on it... ® Good news, | have granted access to Asana for you. By the way, your access request is tracked in ticket ITHELP-5786 Employee satisfaction with the virtual agent yy Issues resolved automatically per month by Moveworks](https://www.moveworks.com/hs-fs/hubfs/blog-mw-Aug2021-fig04-update.png)
 
 Figure 2: loanDepot’s virtual agent started solving issues from day one. Today, Moveworks-powered Elle-Dee uses AI to keep up with new use cases across support departments, ensuring happy employees.
 
@@ -106,7 +106,7 @@ Equinix used a virtual agent to decrease its TTR by almost a third. Based in the
 
 
 
-![triage_equinix](https://www.moveworks.com/hs-fs/hubfs/triage_equinix.png?noresize&width=650&name=triage_equinix.png)
+![triage_equinix | Chelsea 7:22 AM My VM has been migrated to Cloud and the previous premium VM machine has data and is not accessible. There are recent project documents that are very important. | need them before they are deleted. Moveworks 7:22 AM Ok, | couldn’t find appropriate IT solutions for resolving issues with our infrastructure. I’ve submitted a ticket. Chelsea 7:22 AM Can | get the status of my VM issue? Moveworks 9 7:22 AM One moment, fetchng your tickets... ITHELP-13442: My VM has been migrated to Cloud... Status: | In progress Assignee: Virtual Machine Infra Group - US West 305:](https://www.moveworks.com/hs-fs/hubfs/triage_equinix.png)
 
 Figure 3: With Moveworks, Equinix massively decreased the time it takes to get help at work.
 
@@ -136,7 +136,7 @@ Broadcom — a world-leading tech infrastructure company — dramatically increa
 
 
 
-![knowledgebase_broadcom](https://www.moveworks.com/hs-fs/hubfs/knowledgebase_broadcom.png?noresize&width=650&name=knowledgebase_broadcom.png)
+![knowledgebase_broadcom | 4,000 Sept ‘18 Knowledge Articles 57” Issues resloved autonomously Aug ‘20](https://www.moveworks.com/hs-fs/hubfs/knowledgebase_broadcom.png)
 
 Figure 4: Broadcom increased its virtual agent’s resolution rate by improving its knowledge base. The chart above demonstrates a strong correlation between Broadcom’s resolution rate — represented above by a blue line — and the increasing number of knowledge articles — represented by the purple bars.
 
@@ -164,7 +164,7 @@ Vituity realized that — to create a lasting employee habit — the bot would h
 
 
 
-![botpreference_vituity](https://www.moveworks.com/hs-fs/hubfs/botpreference_vituity.png?noresize&width=650&name=botpreference_vituity.png)
+![botpreference_vituity | Cancel Outlook crashes Send Virtual agent To: IT Help Desk Subject: Outlook Crashes Hello, | keep getting an error message that the ost file cannot be opened and Outlook crashes at load time. (See screenshot attached). It worked fine today but suddenly stopped. Thanks Otto K 1 @ Available emai ae Regarding your recently filed ticket: [INCO0024003] Outlook crashes * 0365 Migration FAQs: After migration, my Outlook seems painfully slow. Is there a way to improve performance? * Microsoft Outlook Help Documents and Resources: Microsoft Outlook Troubleshooting Guide Microsoft Outlook FAQs Gwen 7:50 AM & Thanks - that fixed the outlook issue!](https://www.moveworks.com/hs-fs/hubfs/botpreference_vituity.png)
 
 Figure 5: Employees want a single place to resolve every issue right away. 
 
@@ -194,7 +194,7 @@ Nowhere has proactive support made a bigger impact than in resolving account iss
 
 
 
-![issueprevention_verisk](https://www.moveworks.com/hs-fs/hubfs/issueprevention_verisk.png?noresize&width=602&name=issueprevention_verisk.png)
+![issueprevention_verisk | Moveworks 9 2:30 PM Hi Chelsea, | noticed that your Okta password is expiring at 9:00 AM on Thursday, Apr 1, 2021. |. can help! 927 messages delivered @ Update password now? Note: By continuing, your current password will be expired. You will be required to complete the update process which may take several minutes. | Already updated | 89% passwords updated | Not now | Chelsea 2:33 PM Ah! Thanks for the reminder - I'll do it now.](https://www.moveworks.com/hs-fs/hubfs/issueprevention_verisk.png)
 
 Figure 6:To build one place for help at work, Vituity’s virtual agent — Otto — intercepts support issues no matter where they were submitted and solves them in seconds.
 
@@ -222,7 +222,7 @@ At Unity, 91% of employees are satisfied with NinjaUnicorn — their Moveworks b
 
 
 
-![CSAT_unity](https://www.moveworks.com/hs-fs/hubfs/CSAT_unity.png?noresize&width=600&name=CSAT_unity.png)
+![CSAT_unity | Joyce 12:12 PM | ask NinjaUnicorn before | ask IT -- it always has the right answer. 1% Of employees are satisfied with NinjaUnicorn—their Moveworks bot. Chris 12:00 PM Really fast responses. It understands exactly what | need. Gwen 11:35 AM £3 Thanks NinjaUnicorn! Paul 11:53 AM Service is quick and on point. Very nice! \ Madison 12:07 PM Emails get lost. Every Slack message from NinjaUnicorn is relevant and requires my attention. Emma_ 11:35 AM ® you NinjaUnicorn!](https://www.moveworks.com/hs-fs/hubfs/CSAT_unity.png)
 
 Figure 7: The key to a successful virtual agent — like Unity’s NinjaUnicorn — is an experience that keeps employees coming back. This figure features a selection of anonymized reviews of their virtual agent.
 
@@ -232,37 +232,37 @@ Depending on your employee experience goals, you can add other metrics to this l
 
 Request a demo to see the Moveworks platform in action.
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png)
 
 
           Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png)
 
 
           Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
+![Image | Ay TECHNOLOGY &](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png)
 
 
           3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png)
 
 
           Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
+![Image | a . oe ° ° * ° ° ° ra](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png)
 
 
           From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png)
 
 
           AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.

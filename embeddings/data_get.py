@@ -11,6 +11,8 @@ import PIL
 import pytesseract
 import markdown
 import io
+import time
+
 
 
 # Function to extract URLs from a sitemap.xml file
@@ -46,6 +48,17 @@ def exclude_header_footer(soup):
     header_selectors = ['header', '.header', '#header']
     footer_selectors = ['footer', '.footer', '#footer']
 
+    
+    # Specify text content to identify cookie prompt elements
+    cookie_prompt_text = [
+        "By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.",
+        "By checking this box, I agree to receive company news and updates.",
+        "Learn more in the Privacy Policy.",
+        "Thank you.",
+        "A member of the Moveworks team will be in touch within the next 24 hours.",
+        " Close this modal"
+    ]
+
     # Remove header elements
     for selector in header_selectors:
         header_elements = soup.select(selector)
@@ -58,6 +71,13 @@ def exclude_header_footer(soup):
         for element in footer_elements:
             element.extract()
 
+    # Remove cookie prompt elements by matching text content
+    for text in cookie_prompt_text:
+        elements_with_text = soup.find_all(string=text)
+        for element in elements_with_text:
+            element.extract()
+
+
     return soup
 
 # Function to scrape text and images from a webpage and save as Markdown with inline images
@@ -65,6 +85,7 @@ def scrape_and_save_as_markdown(url, output_dir):
     response = requests.get(url)
     soup = BeautifulSoup(response.text, 'html.parser')
     soup = exclude_header_footer(soup)
+    # print(soup)
 
     # Generate a unique filename based on the URL
     filename = generate_filename(url)
@@ -88,22 +109,35 @@ def scrape_and_save_as_markdown(url, output_dir):
                     markdown_file.write(f"![{alt_text}]({img_url})\n\n")
 
 
-# Function to perform OCR on an image and return the extracted text (only for supported formats)
-# Function to perform OCR on an image and return the extracted text (only for supported formats)
+# Function to perform OCR on an image and return the extracted text (only for supported formats, excluding .svg)
 def perform_ocr(image_url):
-    response = requests.get(image_url)
-    image_bytes = response.content
+    max_retries = 3  # Maximum number of retries
+    retry_delay = 30  # Delay in seconds between retries
 
-    # Check if the image is in a supported format (e.g., PNG)
-    if image_url.lower().endswith(('.png', '.jpeg', '.jpg', '.bmp', '.tiff')):
+    for retry in range(max_retries):
         try:
-            image = Image.open(io.BytesIO(image_bytes))
-            extracted_text = pytesseract.image_to_string(image)
-            return extracted_text
-        except PIL.UnidentifiedImageError:
-            return None
-    else:
-        return None
+            response = requests.get(image_url)
+            image_bytes = response.content
+
+            # Check if the image is in a supported format (e.g., PNG) and not an SVG
+            if image_url.lower().endswith(('.png', '.jpeg', '.jpg', '.bmp', '.tiff')) and not image_url.lower().endswith('.svg'):
+                try:
+                    image = Image.open(io.BytesIO(image_bytes))
+                    extracted_text = pytesseract.image_to_string(image)
+                    return extracted_text
+                except PIL.UnidentifiedImageError:
+                    return None
+            else:
+                return None
+        except (requests.exceptions.ConnectionError, ConnectionResetError):
+            if retry < max_retries - 1:
+                print(f"Connection error occurred. Retrying in {retry_delay} seconds...")
+                time.sleep(retry_delay)
+                continue
+            else:
+                print("Maximum retries reached. Exiting OCR process.")
+                return None
+
 
 # Function to update alt-text in Markdown files with OCR results
 def update_alt_text_with_ocr(markdown_dir):

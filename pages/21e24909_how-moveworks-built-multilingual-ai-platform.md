@@ -2,9 +2,9 @@
 
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
 
-Thank you.
 
-A member of the Moveworks team will be in touch within the next 24 hours.
+
+
 
 
 
@@ -24,9 +24,9 @@ Chang Liu, Tech Lead
 Emi Sato, Product Designer
 
 
-![](https://www.moveworks.com/hubfs/MLS_Feature_Final.jpg)
+![ | | encores eo](https://www.moveworks.com/hubfs/MLS_Feature_Final.jpg)
 
-![](https://www.moveworks.com/hubfs/MLS_Feature_Final.jpg)
+![ | | encores eo](https://www.moveworks.com/hubfs/MLS_Feature_Final.jpg)
 
 Global companies can’t operate in English alone. But hiring an army of help desk agents based in a dozen different countries is out of the question. Even with the latest automation tools, ensuring high-quality support across borders is a massive challenge, requiring dedicated experts to anticipate every employee issue, set up workflows in various languages, and constantly maintain every dialog as the business environment evolves.
 
@@ -38,7 +38,7 @@ Today’s blog dives into the three approaches that make Moveworks a naturally m
 
 Figure 1: Employees deserve the same quality of support—no matter where they are or what language they speak.
 
-![product_launch_german_BSOD](https://www.moveworks.com/hs-fs/hubfs/product_launch_german_BSOD.png?noresize&width=650&name=product_launch_german_BSOD.png)
+![product_launch_german_BSOD | ¥ WV Karl 9:25 AM Mein Laptop-Bildschirm ist blau —__________| Built to understand support issues in any language Moveworks 9:25 A Okay, hier ist die beste Antwort, die ich finden konnte, sowie einige weitere, ahnliche Resultate. » Fehlersuche: Laptop: PC "blauer Bildschirm des Todes" Wenn Sie einen blauen Fehlerbildschirm auf Ihrem PC haben (auch bekannt als "blauer Bildschirm des Todes"), versuchen Sie Folgendes. 3 eq [ employees on their terms Seamlessly engages | © 2 weitere, ahnliche Antworten gefunden | Entsprechende Artikel anzeigen Moveworks 9:25 A\V\ Ist Ihr Problem damit gelést? 7 Delivers personalized solutions for each employee ( Nein ( Hilfe anfordern](https://www.moveworks.com/hs-fs/hubfs/product_launch_german_BSOD.png)
 
  
 
@@ -50,7 +50,7 @@ This seamless experience is only possible with Moveworks. Unlike conventional ch
 
 Figure 2: Keeping track of an employee’s location, department, and language preferences, a chatbot can surface information that's the most helpful to a specific employee.
 
-![blog_PTO_spanish](https://www.moveworks.com/hs-fs/hubfs/blog_PTO_spanish.png?noresize&width=400&name=blog_PTO_spanish.png)
+![blog_PTO_spanish | Marina 9:25 AM éCuantos dias de PTO tengo? Moveworks 9:25 A Vale, parece que he encontrado una repuesta... Politica de PTO 2021 (México) Los empleados con base en México obtienen 3 semanas de PTO. éResponde esto a tu pregunta? | mo | | Ayuda | Marina 9:25 AM Perfecto](https://www.moveworks.com/hs-fs/hubfs/blog_PTO_spanish.png)
 
 No matter what language you use, Moveworks just works. Here, Marina asks in Figure 2 how many days of PTO she has. And immediately engaging in Spanish, Moveworks provides an inclusive experience where Marina always moves the conversation along. She’s not trapped in a dialog flow; she’s having a real conversation with actionable steps forward. 
 
@@ -62,7 +62,7 @@ Our bot adapts to language preferences in real-time to ensure natural back-and-f
 
 Figure 3: It’s hard to process complex ideas with dialog flows. With Moveworks, the user determines next steps instead of following pre-programmed logic.
 
-![blog_dialog_tree](https://www.moveworks.com/hs-fs/hubfs/blog_dialog_tree.png?noresize&width=650&name=blog_dialog_tree.png)
+![blog_dialog_tree | ¢Cuantos dias de PTO tengo? JN ke](https://www.moveworks.com/hs-fs/hubfs/blog_dialog_tree.png)
 
 Imagine for a minute what it would take to answer Marina’s same simple question with a conventional chatbot in every language and location. Updating this same dialog flow in ten languages every time the business environment changes requires a monumental effort and a native understanding of many different languages. 
 
@@ -78,7 +78,7 @@ Moveworks speaks your employees’ languages, so they don’t need any help to g
 
 Figure 4: Moveworks breaks down and transforms complex requests into machine-understandable language, no matter the user’s original language.
 
-![blog_mls_language_core](https://www.moveworks.com/hs-fs/hubfs/blog_mls_language_core.png?noresize&width=700&name=blog_mls_language_core.png)
+![blog_mls_language_core | Nancy 8:35 AM English How do | get Zoom access? : Santi 8:35 AM anmage > Portuguese $PERSON Como obtenho acesso a Confluence? Karl 8:35 AM f - ar German give $PERSON Bitte geben Roman Zugang Zu Trello.](https://www.moveworks.com/hs-fs/hubfs/blog_mls_language_core.png)
 
 Understanding multiple languages requires a chatbot to anticipate an infinite variety of requests from employees, including requests that contain language-specific jargon or a combination of several languages at once. We made the decision to completely nail the foundations of English first. Using Collective Learning to analyze 250 million requests across industries and companies, the Moveworks platform is uniquely capable of making sense of any language in context.
 
@@ -88,7 +88,7 @@ But perhaps more importantly, our natural language understanding (NLU) focuses o
 
 Figure 5: Language Core™ goes beyond processing language at face value: it illuminates a user’s underlying intent. Even if a user flips between two languages or uses ambiguous terms, our solution resolves the issue.
 
-![blog_worldwide_group](https://www.moveworks.com/hs-fs/hubfs/blog_worldwide_group.png?noresize&width=400&name=blog_worldwide_group.png)
+![blog_worldwide_group | Marina 9:25 AM Necesito agregar a Gregor a la lista de distribucion de worldwide sales Moveworks 9:25 AM Ok, aNadamos a Gregor Vassiliev a grupo. Esto es lo que tengo: Nombre Correo electrénico Gregor Vassiliev gvassiliev@company.us Grupo Nombre Grupo Correo Worldwide Sales Electronico worldwidesales@co mpany.us Este usuario sera ahadido como miembro y recibira los correos electronicos enviados a este grupo. éPresentar ahora? | mo | | Cancelar |](https://www.moveworks.com/hs-fs/hubfs/blog_worldwide_group.png)
 
 Let’s look at an example. Even in English, there’s a lot that goes into adding someone to a distribution list. Our bot has to diagnose and solve a very specific problem that involves knowing who “Gregor” is and what the relevant sales distribution lists are. 
 
@@ -106,7 +106,7 @@ It takes a new approach to thrive in this level of complexity. Moveworks provide
 
 Figure 6: Moveworks uses context to surface the most relevant answer to each employee in their language of choice.
 
-![blog_longutterance_french](https://www.moveworks.com/hs-fs/hubfs/blog_longutterance_french.png?noresize&width=600&name=blog_longutterance_french.png)
+![blog_longutterance_french | Jeanne 8:32 AM Bonjour! Ou est la salle de conférence Turing? | ———————> Information request Moveworks 8:32 AM Ok, here are the most relevant solutions: CONFERENCE ROOMS @@ Turing (conference room) View room details >———— Conference room map LANGUAGE SETTING ‘@ Souhaitez-vous que votre langue de bot par défaut soit en Francais? Oui, Francais —_ Detect language preference Other language No, English Jeanne 8:32 AM oui, Francais. > User confirmation Moveworks 8:32 AM D lize tol ii ' ; ; ; ersonalize to location: D'accord.|Frangais Canadien est maintenant Canada votre langue par défaut. Vous pouvez toujours la changer en me le demandant, par ex: "changer Ia langue a Anglais" or “Utiliser Anglais" Jeanne 8:35 AM O J'ai encore une question. Ma nouvelle équipe est a Montreal. Pourrais-je avoir des Knowledge request: informations sur le plan|401K |? . plan|401k) ian Moveworks 8:35 AM D'accord. J'ai trouvé une réponse: v * 2021 Adhésion aux avantages sociaux des employés Moveworks (Canada) aT Tous les employés basés au Canada sont | ——_____ a oe rel i answer admissibles a étre inscrits 4 un régime In (PUES) EINE METS enregistré d'épargne-retraite (REER).](https://www.moveworks.com/hs-fs/hubfs/blog_longutterance_french.png)
 
 Moveworks serves up precise solutions to employees’ requests, such as snippets from long, complex knowledge articles, taking into account language preferences and permissions. Instead of requiring support teams to manually build out and update every single workflow, our Enterprise Cache™ automatically ingests new resources the moment they’re published, detecting their language and tagging them accordingly. Support teams don’t need to manually update or edit conversation flows every time something new is added. 
 
@@ -116,7 +116,7 @@ With a 360-degree view of your organization, our language, proximity, relevance,
 
 Figure 7: Considering an employee’s location allows Moveworks to provide resources like country-specific policies without involving the service desk.
 
-![blog_travelpolicy_spanish](https://www.moveworks.com/hs-fs/hubfs/blog_travelpolicy_spanish.png?noresize&width=400&name=blog_travelpolicy_spanish.png)
+![blog_travelpolicy_spanish | Marina 9:25 AM éCual es la politica de viajes? Moveworks 9:25 A VV Ok, encontré una respuesta: COVID-19: Aviso de viaje Sales Team - Preguntele a su gerente antes de programar un viaje. México - Se aconseja a los ciudadanos mexicanos que eviten viajes no esenciales. éResponde esto a tu pregunta? | me |](https://www.moveworks.com/hs-fs/hubfs/blog_travelpolicy_spanish.png)
 
 If an employee, such as Marina in Figure 7 above, asks about the current company travel policy — the bot can review her specific profile, such as her language preference, security permissions, and location. Then, it can extract the most helpful solution from a larger resource — such as a snippet from a knowledge article or an enrollment form — to offer her up-to-date information in Spanish right away.
 
@@ -132,37 +132,37 @@ Today, our customers can offer AI-powered support to employees in multiple langu
 
 Contact Moveworks to demo and deploy our AI chatbot in your Teams environment.
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png)
 
 
           Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png)
 
 
           Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
+![Image | Ay TECHNOLOGY &](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png)
 
 
           3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png)
 
 
           Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
+![Image | a . oe ° ° * ° ° ° ra](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png)
 
 
           From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png)
 
 
           AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.

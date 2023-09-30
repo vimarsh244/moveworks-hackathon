@@ -2,9 +2,9 @@
 
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
 
-Thank you.
 
-A member of the Moveworks team will be in touch within the next 24 hours.
+
+
 
 
 
@@ -20,9 +20,9 @@ Damián Hasse, CISO
 Rahul Kukreja, Security Solutions Architect
 
 
-![](https://www.moveworks.com/hubfs/UseThisImage.jpg)
+![ | ](https://www.moveworks.com/hubfs/UseThisImage.jpg)
 
-![](https://www.moveworks.com/hubfs/UseThisImage.jpg)
+![ | ](https://www.moveworks.com/hubfs/UseThisImage.jpg)
 
 Conversational AI is rapidly transforming how business is done. But with great power comes great responsibility — and one of the biggest responsibilities is protecting users from security and privacy risks.
 
@@ -52,7 +52,7 @@ Building trust into conversational AI means implementing proper data privacy pro
 
 
 
-![Screenshot 2023-03-08 at 1.53.20 PM](https://www.moveworks.com/hs-fs/hubfs/Screenshot%202023-03-08%20at%201.53.20%20PM.png?&height=852&name=Screenshot%202023-03-08%20at%201.53.20%20PM.png)
+![Screenshot 2023-03-08 at 1.53.20 PM | User Conversational Al Platform Machine Learning Models SPO og alos Eee Ce ty fetal OMe e it) Enterprise Collaboration Backend Platform € ? Services (Slack/Teams) ts identity & Input Customer Cloud Apps 4. Hardened NTT Tol) Logs KA Noo eel) Ura} Saree ar (O Data](https://www.moveworks.com/hs-fs/hubfs/Screenshot%202023-03-08%20at%201.53.20%20PM.png)
 
 Figure 1: Conversational AI platform overview detailing eight fundamentals of conversational AI trustworthiness.
 
@@ -120,37 +120,37 @@ At Moveworks, security and privacy are not just industry best practices but top 
 
 Contact  Moveworks to learn how AI can supercharge your workforce's productivity.
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png)
 
 
           Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png)
 
 
           Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
+![Image | Ay TECHNOLOGY &](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png)
 
 
           3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png)
 
 
           Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
+![Image | a . oe ° ° * ° ° ° ra](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png)
 
 
           From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png)
 
 
           AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.

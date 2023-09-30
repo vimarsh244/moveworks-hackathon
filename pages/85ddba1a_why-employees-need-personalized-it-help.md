@@ -2,9 +2,9 @@
 
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
 
-Thank you.
 
-A member of the Moveworks team will be in touch within the next 24 hours.
+
+
 
 
 
@@ -20,9 +20,9 @@ Sadish Ravi, Tech Lead
 Ari Kenney, Platform Engineer
 
 
-![](https://www.moveworks.com/hubfs/Blog-Identity%20Managment-illos-03.jpg)
+![ | a a eee Por GOT fe er: ) Kae 7 =a 7](https://www.moveworks.com/hubfs/Blog-Identity%20Managment-illos-03.jpg)
 
-![](https://www.moveworks.com/hubfs/Blog-Identity%20Managment-illos-03.jpg)
+![ | a a eee Por GOT fe er: ) Kae 7 =a 7](https://www.moveworks.com/hubfs/Blog-Identity%20Managment-illos-03.jpg)
 
 We live in a world of tailor-made technology. Yelp uses our location to recommend a hole-in-the-wall sushi place right down the block. Spotify learns our unique preferences to design the perfect workout playlist. Everything is personalized. In fact, in many cases, customized tech is no longer just a luxury: we need personalization to sort through our endless choices. 
 
@@ -30,7 +30,7 @@ But when it comes to getting help at work, such personalization is nowhere to be
 
 Figure 1: Personalized IT support requires a comprehensive understanding of every employee.
 
-![Blog-Identity Managment-figure-01-v2](https://www.moveworks.com/hs-fs/hubfs/img/blog/Identity%20Management/Blog-Identity%20Managment-figure-01-v2.jpg?noresize&width=760&name=Blog-Identity%20Managment-figure-01-v2.jpg)
+![Blog-Identity Managment-figure-01-v2 | 6) Cost center ) orelelaiays Region Office access ui](https://www.moveworks.com/hs-fs/hubfs/img/blog/Identity%20Management/Blog-Identity%20Managment-figure-01-v2.jpg)
 
 At Moveworks, we’ve tackled this simple problem with a solution that took our engineers years to perfect: an enterprise identity map. Our identity system automatically creates and maintains a comprehensive map for each of our customers’ employees — without any effort involved from the service desk. Using those maps, the Moveworks bot can then resolve IT issues in seconds, informed by deep, user-specific knowledge about the issue at hand. 
 
@@ -44,7 +44,7 @@ That’s why Moveworks spent a significant amount of time and effort to develop 
 
 Figure 2: Continuously updating employee identity maps creates a virtuous cycle, allowing Moveworks to deliver personalized IT support.
 
-![employee identity maps](https://www.moveworks.com/hs-fs/hubfs/img/blog/Identity%20Management/employee%20identity%20maps.png?noresize&width=1200&name=employee%20identity%20maps.png)
+![employee identity maps | Ellen Can | add Steve and Nick to the team Slack channel? Updated identity map a helps Moveworks ’ resolve future , ‘ IT issues / Moveworks references Ellen’s identity map to disambiguate her request Q a 8 e Moveworks updates Ellen, Nick, and Steve’s identity maps With this context, Moveworks fulfills her request in real time ma Moveworks APP ¥V Ok, Nicolas Addams and Stephen Billings have been added to #dev-ops-team](https://www.moveworks.com/hs-fs/hubfs/img/blog/Identity%20Management/employee%20identity%20maps.png)
 
 While service desk agents are experts at synthesizing lots of contextual information to resolve IT issues, each new issue forces them to spend minutes, or even hours, tracking down that information. Moveworks’ identity system mirrors this intuition to help employees — but with the advantage of instant access to their identity maps. Of course, this is easier said than done. Upkeep on this identity system means updating millions of names, roles, email groups, locations, and titles. Since all these data points are constantly changing, we need to regularly update these profiles throughout the day. 
 
@@ -58,7 +58,7 @@ Every action Moveworks takes is informed by our enterprise identity system. By a
 
 Figure 3: To deliver personalized IT support, Moveworks combines user information from across the IT tech stack.
 
-![Content_image_02](https://www.moveworks.com/hs-fs/hubfs/img/blog/Identity%20Management/Content_image_02.png?noresize&width=650&name=Content_image_02.png)
+![Content_image_02 | Backend systems a Directory oo R ©°°) Chat - Ticketing Identity map Q Support issues = Edit email group Reset password oo RQ Look up employees](https://www.moveworks.com/hs-fs/hubfs/img/blog/Identity%20Management/Content_image_02.png)
 
 Let’s take a look at our identity system in action:
 
@@ -68,25 +68,25 @@ With our identity map, it’s possible to send timely and contextual reminders. 
 
 Figure 4: An identity system makes it easy to be proactive when it comes to expiring credentials.
 
-![Password_Expiry](https://www.moveworks.com/hs-fs/hubfs/img/blog/Identity%20Management/Password_Expiry.png?noresize&width=502&name=Password_Expiry.png)
+![Password_Expiry | Moveworks 9:02 AM VV Hi Georgia, Okta informed me your password is expiring in 7 days. | can help! @ Update password now? Note: By continuing, your current password will be expired and you will be required to complete the password update process which may take several minutes. Yes No](https://www.moveworks.com/hs-fs/hubfs/img/blog/Identity%20Management/Password_Expiry.png)
 
 Chances are you know a lot of people named Chris. When an employee asks to add Chris to an email group or needs to look up her phone number, service desks have their work cut out for them to determine which Chris is the right one. But with an identity system, it’s possible to immediately understand why Andrea, an accountant, is looking for information on Christine, a financial analyst, and not Christopher, an engineer.
 
 Figure 5: Identity maps help disambiguate contacts with the same or similar names. 
 
-![People_Lookup](https://www.moveworks.com/hs-fs/hubfs/img/blog/Identity%20Management/People_Lookup.png?noresize&width=512&name=People_Lookup.png)
+![People_Lookup | Q Alexa 10:42 AM Can | have Chris' contact info? Nw Moveworks 9:02 AM VV Ok, you're asking about Chris Court. Here's what | found: Name Title Chris Court Financial Analyst Email Phone Number ccourt@globex.com (555) 123-4567 Was this helpful? Yes No](https://www.moveworks.com/hs-fs/hubfs/img/blog/Identity%20Management/People_Lookup.png)
 
 Deeply integrating identity into IT automation means that information is always up to date. By incorporating information from Active Directory, for example, our system knows whether an employee has access to a software license. So, when a newly hired employee asks for access to Tableau, the system can either automatically provision it or, alternatively, the system can nudge that employee’s manager to approve the application manually, depending on that employee’s permissions.
 
 Figure 6: Considering an employee’s security permissions allows Moveworks to securely provide resources like software, without involving the service desk.
 
-![Software_Access-1](https://www.moveworks.com/hs-fs/hubfs/img/blog/Identity%20Management/Software_Access-1.png?noresize&width=526&name=Software_Access-1.png)
+![Software_Access-1 | ¥ Paul 12:44 PM How do | get access to Excel? Moveworks 12:44 PM Ok, you need Microsoft Excel. Do you want me to get Microsoft Excel for you? Microsoft Excel is the industry leading spreadsheet program, a powerful data visualization and analysis ‘ool. Take your analytics to the next level with Excel. Yes Not relevant Cancel Paul 12:44 PM Can | get Tableau too? Moveworks 12:44 PM Ok, | understand you need Tableau, but this requires manager approval. Vv | have reached out to @Christine Lu to get Tableau approval for you. I'll let you know when it’s approved.](https://www.moveworks.com/hs-fs/hubfs/img/blog/Identity%20Management/Software_Access-1.png)
 
 When it comes to questions on company policy — travel guidelines, for example — the right answer depends on an employee’s location. Using our identity map, we know exactly where employees are located, so we can offer a highly personalized, specific answer. 
 
 Figure 7: Keeping track of an employee’s location, department, and other information, a chatbot can surface information relevant to a specific employee. 
 
-![Knowledge](https://www.moveworks.com/hs-fs/hubfs/img/blog/Identity%20Management/Knowledge.png?noresize&width=512&name=Knowledge.png)
+![Knowledge | Anna 10:58 AM What is our current travel policy? Moveworks 10:58 AM Ok, | just checked our knowledge base, and here is the closest answer | could find: ¥ COVID-19: What's the travel policy right now? Sales Team - Hold off on booking any future flights and ping your manager regarding cancelling pre-existing flights and customer visits. Toronto - Canadian citizens and permanent residents are advised to avoid all non-essential travel outside of Canada until further notice. Was this helpful? Yes No](https://www.moveworks.com/hs-fs/hubfs/img/blog/Identity%20Management/Knowledge.png)
 
 Personalization is the only way that an employee can make sense of all the information, tools, and systems at their disposal. Remembering the details of every little update is impossible, but with the information contained in an enterprise identity map, relevant and actionable IT support is only a question away. 
 
@@ -94,37 +94,37 @@ Even the most capable IT team can find it difficult to surface the best IT answe
 
 Contact  Moveworks to learn how AI can supercharge your workforce productivity.
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png)
 
 
           Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png)
 
 
           Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
+![Image | Ay TECHNOLOGY &](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png)
 
 
           3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png)
 
 
           Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
+![Image | a . oe ° ° * ° ° ° ra](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png)
 
 
           From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png)
 
 
           AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.
