@@ -1,13 +1,5 @@
 # https://www.moveworks.com/insights/how-ai-solves-support-issues
 
-Forrester names Moveworks a leader in Chatbot for IT operations. Read the report today.
-
-Moveworks named a Forrester leader in Chatbot for IT operations. 
-
-![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
-
-Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
-
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
 
 Thank you.
@@ -24,9 +16,9 @@ A member of the Moveworks team will be in touch within the next 24 hours.
 Jiang Chen, VP of Machine Learning
 
 
-![](https://www.moveworks.com/hubfs/MIE_Feature.jpeg)
+![ | Og O Dynamic Flow a OR Language Core Action Bid Enterprise Cache «oh Semantic Match](https://www.moveworks.com/hubfs/MIE_Feature.jpeg)
 
-![](https://www.moveworks.com/hubfs/MIE_Feature.jpeg)
+![ | Og O Dynamic Flow a OR Language Core Action Bid Enterprise Cache «oh Semantic Match](https://www.moveworks.com/hubfs/MIE_Feature.jpeg)
 
 At Moveworks, we’ve spent five years engineering an incredibly simple support experience to make work feel less like, well, work. In practice, this means taking complex processes like IT support and HR service delivery — which usually involve lots of manual effort from busy professionals — and automating them end-to-end, from the initial request for help to the full resolution of the issue.
 
@@ -34,7 +26,7 @@ Creating this simple experience forced us to build machine learning components t
 
  
 
-![Vaibhav_02](https://www.moveworks.com/hs-fs/hubfs/Moveweb/photos/Vaibhav_02.jpg?&name=Vaibhav_02.jpg)
+![Vaibhav_02 | ](https://www.moveworks.com/hs-fs/hubfs/Moveweb/photos/Vaibhav_02.jpg)
 
  
 
@@ -64,7 +56,7 @@ So in approaching this challenge, you need a layer cake of dozens of deep learni
 
 
 
-![MIEBlog_LanguageCore](https://www.moveworks.com/hs-fs/hubfs/MIEBlog_LanguageCore.png?noresize&width=600&name=MIEBlog_LanguageCore.png)
+![MIEBlog_LanguageCore | John 9:12 PM e Hey IT. Jenny Marshall just moved to another team howdo | take her off the Ul roadmap dl asap. thanks. Spelling correction models “howdo” —> “how do” Named entity models | SPERSON (Jenny Marshall) $GROUP (UI roadmap) | i Statistical grammar models | Remove — Group (Jenny Marshall, Ul roadmap) | Intent extraction models [Remove — Group 95%] [Query — Knowledge 62%]... | Record linkage models | Remove — Group (jmarshall@globex.com, ??) | Disambiguation models | Remove — Group (jmarshall@globex.com, Ul_roadmap@)](https://www.moveworks.com/hs-fs/hubfs/MIEBlog_LanguageCore.png)
 
 Figure 2: Language Core breaks down and restructures complex requests to understand what an employee is looking for. 
 
@@ -88,7 +80,7 @@ Dynamic Flow works to handle even the most erratic conversations by determining 
 
 
 
-![MIEBlog_DynamicFlow](https://www.moveworks.com/hs-fs/hubfs/MIEBlog_DynamicFlow.png?noresize&width=600&name=MIEBlog_DynamicFlow.png)
+![MIEBlog_DynamicFlow | John 7:22 AM Hey -- can | get Jenny Marshall access to powerpoint? Moveworks 7:22 AM Ok, I’ve contacted Jenny Marshall to grant access to Microsoft Powerpoint. John 7:23 AM Actually, she’s moving to a different team howdo | take her off the UI roadmap dl thanks Moveworks 7:23 AM ® Good news, Jenny is removed from UI Roadmap (UI-Roadmap@moveworks.us)! John 7:23 AM Thanks much!](https://www.moveworks.com/hs-fs/hubfs/MIEBlog_DynamicFlow.png)
 
 Figure 3: While some conversations are straightforward, more often than not, employees have complicated issues that require a deep understanding of past interactions and current context to resolve. 
 
@@ -118,7 +110,7 @@ So the key to finding that ideal solution is keeping track of every possible sol
 
 
 
-![MIE_AB](https://www.moveworks.com/hs-fs/hubfs/MIE_AB.png?noresize&width=600&name=MIE_AB.png)
+![MIE_AB | Remove from email group = Provide contact information File a ticket](https://www.moveworks.com/hs-fs/hubfs/MIE_AB.png)
 
 Figure 4: Different solutions bid for the opportunity to solve an issue. When one or multiple options reach the confidence threshold, a response is sent to the user in seconds.
 
@@ -140,7 +132,7 @@ The key is wading through all this detail to get only the correct information in
 
 
 
-![MIEBlog_EnterpriseCache](https://www.moveworks.com/hs-fs/hubfs/MIEBlog_EnterpriseCache.png?noresize&width=600&name=MIEBlog_EnterpriseCache.png)
+![MIEBlog_EnterpriseCache | v John 9:12 PM Hey IT. Jenny Marshall just moved to another team howdo | take her off the UI roadmap dl asap. thanks. Moveworks 8:35 AM Ok, you'd like to remove Jenny Marshall from a group: UlRoadmap@globex.com The above user(s) will be removed as members and will no longer receive emails sent to this distributution list. Already uodate Name Emad Jenny Marshal jennymarshatemove ' works.ca Group name Group emaa international salescanada@movew Offerings Ul orks.ca Ok, you'd like to remove Jenny Marshall from a group: UlRoadmap@globex.com [men eeeeperer: © Room phone number: Room amenities: “a Es PISS es: sma | ‘nt ooned It los $3592, °25 accessor islet y home. 4 sss22.7" 1." AL thes CMe, om mY Wo. WHR rem employees as of 08/31/2020 wil be Provided an IT Welcome Kit to help with productivity while you are working from home. These kits will be shipped to your provided shipping address during your Oonboarding process.](https://www.moveworks.com/hs-fs/hubfs/MIEBlog_EnterpriseCache.png)
 
 Figure 5: Moveworks personalizes the support experience by giving employees exactly the resource they need, whether that is a single sentence from a knowledge article or a conversationalized form.
 
@@ -160,7 +152,7 @@ Semantic Match provides precise answers to employees’ questions — directly o
 
 
 
-![MIE_Blog_SemanticMatch](https://www.moveworks.com/hs-fs/hubfs/MIE_Blog_SemanticMatch.png?noresize&width=600&name=MIE_Blog_SemanticMatch.png)
+![MIE_Blog_SemanticMatch | hh Moveworks 8:32 AM VV You’ve been|removed from the UI Roadmap | ——————_ Remove from group distribution list Jenny 8:35 AM Jenny 8:35 AM | BTW, my new team|is in{Vancouver].. could | Knowledge request Personalize to location have some information on the 401K Plan? heh WV Moveworks 8:35 AM Ok, just checked our knowledge base, here is — the closest answer | could find: * Moveworks Employee Benefits Enrollment (Canada) All employees based in Canada are eligible to be enrolled in a Registered Retirement Savings Plan (RRSP).](https://www.moveworks.com/hs-fs/hubfs/MIE_Blog_SemanticMatch.png)
 
 Figure 6: Keeping track of an employee’s location, department, and other context, Semantic Match surfaces the most relevant answer to each employee.
 
@@ -184,37 +176,37 @@ We built our Intelligence Engine the hard way, putting thousands of hours of R&D
 
 Request a demo to see the Moveworks Intelligence Engine™ in action.
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png)
 
 
           Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png)
 
 
           Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
+![Image | Ay TECHNOLOGY &](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png)
 
 
           3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png)
 
 
           Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
+![Image | a . oe ° ° * ° ° ° ra](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png)
 
 
           From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png)
 
 
           AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.

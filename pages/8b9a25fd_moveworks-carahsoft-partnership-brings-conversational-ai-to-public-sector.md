@@ -1,13 +1,5 @@
 # https://www.moveworks.com/insights/moveworks-carahsoft-partnership-brings-conversational-ai-to-public-sector
 
-Forrester names Moveworks a leader in Chatbot for IT operations. Read the report today.
-
-Moveworks named a Forrester leader in Chatbot for IT operations. 
-
-![Image | ](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
-
-Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
-
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
 
 Thank you.
@@ -46,19 +38,7 @@ Moveworks closes the gap between employees and the systems they engage with. By 
 
 
 
-![Image | ‘Alex 1127 AM
-
-'m deployed and just had a baby! Gotta figure
-‘ut how to add my little one to our healthcare
-plan, ASAP!
-
-Moveworks 1:27 AN
-just checked our knowledge base, here is the
-losest answ
-
-* How to update your Family Care Plan
-
-fent child, or fam](https://www.moveworks.com/hs-fs/hubfs/undefined.png?&height=400&name=undefined.png)
+![Image | Alex 11:27 AM. I'm deployed and just had a baby! Gotta figure out how to add my little one to our healthcare plan, ASAP! Moveworks 11:27 AM Ok, just checked our knowledge bi closest answer | could find: *» How to update your Family Care Plan If youre the spouse, dependent child, or family caregiver of a Veteran or service member, you may qualify for heal ‘h care. Read full article...](https://www.moveworks.com/hs-fs/hubfs/undefined.png)
 
 Figure 1: When an employee needs information, Moveworks can instantly surface the resources needed to solve the problem.
 
@@ -78,25 +58,7 @@ In this way, Moveworks can eliminate preventable downtime for public sector empl
 
 
 
-![Image | Moveworks 2:00 P\
-Hi Chelsea, | noticed that your Okta password is
-
-expiring at 9:00 AM on Thursday, Apr 1, 2021.
-Ican help!
-
-   
-   
- 
-   
-
-@ Update password now?
-Note: By continuing, your current password
-will be expired. You will be required to
-complete the update process which may
-take several minutes.
-
-Already updated
-ee](https://www.moveworks.com/hs-fs/hubfs/undefined-1.png?&height=409&name=undefined-1.png)
+![Image | Moveworks 2:30 PM Hi Chelsea, | noticed that your Okta password is expiring at 9:00 AM on Thursday, Apr 1, 2021. Ican help! @ Update password now? Note: By continuing, your current password will be expired. You will be required to complete the update process which may take several minutes. UF oTo rc mate] Already updated](https://www.moveworks.com/hs-fs/hubfs/undefined-1.png)
 
 Figure 2: Moveworks notifies employees proactively, helping prevent disruptions before they happen.
 
@@ -128,37 +90,37 @@ No matter your industry, conversational AI from Moveworks can elevate your emplo
 
 See what the Moveworks-Carahsoft partnership can do for you. Request a demo.
 
-![Image | in](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png)
 
 
           Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
         
 
-![Image | ](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png)
 
 
           Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
         
 
-![Image | ](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
+![Image | Ay TECHNOLOGY &](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png)
 
 
           3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
         
 
-![Image | ](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png)
 
 
           Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
         
 
-![Image | ](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
+![Image | a . oe ° ° * ° ° ° ra](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png)
 
 
           From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
         
 
-![Image | 8](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png)
 
 
           AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.

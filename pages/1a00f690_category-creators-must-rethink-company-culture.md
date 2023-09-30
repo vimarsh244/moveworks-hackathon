@@ -1,13 +1,5 @@
 # https://www.moveworks.com/insights/category-creators-must-rethink-company-culture
 
-Forrester names Moveworks a leader in Chatbot for IT operations. Read the report today.
-
-Moveworks named a Forrester leader in Chatbot for IT operations. 
-
-![Image | ](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
-
-Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
-
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
 
 Thank you.
@@ -24,21 +16,9 @@ A member of the Moveworks team will be in touch within the next 24 hours.
 Al-Husein Madhany, Head of People
 
 
-![ | To
+![ | To Inc.Best Workplaces BEST PLACES 2021 TO WORK](https://www.moveworks.com/hubfs/30_MW_Blog_CompanyCulture_UPDATE.jpg)
 
-Inc.Best
-Workplaces
-
-BEST PLACES 2021
-TO WORK](https://www.moveworks.com/hubfs/30_MW_Blog_CompanyCulture_UPDATE.jpg)
-
-![ | To
-
-Inc.Best
-Workplaces
-
-BEST PLACES 2021
-TO WORK](https://www.moveworks.com/hubfs/30_MW_Blog_CompanyCulture_UPDATE.jpg)
+![ | To Inc.Best Workplaces BEST PLACES 2021 TO WORK](https://www.moveworks.com/hubfs/30_MW_Blog_CompanyCulture_UPDATE.jpg)
 
 What does it take to create a new category?
 
@@ -78,7 +58,7 @@ So how do we embody our belief? Above all, we’re committed to simplifying the 
 
  
 
-![Sofie-Headshot_300x300 | -@®](https://www.moveworks.com/hs-fs/hubfs/Sofie-Headshot_300x300.jpg?&name=Sofie-Headshot_300x300.jpg)
+![Sofie-Headshot_300x300 | iy](https://www.moveworks.com/hs-fs/hubfs/Sofie-Headshot_300x300.jpg)
 
 Most importantly, your belief should inform how you treat your employees, not only inside but also outside the office. At Moveworks, we recognize that friction and anxiety come from our personal lives as well, particularly in a global health crisis. To that end, we give our employees everything they need to concentrate on their work. When they get sick, they get access to comprehensive healthcare — with no insurance premiums. When they have a baby, we offer 100% paid parental leave, in excess of state requirements. And when they retire, our 401(k) matching program ensures their peace of mind. 
 
@@ -100,7 +80,7 @@ To avoid crashing that spaceship, your sales team must develop a close relations
 
 So, you ask, why the emphasis on individual ownership? In short, because there’s no other option. At Moveworks, we’ve built the first platform that solves every support issue, for every employee, no matter what they want, using a combination of natural language understanding (NLU), conversational AI, and probabilistic machine learning. There isn’t a user manual in the spaceship’s glovebox detailing how to fix our platform. Or measure its efficacy. Or talk about it on social media. Ultimately, each employee becomes the leading experts on their function: what fuels the ship, what crashes the ship, and why.
 
-![Ankoor_Shah_300x300-2 | ](https://www.moveworks.com/hs-fs/hubfs/Ankoor_Shah_300x300-2.jpg?&name=Ankoor_Shah_300x300-2.jpg)
+![Ankoor_Shah_300x300-2 | ](https://www.moveworks.com/hs-fs/hubfs/Ankoor_Shah_300x300-2.jpg)
 
 Without a manual to follow, category creation simply can’t happen under a strict corporate hierarchy, with orders passed down from above. Autonomy allows your team to thrive as a collective. But to accomplish your end goal — to write your own spaceship user manual one day — it requires over-communicating the insights you uncover. What are customers saying? What are analysts saying? What are your Twitter followers saying? Across the board, collaborative ownership gives your expert employees the knowledge necessary to reach new heights.
 
@@ -118,7 +98,7 @@ Returning to the Moveworks example, our leaders practice and preach transparency
 
 Beyond the tangible value of transparency for decision-making, there’s also an intangible benefit that’s just as important: a culture of ownership. Creating a category is among the most difficult and most rewarding challenges in the business world, one that demands a constant, unwavering commitment from your entire workforce. If your employees believe what you believe, they’re working for more than a paycheck; they’re working to turn your belief into reality. I’d argue they deserve to be treated as owners, and therefore, as leaders.
 
-![Ivy_Wang_300x300 | ](https://www.moveworks.com/hs-fs/hubfs/Ivy_Wang_300x300.jpg?&name=Ivy_Wang_300x300.jpg)
+![Ivy_Wang_300x300 | ](https://www.moveworks.com/hs-fs/hubfs/Ivy_Wang_300x300.jpg)
 
 People first
 
@@ -140,37 +120,37 @@ Check out our Careers to help us transform the world of employee support.
 
 ![Request Demo | ](https://no-cache.hubspot.com/cta/default/4204135/01fb8c68-5711-46f6-afd0-c984065bc3c4.png)
 
-![Image | in](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png)
 
 
           Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
         
 
-![Image | ](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png)
 
 
           Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
         
 
-![Image | ](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
+![Image | Ay TECHNOLOGY &](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png)
 
 
           3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
         
 
-![Image | ](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png)
 
 
           Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
         
 
-![Image | ](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
+![Image | a . oe ° ° * ° ° ° ra](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png)
 
 
           From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
         
 
-![Image | 8](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png)
 
 
           AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.

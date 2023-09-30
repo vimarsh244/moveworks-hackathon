@@ -1,13 +1,5 @@
 # https://www.moveworks.com/help-desk-support-software-demo
 
-Forrester names Moveworks a leader in Chatbot for IT operations. Read the report today.
-
-Moveworks named a Forrester leader in Chatbot for IT operations. 
-
-![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
-
-Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
-
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
 
 Thank you.
@@ -30,13 +22,13 @@ A member of the Moveworks team will be in touch shortly.
           IT issues resolved autonomously
         
 
-![broadcom](https://www.moveworks.com/hubfs/img/clients/logos/broadcom.png)
+![broadcom | ](https://www.moveworks.com/hubfs/img/clients/logos/broadcom.png)
 
 
           Avg. time Moveworks takes to solve employees’ issues
         
 
-![nutanix](https://www.moveworks.com/hubfs/img/clients/logos/nutanix.png)
+![nutanix | ](https://www.moveworks.com/hubfs/img/clients/logos/nutanix.png)
 
 
           Employees who are highly satisfied with Moveworks
@@ -62,33 +54,33 @@ Moveworks automates the entire life cycle of a high-touch support issue, from ro
 
 ![Image](https://www.moveworks.com/hubfs/img/site/logos/int-logos.svg)
 
-![Prakash Kota](https://www.moveworks.com/hs-fs/hubfs/Headshot_PrakashKota_Autodesk_DemoRequest_Wide.jpg?length=50&name=Headshot_PrakashKota_Autodesk_DemoRequest_Wide.jpg)
+![Prakash Kota | ](https://www.moveworks.com/hs-fs/hubfs/Headshot_PrakashKota_Autodesk_DemoRequest_Wide.jpg)
 
-![Laury Miller](https://www.moveworks.com/hs-fs/hubfs/Headshot_LauryMiller_Seagen_DemoRequest_Wide.jpg?length=50&name=Headshot_LauryMiller_Seagen_DemoRequest_Wide.jpg)
+![Laury Miller | ](https://www.moveworks.com/hs-fs/hubfs/Headshot_LauryMiller_Seagen_DemoRequest_Wide.jpg)
 
-![Greg Ogle](https://www.moveworks.com/hs-fs/hubfs/Headshot_GregOgle_Equinix_DemoRequest_Wide.jpg?length=50&name=Headshot_GregOgle_Equinix_DemoRequest_Wide.jpg)
+![Greg Ogle | ](https://www.moveworks.com/hs-fs/hubfs/Headshot_GregOgle_Equinix_DemoRequest_Wide.jpg)
 
-![Wendy M. Pfeiffer](https://www.moveworks.com/hs-fs/hubfs/Headshot_WendyPfeiffer_Nutanix_DemoRequest_Wide.jpg?length=50&name=Headshot_WendyPfeiffer_Nutanix_DemoRequest_Wide.jpg)
+![Wendy M. Pfeiffer | ](https://www.moveworks.com/hs-fs/hubfs/Headshot_WendyPfeiffer_Nutanix_DemoRequest_Wide.jpg)
 
-![Mark Tonnesen](https://www.moveworks.com/hs-fs/hubfs/Headshot_MarkTonnesen_FreedomFinancial_DemoRequest_Wide.jpg?length=50&name=Headshot_MarkTonnesen_FreedomFinancial_DemoRequest_Wide.jpg)
+![Mark Tonnesen | ](https://www.moveworks.com/hs-fs/hubfs/Headshot_MarkTonnesen_FreedomFinancial_DemoRequest_Wide.jpg)
 
-![Brian Hoyt](https://www.moveworks.com/hs-fs/hubfs/Headshot_BrianHoyt_Unity_DemoRequest_Wide.jpg?length=50&name=Headshot_BrianHoyt_Unity_DemoRequest_Wide.jpg)
+![Brian Hoyt | ](https://www.moveworks.com/hs-fs/hubfs/Headshot_BrianHoyt_Unity_DemoRequest_Wide.jpg)
 
-![Saran Mandair](https://www.moveworks.com/hs-fs/hubfs/Headshot_SaranMandair_Docusign_DemoRequest_Wide.jpg?length=50&name=Headshot_SaranMandair_Docusign_DemoRequest_Wide.jpg)
+![Saran Mandair | ](https://www.moveworks.com/hs-fs/hubfs/Headshot_SaranMandair_Docusign_DemoRequest_Wide.jpg)
 
-![Andy Nallappan](https://www.moveworks.com/hs-fs/hubfs/Headshot_AndyNallappan_Broadcom_DemoRequest_Wide.jpg?length=50&name=Headshot_AndyNallappan_Broadcom_DemoRequest_Wide.jpg)
+![Andy Nallappan | ](https://www.moveworks.com/hs-fs/hubfs/Headshot_AndyNallappan_Broadcom_DemoRequest_Wide.jpg)
 
-![Stanley Toh](https://www.moveworks.com/hs-fs/hubfs/Headshot_StanleyToh_Broadcom_DemoRequest_Wide.jpg?length=50&name=Headshot_StanleyToh_Broadcom_DemoRequest_Wide.jpg)
+![Stanley Toh | ](https://www.moveworks.com/hs-fs/hubfs/Headshot_StanleyToh_Broadcom_DemoRequest_Wide.jpg)
 
-![Steve LeBoeuf](https://www.moveworks.com/hs-fs/hubfs/Headshot_SteveLeBoeuf_Procore_DemoRequest_Wide.jpg?length=50&name=Headshot_SteveLeBoeuf_Procore_DemoRequest_Wide.jpg)
+![Steve LeBoeuf | ](https://www.moveworks.com/hs-fs/hubfs/Headshot_SteveLeBoeuf_Procore_DemoRequest_Wide.jpg)
 
-![Ashwin Ballal](https://www.moveworks.com/hs-fs/hubfs/Headshot_AshwinBallal_Medallia_DemoRequest_Wide-1.jpg?length=50&name=Headshot_AshwinBallal_Medallia_DemoRequest_Wide-1.jpg)
+![Ashwin Ballal | ](https://www.moveworks.com/hs-fs/hubfs/Headshot_AshwinBallal_Medallia_DemoRequest_Wide-1.jpg)
 
-![Russ Harris](https://www.moveworks.com/hs-fs/hubfs/Headshot_RussHarris_AppDynamics_DemoRequest_Wide.jpg?length=50&name=Headshot_RussHarris_AppDynamics_DemoRequest_Wide.jpg)
+![Russ Harris | ](https://www.moveworks.com/hs-fs/hubfs/Headshot_RussHarris_AppDynamics_DemoRequest_Wide.jpg)
 
-![Stephen Franchetti](https://www.moveworks.com/hs-fs/hubfs/Headshot_StephenFranchetti_Slack_DemoRequest_Wide.jpg?length=50&name=Headshot_StephenFranchetti_Slack_DemoRequest_Wide.jpg)
+![Stephen Franchetti | ](https://www.moveworks.com/hs-fs/hubfs/Headshot_StephenFranchetti_Slack_DemoRequest_Wide.jpg)
 
-![Amith Nair](https://www.moveworks.com/hs-fs/hubfs/Headshot_AmithNair_Vituity_DemoRequest_Wide.jpg?length=50&name=Headshot_AmithNair_Vituity_DemoRequest_Wide.jpg)
+![Amith Nair | ](https://www.moveworks.com/hs-fs/hubfs/Headshot_AmithNair_Vituity_DemoRequest_Wide.jpg)
 
 ![Moveworks customer - Slack](https://www.moveworks.com/hubfs/img/clients/logos/sized/slack.svg)
 
@@ -126,7 +118,7 @@ Moveworks integrates with ITSM platforms to deliver end-to-end resolution, inclu
 
 No one should be stuck resetting passwords. Moveworks provides 24/7 support, helping employees stay productive even when your IT team is asleep. 
 
-![Moveworks integration - Okta](https://www.moveworks.com/hubfs/Moveweb/logos/Enterprise%20IT%20logos/Okta_Logo_BrightBlue_Medium.png)
+![Moveworks integration - Okta | ](https://www.moveworks.com/hubfs/Moveweb/logos/Enterprise%20IT%20logos/Okta_Logo_BrightBlue_Medium.png)
 
 ![Moveworks integration - Azure](https://www.moveworks.com/hubfs/Moveweb/Enterprise%20Logos%20(integrations)/azure-active-directory-1.png)
 
@@ -142,15 +134,15 @@ Employees can just ask Moveworks for help on the chat platform, where they alrea
 
 ![Moveworks integration - Microsoft Teams](https://www.moveworks.com/hubfs/img/integrations/mark-only/microsoft-teams.svg)
 
-![Moveworks integration - Slack](https://www.moveworks.com/hubfs/Moveweb/logos/Enterprise%20IT%20logos/Slack_Technologies_Logo.svg.png)
+![Moveworks integration - Slack | ](https://www.moveworks.com/hubfs/Moveweb/logos/Enterprise%20IT%20logos/Slack_Technologies_Logo.svg.png)
 
-![Moveworks integration - Webex](https://www.moveworks.com/hubfs/Webex_ByCisco_Icon_FullColor.png)
+![Moveworks integration - Webex | ](https://www.moveworks.com/hubfs/Webex_ByCisco_Icon_FullColor.png)
 
 ![Moveworks integration - Google Chat](https://www.moveworks.com/hubfs/Google_Hangouts_Chat.svg)
 
 ![Moveworks integration - Workplace](https://www.moveworks.com/hubfs/Facebook_Workplace-1.svg)
 
-![Moveworks integration - Glip](https://www.moveworks.com/hubfs/Glip_Icon_FullColor.png)
+![Moveworks integration - Glip | J}](https://www.moveworks.com/hubfs/Glip_Icon_FullColor.png)
 
 Knowledge is powerful, but usually lengthy and buried in siloed systems. Moveworks ingests all your resources, and helps employees save time by serving them the most relevant information.
 
@@ -166,13 +158,13 @@ Knowledge is powerful, but usually lengthy and buried in siloed systems. Movewor
 
 ![Moveworks integration - Igloo](https://www.moveworks.com/hubfs/Igloo.svg)
 
-![Moveworks integration - Guru](https://www.moveworks.com/hubfs/img/integrations/mark-only/guru-icon.png)
+![Moveworks integration - Guru | ](https://www.moveworks.com/hubfs/img/integrations/mark-only/guru-icon.png)
 
 ![Moveworks integration - Jive](https://www.moveworks.com/hubfs/Jive-1.svg)
 
-![Moveworks integration - RightAnswers](https://www.moveworks.com/hubfs/RightAnswers_ByUpland_Logo_FullColor.png)
+![Moveworks integration - RightAnswers | RightAnswers](https://www.moveworks.com/hubfs/RightAnswers_ByUpland_Logo_FullColor.png)
 
-![Moveworks integration - Comaround](https://www.moveworks.com/hubfs/Comaround_Icon_FullColor.png)
+![Moveworks integration - Comaround | = DX](https://www.moveworks.com/hubfs/Comaround_Icon_FullColor.png)
 
 ![Moveworks integration - Cherwell](https://www.moveworks.com/hubfs/Cherwell.svg)
 
@@ -184,7 +176,7 @@ Stay connected with your coworkers. Moveworks integration provides out-of-the-bo
 
 ![Moveworks integration - Microsoft Office 365](https://www.moveworks.com/hubfs/img/integrations/mark-only/microsoft-office-365.svg)
 
-![Moveworks integration - Gmail](https://www.moveworks.com/hubfs/Gmail-logo.png)
+![Moveworks integration - Gmail | ](https://www.moveworks.com/hubfs/Gmail-logo.png)
 
 ![Moveworks integration - Microsoft Exchange](https://www.moveworks.com/hubfs/img/integrations/mark-only/microsoft-exchange-bug.svg)
 
@@ -192,5 +184,5 @@ Let Moveworks answer your facilities questions automatically. Our AI chatbot giv
 
 ![Moveworks integration - OfficeSpace](https://www.moveworks.com/hubfs/img/integrations/mark-only/officespace-logo-bug.svg)
 
-![Moveworks integration - SpaceIQ](https://www.moveworks.com/hubfs/SpaceIQ_Logo_FullColor.png)
+![Moveworks integration - SpaceIQ | ](https://www.moveworks.com/hubfs/SpaceIQ_Logo_FullColor.png)
 

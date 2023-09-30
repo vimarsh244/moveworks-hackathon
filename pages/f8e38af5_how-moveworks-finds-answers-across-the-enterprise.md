@@ -1,13 +1,5 @@
 # https://www.moveworks.com/insights/how-moveworks-finds-answers-across-the-enterprise
 
-Forrester names Moveworks a leader in Chatbot for IT operations. Read the report today.
-
-Moveworks named a Forrester leader in Chatbot for IT operations. 
-
-![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
-
-Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
-
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
 
 Thank you.
@@ -28,9 +20,9 @@ Yi Liu, Head of Search
 Desmond Chan, Tech Lead
 
 
-![](https://www.moveworks.com/hubfs/28_MW_Blog_Feature_Enterprise-01.jpg)
+![ | ](https://www.moveworks.com/hubfs/28_MW_Blog_Feature_Enterprise-01.jpg)
 
-![](https://www.moveworks.com/hubfs/28_MW_Blog_Feature_Enterprise-01.jpg)
+![ | ](https://www.moveworks.com/hubfs/28_MW_Blog_Feature_Enterprise-01.jpg)
 
 Employees around the world suffer from the same problem: it takes forever to get answers at work. This problem is made even more frustrating given that outside of work, getting answers is as easy as Google.
 
@@ -40,7 +32,7 @@ So why doesn’t getting an answer at work feel the same way? Well — internal 
 
 Figure 1: Bringing consumer search capabilities to the business world is a game-changer.
 
-![28_MW_Blog_Feature_Enterprise-fig1](https://www.moveworks.com/hs-fs/hubfs/28_MW_Blog_Feature_Enterprise-fig1.png?noresize&width=680&name=28_MW_Blog_Feature_Enterprise-fig1.png)
+![28_MW_Blog_Feature_Enterprise-fig1 | UAL ae Understands universal natural language Answers questions across all domains Surfaces information tailored to user preferences](https://www.moveworks.com/hs-fs/hubfs/28_MW_Blog_Feature_Enterprise-fig1.png)
 
 We last talked about this problem of enterprise search in 2019. Since then, we've developed layer upon layer of artificial intelligence (AI) and machine learning (ML) models to take in any question, understand it, and offer a precise, actionable answer.
 
@@ -50,7 +42,7 @@ Working with customers like DocuSign, Slack, and Broadcom, we’ve come to reali
 
 
 
-![PrpChat-Finance-ESPP-Light](https://www.moveworks.com/hs-fs/hubfs/PrpChat-Finance-ESPP-Light.png?noresize&width=430&name=PrpChat-Finance-ESPP-Light.png)
+![PrpChat-Finance-ESPP-Light | i) Drew 7:22 AM Where can | find info on any tax implications for our ESPP? Moveworks 7:22 AM Ok, just checked our knowledge base, here is the closest answer | could find: * Employee stock purchase plan (ESPP) Tax Implications - UK ESPPs can be qualified or nonqualified. Under a qualified ESPP, employees may receive favorable tax treatment if they hold the shares acquired under the ESPP for at least two years from the grant date and one year from the purchase date. Read full article...](https://www.moveworks.com/hs-fs/hubfs/PrpChat-Finance-ESPP-Light.png)
 
 Figure 2: Moveworks is the go-to expert for every employee question.
 
@@ -66,7 +58,7 @@ At Moveworks, we realized that to jump this first hurdle we would need to break 
 
 
 
-![MW_LanguageCore@4x](https://www.moveworks.com/hs-fs/hubfs/MW_LanguageCore@4x.png?noresize&width=199&name=MW_LanguageCore@4x.png)
+![MW_LanguageCore@4x | ](https://www.moveworks.com/hs-fs/hubfs/MW_LanguageCore@4x.png)
 
 Moveworks Language Core™
 
@@ -76,7 +68,7 @@ One of the primary challenges in understanding language is that every company ha
 
 
 
-![Collective Learning in action](https://www.moveworks.com/hs-fs/hubfs/Imported_Blog_Media/Collective%20Learning%20in%20action.png?noresize&width=600&name=Collective%20Learning%20in%20action.png)
+![Collective Learning in action | Varun — 3:09PM | need a license for Zoom. | Jose = 3:11 PM Can | get Confluence access? | Sarah 3.27P™ Please give John a Trello account | $PERSON |! get SPERSON | | need i $SOFTWARE |: $PERSON $SOFTWARE](https://www.moveworks.com/hs-fs/hubfs/Imported_Blog_Media/Collective%20Learning%20in%20action.png)
 
 Figure 3: Collective Learning illuminates patterns across different lines of business, companies, and industries.
 
@@ -94,7 +86,7 @@ The key is figuring a way to get the right information in the right hands. And w
 
 
 
-![MW_EnterpriseCache@4x](https://www.moveworks.com/hs-fs/hubfs/MW_EnterpriseCache@4x.png?noresize&width=156&name=MW_EnterpriseCache@4x.png)
+![MW_EnterpriseCache@4x | ](https://www.moveworks.com/hs-fs/hubfs/MW_EnterpriseCache@4x.png)
 
 Moveworks Enterprise Cache™
 
@@ -104,7 +96,7 @@ To tackle this first problem — our solution ingests all the resources your emp
 
 
 
-![Software_Request_Approval_Required](https://www.moveworks.com/hs-fs/hubfs/Software_Request_Approval_Required.png?noresize&width=533&name=Software_Request_Approval_Required.png)
+![Software_Request_Approval_Required | Drew 8:03 AM Just started work today - can | get access to MS Office? Moveworks 8:03 AM Ok, it looks like you need MS Office. Only 1 field is missing. Please provide a business justification. Business Justification Please type your answer below. | Fill this form Drew 8:03 AM | need to build a pitch deck for tomorrow’s event. Moveworks 8:03 AM Ok, | understand you need MS Office, but this requires manager approval. v | have reached out to @Alex York to get MS Office approval for you. I'll let you know when it’s approved. Moveworks 8:05 AM Your access to MS Office has been approved. Click here to download. Drew 8:05 AM So fast! Thanks!](https://www.moveworks.com/hs-fs/hubfs/Software_Request_Approval_Required.png)
 
 Figure 4: Moveworks personalizes the support experience by giving employees exactly the resource they need, whether that is a single sentence from a knowledge article or a conversationalized form.
 
@@ -120,7 +112,7 @@ With Semantic Match™, we connect all of these dots automatically to get employ
 
 
 
-![MW_SemanticMatch@4x](https://www.moveworks.com/hs-fs/hubfs/MW_SemanticMatch@4x.png?noresize&width=217&name=MW_SemanticMatch@4x.png)
+![MW_SemanticMatch@4x | ](https://www.moveworks.com/hs-fs/hubfs/MW_SemanticMatch@4x.png)
 
 Moveworks Semantic Match™
 
@@ -130,7 +122,7 @@ Semantic Match™ takes every piece of this disparate data into account, from th
 
 
 
-![Blog_HR_Content_LocationAware](https://www.moveworks.com/hs-fs/hubfs/Blog_HR_Content_LocationAware.png?noresize&width=624&name=Blog_HR_Content_LocationAware.png)
+![Blog_HR_Content_LocationAware | Gwen a When does benefits enrollment start? Moveworks 8:95 AN Ok, just checked our knowledge base, here is the closest answer I could find: * Moveworks Healthcare Benefits Enrollment (Toronto) provincial coverage. Extended health covers many medical services Not included in your provincial basic medical plan. Open enrollment starts on Dec. 1, 2021. Drew 8:95 When does benefits enrollment start? Moveworks Ok, just checked our knowledge base, here is the closest answer | could find: *» Moveworks Healthcare Benefits Enrollment (Mountain View) Prior to the start of the new plan year, Gusto requires all eligible employees to re-enroll in benefits or waive coverage for the new plan year. At the end of September or early October.](https://www.moveworks.com/hs-fs/hubfs/Blog_HR_Content_LocationAware.png)
 
 Figure 5: Keeping track of an employee’s location, department, and other information, a chatbot can surface information relevant to a specific employee.
 
@@ -154,37 +146,37 @@ Tailor-made tech support: Why employees need personalized IT help
 
 Strength in numbers: Understanding unique IT issues with Collective Learning
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png)
 
 
           Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png)
 
 
           Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
+![Image | Ay TECHNOLOGY &](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png)
 
 
           3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png)
 
 
           Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
+![Image | a . oe ° ° * ° ° ° ra](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png)
 
 
           From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png)
 
 
           AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.

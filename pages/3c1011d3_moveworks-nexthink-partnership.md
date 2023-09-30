@@ -1,13 +1,5 @@
 # https://www.moveworks.com/insights/moveworks-nexthink-partnership
 
-Forrester names Moveworks a leader in Chatbot for IT operations. Read the report today.
-
-Moveworks named a Forrester leader in Chatbot for IT operations. 
-
-![Image | ](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
-
-Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
-
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
 
 Thank you.
@@ -46,42 +38,7 @@ Now with the Moveworks-Nexthink partnership, when employees inevitably run into 
 
 Figure 1: When an employee experiences a technical issue, Moveworks can trigger an action via Nexthink to solve the problem instantly.
 
-![FIG-01-Nexthink-instant help-EmployeeEXP-blog48 | Chelsea 7:22 AM
-
-I've been trying to send an email all weekend,
-but | see that outlook is offline. I've tried
-everything. Can you help?
-
- 
-
-Moveworks 7:22 AM
-VV found a related form.
-
-~ Set Outlook Online
-This automation checks if Outlook is
-working...
-
-Complete this form?
-
-Yes
-
- 
-
-| Get help
-
- 
-
-| Got it, submitting your request...
-ww Moveworks 7:22 AM
-VV  Goodnews! Set Outlook Online has completed.
-
-Please restart Outlook to resolve the
-problem.
-
- 
-
-Chelsea 7:22 AM
-THANK YOU!](https://www.moveworks.com/hs-fs/hubfs/FIG-01-Nexthink-instant%20help-EmployeeEXP-blog48.jpeg?noresize&width=400&name=FIG-01-Nexthink-instant%20help-EmployeeEXP-blog48.jpeg)
+![FIG-01-Nexthink-instant help-EmployeeEXP-blog48 | rad 8 i) v4 R-J Chelsea 7:22 AM I've been trying to send an email all weekend, but | see that outlook is offline. I've tried everything. Can you help? Moveworks 7:22 AM | found a related form. ¥ Set Outlook Online This automation checks if Outlook is working... Complete this form? Yes | Get help | Got it, submitting your request... Moveworks 7:22 AM ® Good news! Set Outlook Online has completed. Please restart Outlook to resolve the problem. Chelsea 7:22 AM THANK YOU!](https://www.moveworks.com/hs-fs/hubfs/FIG-01-Nexthink-instant%20help-EmployeeEXP-blog48.jpeg)
 
 For example, an employee messages Moveworks saying she can’t send emails. Moveworks’ natural language understanding (NLU) interprets her message, and then leverages Nexthink to address Outlook Online connectivity issues. If the employee’s Excel keeps crashing, their device has low disk space, or their laptop is slow to start up, the same applies.
 
@@ -97,35 +54,7 @@ As soon as Nexthink detects an issue, employees are automatically prompted to ta
 
 Figure 2: Nexthink notifies Moveworks when a disruptive issue occurs, so our bot can reach out to the individual affected and deliver a solution.
 
-![FIG-02-Software_Provisioning-blog48 | Moveworks 7:49 AM
-
-Our IT team notices a Blue Screen of Death
-error just occurred on your laptop and we
-wanted to check in.
-
-Internet Explorer seems to have
-
-cause the crash ©
-Try downloading Chrome instead.
-
-Ask me if you need help!
-
-Lewis 7:49 AM
-Can | get Chrome now? ?
-
-Moveworks 7:49 AM
-Do you want me to get Chrome for you?
-
-Yes
-
- 
-
-| Cancel
-
- 
-
-Lewis 7:49 AM
-Perfect timing!](https://www.moveworks.com/hs-fs/hubfs/FIG-02-Software_Provisioning-blog48.png?noresize&width=400&name=FIG-02-Software_Provisioning-blog48.png)
+![FIG-02-Software_Provisioning-blog48 | Moveworks 7:49 AM Our IT team notices a Blue Screen of Death error just occurred on your laptop and we wanted to check in. Internet Explorer seems to have cause the crash © Try downloading Chrome instead. Ask me if you need help! Lewis 7:49 AM Can | get Chrome now? ? Moveworks 7:49 AM Do you want me to get Chrome for you? Yes | Cancel Lewis 7:49 AM Perfect timing!](https://www.moveworks.com/hs-fs/hubfs/FIG-02-Software_Provisioning-blog48.png)
 
 For example, Nexthink can identify when an employee has recently experienced a system crash and recommend a solution in seconds. Then, Moveworks’ conversational AI takes over, prompting the user to take action — in this case, to download a new browser — to resolve the issue. 
 
@@ -143,37 +72,37 @@ Manoj Gupta is the VP of Partnerships at Moveworks. If you’re interested in le
 
 See what the Moveworks-Nexthink partnership can do for you. Request a demo.
 
-![Image | in](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png)
 
 
           Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
         
 
-![Image | ](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png)
 
 
           Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
         
 
-![Image | ](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
+![Image | Ay TECHNOLOGY &](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png)
 
 
           3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
         
 
-![Image | ](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png)
 
 
           Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
         
 
-![Image | ](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
+![Image | a . oe ° ° * ° ° ° ra](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png)
 
 
           From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
         
 
-![Image | 8](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png)
 
 
           AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.

@@ -1,13 +1,5 @@
 # https://www.moveworks.com/insights/how-to-reduce-it-costs-with-ai
 
-Forrester names Moveworks a leader in Chatbot for IT operations. Read the report today.
-
-Moveworks named a Forrester leader in Chatbot for IT operations. 
-
-![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
-
-Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
-
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
 
 Thank you.
@@ -24,9 +16,9 @@ A member of the Moveworks team will be in touch within the next 24 hours.
 The Moveworks Team
 
 
-![](https://www.moveworks.com/hubfs/Reduce_Costs_Resize.png)
+![ | ](https://www.moveworks.com/hubfs/Reduce_Costs_Resize.png)
 
-![](https://www.moveworks.com/hubfs/Reduce_Costs_Resize.png)
+![ | ](https://www.moveworks.com/hubfs/Reduce_Costs_Resize.png)
 
 If you're not considering AI as part of your strategy to reduce IT costs, you're leaving your money on the table. Hear me out:
 
@@ -48,7 +40,7 @@ In this instance, AI not only improves productivity and offers agents the opport
 
 Figure 1: With AI, IT support issues, like account unlocks or software provisioning, won’t slow your team down.
 
-![Software_Provisioning-blog45](https://www.moveworks.com/hs-fs/hubfs/Software_Provisioning-blog45.jpeg?&height=246&name=Software_Provisioning-blog45.jpeg)
+![Software_Provisioning-blog45 | Madison 7:49 AM | have to build a slide deck, but don’t have Powerpoint. Can | get it? Moveworks 7:49 AM VV Got it, working on it... ® Good news, I have granted access to Microsoft PowerPoint for you.](https://www.moveworks.com/hs-fs/hubfs/Software_Provisioning-blog45.jpeg)
 
  
 
@@ -60,7 +52,7 @@ Identifying potential problems before they occur allows businesses to improve th
 
 
 
-![FIG-02-Software_Provisioning-blog48](https://www.moveworks.com/hs-fs/hubfs/FIG-02-Software_Provisioning-blog48.png?&height=582&name=FIG-02-Software_Provisioning-blog48.png)
+![FIG-02-Software_Provisioning-blog48 | Moveworks 7:49 AM Our IT team notices a Blue Screen of Death error just occurred on your laptop and we wanted to check in. Internet Explorer seems to have cause the crash © Try downloading Chrome instead. Ask me if you need help! Lewis 7:49 AM Can | get Chrome now? ? Moveworks 7:49 AM Do you want me to get Chrome for you? Yes | Cancel Lewis 7:49 AM Perfect timing!](https://www.moveworks.com/hs-fs/hubfs/FIG-02-Software_Provisioning-blog48.png)
 
 Figure 2: With AI, IT support issues, like account unlocks or software provisioning, won’t slow your team down.
 
@@ -74,7 +66,7 @@ With knowledge of where they’re falling short, organizations can take steps to
 
 Figure 3: AI can filter issues intelligently, revealing the real story behind your support tickets.
 
-![img-EXI-hotspot-highlight-1](https://www.moveworks.com/hs-fs/hubfs/Imported%20sitepage%20images/img-EXI-hotspot-highlight-1.png?&height=501&name=img-EXI-hotspot-highlight-1.png)
+![img-EXI-hotspot-highlight-1 | What did Sales Department ~ need help with in April, 2022 - ? Overall, 2,358 employees raised 7,310 issues in this period @ 2.1 3.5 days 70.3% Issues per Employee Time to Resolution First Contact Resolution Rest of organization: 1.5 Rest of organization: 2.9 Rest of organization: 65.3% @ High impact to organization @ @ High impact to organization @ EMPLOVEE ISSUES MAP (Volume (¥) Impacted Employees Software Authentication Account Infrastructure Hardware Information Troubleshoot Manage Update Provision](https://www.moveworks.com/hs-fs/hubfs/Imported%20sitepage%20images/img-EXI-hotspot-highlight-1.png)
 
  
 
@@ -88,7 +80,7 @@ AI can help support teams to better meet the needs of their employees — withou
 
 Figure 4: AI can pull information from any backend support system, from IT to HR to finance to facilities.
 
-![AdaptiveResponse_PPL-1](https://www.moveworks.com/hs-fs/hubfs/AdaptiveResponse_PPL-1.png?&height=594&name=AdaptiveResponse_PPL-1.png)
+![AdaptiveResponse_PPL-1 | Angela 4:23 PM > What’s the policy for reactivating an access badge after maternity leave? Moveworks 4:23 P| Vv lL I've searched our knowledge base, here is the closest answer | could find plus a few related articles. Paid Parental Leave (Maternity and Paternity) Policy © 7 additional related articles found M ks 1:43 PM ni loveworks VV Would you like to fill out a form to reactivate your badge? Office Access Fill this form Angela 4:24 PM thank you! this form is exactly what | needed.](https://www.moveworks.com/hs-fs/hubfs/AdaptiveResponse_PPL-1.png)
 
  
 
@@ -100,7 +92,7 @@ AI's ability to work 24/7 can help IT support teams provide better employee supp
 
 Figure 5: AI works 24/7. If an employee is locked out of their account, they won’t have to wait hours to get help.
 
-![PrpChat-Reset-Password-blog45](https://www.moveworks.com/hs-fs/hubfs/PrpChat-Reset-Password-blog45.jpeg?&height=223&name=PrpChat-Reset-Password-blog45.jpeg)
+![PrpChat-Reset-Password-blog45 | Vv Chelsea 12:22 AM | forgot my password for MS office — please help. Moveworks 12:22 AM Ok, let’s reset your password | Click here to reset your password.](https://www.moveworks.com/hs-fs/hubfs/PrpChat-Reset-Password-blog45.jpeg)
 
  
 
@@ -114,7 +106,7 @@ Separately, AI is capable of translating information from your backend systems a
 
 Figure 6: AI can surface the most relevant answer to each employee in their language of choice.
 
-![blog_PTO_spanish](https://www.moveworks.com/hs-fs/hubfs/blog_PTO_spanish.png?&height=576&name=blog_PTO_spanish.png)
+![blog_PTO_spanish | Marina 9:25 AM éCuantos dias de PTO tengo? Moveworks 9:25 A Vale, parece que he encontrado una repuesta... Politica de PTO 2021 (México) Los empleados con base en México obtienen 3 semanas de PTO. éResponde esto a tu pregunta? | mo | | Ayuda | Marina 9:25 AM Perfecto](https://www.moveworks.com/hs-fs/hubfs/blog_PTO_spanish.png)
 
  
 
@@ -128,7 +120,7 @@ From a financial perspective, of course, IT organizations that don’t eliminate
 
 Figure 7: AI can handle the back-and-forth communication with employees to add comments, nudge agents, check status, and cancel requests, so your help desk doesn’t have to.
 
-![Automate-ticket-backnforth-blog45](https://www.moveworks.com/hs-fs/hubfs/Automate-ticket-backnforth-blog45.jpeg?&height=276&name=Automate-ticket-backnforth-blog45.jpeg)
+![Automate-ticket-backnforth-blog45 | Madison 7:49 AM | need lucid chart to draw up some diagrams for mkt presentation in powerpoint. Can | get a license quickly? Actually, nm — | already have a lincense Moveworks 7:50 AM Ok, cancelling this request. 6 Madison 7:50 AM hh WV](https://www.moveworks.com/hs-fs/hubfs/Automate-ticket-backnforth-blog45.jpeg)
 
  
 
@@ -142,7 +134,7 @@ AI can triage IT tickets more efficiently than a person because it can process a
 
 Figure 8: Many companies have hundreds or even thousands of assignment groups, meaning that service desk agents struggle to determine where to route issues. AI understands and routes requests to the right group.
 
-![Triage-issues-rights-expert-blog45](https://www.moveworks.com/hs-fs/hubfs/Triage-issues-rights-expert-blog45.jpeg?&height=249&name=Triage-issues-rights-expert-blog45.jpeg)
+![Triage-issues-rights-expert-blog45 | v Bryant 7:22AM | need to unsuspend the ADP Payroll account of my direct report, Jake. Can we kick-off this request? Moveworks 9 7:22AM Ok, | understand you have an HR question. I've submitted a ticket to the Payroll Team to handle your request.](https://www.moveworks.com/hs-fs/hubfs/Triage-issues-rights-expert-blog45.jpeg)
 
  
 
@@ -154,7 +146,7 @@ The cost savings of bringing together all support under one AI umbrella can be h
 
 Figure 9: HR can create a wonderfully positive work environment — but only if they’re not constantly dealing with time-consuming, routine issues. AI can step in, answering questions in seconds and sending info proactively.
 
-![49-BLOG-HR_OnboardingMsg](https://www.moveworks.com/hs-fs/hubfs/49-BLOG-HR_OnboardingMsg.jpeg?&height=438&name=49-BLOG-HR_OnboardingMsg.jpeg)
+![49-BLOG-HR_OnboardingMsg | ¥ Chris 9:00 AM It’s my first day! #* What do | need to do? Can't wait to get started!! Moveworks 9:00 AM Hi Chris, Welcome to Moveworks! * We're excited to have you! As part of our new hire onboarding, we have a few things for you to complete. * Moveworks new hire onboarding < Submit your employee verification documentation. « Select your medical, dental, & vision plans. © Set-up your retirement savings account. © Activate your transit and parking benefits.](https://www.moveworks.com/hs-fs/hubfs/49-BLOG-HR_OnboardingMsg.jpeg)
 
  
 
@@ -166,7 +158,7 @@ Organizations that invest in AI can expect to see an increase in the value of th
 
 Figure 10: While every company is unquestionably unique, many use the same IT to conduct business. Thanks to Collective Learning, AI can grow as you grow, constantly adjusting as new needs arise and teams evolve.
 
-![blog-illos-1D-1](https://www.moveworks.com/hs-fs/hubfs/Imported_Blog_Media/blog-illos-1D-1.png?&height=349&name=blog-illos-1D-1.png)
+![blog-illos-1D-1 | Zoom Outlook Salesforce MS Office Adobe Acrobat Dropbox Zendesk DocuSign Slack loT Company Health Care Provider](https://www.moveworks.com/hs-fs/hubfs/Imported_Blog_Media/blog-illos-1D-1.png)
 
  
 
@@ -190,37 +182,37 @@ Let us show you all you can get from conversational AI in a quick demo with our 
 
 Your budget is begging for AI. Request a demo today.
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png)
 
 
           Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png)
 
 
           Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
+![Image | Ay TECHNOLOGY &](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png)
 
 
           3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png)
 
 
           Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
+![Image | a . oe ° ° * ° ° ° ra](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png)
 
 
           From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png)
 
 
           AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.

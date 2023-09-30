@@ -1,13 +1,5 @@
 # https://www.moveworks.com/insights/robert-half-turned-microsoft-teams-into-a-virtual-workplace
 
-Forrester names Moveworks a leader in Chatbot for IT operations. Read the report today.
-
-Moveworks named a Forrester leader in Chatbot for IT operations. 
-
-![Image | ](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
-
-Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
-
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
 
 Thank you.
@@ -42,23 +34,7 @@ With Moveworks, we’ve managed to implement that approach successfully. In fact
 
 Figure 1: Adoption of Moveworks on Teams has continued to increase, thanks to our ongoing promotional campaign.
 
-![RH-BLOG-chart-blog-01c | Robert Half employees helped by Moveworks on Teams
-
- 
-
- 
-
- 
-
-Ongoing promotion
-of Teams features
-
-Regular broadcast
-notifications sent via
-Moveworks on Teams
-
-Moveworks and Teams
-promotion begins](https://www.moveworks.com/hs-fs/hubfs/RH-BLOG-chart-blog-01c.png?&name=RH-BLOG-chart-blog-01c.png)
+![RH-BLOG-chart-blog-01c | Robert Half employees helped by Moveworks on Teams Ongoing promotion of Teams features Regular broadcast notifications sent via Moveworks on Teams Moveworks and Teams promotion begins](https://www.moveworks.com/hs-fs/hubfs/RH-BLOG-chart-blog-01c.png)
 
 Prior to working remotely full-time, most employees at Robert Half relied on conventional communication channels like email. The shift to remote work exacerbated the problems with these channels, since waiting hours or days for a response over email is even more of a drag on productivity when you can’t meet face-to-face. Microsoft Teams, on the other hand, is fundamentally interactive and location-agnostic, making it the ideal virtual workplace.
 
@@ -70,63 +46,7 @@ Moving away from conventional channels like email meant rethinking how our IT te
 
 Figure 2: Moveworks allows us to send key updates to employees on Teams.
 
-![RH-service-desk-TEAMS-FIG 2b | Search or type a command ro
-
- 
-
-4 +> | Service Desk
-
-Ey Conversation About
-
- 
-
-Service Desk
-Hi, Lucie. look for these new MS Teams features rolling out in August!
-
-3] August 2020
-
-Look for these new features rolling out in August!
-
-a Gallery | [Galery |
-Large Gallery EERE)
-
-- Together Mode (EEE
-CONNECT App (ij
-
-Microsoft Teams Technology Updates August
-
-Gallery: Provides you with a 3x3 video grid display, perfect for
-smaller meetings.
-
-Large Gallery: Displays multiple participants in a grid formation.
-You can view up to 49 participants in a single screen...now that’s a
-very, Brady, meeting!
-
-Together Mode: Want to sit next to your coworkers in an audience
-setting while not social distancing? Check out Together Mode,
-everyone will be seated and ready to go.
-
-CONNECT App: Would you like to visit CONNECT with one simple
-click? Pin the App, found in the left handrail and you'll be
-‘CONNECTED ' in no time!
-
- 
-
- 
-
-Good to know! Not helpful
-
- 
-
- 
-
- 
-
- 
-
-Type your questions here
-
-¥OB- &](https://www.moveworks.com/hs-fs/hubfs/RH-service-desk-TEAMS-FIG%202b.png?&name=RH-service-desk-TEAMS-FIG%202b.png)
+![RH-service-desk-TEAMS-FIG 2b | Search or type a command ro 4 +> | Service Desk Ey Conversation About Service Desk Hi, Lucie. look for these new MS Teams features rolling out in August! 3] August 2020 Look for these new features rolling out in August! a Gallery | [Galery | Large Gallery EERE) - Together Mode (EEE CONNECT App (ij Microsoft Teams Technology Updates August Gallery: Provides you with a 3x3 video grid display, perfect for smaller meetings. Large Gallery: Displays multiple participants in a grid formation. You can view up to 49 participants in a single screen...now that’s a very, Brady, meeting! Together Mode: Want to sit next to your coworkers in an audience setting while not social distancing? Check out Together Mode, everyone will be seated and ready to go. CONNECT App: Would you like to visit CONNECT with one simple click? Pin the App, found in the left handrail and you'll be ‘CONNECTED ' in no time! Good to know! Not helpful Type your questions here ¥OB- &](https://www.moveworks.com/hs-fs/hubfs/RH-service-desk-TEAMS-FIG%202b.png)
 
 It is important to note that these broadcast messages are interactive. So, if an employee has follow-up questions, they can ask the Moveworks bot directly. And not just questions about the broadcast. Through the bot, employees can learn more about the Teams platform, get troubleshooting help, or read more about company policies.
 
@@ -138,81 +58,7 @@ For employees, Microsoft Teams facilitates real-time communication, getting ever
 
 Figure 3: Moveworks provides real-time IT support, automatically tracking and resolving issues, even for employees working from home. 
 
-![ms-teams-chabot-FIG 3 | Search or type a command
-
-cal
-
- 
-
-+> | Service Desk
-
-Conversation About
-
- 
-
- 
-
-Tuesday 10:03 AM
-What's the status of ITHELP-7450?
-
-Service Desk
-One moment, fetching your tickets...
-
-(ITHELP-7450) My laptop screen is cracked and | need a
-replacement...
-
-In Progress
-
-Service Desk | 2019-02-12 10:02 PM PST
-
-Kai Carter said: | will need a loaner laptop please via @E-Bot
-
- 
-
- 
-
-Add comment Close issue
-
- 
-
- 
-
- 
-
- 
-
-Tuesday 10:17 AM
-please send a replacement ASAP!
-
-Service Desk
-Ok, I've drafted your comment to ticket (ITHELP-7450) My
-laptop screen is cracked and | need a replacement
-
-(Draft) please send a replacement ASAP!
-
-Send your comment?
-
- 
-
- 
-
-Yes, post comment No, modify Cancel
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Type your questions here
-
-¥OB- &](https://www.moveworks.com/hs-fs/hubfs/ms-teams-chabot-FIG%203.png?&name=ms-teams-chabot-FIG%203.png)
+![ms-teams-chabot-FIG 3 | Search or type a command cal +> | Service Desk Conversation About Tuesday 10:03 AM What's the status of ITHELP-7450? Service Desk One moment, fetching your tickets... (ITHELP-7450) My laptop screen is cracked and | need a replacement... In Progress Service Desk | 2019-02-12 10:02 PM PST Kai Carter said: | will need a loaner laptop please via @E-Bot Add comment Close issue Tuesday 10:17 AM please send a replacement ASAP! Service Desk Ok, I've drafted your comment to ticket (ITHELP-7450) My laptop screen is cracked and | need a replacement (Draft) please send a replacement ASAP! Send your comment? Yes, post comment No, modify Cancel Type your questions here ¥OB- &](https://www.moveworks.com/hs-fs/hubfs/ms-teams-chabot-FIG%203.png)
 
 Now, Moveworks is resolving a growing portion of our tickets across many use cases, but there will always be tickets that AI can't resolve — that's where we lean heavily on Moveworks Triage to help get the right issues to the right assignment groups accurately and instantly. 60% of our service desk actions are more complex and require input from subject-matter experts. The conventional model of email and manually sorting through everything that comes into the support desk is time-intensive. Now with Moveworks, 70% of all IT issues that need to be reassigned are automatically handled by Moveworks Triage.
 
@@ -222,89 +68,41 @@ After launching our internal Moveworks bot, groups that had once resisted this t
 
 Figure 4: Moveworks automatically surfaces relevant knowledge base articlesto answer employee questions directly in Teams. 
 
-![ms-teams-chabot SNIPPET-FIG 4 | Search or type a command @
-
- 
-
-4 +> | Service Desk
-
-Ey Conversation About
-
- 
-
- 
-
-Tuesday 8:33 AM
-Is whiteboard interactive in a Teams meeting?
-
-& Service Desk
-® Ok, | found a few articles that might help:
-
-LL Use Microsoft Teams Rooms as an Interactive Whiteboard Device
-
-When Microsoft Teams Rooms is part of a meeting, it can display the Microsoft
-Whiteboard for all attendees in the meeting room to see. All you need is a
-touch-enabled display device.
-
-Click here to read the full article
-
-Does this resolve your issue?
-
- 
-
-Yes No File Ticket
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Type your questions here
-
-¥OB- &](https://www.moveworks.com/hs-fs/hubfs/ms-teams-chabot%20SNIPPET-FIG%204.png?&name=ms-teams-chabot%20SNIPPET-FIG%204.png)
+![ms-teams-chabot SNIPPET-FIG 4 | Search or type a command @ 4 +> | Service Desk Ey Conversation About Tuesday 8:33 AM Is whiteboard interactive in a Teams meeting? & Service Desk ® Ok, | found a few articles that might help: LL Use Microsoft Teams Rooms as an Interactive Whiteboard Device When Microsoft Teams Rooms is part of a meeting, it can display the Microsoft Whiteboard for all attendees in the meeting room to see. All you need is a touch-enabled display device. Click here to read the full article Does this resolve your issue? Yes No File Ticket Type your questions here ¥OB- &](https://www.moveworks.com/hs-fs/hubfs/ms-teams-chabot%20SNIPPET-FIG%204.png)
 
 Contact  Moveworks to learn how AI can supercharge your workforce productivity.
 
-![Image | in](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png)
 
 
           Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
         
 
-![Image | ](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png)
 
 
           Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
         
 
-![Image | ](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
+![Image | Ay TECHNOLOGY &](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png)
 
 
           3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
         
 
-![Image | ](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png)
 
 
           Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
         
 
-![Image | ](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
+![Image | a . oe ° ° * ° ° ° ra](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png)
 
 
           From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
         
 
-![Image | 8](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png)
 
 
           AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.

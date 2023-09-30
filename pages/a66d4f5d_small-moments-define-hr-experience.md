@@ -1,13 +1,5 @@
 # https://www.moveworks.com/insights/small-moments-define-hr-experience
 
-Forrester names Moveworks a leader in Chatbot for IT operations. Read the report today.
-
-Moveworks named a Forrester leader in Chatbot for IT operations. 
-
-![Image | ](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
-
-Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
-
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
 
 Thank you.
@@ -24,15 +16,9 @@ A member of the Moveworks team will be in touch within the next 24 hours.
 Al-Husein Madhany, Head of People
 
 
-![ | At
-#1 BEST PLACE TO WORK
+![ | At #1 BEST PLACE TO WORK Moveworks](https://www.moveworks.com/hubfs/41-BLOG-MW-BestPlacesToWork-2.jpg)
 
-Moveworks](https://www.moveworks.com/hubfs/41-BLOG-MW-BestPlacesToWork-2.jpg)
-
-![ | At
-#1 BEST PLACE TO WORK
-
-Moveworks](https://www.moveworks.com/hubfs/41-BLOG-MW-BestPlacesToWork-2.jpg)
+![ | At #1 BEST PLACE TO WORK Moveworks](https://www.moveworks.com/hubfs/41-BLOG-MW-BestPlacesToWork-2.jpg)
 
 It’s HR’s role to make company culture happen. We take pride in creating big, ambitious plans to improve the employee experience, from team trips to new benefits to leadership training.
 
@@ -48,25 +34,7 @@ By shifting your attention away from individual support and focusing instead on 
 
 
 
-![PrpChat_HR_Benefits_LocationBased_Toronto-1 | Alexa 3:32 PM
-What are the health benefits in Toronto?
-
-Moveworks 3:32 PM
-
-VV Ok, just checked our knowledge base, here is
-the closest answer | could find:
-
-* Healthcare Benefits Overview
-All employees based in Canada should be
-covered by Provincial Health Plans. Globex
-contributes toward the cost of provincial
-coverage.
-
-Extended health covers many medical
-services not included in your provincial basic
-medical plan.
-
-Read full article...](https://www.moveworks.com/hs-fs/hubfs/PrpChat_HR_Benefits_LocationBased_Toronto-1.png?noresize&width=400&name=PrpChat_HR_Benefits_LocationBased_Toronto-1.png)
+![PrpChat_HR_Benefits_LocationBased_Toronto-1 | Alexa 3:32 PM What are the health benefits in Toronto? Moveworks 3:32 PM VV Ok, just checked our knowledge base, here is the closest answer | could find: * Healthcare Benefits Overview All employees based in Canada should be covered by Provincial Health Plans. Globex contributes toward the cost of provincial coverage. Extended health covers many medical services not included in your provincial basic medical plan. Read full article...](https://www.moveworks.com/hs-fs/hubfs/PrpChat_HR_Benefits_LocationBased_Toronto-1.png)
 
 Figure 1: When resources are easily understood, employees help themselves.
 
@@ -80,24 +48,7 @@ HR teams have been tasked with ensuring employees are safe in the face of a fast
 
 
 
-![PrpChat-Answers-CovidTesting | Georgia 9:04 AM
-
-I’m dropping by HQ — what’s the current covid
-testing policy?
-
- 
-
-Moveworks 9:04 AM
-
-VV As part of our protocol governing Covid Variants
-of Concern, we are requiring all employees to
-test negative for Covid via a rapid antigen, PCR,
-or similar test within 24 hours of returning to
-any Moveworks office.
-
-Schedule a test
-
-| | have questions |](https://www.moveworks.com/hs-fs/hubfs/PrpChat-Answers-CovidTesting.png?noresize&width=400&name=PrpChat-Answers-CovidTesting.png)
+![PrpChat-Answers-CovidTesting | Georgia 9:04 AM I’m dropping by HQ — what’s the current covid testing policy? Moveworks 9:04 AM VV As part of our protocol governing Covid Variants of Concern, we are requiring all employees to test negative for Covid via a rapid antigen, PCR, or similar test within 24 hours of returning to any Moveworks office. Schedule a test | | have questions |](https://www.moveworks.com/hs-fs/hubfs/PrpChat-Answers-CovidTesting.png)
 
 Figure 2: Answer common questions in seconds with AI.
 
@@ -115,28 +66,7 @@ The root of many support requests is change. Launching a new 401(k) program is g
 
 
 
-![PrpChat-EmployeeComms-401k-1 | Moveworks 10:00 AM
-Hi Alex,
-
->< With the new year, comes new 401(k) limits! 5<
-
-To make a change to your contribution, update
-your information by EOD Friday, Jan 7.
-
-| | have questions |
-
- 
-
- 
-
- 
-
-Alex 10:00 AM
-Are my contributions matched?
-
-Moveworks 10:00 AM
-Yes! Moveworks matches 4% of your 401(k)
-contributions.](https://www.moveworks.com/hs-fs/hubfs/PrpChat-EmployeeComms-401k-1.png?noresize&width=400&name=PrpChat-EmployeeComms-401k-1.png)
+![PrpChat-EmployeeComms-401k-1 | Moveworks 10:00 AM Hi Alex, >< With the new year, comes new 401(k) limits! 5< To make a change to your contribution, update your information by EOD Friday, Jan 7. | | have questions | Alex 10:00 AM Are my contributions matched? Moveworks 10:00 AM Yes! Moveworks matches 4% of your 401(k) contributions.](https://www.moveworks.com/hs-fs/hubfs/PrpChat-EmployeeComms-401k-1.png)
 
 Figure 3: Send actionable messages to prevent issues before they happen.
 
@@ -154,37 +84,37 @@ Check out our Careers to help Moveworks build the best HR experience.
 
 ![Request Demo | ](https://no-cache.hubspot.com/cta/default/4204135/01fb8c68-5711-46f6-afd0-c984065bc3c4.png)
 
-![Image | in](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png)
 
 
           Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
         
 
-![Image | ](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png)
 
 
           Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
         
 
-![Image | ](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
+![Image | Ay TECHNOLOGY &](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png)
 
 
           3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
         
 
-![Image | ](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png)
 
 
           Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
         
 
-![Image | ](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
+![Image | a . oe ° ° * ° ° ° ra](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png)
 
 
           From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
         
 
-![Image | 8](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png)
 
 
           AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.

@@ -40,11 +40,32 @@ def prune_image_url(image_url):
     return image_url.split('?')[0]
 
 
+# Function to exclude header and footer elements from the parsed HTML
+def exclude_header_footer(soup):
+    # Specify CSS selectors or attributes to identify header and footer elements
+    header_selectors = ['header', '.header', '#header']
+    footer_selectors = ['footer', '.footer', '#footer']
+
+    # Remove header elements
+    for selector in header_selectors:
+        header_elements = soup.select(selector)
+        for element in header_elements:
+            element.extract()
+
+    # Remove footer elements
+    for selector in footer_selectors:
+        footer_elements = soup.select(selector)
+        for element in footer_elements:
+            element.extract()
+
+    return soup
+
 # Function to scrape text and images from a webpage and save as Markdown with inline images
 def scrape_and_save_as_markdown(url, output_dir):
     response = requests.get(url)
     soup = BeautifulSoup(response.text, 'html.parser')
-    
+    soup = exclude_header_footer(soup)
+
     # Generate a unique filename based on the URL
     filename = generate_filename(url)
     output_path = os.path.join(output_dir, filename)
@@ -103,7 +124,20 @@ def update_alt_text_with_ocr(markdown_dir):
                     print("doing OCR for : " + img_url)
                     extracted_text = perform_ocr(img_url)
                     if extracted_text:
-                        markdown_content = markdown_content.replace(match.group(0), f"![{alt_text} | {extracted_text.strip()}]({img_url})")
+                        print("Got text: " + extracted_text)
+                    if extracted_text:
+                        # Sanitize extracted text and alt text
+                        extracted_text = ' '.join(extracted_text.split())  # Replace consecutive spaces with single space
+                        extracted_text = extracted_text.strip()  # Remove leading and trailing whitespace
+                        extracted_text = extracted_text.replace('\n', '\\n')  # Replace new lines with "\\n"
+                        
+                        alt_text = ' '.join(alt_text.split())  # Replace consecutive spaces with single space
+                        alt_text = alt_text.strip()  # Remove leading and trailing whitespace
+                        alt_text = alt_text.replace('\n', '\\n')  # Replace new lines with "\\n"
+
+                        markdown_content = markdown_content.replace(match.group(0), f"![{alt_text} | {extracted_text}]({img_url})")
+
+                        # markdown_content = markdown_content.replace(match.group(0), f"![{alt_text} | {extracted_text.strip()}]({img_url})")
 
                 # Rewind the file and write updated content
                 markdown_file.seek(0)
@@ -149,8 +183,8 @@ if __name__ == "__main__":
 
     print("downloading pages...")
     # Scrape and save as Markdown
-    # for url in urls:
-    #     scrape_and_save_as_markdown(url, output_dir)
+    for url in urls:
+        scrape_and_save_as_markdown(url, output_dir)
 
     markdown_dir = output_dir
     

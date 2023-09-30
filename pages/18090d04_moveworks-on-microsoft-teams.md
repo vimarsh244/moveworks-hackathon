@@ -1,13 +1,5 @@
 # https://www.moveworks.com/moveworks-on-microsoft-teams
 
-Forrester names Moveworks a leader in Chatbot for IT operations. Read the report today.
-
-Moveworks named a Forrester leader in Chatbot for IT operations. 
-
-![Image | ](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
-
-Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
-
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
 
 Thank you.
@@ -32,26 +24,7 @@ Better employee experienceMoveworks autonomously resolves, on average, 40% of al
 
 More ROI from existing automationEnterprises running Microsoft Teams and Moveworks derive better ROI on their existing automated services. Moveworks makes this possible because its conversational AI understands the IT issue when the employee reports it in a Microsoft Teams chat. Moveworks takes immediate action, executing the appropriate automated service.
 
-![SoftwareAccess_Mobile_MSTeams_InDevice | © salable
-
-Ok, you need Microsoft 368.
-
-Do you want me to get
-Microsoft 365 for you?
-Microsoft when and where you
-need it. Work anywhere, anytime,
-on any device. Microsoft 368s,
-ready when you a.
-
-Got it, working on it.
-
-v Ok, Ihave reached out to
-Kai Carter to get Microsoft 365.
-approval for you. I'll et you
-know when it's approved.
-
-By the way, your access request
-is tracked in ticket](https://www.moveworks.com/hs-fs/hubfs/img/blog/SoftwareAccess_Mobile_MSTeams_InDevice.png?&height=751&name=SoftwareAccess_Mobile_MSTeams_InDevice.png)
+![SoftwareAccess_Mobile_MSTeams_InDevice | ewc @ Available Ok, you need Microsoft 365. Do you want me to get EE microsot365 Microsoft 365 for you? Microsoft when and where you need it. Work anywhere, anytime, on any device. Microsoft 365 is ready when you are. Got it, working on it... V Ok, | have reached out to Kai Carter to get Microsoft 365. approval for you. I'll let you know when it's approved. By the way, your access request is tracked in ticket Type a new message KR) @ Ag ow](https://www.moveworks.com/hs-fs/hubfs/img/blog/SoftwareAccess_Mobile_MSTeams_InDevice.png)
 
 “Moveworks is a rare breed of technology that immediately provides value back that we can invest in other areas of IT.”
 

@@ -1,13 +1,5 @@
 # https://www.moveworks.com/insights/chatbot-vs-conversational-ai
 
-Forrester names Moveworks a leader in Chatbot for IT operations. Read the report today.
-
-Moveworks named a Forrester leader in Chatbot for IT operations. 
-
-![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
-
-Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
-
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
 
 Thank you.
@@ -46,7 +38,7 @@ Crucially, these bots depend on a team of engineers to build every single flow, 
 
 
 
-![blog-figure-03b-mobile@2x-4](https://www.moveworks.com/hs-fs/hubfs/Imported_Blog_Media/blog-figuret-03b-mobile@2x-4.png?&height=504&name=blog-figure-03b-mobile@2x-4.png)
+![blog-figure-03b-mobile@2x-4](https://www.moveworks.com/hs-fs/hubfs/Imported_Blog_Media/blog-figure-03b-mobile@2x-4.png?&height=504&name=blog-figure-03b-mobile@2x-4.png)
 
 Figure 1: Rules-based chatbots with pre-scripted responses can’t keep up
 

@@ -1,13 +1,5 @@
 # https://www.moveworks.com/insights/moveworks-instant-employee-support-platform
 
-Forrester names Moveworks a leader in Chatbot for IT operations. Read the report today.
-
-Moveworks named a Forrester leader in Chatbot for IT operations. 
-
-![Image | ](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
-
-Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
-
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
 
 Thank you.
@@ -24,59 +16,9 @@ A member of the Moveworks team will be in touch within the next 24 hours.
 Bhavin Shah, CEO and Founder
 
 
-![ | Anna 11:57 AM
-Can | add Steve to the Salesforce admin DL?
+![ | Anna 11:57 AM Can | add Steve to the Salesforce admin DL? x fe\ Chris 12:00 PM Madison 12:07 PM i) How do | add a beneficiary to my 6 How much will | be taxed on my RSU health plan? grants? | Paul 11:53 AM Gwen 12:12 PM Can | come to the office to pick upa_ S) Need help to confirm work eligibility monitor for WFH? | ~ for my employee.](https://www.moveworks.com/hubfs/Blog_Feature_OneBotForEverything.jpg)
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-x
-
-fe\ Chris 12:00 PM Madison 12:07 PM
-i) How do | add a beneficiary to my 6 How much will | be taxed on my RSU
-health plan? grants?
-
-| Paul 11:53 AM Gwen 12:12 PM
-Can | come to the office to pick upa_ S) Need help to confirm work eligibility
-monitor for WFH? | ~ for my employee.](https://www.moveworks.com/hubfs/Blog_Feature_OneBotForEverything.jpg)
-
-![ | Anna 11:57 AM
-Can | add Steve to the Salesforce admin DL?
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-x
-
-fe\ Chris 12:00 PM Madison 12:07 PM
-i) How do | add a beneficiary to my 6 How much will | be taxed on my RSU
-health plan? grants?
-
-| Paul 11:53 AM Gwen 12:12 PM
-Can | come to the office to pick upa_ S) Need help to confirm work eligibility
-monitor for WFH? | ~ for my employee.](https://www.moveworks.com/hubfs/Blog_Feature_OneBotForEverything.jpg)
+![ | Anna 11:57 AM Can | add Steve to the Salesforce admin DL? x fe\ Chris 12:00 PM Madison 12:07 PM i) How do | add a beneficiary to my 6 How much will | be taxed on my RSU health plan? grants? | Paul 11:53 AM Gwen 12:12 PM Can | come to the office to pick upa_ S) Need help to confirm work eligibility monitor for WFH? | ~ for my employee.](https://www.moveworks.com/hubfs/Blog_Feature_OneBotForEverything.jpg)
 
 Every day for the past half-decade, we’ve been inching closer to this moment.
 
@@ -96,56 +38,7 @@ At most companies, talented professionals are stuck solving employee support iss
 
 
 
-![blog-mw-EmployeeServicePlatform-figure-01 | Employee issues
-
-a
-
-Can | add Steve to the
-Salesforce admin DL?
-
-   
-    
-   
-
- 
-
-alas
-
-How do | add a beneficiary
-to my health plan?
-
- 
-
-Finance
-
- 
-
-How much will | be taxed
-on my RSU grants?
-
-er Ter i Tha ( oss)
-
- 
-
-Can | come to the office to
-pick up a monitor for WFH?
-
-| -YoF-]|
-
-Need help to confirm work
-eligibility for my employee
-
-Support channels Company resources
-
-fn 4
-
-NY now
-Ee okta
-EK
-
-EXE G Suite
-
-7](https://www.moveworks.com/hs-fs/hubfs/blog-mw-EmployeeServicePlatform-figure-01.png?noresize&width=760&name=blog-mw-EmployeeServicePlatform-figure-01.png)
+![blog-mw-EmployeeServicePlatform-figure-01 | Employee issues a Can | add Steve to the Salesforce admin DL? alas How do | add a beneficiary to my health plan? Finance How much will | be taxed on my RSU grants? er Ter i Tha ( oss) Can | come to the office to pick up a monitor for WFH? | -YoF-]| Need help to confirm work eligibility for my employee Support channels Company resources fn 4 NY now Ee okta EK EXE G Suite 7](https://www.moveworks.com/hs-fs/hubfs/blog-mw-EmployeeServicePlatform-figure-01.png)
 
 Figure 1: Today’s complex digital businesses prevent employees from finding the resources they need.
 
@@ -197,37 +90,37 @@ Request a demo to see the Moveworks platform in action.
 
 ![Request Demo | ](https://no-cache.hubspot.com/cta/default/4204135/01fb8c68-5711-46f6-afd0-c984065bc3c4.png)
 
-![Image | in](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png)
 
 
           Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
         
 
-![Image | ](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png)
 
 
           Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
         
 
-![Image | ](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
+![Image | Ay TECHNOLOGY &](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png)
 
 
           3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
         
 
-![Image | ](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png)
 
 
           Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
         
 
-![Image | ](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
+![Image | a . oe ° ° * ° ° ° ra](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png)
 
 
           From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
         
 
-![Image | 8](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png)
 
 
           AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.

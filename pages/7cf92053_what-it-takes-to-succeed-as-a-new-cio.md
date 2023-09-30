@@ -1,13 +1,5 @@
 # https://www.moveworks.com/insights/what-it-takes-to-succeed-as-a-new-cio
 
-Forrester names Moveworks a leader in Chatbot for IT operations. Read the report today.
-
-Moveworks named a Forrester leader in Chatbot for IT operations. 
-
-![Image | ](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
-
-Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
-
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
 
 Thank you.
@@ -66,11 +58,7 @@ By mapping different initiatives on this matrix, I’m better able to visualize 
 
 
 
-![img-blog-good-decision-making-1200x500-001-b | PRIORITY
-
- 
-
-COMPLEXITY](https://www.moveworks.com/hs-fs/hubfs/img-blog-good-decision-making-1200x500-001-b.png?&height=500&name=img-blog-good-decision-making-1200x500-001-b.png)
+![img-blog-good-decision-making-1200x500-001-b | PRIORITY COMPLEXITY](https://www.moveworks.com/hs-fs/hubfs/img-blog-good-decision-making-1200x500-001-b.png)
 
 Figure 1:  Good decision-making is all about understanding the trade-offs between priority and complexity.
 
@@ -90,12 +78,7 @@ You’ll learn more from failure and mistakes than from success. Work to learn f
 
 
 
-![img-blog-success-intersect-1200x480-002 | EMPLOYEE OPERATIONAL
-EXPERIENCE EFFICIENCY
-
-   
-
-SUCCESS SUCCESS](https://www.moveworks.com/hs-fs/hubfs/img-blog-success-intersect-1200x480-002.png?&height=480&name=img-blog-success-intersect-1200x480-002.png)
+![img-blog-success-intersect-1200x480-002 | EMPLOYEE OPERATIONAL EXPERIENCE EFFICIENCY SUCCESS SUCCESS](https://www.moveworks.com/hs-fs/hubfs/img-blog-success-intersect-1200x480-002.png)
 
 Figure 2: Success sits at the intersection of your ability to provide a high-quality employee experience and run efficient IT operations. The greater the overlap, the greater your success.
 
@@ -133,14 +116,7 @@ Yousuf: Oh, 100%. Feedback. I never got enough feedback. And as a result, I wasn
 
 Figure 3: Continuous feedback helps you and your team to develop the skills needed to succeed.
 
-![img-blog-continuous-feedback-1200x500-003-v2 | CAREER
-GROWTH
-
- 
-
- 
-
-TIME](https://www.moveworks.com/hs-fs/hubfs/img-blog-continuous-feedback-1200x500-003-v2.png?&height=500&name=img-blog-continuous-feedback-1200x500-003-v2.png)
+![img-blog-continuous-feedback-1200x500-003-v2 | CAREER GROWTH TIME](https://www.moveworks.com/hs-fs/hubfs/img-blog-continuous-feedback-1200x500-003-v2.png)
 
 Giving feedback is just as important as getting it. You’ve got to connect with your team. Your team’s morale and motivation hinge on your ability to think about and demonstrate an interest in your people’s careers. And your success as CIO hinges on your team’s ability to perform. So give your team the information and the support they need to be their best.
 
@@ -154,11 +130,7 @@ That’s why I think this conversation with Yousuf is incredibly valuable for an
 
 Before I sign off, let's revisit four core themes from this conversation:
 
-![img-blog-4core-themes-1200x675-004-b | (1) Ask questions
-(2) Communicate effectively
-(3) Build relationships
-
-(4) Adopt a growth mindset](https://www.moveworks.com/hs-fs/hubfs/img-blog-4core-themes-1200x675-004-b.png?&height=500&name=img-blog-4core-themes-1200x675-004-b.png)
+![img-blog-4core-themes-1200x675-004-b | (1) Ask questions (2) Communicate effectively (3) Build relationships (4) Adopt a growth mindset](https://www.moveworks.com/hs-fs/hubfs/img-blog-4core-themes-1200x675-004-b.png)
 
  
 
@@ -166,37 +138,37 @@ Know exactly what’s slowing your people down with Employee Experience Insight
 
 Sign up for a demo today to see it in action.
 
-![Image | in](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png)
 
 
           Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
         
 
-![Image | ](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png)
 
 
           Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
         
 
-![Image | ](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
+![Image | Ay TECHNOLOGY &](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png)
 
 
           3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
         
 
-![Image | ](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png)
 
 
           Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
         
 
-![Image | ](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
+![Image | a . oe ° ° * ° ° ° ra](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png)
 
 
           From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
         
 
-![Image | 8](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png)
 
 
           AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.

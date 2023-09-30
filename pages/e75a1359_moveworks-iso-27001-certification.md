@@ -1,13 +1,5 @@
 # https://www.moveworks.com/insights/moveworks-iso-27001-certification
 
-Forrester names Moveworks a leader in Chatbot for IT operations. Read the report today.
-
-Moveworks named a Forrester leader in Chatbot for IT operations. 
-
-![Image | ](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
-
-Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
-
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
 
 Thank you.
@@ -38,18 +30,7 @@ ISO 27001 is a leading global standard for building a secure organization — on
 
 
 
-![blog-iso | RS Dec
-
-Enterprise-grade
-security
-
-Information Security Management System
-ISO/IEC 27001:2013
-
-ISO 27001
-CERTIFIED
-
- schellman](https://www.moveworks.com/hs-fs/hubfs/blog-iso.png?&name=blog-iso.png)
+![blog-iso | RS Dec Enterprise-grade security Information Security Management System ISO/IEC 27001:2013 ISO 27001 CERTIFIED schellman](https://www.moveworks.com/hs-fs/hubfs/blog-iso.png)
 
 ISO 27001 certification marks a significant step in the security and compliance component of the Moveworks service, which has been integral to our company’s DNA from the very beginning. Most organizations take years to get certified — often overhauling their entire digital infrastructure in the process. But Moveworks managed to earn its certification just ten months after coming out of stealth mode, in large part because we’d structured not only our technical infrastructure but also our organization as a whole for robust security. 
 
@@ -71,37 +52,37 @@ Indeed, getting ISO 27001 certified was just one of many pit stops on the securi
 
 Thank you for your continued support. To learn more, please contact us at security@moveworks.ai.
 
-![Image | in](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png)
 
 
           Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
         
 
-![Image | ](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png)
 
 
           Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
         
 
-![Image | ](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
+![Image | Ay TECHNOLOGY &](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png)
 
 
           3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
         
 
-![Image | ](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png)
 
 
           Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
         
 
-![Image | ](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
+![Image | a . oe ° ° * ° ° ° ra](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png)
 
 
           From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
         
 
-![Image | 8](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png)
 
 
           AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.

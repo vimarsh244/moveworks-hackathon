@@ -1,13 +1,5 @@
 # https://www.moveworks.com/insights/work-you-are-doing-it-wrong
 
-Forrester names Moveworks a leader in Chatbot for IT operations. Read the report today.
-
-Moveworks named a Forrester leader in Chatbot for IT operations. 
-
-![Image | ](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
-
-Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
-
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
 
 Thank you.
@@ -24,15 +16,9 @@ A member of the Moveworks team will be in touch within the next 24 hours.
 Bhavin Shah, CEO and Founder
 
 
-![ | a4 here to solve a small set of
+![ | a4 here to solve a small set of problems; we're here to transform tne world of work as we know it.](https://www.moveworks.com/hubfs/46_BLOG_MW-HERO-Time2RedefineWorkplace-C.jpg)
 
-problems; we're here to transform tne
-world of work as we know it.](https://www.moveworks.com/hubfs/46_BLOG_MW-HERO-Time2RedefineWorkplace-C.jpg)
-
-![ | a4 here to solve a small set of
-
-problems; we're here to transform tne
-world of work as we know it.](https://www.moveworks.com/hubfs/46_BLOG_MW-HERO-Time2RedefineWorkplace-C.jpg)
+![ | a4 here to solve a small set of problems; we're here to transform tne world of work as we know it.](https://www.moveworks.com/hubfs/46_BLOG_MW-HERO-Time2RedefineWorkplace-C.jpg)
 
 Twenty years ago, Google redefined for the world what it meant to be a great workplace. 
 
@@ -58,7 +44,7 @@ But put yourself in your employees’ shoes today. Working in 2022 is incredibly
 
 In short, most companies are still focused on improving their physical HQ, when it’s really the digital workplace that needs an upgrade.  We’re used to getting what we want as soon as we want it outside of work, and the office simply can’t keep up.
 
-![Artboard 1 | AG](https://www.moveworks.com/hs-fs/hubfs/Artboard%201.png?&name=Artboard%201.png)
+![Artboard 1 | AG](https://www.moveworks.com/hs-fs/hubfs/Artboard%201.png)
 
 As consumers, we have borderline magical experiences every day. Yelp can recommend your new favorite Indian restaurant right down the block, while Amazon helps you find the perfect pair of shoes with a single search. But at work, enrolling in a healthcare plan takes hours and hours, and getting a new laptop requires three different people to sign off.
 
@@ -80,7 +66,7 @@ I know, you know, and your employees know what’s burning people out. 
 
 It isn’t working on an exciting new product or fighting for a deal. It’s the little things. It’s spending two days waiting for access to a Figma board so you can collaborate on a design. It’s constantly dealing with a spotty WiFi connection. And it’s not knowing when a $2,000 expense will be reimbursed so you can pay your credit card bill on time. We’ve all been there, practically banging our heads against the wall, waiting days for a solution.
 
-![Artboard 1 | AG](https://www.moveworks.com/hs-fs/hubfs/Artboard%201.png?&name=Artboard%201.png)
+![Artboard 1 | AG](https://www.moveworks.com/hs-fs/hubfs/Artboard%201.png)
 
 What we want instead is a digital HQ that’s even better than the office. But to do that, we need to start with a strong foundation. Which is going to be a challenge, because the digital HQ of today is in a bad spot. 
 
@@ -116,7 +102,7 @@ I found that the future of work isn’t more perks. It’s AI.
 
 It’s not the surface-level perks that keep people coming to work every day; it’s the fact that they’re inspired to do meaningful work. You need something substantial to simplify the complex work lives that your people have. You need a digital HQ that frees people to do their best work in the same way old offices did, and the only way to build that kind of digital HQ is with AI.
 
-![Artboard 1 | AG](https://www.moveworks.com/hs-fs/hubfs/Artboard%201.png?&name=Artboard%201.png)
+![Artboard 1 | AG](https://www.moveworks.com/hs-fs/hubfs/Artboard%201.png)
 
 Here at Moveworks, we want to do more than fix everyday problems. We want to help our customers create a magical experience for their employees. This is the idea that’s motivated us to create a new kind of employee experience platform. 
 
@@ -174,43 +160,43 @@ We’re taking employee experience out of the office and into the digital world,
 
 We can build a workplace where employees don’t wait for help, where everyone’s engaged, where the experience keeps improving, and — most importantly — where people are put first no matter where they work or the language they speak. It’s possible. I’ve seen it happen at companies from Autodesk to Wellstar. They’ve pioneered Worktopia, and we’re beyond proud to have even more join us on this journey in the months and years to come.
 
-![Artboard 1 | AG](https://www.moveworks.com/hs-fs/hubfs/Artboard%201.png?&name=Artboard%201.png)
+![Artboard 1 | AG](https://www.moveworks.com/hs-fs/hubfs/Artboard%201.png)
 
 We’re not here to solve a small set of problems; we’re here to transform the world of work as we know it. All of us, from Engineering to Marketing to People Ops, joined Moveworks because we share this same vision. A vision where AI has a decisive role in building the best workplaces on the planet.
 
 Discover Worktopia. 
 
-![Image | in](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png)
 
 
           Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
         
 
-![Image | ](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png)
 
 
           Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
         
 
-![Image | ](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
+![Image | Ay TECHNOLOGY &](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png)
 
 
           3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
         
 
-![Image | ](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png)
 
 
           Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
         
 
-![Image | ](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
+![Image | a . oe ° ° * ° ° ° ra](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png)
 
 
           From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
         
 
-![Image | 8](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png)
 
 
           AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.

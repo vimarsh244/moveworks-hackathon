@@ -1,13 +1,5 @@
 # https://www.moveworks.com/insights/prevent-issues-with-moveworks-api
 
-Forrester names Moveworks a leader in Chatbot for IT operations. Read the report today.
-
-Moveworks named a Forrester leader in Chatbot for IT operations. 
-
-![Image | ](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
-
-Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
-
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
 
 Thank you.
@@ -24,31 +16,9 @@ A member of the Moveworks team will be in touch within the next 24 hours.
 Varun Singh, VP of Product
 
 
-![ | Curl] -;
-1 -X post \
+![ | Curl] -; 1 -X post \ https : / / api -moveworks .ai/rest,¥., seer ‘Authorization: YOUR APi_s we “It looks +*™" owe a and end. oe “mes sage](https://www.moveworks.com/hubfs/220216_Static_APIHero-Terminal_v01%20%280-00-06-01%29_4.png)
 
-https : / / api -moveworks .ai/rest,¥., seer
-‘Authorization: YOUR APi_s
-
-we “It looks +*™"
-owe a
-
-and end. oe
-
-“mes sage](https://www.moveworks.com/hubfs/220216_Static_APIHero-Terminal_v01%20%280-00-06-01%29_4.png)
-
-![ | Curl] -;
-1 -X post \
-
-https : / / api -moveworks .ai/rest,¥., seer
-‘Authorization: YOUR APi_s
-
-we “It looks +*™"
-owe a
-
-and end. oe
-
-“mes sage](https://www.moveworks.com/hubfs/220216_Static_APIHero-Terminal_v01%20%280-00-06-01%29_4.png)
+![ | Curl] -; 1 -X post \ https : / / api -moveworks .ai/rest,¥., seer ‘Authorization: YOUR APi_s we “It looks +*™" owe a and end. oe “mes sage](https://www.moveworks.com/hubfs/220216_Static_APIHero-Terminal_v01%20%280-00-06-01%29_4.png)
 
 Every employee deserves effortless support at work. At Moveworks, we take this statement as fact. It’s why we’ve spent years engineering an extensive network of machine learning models to take complex processes, like IT support and HR service delivery, and automate them end-to-end.
 
@@ -64,24 +34,7 @@ The result? Companies save millions of dollars on tech that would otherwise just
 
 Figure 1: Automatically managing software licenses saves your team time and money.
 
-![PrpChat_API_SoftwareDeprovisioning | Moveworks 9:00 AM
-Hi Ellen &
-Still using Smartsheet? Your last login was
-
-January 1, 2022. Log in by April 15, 2022 to
-keep your license.
-
-& Click here to log in to
-Smartsheet now!
-If you don’t need the license
-
-anymore, just let me know and 1’ll
-reassign it!
-
-Ellen 9:07 AM
-
-Nope, don’t need it! Go spread the
-Smartsheet wealth. «>](https://www.moveworks.com/hs-fs/hubfs/PrpChat_API_SoftwareDeprovisioning.png?noresize&width=557&name=PrpChat_API_SoftwareDeprovisioning.png)
+![PrpChat_API_SoftwareDeprovisioning | Moveworks 9:00 AM Hi Ellen & Still using Smartsheet? Your last login was January 1, 2022. Log in by April 15, 2022 to keep your license. & Click here to log in to Smartsheet now! If you don’t need the license anymore, just let me know and 1’ll reassign it! Ellen 9:07 AM Nope, don’t need it! Go spread the Smartsheet wealth. «>](https://www.moveworks.com/hs-fs/hubfs/PrpChat_API_SoftwareDeprovisioning.png)
 
  
 
@@ -91,21 +44,7 @@ On cue, Moveworks’ conversational AI steps in, giving that employee a space to
 
 Figure 2: Keep employees productive by sending action-oriented messages in response to real-time hardware issues.
 
-![PrpChat_API_DeviceIssues | WV
-
-Moveworks 10:15 AM
-
-Hi Gary &Y
-
-| noticed you’re almost out of disk space, which
-can cause your computer to slow down tw
-
-If your computer is old, or running slow, let me
-know and I'll help you out!
-
-Gary 10:22 AM
-
-That explains a lot © thanks!](https://www.moveworks.com/hs-fs/hubfs/PrpChat_API_DeviceIssues.png?noresize&width=557&name=PrpChat_API_DeviceIssues.png)
+![PrpChat_API_DeviceIssues | WV Moveworks 10:15 AM Hi Gary &Y | noticed you’re almost out of disk space, which can cause your computer to slow down tw If your computer is old, or running slow, let me know and I'll help you out! Gary 10:22 AM That explains a lot © thanks!](https://www.moveworks.com/hs-fs/hubfs/PrpChat_API_DeviceIssues.png)
 
 Message API eases new hires into everyday life, helping them feel like they're at home within a week, not a month. Integrating with standard tools such as Workday, Okta, Postman, and Zapier, our API takes the pressure off support teams’ by automatically providing new employees with access to all of the apps, accounts, paperwork, and systems they need to start their job right. 
 
@@ -113,19 +52,7 @@ Onboarding with Moveworks means that employees don’t have to figure out compan
 
 Figure 3: Set the stage for your new hires’ success by giving them everything they need in a single place.
 
-![PrpChat_API_DeviceIssues-1 | Moveworks 1:00 PM
-VV HiSonia &
-® Congrats on your new hire, Allison Lee!
-
-« Please complete our New Hire Onboarding
-Form to pick out her swag, designate an
-onboarding buddy, and assign her a desk
-before she starts on Monday.
-
-Ask me for help anytime!
-
-Sonia 1:07 PM
-On it! Allison definitely needs some swag #&](https://www.moveworks.com/hs-fs/hubfs/PrpChat_API_DeviceIssues-1.png?noresize&width=557&name=PrpChat_API_DeviceIssues-1.png)
+![PrpChat_API_DeviceIssues-1 | Moveworks 1:00 PM VV HiSonia & ® Congrats on your new hire, Allison Lee! « Please complete our New Hire Onboarding Form to pick out her swag, designate an onboarding buddy, and assign her a desk before she starts on Monday. Ask me for help anytime! Sonia 1:07 PM On it! Allison definitely needs some swag #&](https://www.moveworks.com/hs-fs/hubfs/PrpChat_API_DeviceIssues-1.png)
 
  
 
@@ -135,22 +62,7 @@ Whether the WiFi’s out or there’s a security breach, it’s critical for you
 
 Figure 4: Prevent long support queues by sending employees timely, interactive comms.
 
-![PrpChat_API_ProactiveHelp | Moveworks 2:17 PM
-VV Hi Mike,
-
-& There's been a spike in tickets about Wi-Fi
-connectivity. & There may be an outage. Be
-assured that your support team is working to
-
-address the issue.
-
-= Ask me how to connect to the guest Wi-Fi
-« Ask me how to use a personal hotspot
-Follow this thread to get updates
-
-Mike 2:17 PM
-
-ae](https://www.moveworks.com/hs-fs/hubfs/PrpChat_API_ProactiveHelp.png?noresize&width=557&name=PrpChat_API_ProactiveHelp.png)
+![PrpChat_API_ProactiveHelp | Moveworks 2:17 PM VV Hi Mike, & There's been a spike in tickets about Wi-Fi connectivity. & There may be an outage. Be assured that your support team is working to address the issue. = Ask me how to connect to the guest Wi-Fi « Ask me how to use a personal hotspot Follow this thread to get updates Mike 2:17 PM ae](https://www.moveworks.com/hs-fs/hubfs/PrpChat_API_ProactiveHelp.png)
 
  
 
@@ -164,37 +76,37 @@ Message API makes Moveworks smarter, allowing teams to create workflows automati
 
 Start building with the Moveworks API — today.
 
-![Image | in](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png)
 
 
           Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
         
 
-![Image | ](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png)
 
 
           Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
         
 
-![Image | ](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
+![Image | Ay TECHNOLOGY &](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png)
 
 
           3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
         
 
-![Image | ](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png)
 
 
           Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
         
 
-![Image | ](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
+![Image | a . oe ° ° * ° ° ° ra](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png)
 
 
           From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
         
 
-![Image | 8](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png)
 
 
           AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.

@@ -1,13 +1,5 @@
 # https://www.moveworks.com/insights/natural-language-understanding-for-it
 
-Forrester names Moveworks a leader in Chatbot for IT operations. Read the report today.
-
-Moveworks named a Forrester leader in Chatbot for IT operations. 
-
-![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
-
-Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
-
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
 
 Thank you.
@@ -24,9 +16,9 @@ A member of the Moveworks team will be in touch within the next 24 hours.
 Varun Singh, VP Product, Moveworks 
 
 
-![why-understanding-natural-language-important-for-resolving-it-support-tickets](https://www.moveworks.com/hubfs/why-understanding-natural-language-important-for-resolving-it-support-tickets.jpg)
+![why-understanding-natural-language-important-for-resolving-it-support-tickets | ](https://www.moveworks.com/hubfs/why-understanding-natural-language-important-for-resolving-it-support-tickets.jpg)
 
-![why-understanding-natural-language-important-for-resolving-it-support-tickets](https://www.moveworks.com/hubfs/why-understanding-natural-language-important-for-resolving-it-support-tickets.jpg)
+![why-understanding-natural-language-important-for-resolving-it-support-tickets | ](https://www.moveworks.com/hubfs/why-understanding-natural-language-important-for-resolving-it-support-tickets.jpg)
 
 The genius of a great IT service desk team lies in the agents' ability to listen to employees, understand their issues, determine the underlying causes — and then proceed to resolve them as quickly as possible. After all, employees aren’t expected to be IT experts. They’re expected to focus on their increasingly demanding work, and when an IT issue gets in the way, they contact an IT agent to report the symptoms they’re seeing. A great agent listens, understands what the employee is reporting, and resolves the issue or guides them towards rapid resolution.
 
@@ -66,7 +58,7 @@ A great IT agent does more than understand and clarify issues with employees, an
 
 
 
-![01_MW_Blog_NLU_WordCloud-1](https://www.moveworks.com/hs-fs/hubfs/01_MW_Blog_NLU_WordCloud-1.png?noresize&width=760&name=01_MW_Blog_NLU_WordCloud-1.png)
+![01_MW_Blog_NLU_WordCloud-1 | Can i get a laptop refresh? | need a new Latitude _| think | am due for a laptop refresh Can | start the process for a laptop refresh? | need to order a laptop how do | order a new laptop | would like to order anew dell laptop i want to order new laptop how to submit laptop refresh | am eligible for a laptop refresh. how do | initiate one? | need a new laptop How can | order a new laptop Order New Laptop See | want to request laptop for work purpose How would an employee order a new laptop to replace on that is malfunctioning? laptop refresh _ macbook air/pro Order a new laptop get a laptop am | eligible for a laptop refresh Laptop 3 year refresh how to request a laptop refresh request to order a new laptop Can you assist me with a laptop refresh?](https://www.moveworks.com/hs-fs/hubfs/01_MW_Blog_NLU_WordCloud-1.png)
 
 To provide consistently good help, an NLU system must learn from both the language employees use to describe their issues and from the range of resolution paths that are available to it. In other words, even a precise understanding of the issue description doesn’t help if the system can’t return the best answer or resolution for the issue.
 
@@ -88,37 +80,37 @@ Stay tuned for our next post in which we’ll dive into why NLU is a hard proble
 
 To learn more about how our customers are using Moveworks, take a look at our case studies:
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png)
 
 
           Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png)
 
 
           Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
+![Image | Ay TECHNOLOGY &](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png)
 
 
           3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png)
 
 
           Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
+![Image | a . oe ° ° * ° ° ° ra](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png)
 
 
           From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png)
 
 
           AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.
