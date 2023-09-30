@@ -4,6 +4,8 @@ Forrester names Moveworks a leader in Chatbot for IT operations. Read the report
 
 Moveworks named a Forrester leader in Chatbot for IT operations. 
 
+![Image | ](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
+
 Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
 
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
@@ -21,6 +23,12 @@ A member of the Moveworks team will be in touch within the next 24 hours.
 
 Vaibhav Nivargi, CTO
 
+
+![ | You need an Al
+copilot strategy](https://www.moveworks.com/hubfs/00-img-blog-hero-Copilot-Strategy-1600x900.png)
+
+![ | You need an Al
+copilot strategy](https://www.moveworks.com/hubfs/00-img-blog-hero-Copilot-Strategy-1600x900.png)
 
 The rapid rise of ChatGPT has ignited a race to adopt smarter and more powerful AI models across the enterprise. 
 
@@ -50,6 +58,8 @@ Given the above, it should be clear that incorporating a copilot experience into
 
 
 
+![Screenshot 2023-08-25 at 2.51.05 PM](https://www.moveworks.com/hs-fs/hubfs/Screenshot%202023-08-25%20at%202.51.05%20PM.png?width=760&height=392&name=Screenshot%202023-08-25%20at%202.51.05%20PM.png)
+
 Figure 1: When looking at AI copilot use cases, we start to see the relationship between the scope of the problem and the investment required to solve it, enabling decision-makers to make informed choices when embracing LLMs for their organizations.
 
  
@@ -72,6 +82,8 @@ A tier-one copilot simplifies various everyday tasks by leveraging AI-powered as
 
 
 
+![Screenshot 2023-08-25 at 2.52.47 PM](https://www.moveworks.com/hs-fs/hubfs/Screenshot%202023-08-25%20at%202.52.47%20PM.png?width=760&height=393&name=Screenshot%202023-08-25%20at%202.52.47%20PM.png)
+
 Figure 2: Tier-one copilots rely on basic LLM integrations to solve small-scale enterprise challenges.
 
 Tier-one copilots are relatively easy to kick off, requiring minimal resources and offering a low barrier to entry, making them an attractive starting point for organizations exploring AI tools. 
@@ -89,6 +101,8 @@ A tier-two copilot is a customized implementation of an LLM fine-tuned and groun
 A tier-two copilot is better prepared to manage some domain-specific tasks. Some common use cases include:
 
 
+
+![Screenshot 2023-08-25 at 2.53.38 PM](https://www.moveworks.com/hs-fs/hubfs/Screenshot%202023-08-25%20at%202.53.38%20PM.png?width=760&height=414&name=Screenshot%202023-08-25%20at%202.53.38%20PM.png)
 
 Figure 3: Tier-two copilots offer more customized LLM implementations.
 
@@ -112,6 +126,8 @@ By incorporating multiple LLMs and advanced techniques, tier-three copilots can 
 
 
 
+![Screenshot 2023-08-25 at 2.54.18 PM](https://www.moveworks.com/hs-fs/hubfs/Screenshot%202023-08-25%20at%202.54.18%20PM.png?width=760&height=422&name=Screenshot%202023-08-25%20at%202.54.18%20PM.png)
+
 Figure 4: Tier-three copilots bring together multiple LLMs to manage complex use cases.
 
 To get started with a tier-three copilot, there are several key elements and investments you need to consider. First, you must create a multi-LLM stack consisting of various pre-trained models designed to work together for more complex tasks. It is essential to have connectors in place to enable seamless system integrations and facilitate the interactions between different LLMs.
@@ -131,6 +147,8 @@ Tier-four copilots work to address the challenges inherent in providing extensib
 As a sophisticated LLM system specifically designed for enterprise-wide deployment, these tier-four copilots encompass advanced features like a reasoning engine, analytics, security, and privacy, as well as out-of-the-box connectors catering to the demanding requirements of large organizations. 
 
 A tier-four copilot can handle issues across multiple functions, channels, languages, and departments. Here are just a handful of examples:
+
+![Screenshot 2023-08-25 at 2.55.21 PM](https://www.moveworks.com/hs-fs/hubfs/Screenshot%202023-08-25%20at%202.55.21%20PM.png?width=742&height=386&name=Screenshot%202023-08-25%20at%202.55.21%20PM.png)
 
 Figure 5: Tier-four copilots are specifically designed for enterprise-wide deployment.
 
@@ -156,6 +174,48 @@ Our commitment to retaining task-level precision is critical for delivering a hi
 
 
 
+![Image | Platform services
+
+Enterprise
+copilot
+
+Content
+generation
+-
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+CD
+
+ 
+
+2
+S
+=|
+O 5 ie
+\/ ay —  \f ~ ©
+a ° & |g
+Vv eS
+$s Es
+Products 4 > | en
+IT Automation HR Operations || Enterprise Search | Employee Comms || Creator Studio G = 2
+Resolve Automate Multi-system_ Manage Generate custom od | a ea
+(tissues —_/\__HRrequests search change _) \_use cases c |S
+\ \ S J. S |e
+os |
+® |e
+o |
+Product S
+services 3](https://www.moveworks.com/hubfs/image-png-Jun-16-2023-06-53-08-8232-PM.png)
+
 Figure 6: The Moveworks enterprise copilot platform integrates with every business system, meaning it can support any use case across any department.
 
  
@@ -168,44 +228,39 @@ In an ever-evolving business environment, staying ahead of the curve is vital. A
 
 See the rest of Moveworks Live. Check it out!
 
+![Image | in](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
+
 
           Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
         
+
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
 
 
           Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
         
 
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
+
 
           3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
         
+
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
 
 
           Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
         
 
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
+
 
           From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
         
+
+![Image | 8](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
 
 
           AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.
         
 
-
-
-![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
-![](https://www.moveworks.com/hubfs/00-img-blog-hero-Copilot-Strategy-1600x900.png)
-![](https://www.moveworks.com/hubfs/00-img-blog-hero-Copilot-Strategy-1600x900.png)
-![Screenshot 2023-08-25 at 2.51.05 PM](https://www.moveworks.com/hs-fs/hubfs/Screenshot%202023-08-25%20at%202.51.05%20PM.png?width=760&height=392&name=Screenshot%202023-08-25%20at%202.51.05%20PM.png)
-![Screenshot 2023-08-25 at 2.52.47 PM](https://www.moveworks.com/hs-fs/hubfs/Screenshot%202023-08-25%20at%202.52.47%20PM.png?width=760&height=393&name=Screenshot%202023-08-25%20at%202.52.47%20PM.png)
-![Screenshot 2023-08-25 at 2.53.38 PM](https://www.moveworks.com/hs-fs/hubfs/Screenshot%202023-08-25%20at%202.53.38%20PM.png?width=760&height=414&name=Screenshot%202023-08-25%20at%202.53.38%20PM.png)
-![Screenshot 2023-08-25 at 2.54.18 PM](https://www.moveworks.com/hs-fs/hubfs/Screenshot%202023-08-25%20at%202.54.18%20PM.png?width=760&height=422&name=Screenshot%202023-08-25%20at%202.54.18%20PM.png)
-![Screenshot 2023-08-25 at 2.55.21 PM](https://www.moveworks.com/hs-fs/hubfs/Screenshot%202023-08-25%20at%202.55.21%20PM.png?width=742&height=386&name=Screenshot%202023-08-25%20at%202.55.21%20PM.png)
-![Image](https://www.moveworks.com/hubfs/image-png-Jun-16-2023-06-53-08-8232-PM.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)

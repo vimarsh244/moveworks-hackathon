@@ -4,6 +4,8 @@ Forrester names Moveworks a leader in Chatbot for IT operations. Read the report
 
 Moveworks named a Forrester leader in Chatbot for IT operations. 
 
+![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
+
 Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
 
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
@@ -22,11 +24,17 @@ A member of the Moveworks team will be in touch within the next 24 hours.
 Yi Liu, Tech Lead and Manager, Machine Learning
 
 
+![05_MW_Blog_Feature_SemanticSearch](https://www.moveworks.com/hubfs/img/blog/20191016-semantic-search/05_MW_Blog_Feature_SemanticSearch.jpg)
+
+![05_MW_Blog_Feature_SemanticSearch](https://www.moveworks.com/hubfs/img/blog/20191016-semantic-search/05_MW_Blog_Feature_SemanticSearch.jpg)
+
 When we talk about search, Google usually comes to mind. If you ask Google “How much muscle can you gain in a week?”, Google not only finds the relevant web page, but also extracts the exact answer in a short paragraph from that web page. 
 
 This “featured snippet” style of answer is so useful that Google displays it above all other search results. 
 
 
+
+![NEW_05_MW_Blog_ContentImage01_GoogleSearchToday](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191016-semantic-search/NEW_05_MW_Blog_ContentImage01_GoogleSearchToday.png?width=1359&name=NEW_05_MW_Blog_ContentImage01_GoogleSearchToday.png)
 
 Figure 1: Fully-phrased questions make up a growing portion of searches
 
@@ -35,6 +43,8 @@ Jiang Chen, one of Moveworks’ co-founders, and I usually refer to these snippe
 Consumer search hasn’t always been a great experience, but in the last two decades, it’s come a long way. Now you can type a question, and get an answer. Simple. But what about enterprise search? Unfortunately, that’s still broken.
 
 
+
+![enterprise search is broken](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191016-semantic-search/NEW_05_MW_Blog_ContentImage02_EnterpriseSearchBroken.png?width=1366&name=NEW_05_MW_Blog_ContentImage02_EnterpriseSearchBroken.png)
 
 Figure 2: In the enterprise, most search tools remain primitive
 
@@ -48,6 +58,8 @@ On the other hand, a typical company wiki or knowledge base might contain only 5
 
 
 
+![05_MW_Blog_ContentImage03_DataPool](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191016-semantic-search/05_MW_Blog_ContentImage03_DataPool.png?width=1366&name=05_MW_Blog_ContentImage03_DataPool.png)
+
 Figure 3: In the enterprise, there is less data to mine
 
 Another advantage consumer search engines have is the wealth of user interactions. Billions of users scroll and click search results, and this activity provides vital signals that help the search engine make relevance judgements.
@@ -60,6 +72,8 @@ But keyword tagging is incredibly brittle, and requires significant manual effor
 
 
 
+![05_MW_Blog_ContentImage04_KeywordsBrittle-1](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191016-semantic-search/05_MW_Blog_ContentImage04_KeywordsBrittle-1.png?width=1366&name=05_MW_Blog_ContentImage04_KeywordsBrittle-1.png)
+
 Figure 4: Keyword tagging is brittle
 
 Keyword tagging is brittle because it ignores syntax. That is, it considers each word in isolation, without regard to its grammatical role in the sentence or phrase. Consider these three sentences:
@@ -69,6 +83,8 @@ If we rely on keywords without considering syntax, these three sentences become 
 A second reason keyword tagging is brittle is that it ignores semantics. Semantics refers to the meaning of the word, phrase or sentence.
 
 
+
+![NEW_05_MW_Blog_ContentImage06_KeywordsIgnoreSymantics](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191016-semantic-search/NEW_05_MW_Blog_ContentImage06_KeywordsIgnoreSymantics.png?width=1366&name=NEW_05_MW_Blog_ContentImage06_KeywordsIgnoreSymantics.png)
 
 Figure 5: Keyword tagging ignores semantics
 
@@ -80,11 +96,15 @@ For the query “What is Box?”, there is only one keyword; “Box.” By only 
 
 
 
+![NEW_05_MW_Blog_ContentImage07_KeywordsCantDisambiguate](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191016-semantic-search/NEW_05_MW_Blog_ContentImage07_KeywordsCantDisambiguate.png?width=1366&name=NEW_05_MW_Blog_ContentImage07_KeywordsCantDisambiguate.png)
+
 Figure 6: Keyword-based systems can’t distinguish between multiple meanings of a word
 
 Another common trait of enterprise language is that it is often symptomatic in nature. And the vocabulary someone uses to describe the symptom can differ a lot from that used to describe the solution. Again, keyword tagging really struggles here.
 
 
+
+![NEW_05_MW_Blog_ContentImage08_EnterpriseLanguageSymptomatic](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191016-semantic-search/NEW_05_MW_Blog_ContentImage08_EnterpriseLanguageSymptomatic.png?width=1366&name=NEW_05_MW_Blog_ContentImage08_EnterpriseLanguageSymptomatic.png)
 
 Figure 7:  In the enterprise, employees tend to describe symptoms
 
@@ -98,6 +118,8 @@ To understand what a user is asking for, we have to treat their questions as com
 
 
 
+![05_MW_Blog_ContentImage10_SentenceContext-1](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191016-semantic-search/05_MW_Blog_ContentImage10_SentenceContext-1.png?width=1366&name=05_MW_Blog_ContentImage10_SentenceContext-1.png)
+
 Figure 8: Machine learning analyzes syntax, structure, and semantics
 
 In this example, by understanding the syntax, we know the focus word for this question is “how many.” By using dependency parsing, which is a machine learning technique of extracting grammatical structure and defining relationships between words, we know the core topic entity is “Zoom meeting,” and we know the topic needs to be framed in the context of “with two-way video.”
@@ -108,11 +130,15 @@ Word embedding and sentence embedding are two important machine learning techniq
 
 Figure 9: Word embedding is a technique for finding relationships between words
 
+![05_MW_Blog_ContentImage11_IdentifyKeywordsPhrases](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191016-semantic-search/05_MW_Blog_ContentImage11_IdentifyKeywordsPhrases.png?width=1366&name=05_MW_Blog_ContentImage11_IdentifyKeywordsPhrases.png)
+
 A key output of embedding models is the ability to identify synonymous words and phrases in order to help a search system cross the infamous lexical gap, which refers to the vast difference in the way that questions are structured, compared with their answers. For example, I might have a question about how many attendees I can invite to a Zoom video conference, but a simple search for "attendees" fails to yield an answer because Zoom refers to users as "participants." Through the use of word embedding, our search system knows those two words refer to the same thing.
 
 Understanding synonymous words and phrases also helps us to figure out alternate queries. If you’ve ever entered something into a search bar, struggled to find an answer, then rewritten your search using different terms and consequently found what you’re looking for, then you’ve experienced the benefit of alternate queries. This is particularly important in enterprise search where, as we’ve discussed, answers are in sparse supply.
 
 Figure 10: Alternate queries are other ways to phrase the question
+
+![05_MW_Blog_ContentImage12_IdentifyKeywordsPhrases](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191016-semantic-search/05_MW_Blog_ContentImage12_IdentifyKeywordsPhrases.png?width=1366&name=05_MW_Blog_ContentImage12_IdentifyKeywordsPhrases.png)
 
 To do this we combine the outputs of word and sentence embeddings with sequence-to-sequence (Seq2Seq) machine learning techniques. These techniques allow us to “encode” a piece of text in one format and then “decode” it in another. It’s a popular technique for language translation where you might “encode” English language text and “decode” it in Spanish. Here we use it to figure out the multitude of different ways a question could be phrased.
 
@@ -124,6 +150,8 @@ The trick here is using the syntax and semantics of the question to predict what
 
 
 
+![05_MW_Blog_ContentImage13_PredictAnswer-1](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191016-semantic-search/05_MW_Blog_ContentImage13_PredictAnswer-1.png?width=1366&name=05_MW_Blog_ContentImage13_PredictAnswer-1.png)
+
 Figure 11: Query typing identifies what sort of question or statement the employee has typed
 
 None of this is possible in a keyword matching-based search system. To make accurate predictions, machine learning is a necessity.
@@ -134,6 +162,8 @@ Our approach to solving this problem is to divide and conquer long knowledge art
 
 
 
+![05_MW_Blog_ContentImage14_DocumentSnippeting](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191016-semantic-search/05_MW_Blog_ContentImage14_DocumentSnippeting.png?width=1366&name=05_MW_Blog_ContentImage14_DocumentSnippeting.png)
+
 Figure 12: Dividing a knowledge base article into answers, or snippets
 
 Earlier I discussed using Seq2Seq to discover alternative ways of phrasing a query. We apply the same approach for snippets to generate alternative phrases for answers. And much like query typing, we also use answer typing models to identify what type of question this answer will best address. The goal of all of this is to generate as many different signals and insights about questions and answers as possible, so we can more accurately match them.
@@ -143,6 +173,8 @@ Once we have a good understanding of both questions and answers, we use machine 
 By training a neural network with tens of millions of examples of questions and answers focused on a specific domain, like enterprise IT, we can use Seq2Seq to predict questions for which a given snippet could be an appropriate answer, or predict what text we might find in an answer for a given question. Essentially we are asking the model “if this is an answer, what question would it answer?”. You can start to see why a model that made its name in language translation is so useful here — we are translating between questions and answers.
 
 Figure 13: Seq2Seq techniques help map questions to answers
+
+![05_MW_Blog_ContentImage15_Seq2Seq](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191016-semantic-search/05_MW_Blog_ContentImage15_Seq2Seq.png?width=1366&name=05_MW_Blog_ContentImage15_Seq2Seq.png)
 
 One of the amazing aspects of this model is that it's very good at putting words into context. Let’s look at the example shown above:
 
@@ -156,6 +188,8 @@ Of course, the really hard part in all of this is returning these answers in les
 
 Figure 14: Finding answers for questions
 
+![05_MW_Blog_ContentImage16_FindAnswers-1](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191016-semantic-search/05_MW_Blog_ContentImage16_FindAnswers-1.png?width=1366&name=05_MW_Blog_ContentImage16_FindAnswers-1.png)
+
 As a company focused on solving IT support issues using AI, we spend a lot of time looking at the types of issues raised or questions asked by employees in the enterprise; search does not address everything. We’ve had to build many different techniques to address employee needs like unlocking accounts, provisioning software, creating email groups, and other requests that require end-to-end automation rather than answers. But search is a critical part of the support experience for employees: typically, about 1 in 3 support issues are troubleshooting or information-seeking in nature.
 
 Despite the demand, enterprise search has lagged far behind consumer search for too long. It's been hard to use and is prone to embarrassing failures. There are good reasons why we’ve not seen much progress: while a deep trove of usage data helps hone consumer search results, for enterprise search, this usage data is hard to come by, so enterprise search has relied instead on keyword tagging, which is primitive; employees often describe symptoms only, resulting in a big gap between how questions are asked and what text appears in answers; and we typically don’t have good data on usage, interaction, or freshness of knowledge articles.
@@ -166,52 +200,39 @@ Moveworks has met these challenges by applying NLU and advanced machine learning
 
 To learn more about why NLU matters for IT, and how it helps deliver enterprise help more quickly and more easily, see our posts:
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
+
 
           Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
         
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
 
 
           Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
         
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
+
 
           3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
         
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
 
 
           Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
         
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
+
 
           From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
         
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
 
 
           AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.
         
 
-
-
-![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
-![05_MW_Blog_Feature_SemanticSearch](https://www.moveworks.com/hubfs/img/blog/20191016-semantic-search/05_MW_Blog_Feature_SemanticSearch.jpg)
-![05_MW_Blog_Feature_SemanticSearch](https://www.moveworks.com/hubfs/img/blog/20191016-semantic-search/05_MW_Blog_Feature_SemanticSearch.jpg)
-![NEW_05_MW_Blog_ContentImage01_GoogleSearchToday](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191016-semantic-search/NEW_05_MW_Blog_ContentImage01_GoogleSearchToday.png?width=1359&name=NEW_05_MW_Blog_ContentImage01_GoogleSearchToday.png)
-![enterprise search is broken](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191016-semantic-search/NEW_05_MW_Blog_ContentImage02_EnterpriseSearchBroken.png?width=1366&name=NEW_05_MW_Blog_ContentImage02_EnterpriseSearchBroken.png)
-![05_MW_Blog_ContentImage03_DataPool](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191016-semantic-search/05_MW_Blog_ContentImage03_DataPool.png?width=1366&name=05_MW_Blog_ContentImage03_DataPool.png)
-![05_MW_Blog_ContentImage04_KeywordsBrittle-1](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191016-semantic-search/05_MW_Blog_ContentImage04_KeywordsBrittle-1.png?width=1366&name=05_MW_Blog_ContentImage04_KeywordsBrittle-1.png)
-![NEW_05_MW_Blog_ContentImage06_KeywordsIgnoreSymantics](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191016-semantic-search/NEW_05_MW_Blog_ContentImage06_KeywordsIgnoreSymantics.png?width=1366&name=NEW_05_MW_Blog_ContentImage06_KeywordsIgnoreSymantics.png)
-![NEW_05_MW_Blog_ContentImage07_KeywordsCantDisambiguate](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191016-semantic-search/NEW_05_MW_Blog_ContentImage07_KeywordsCantDisambiguate.png?width=1366&name=NEW_05_MW_Blog_ContentImage07_KeywordsCantDisambiguate.png)
-![NEW_05_MW_Blog_ContentImage08_EnterpriseLanguageSymptomatic](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191016-semantic-search/NEW_05_MW_Blog_ContentImage08_EnterpriseLanguageSymptomatic.png?width=1366&name=NEW_05_MW_Blog_ContentImage08_EnterpriseLanguageSymptomatic.png)
-![05_MW_Blog_ContentImage10_SentenceContext-1](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191016-semantic-search/05_MW_Blog_ContentImage10_SentenceContext-1.png?width=1366&name=05_MW_Blog_ContentImage10_SentenceContext-1.png)
-![05_MW_Blog_ContentImage11_IdentifyKeywordsPhrases](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191016-semantic-search/05_MW_Blog_ContentImage11_IdentifyKeywordsPhrases.png?width=1366&name=05_MW_Blog_ContentImage11_IdentifyKeywordsPhrases.png)
-![05_MW_Blog_ContentImage12_IdentifyKeywordsPhrases](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191016-semantic-search/05_MW_Blog_ContentImage12_IdentifyKeywordsPhrases.png?width=1366&name=05_MW_Blog_ContentImage12_IdentifyKeywordsPhrases.png)
-![05_MW_Blog_ContentImage13_PredictAnswer-1](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191016-semantic-search/05_MW_Blog_ContentImage13_PredictAnswer-1.png?width=1366&name=05_MW_Blog_ContentImage13_PredictAnswer-1.png)
-![05_MW_Blog_ContentImage14_DocumentSnippeting](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191016-semantic-search/05_MW_Blog_ContentImage14_DocumentSnippeting.png?width=1366&name=05_MW_Blog_ContentImage14_DocumentSnippeting.png)
-![05_MW_Blog_ContentImage15_Seq2Seq](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191016-semantic-search/05_MW_Blog_ContentImage15_Seq2Seq.png?width=1366&name=05_MW_Blog_ContentImage15_Seq2Seq.png)
-![05_MW_Blog_ContentImage16_FindAnswers-1](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191016-semantic-search/05_MW_Blog_ContentImage16_FindAnswers-1.png?width=1366&name=05_MW_Blog_ContentImage16_FindAnswers-1.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)

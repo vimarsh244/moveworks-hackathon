@@ -4,6 +4,8 @@ Forrester names Moveworks a leader in Chatbot for IT operations. Read the report
 
 Moveworks named a Forrester leader in Chatbot for IT operations. 
 
+![Image | ](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
+
 Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
 
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
@@ -21,6 +23,62 @@ A member of the Moveworks team will be in touch within the next 24 hours.
 
 Varun Singh, VP of Product
 
+
+![ | Troubleshoot
+yey Saw
+Nella
+
+SEB
+
+Coenen cea E ee
+
+ 
+
+Software Hardware recut
+ri eu et
+CLL An
+
+us
+Pel rant
+
+nn
+92.8 ht
+
+ 
+
+TC aa
+eg el
+=:
+rT EL tt
+pe ue](https://www.moveworks.com/hubfs/EXI_Blog_Figure03_v02%20%281%29.jpg)
+
+![ | Troubleshoot
+yey Saw
+Nella
+
+SEB
+
+Coenen cea E ee
+
+ 
+
+Software Hardware recut
+ri eu et
+CLL An
+
+us
+Pel rant
+
+nn
+92.8 ht
+
+ 
+
+TC aa
+eg el
+=:
+rT EL tt
+pe ue](https://www.moveworks.com/hubfs/EXI_Blog_Figure03_v02%20%281%29.jpg)
 
 Today is a big day for Moveworks. We’re launching what I believe to be one of the most impactful products we’ve ever built: Employee Experience Insights (EXI).
 
@@ -50,6 +108,8 @@ Is the Customer Success team constantly troubleshooting Zoom? Are engineers bloc
 
 Figure 1: Employee Experience Insights filters issues intelligently by both persona and time. 
 
+![EXI_Blog_Figure02_v02](https://www.moveworks.com/hs-fs/hubfs/EXI_Blog_Figure02_v02.jpeg?width=700&name=EXI_Blog_Figure02_v02.jpeg)
+
  
 
 Poor technology has a massive impact on employee productivity. With employees flipping between Slack, Dropbox, Zoom, GitHub, and a half dozen other applications to do their job, it’s of the utmost importance to ensure that none of these technologies is holding your people back. 
@@ -60,6 +120,8 @@ For example, with EXI, a sudden uptick in hardware issues becomes an opportunity
 
 Figure 2: Employee Experience Insights reveals which resources, applications, and services are causing the most pain with a hotspot graph.
 
+![EXI_Blog_Figure03_v01](https://www.moveworks.com/hs-fs/hubfs/EXI_Blog_Figure03_v01.jpeg?width=700&name=EXI_Blog_Figure03_v01.jpeg)
+
 One of the most daunting challenges businesses face today is prioritization. You may want to build the best employee experience, but choosing where and when to act is easier said than done, right? With most support analytics focused on moving tickets through the pipeline, knowing which initiatives will make the most impact can be a bit of a crapshoot. 
 
 Employee Experience Insights gives you the information you need to take action. By breaking down and then clustering tickets by both persona and time, EXI reveals trends as they happen. External-facing teams are waiting five days for access approvals. Remote employees don’t know how to get a security badge when they visit HQ. The Chicago office files three times as many tickets about the WiFi connection as the rest of the organization. 
@@ -67,6 +129,8 @@ Employee Experience Insights gives you the information you need to take action. 
 This one-of-a-kind insight helps business leaders lead data-informed conversations. Instead of guessing, you’ll know exactly where to move resources to make the biggest impact. This could mean adjusting staffing, re-negotiating a contract, or investing in a new tool.
 
 Figure 3: Employee Experience Insights gives support team leaders the ability to continuously track and socialize the impact of every decision and initiative.
+
+![EXI_Blog_Figure04_v02](https://www.moveworks.com/hs-fs/hubfs/EXI_Blog_Figure04_v02.jpeg?width=700&name=EXI_Blog_Figure04_v02.jpeg)
 
  
 
@@ -86,41 +150,39 @@ To answer these questions, you need to explore the environment in which your tic
 
 Your entire employee experience, on a single screen. Learn more. 
 
+![Image | in](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
+
 
           Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
         
+
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
 
 
           Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
         
 
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
+
 
           3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
         
+
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
 
 
           Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
         
 
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
+
 
           From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
         
+
+![Image | 8](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
 
 
           AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.
         
 
-
-
-![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
-![](https://www.moveworks.com/hubfs/EXI_Blog_Figure03_v02%20%281%29.jpg)
-![](https://www.moveworks.com/hubfs/EXI_Blog_Figure03_v02%20%281%29.jpg)
-![EXI_Blog_Figure02_v02](https://www.moveworks.com/hs-fs/hubfs/EXI_Blog_Figure02_v02.jpeg?width=700&name=EXI_Blog_Figure02_v02.jpeg)
-![EXI_Blog_Figure03_v01](https://www.moveworks.com/hs-fs/hubfs/EXI_Blog_Figure03_v01.jpeg?width=700&name=EXI_Blog_Figure03_v01.jpeg)
-![EXI_Blog_Figure04_v02](https://www.moveworks.com/hs-fs/hubfs/EXI_Blog_Figure04_v02.jpeg?width=700&name=EXI_Blog_Figure04_v02.jpeg)
-![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)

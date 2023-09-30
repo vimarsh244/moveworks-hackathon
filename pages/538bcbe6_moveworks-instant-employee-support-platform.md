@@ -4,6 +4,8 @@ Forrester names Moveworks a leader in Chatbot for IT operations. Read the report
 
 Moveworks named a Forrester leader in Chatbot for IT operations. 
 
+![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
+
 Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
 
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
@@ -21,6 +23,10 @@ A member of the Moveworks team will be in touch within the next 24 hours.
 
 Bhavin Shah, CEO and Founder
 
+
+![](https://www.moveworks.com/hubfs/Blog_Feature_OneBotForEverything.jpg)
+
+![](https://www.moveworks.com/hubfs/Blog_Feature_OneBotForEverything.jpg)
 
 Every day for the past half-decade, we’ve been inching closer to this moment.
 
@@ -40,6 +46,8 @@ At most companies, talented professionals are stuck solving employee support iss
 
 
 
+![blog-mw-EmployeeServicePlatform-figure-01](https://www.moveworks.com/hs-fs/hubfs/blog-mw-EmployeeServicePlatform-figure-01.png?noresize&width=760&name=blog-mw-EmployeeServicePlatform-figure-01.png)
+
 Figure 1: Today’s complex digital businesses prevent employees from finding the resources they need.
 
 The status quo of employee support has three major drawbacks:
@@ -49,6 +57,8 @@ That's why we built our platform: To be a one-stop shop
 That’s why we built the the Moveworks platform: to be a one-stop shop for instant help at work. Instead of filing an IT ticket or emailing the HR team, employees can simply describe any issue to the Moveworks bot, just as they would to a professional. Under the hood, we use breakthroughs in machine learning — more on this point in a minute — to determine and then deliver the right resource to resolve the request. Whether the solution is an FAQ, a form, a software license, a phone number, a report, or an office floor plan, Moveworks understands the issue and takes immediate action.
 
 Figure 2: The Moveworks platform uses advanced machine learning to understand and resolve employees’ requests.
+
+![Varun-Departments_v02](https://www.moveworks.com/hs-fs/hubfs/Varun-Departments_v02.gif?width=900&name=Varun-Departments_v02.gif)
 
 It took an army of engineers hundreds of thousands of hours to create our new platform. From a machine learning perspective, many of the techniques that power the platform weren’t possible 12 months ago. We had to build something that has never been built before: a conversational AI chatbot that learns each company’s unique lexicon, holds dynamic conversations with users as they switch topics, determines the optimal resolution to each issue, finds personalized answers from within disparate knowledge bases, and surfaces hard-to-find resources from across the enterprise—directly on the messaging tool. And over our next several blog posts, we'll dive deep into how we do it.
 
@@ -86,41 +96,41 @@ Boost engagement with your comms >
 
 Request a demo to see the Moveworks platform in action.
 
+![Request Demo](https://no-cache.hubspot.com/cta/default/4204135/01fb8c68-5711-46f6-afd0-c984065bc3c4.png)
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
+
 
           Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
         
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
 
 
           Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
         
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
+
 
           3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
         
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
 
 
           Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
         
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
+
 
           From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
         
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
 
 
           AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.
         
 
-
-
-![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
-![](https://www.moveworks.com/hubfs/Blog_Feature_OneBotForEverything.jpg)
-![](https://www.moveworks.com/hubfs/Blog_Feature_OneBotForEverything.jpg)
-![blog-mw-EmployeeServicePlatform-figure-01](https://www.moveworks.com/hs-fs/hubfs/blog-mw-EmployeeServicePlatform-figure-01.png?noresize&width=760&name=blog-mw-EmployeeServicePlatform-figure-01.png)
-![Varun-Departments_v02](https://www.moveworks.com/hs-fs/hubfs/Varun-Departments_v02.gif?width=900&name=Varun-Departments_v02.gif)
-![Request Demo](https://no-cache.hubspot.com/cta/default/4204135/01fb8c68-5711-46f6-afd0-c984065bc3c4.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)

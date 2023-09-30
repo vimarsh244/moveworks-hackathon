@@ -4,6 +4,8 @@ Forrester names Moveworks a leader in Chatbot for IT operations. Read the report
 
 Moveworks named a Forrester leader in Chatbot for IT operations. 
 
+![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
+
 Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
 
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
@@ -22,6 +24,10 @@ A member of the Moveworks team will be in touch within the next 24 hours.
 Jing Chen, Tech Lead
 
 
+![](https://www.moveworks.com/hubfs/19_MW_Blog_Conversational_AI_Part1_final.png)
+
+![](https://www.moveworks.com/hubfs/19_MW_Blog_Conversational_AI_Part1_final.png)
+
  
 
 For most of our history together, people and machines have faced a sizable language barrier.
@@ -32,11 +38,15 @@ When GUIs were introduced in the 1980s, they ushered in a new era when anyone, i
 
 Figure 1: While commonplace, the graphical user interface requires time and trainingto complete complex tasks.
 
+![GUI](https://www.moveworks.com/hs-fs/hubfs/GUI.png?noresize&width=1366&name=GUI.png)
+
 In short, GUIs risk being unintuitive. No matter how much engineering and design work goes into creating a “natural” interface, it’s impossible to create buttons that capture every conceivable user intention. Fundamentally, our natural form of communication isn’t buttons, but language. And as our technology becomes increasingly complex, the ability to operate that technology with simple, conversational language will pave the way for users to derive even more benefit from their applications, in much the same way that GUIs did for a previous generation.
 
 In this post, we’ll dive deep into the modern history of human-computer interaction, from the rocky beginnings of early chatbots, to today’s AI-powered conversation engines.
 
 Figure 2: Probabilistic chatbots are the next step in the evolution of human-machine communication.
+
+![Continuum human-computer interaction](https://www.moveworks.com/hs-fs/hubfs/Continuum.png?noresize&width=1366&name=Continuum.png)
 
 Despite their shortcomings, it's no surprise that chatbots are growing in popularity. Yet the experience of using most chatbots is even less intuitive than the average GUI. The fundamental problem is conversation itself, which is ambiguous, contextual, and dynamic. Conventional chatbots take a deterministic approach: that is, they rely on pre-scripted conversations that can’t keep pace with the vastness and versatility of language.
 
@@ -44,11 +54,15 @@ Let’s explore why these early bots failed to understand their users:
 
 Figure 3: Deterministic chatbots with pre-scripted responses aren’t able to keep up with unexpected user responses.
 
+![Deterministic chatbots](https://www.moveworks.com/hs-fs/hubfs/blog-figure-03b-mobile@2x.png?noresize&width=450&name=blog-figure-03b-mobile@2x.png)
+
 The challenge with this real-world e-commerce bot is that people prefer to interact with language, rather than with buttons. So when users predictably type “US” into the dialog box instead of clicking the American flag icon, the bot is incapable of understanding the typed reply.
 
 This kind of hardcoded chatbot simply breaks down when confronted with an unexpected response. Building any chatbot requires an incredibly high amount of technical effort, but all this work is thrown out the window when a user makes one unexpected choice. Here, the bot cannot understand or properly respond, so it instead directs the user to read an FAQ document or visit a contact page. It might not be perfect, but a predictable GUI is better than wasting time on a bot that can’t communicate.
 
 Figure 4: Chatbots with only basic keyword matching fail to anticipate user intent and are forced to fall back on a static response, in this case, a suggestion to email customer service.
+
+![Chatbots basic keyword matching](https://www.moveworks.com/hs-fs/hubfs/blog-figure-04-mobile_x2.png?noresize&width=500&name=blog-figure-04-mobile_x2.png)
 
  
 
@@ -59,6 +73,8 @@ This bot is not equipped to deal with shifts in topic — a critical shortcoming
 The problem is clear: anticipating all possible directions a conversation can go is impossible. Deterministic models are incapable of conducting an organic conversation, because they have been pre-programmed with strict scenarios and can’t adapt in all the ways that language can.
 
 Figure 5: A deterministic bot based on “if-this, then-that” rules is easily confused when a user jumps in and out of the manually scripted flow.
+
+![deterministic bot](https://www.moveworks.com/hs-fs/hubfs/blog-figure-05b-mobile@2x.png?noresize&width=500&name=blog-figure-05b-mobile@2x.png)
 
 In a final example, we’ll turn to the travel industry, featuring a bot that is supposed to help find and book flights. Any frequent traveler would be excited about this bot — if it worked. It applies a naive keyword and pattern matching approach and, unfortunately, is overeager to extract a city name out of user utterance: it matches a price inquiry to the city name “Price, UT.”
 
@@ -74,6 +90,8 @@ If you learn one thing from this post, it’s that understanding users is diffic
 
 Figure 6: The two core components of a conversational AI system are natural language understanding and conversation flow management.
 
+![conversational AI system](https://www.moveworks.com/hs-fs/hubfs/blog-figure-06-box%20chart@2x.png?noresize&width=600&name=blog-figure-06-box%20chart@2x.png)
+
 So what does it mean to have a real conversational bot? At its core, there are two components that work in tandem: natural language understanding (NLU) and conversational flow management (CFM). NLU works on understanding what the user wants, while CFM determines next steps. Conventional chatbots struggle with both of these pieces. In fact, most are limited to very basic NLU, while almost none make any attempt at intelligent conversation flow.
 
 It might not be that difficult to hardcode a few user utterances and build some fixed dialogue flows as a response. But, without incorporating a probabilistic approach to both your natural language understanding and conversation flow management, a chatbot is unable to naturally navigate a real conversation that involves taking next steps, addressing follow-up questions, and managing changes in conversational direction.
@@ -82,44 +100,39 @@ At Moveworks, we’ve built our company on the idea that communication between p
 
 Contact  Moveworks to learn how AI can supercharge your workforce productivity.
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
+
 
           Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
         
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
 
 
           Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
         
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
+
 
           3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
         
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
 
 
           Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
         
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
+
 
           From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
         
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
 
 
           AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.
         
 
-
-
-![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
-![](https://www.moveworks.com/hubfs/19_MW_Blog_Conversational_AI_Part1_final.png)
-![](https://www.moveworks.com/hubfs/19_MW_Blog_Conversational_AI_Part1_final.png)
-![GUI](https://www.moveworks.com/hs-fs/hubfs/GUI.png?noresize&width=1366&name=GUI.png)
-![Continuum human-computer interaction](https://www.moveworks.com/hs-fs/hubfs/Continuum.png?noresize&width=1366&name=Continuum.png)
-![Deterministic chatbots](https://www.moveworks.com/hs-fs/hubfs/blog-figure-03b-mobile@2x.png?noresize&width=450&name=blog-figure-03b-mobile@2x.png)
-![Chatbots basic keyword matching](https://www.moveworks.com/hs-fs/hubfs/blog-figure-04-mobile_x2.png?noresize&width=500&name=blog-figure-04-mobile_x2.png)
-![deterministic bot](https://www.moveworks.com/hs-fs/hubfs/blog-figure-05b-mobile@2x.png?noresize&width=500&name=blog-figure-05b-mobile@2x.png)
-![conversational AI system](https://www.moveworks.com/hs-fs/hubfs/blog-figure-06-box%20chart@2x.png?noresize&width=600&name=blog-figure-06-box%20chart@2x.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)

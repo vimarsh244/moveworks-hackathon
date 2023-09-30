@@ -4,6 +4,8 @@ Forrester names Moveworks a leader in Chatbot for IT operations. Read the report
 
 Moveworks named a Forrester leader in Chatbot for IT operations. 
 
+![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
+
 Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
 
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
@@ -26,6 +28,10 @@ Tomasz Jurczyk, Tech Lead
 Ahmed Al-Bahar, Head of Product
 
 
+![](https://www.moveworks.com/hubfs/Tier0feature-1.jpeg)
+
+![](https://www.moveworks.com/hubfs/Tier0feature-1.jpeg)
+
 The HR team now has a massive scope of responsibility. Deeply embedded in almost every aspect of the employee experience, from performance reviews to benefits to PTO requests, HR teams are flooded with questions and requests for help. That’s why — more than ever — HR needs a new approach to support. 
 
 Other employee support departments have addressed their expanding roles by enabling employees to self-service routine support issues. Take IT. For years, tech support has consumed a significant proportion of IT's time and resources, leading many to implement rigorous tracking systems and create libraries of content to help employees help themselves. 
@@ -44,6 +50,8 @@ In fact, when we first started to look into this challenge of HR service deliver
 
 
 
+![55percent](https://www.moveworks.com/hs-fs/hubfs/55percent.png?width=405&name=55percent.png)
+
 The problem is that employees aren’t using that knowledge. 
 
 Take a 100-page employee handbook. Most employees won't even scroll through it. And even if they read it, whenever HR updates the handbook, that information becomes stale and out-of-date. So what do employees do instead? They do what’s easy: email HR directly, flooding the team’s inboxes with dozens of support requests.
@@ -51,6 +59,8 @@ Take a 100-page employee handbook. Most employees won't even scroll through it. 
 Clearly, there’s a massive disconnect between the knowledge HR spends so much time and effort curating and the employees who need answers. 
 
 
+
+![55%pie](https://www.moveworks.com/hs-fs/hubfs/55%25pie.png?width=1600&name=55%25pie.png)
 
 Figure 1: HR is responsible for creating and maintaining the majority of enterprise knowledge. 
 
@@ -62,6 +72,8 @@ To bring this point home, at least half of HR knowledge — sometimes as much as
 
 
 
+![35%](https://www.moveworks.com/hs-fs/hubfs/35%25.png?width=605&name=35%25.png)
+
 Clearly, with all of this knowledge floating around, finding the answer to a seemingly simple question can become frustrating and time-consuming for everyone involved. 
 
 Think about a typical HR question: What are my benefits? Employees rarely include every little bit of context needed for HR to give them the right answer. Point of fact, in our analysis, only 15% of employees specified their location when asking HR a question. So, HR professionals must manually dig through various siloed backend systems to address each new issue.
@@ -70,11 +82,15 @@ This need for personalization makes Tier 0 support difficult but not impossible.
 
 
 
+![Blog_HR_Content_LocationAware](https://www.moveworks.com/hs-fs/hubfs/Blog_HR_Content_LocationAware.png?width=1200&name=Blog_HR_Content_LocationAware.png)
+
 To sum up: HR teams build tons of content, but it’s inaccessible. Either it’s hidden away in some siloed, backend system, or it’s so specific to employees' locations or roles that finding the right answer is practically impossible without help.
 
 Given this complexity, Tier 0 support is only possible with machine learning. Recent advances in the machine learning field of natural language understanding allow automated systems to break down HR questions, analyzing each one in the context of past conversations and who the employee is. Behind the scenes, we also need machine learning to leverage the resources that the HR team has painstakingly created — deconstructing every document, FAQ, and form into bite-sized information snippets. 
 
 
+
+![retirementsavings](https://www.moveworks.com/hs-fs/hubfs/retirementsavings.png?width=624&name=retirementsavings.png)
 
 Figure 3: With Moveworks, employees get the support they need in seconds, no matter where they are.
 
@@ -84,43 +100,39 @@ What we’ve learned in our analysis of HR requests is that enabling self-servic
 
 Contact us to learn how you can use Moveworks to automate HR support.
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
+
 
           Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
         
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
 
 
           Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
         
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
+
 
           3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
         
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
 
 
           Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
         
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
+
 
           From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
         
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
 
 
           AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.
         
 
-
-
-![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
-![](https://www.moveworks.com/hubfs/Tier0feature-1.jpeg)
-![](https://www.moveworks.com/hubfs/Tier0feature-1.jpeg)
-![55percent](https://www.moveworks.com/hs-fs/hubfs/55percent.png?width=405&name=55percent.png)
-![55%pie](https://www.moveworks.com/hs-fs/hubfs/55%25pie.png?width=1600&name=55%25pie.png)
-![35%](https://www.moveworks.com/hs-fs/hubfs/35%25.png?width=605&name=35%25.png)
-![Blog_HR_Content_LocationAware](https://www.moveworks.com/hs-fs/hubfs/Blog_HR_Content_LocationAware.png?width=1200&name=Blog_HR_Content_LocationAware.png)
-![retirementsavings](https://www.moveworks.com/hs-fs/hubfs/retirementsavings.png?width=624&name=retirementsavings.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)

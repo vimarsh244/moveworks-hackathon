@@ -4,6 +4,8 @@ Forrester names Moveworks a leader in Chatbot for IT operations. Read the report
 
 Moveworks named a Forrester leader in Chatbot for IT operations. 
 
+![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
+
 Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
 
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
@@ -30,9 +32,15 @@ Ahmed Al-Bahar, Head of Product
 Saloni Dandavate, Product Designer
 
 
+![](https://www.moveworks.com/hubfs/Adaptive_Response_Spectrum.jpeg)
+
+![](https://www.moveworks.com/hubfs/Adaptive_Response_Spectrum.jpeg)
+
 We’ve all been frustrated by chatbots. Instead of quick answers, bots with pre-programmed lists of questions to ask and solutions to offer boldly lead us to irrelevant and convoluted answers. Once the conversation starts, we're often stuck with over-confident and frequently incorrect responses and hardcoded dead ends. 
 
 
+
+![AdaptiveResponse_ConventionalChatbot](https://www.moveworks.com/hs-fs/hubfs/AdaptiveResponse_ConventionalChatbot.png?noresize&width=310&name=AdaptiveResponse_ConventionalChatbot.png)
 
 Figure 1: Many chatbots are easily confused when users are vague or jump in and out of the manually scripted dialog flow.
 
@@ -46,6 +54,8 @@ We’ve written at length on our approach to these first two components. And tod
 
 Figure 2: Conversations can go in an infinite number of directions. Chatbots need to be flexible enough to keep up in the face of uncertainty. 
 
+![700x428_DynamicFlow_ConversationGrid-Compressed_v02](https://www.moveworks.com/hs-fs/hubfs/700x428_DynamicFlow_ConversationGrid-Compressed_v02.gif?width=760&name=700x428_DynamicFlow_ConversationGrid-Compressed_v02.gif)
+
  
 
 What is Adaptive Response?
@@ -55,6 +65,8 @@ Adaptive Response levels up our already powerful conversational AI, generating a
 Sometimes the bot is confident that a single answer will solve a problem completely and with 100% certainty. But frequently, questions have complex answers where more than one answer is helpful and relevant to the user. With Adaptive Response, we can surface the right information after a single user exchange, without dragging them down a pre-scripted rabbit hole. 
 
 
+
+![AdaptiveResponse_PPL](https://www.moveworks.com/hs-fs/hubfs/AdaptiveResponse_PPL.png?noresize&width=400&name=AdaptiveResponse_PPL.png)
 
 Figure 3: Many questions have more than a single relevant answer.
 
@@ -67,6 +79,8 @@ And here’s the best part — whether Angela chooses the first option or the se
 These feedback loops become especially important because there’s an ever-increasing number of ways to resolve a question. From IT and HR to finance and facilities, every employee support team dedicates a monumental amount of energy to building out vast databases of forms and knowledge articles. Moveworks makes it so employees can ask just about anything and expect an accurate response.
 
 
+
+![Adaptive_Response_PaternityLeave](https://www.moveworks.com/hs-fs/hubfs/Adaptive_Response_PaternityLeave.png?noresize&width=400&name=Adaptive_Response_PaternityLeave.png)
 
 Figure 4: Adaptive Response leverages user feedback to keep up with complex and changing environments.
 
@@ -87,6 +101,8 @@ To find out how Adaptive Response sifts through all these possible solutions, we
 That's why we focused on building something that could deal with vague or complex questions and give the best possible solution right away.
 
 
+
+![Adaptive_Response_Airtable](https://www.moveworks.com/hs-fs/hubfs/Adaptive_Response_Airtable.png?noresize&width=400&name=Adaptive_Response_Airtable.png)
 
 Figure 5: Answering even the most ambiguous, one-word questions is possible with Adaptive Response.
 
@@ -114,44 +130,41 @@ To deliver the best experience to each employee, you need a bot that’s flexibl
 
 See what Moveworks can do for you. Request a demo.
 
+![Request Demo](https://no-cache.hubspot.com/cta/default/4204135/01fb8c68-5711-46f6-afd0-c984065bc3c4.png)
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
+
 
           Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
         
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
 
 
           Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
         
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
+
 
           3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
         
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
 
 
           Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
         
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
+
 
           From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
         
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
 
 
           AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.
         
 
-
-
-![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
-![](https://www.moveworks.com/hubfs/Adaptive_Response_Spectrum.jpeg)
-![](https://www.moveworks.com/hubfs/Adaptive_Response_Spectrum.jpeg)
-![AdaptiveResponse_ConventionalChatbot](https://www.moveworks.com/hs-fs/hubfs/AdaptiveResponse_ConventionalChatbot.png?noresize&width=310&name=AdaptiveResponse_ConventionalChatbot.png)
-![700x428_DynamicFlow_ConversationGrid-Compressed_v02](https://www.moveworks.com/hs-fs/hubfs/700x428_DynamicFlow_ConversationGrid-Compressed_v02.gif?width=760&name=700x428_DynamicFlow_ConversationGrid-Compressed_v02.gif)
-![AdaptiveResponse_PPL](https://www.moveworks.com/hs-fs/hubfs/AdaptiveResponse_PPL.png?noresize&width=400&name=AdaptiveResponse_PPL.png)
-![Adaptive_Response_PaternityLeave](https://www.moveworks.com/hs-fs/hubfs/Adaptive_Response_PaternityLeave.png?noresize&width=400&name=Adaptive_Response_PaternityLeave.png)
-![Adaptive_Response_Airtable](https://www.moveworks.com/hs-fs/hubfs/Adaptive_Response_Airtable.png?noresize&width=400&name=Adaptive_Response_Airtable.png)
-![Request Demo](https://no-cache.hubspot.com/cta/default/4204135/01fb8c68-5711-46f6-afd0-c984065bc3c4.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)

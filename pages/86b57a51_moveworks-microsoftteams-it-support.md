@@ -4,6 +4,8 @@ Forrester names Moveworks a leader in Chatbot for IT operations. Read the report
 
 Moveworks named a Forrester leader in Chatbot for IT operations. 
 
+![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
+
 Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
 
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
@@ -21,6 +23,10 @@ A member of the Moveworks team will be in touch within the next 24 hours.
 
 Bhavin Shah, CEO and Founder
 
+
+![](https://www.moveworks.com/hubfs/moveworks-and-microsoft-teams.jpg)
+
+![](https://www.moveworks.com/hubfs/moveworks-and-microsoft-teams.jpg)
 
 With Microsoft Teams, you can already collaborate from anywhere, share files with all the right colleagues, and go from chat to video conference at the touch of a button. Now, you can also resolve your support issues, instantly, without ever leaving Teams.
 
@@ -40,15 +46,21 @@ The Moveworks bot currently resolves more than 40% of all IT support issues at d
 
 
 
+![SoftwareAccess_Mobile_MSTeams_InDevice](https://www.moveworks.com/hs-fs/hubfs/img/blog/SoftwareAccess_Mobile_MSTeams_InDevice.png?noresize&width=400&name=SoftwareAccess_Mobile_MSTeams_InDevice.png)
+
 And ordering devices with just a few keystrokes:
 
 
+
+![Device_Forms_Mobile_MSTeams](https://www.moveworks.com/hs-fs/hubfs/img/blog/Device_Forms_Mobile_MSTeams.png?noresize&width=400&name=Device_Forms_Mobile_MSTeams.png)
 
 No matter where you are, no matter when you need help, and no matter how you ask, Moveworks is there to understand your issue and resolve it within seconds.
 
 Given the increasing importance of collaboration hubs, a key benefit of adding Moveworks to Teams is the bot’s proven track record of organically driving up Teams adoption. This was the experience that Equinix — the world’s largest interconnection and colocation platform — had when sunsetting Skype for Business.
 
 
+
+![moveworks-teams-flow](https://www.moveworks.com/hs-fs/hubfs/img/blog/mw-teams-flowB.png?noresize&width=600&name=mw-teams-flowB.png)
 
 Greg Ogle, Equinix’s Vice President of Global IT Infrastructure, and his team needed to convince employees to quickly transition from Skype to Teams. As an incentive, they made Moveworks available exclusively in Teams, with the Moveworks chatbot sending employees notifications about their tech issues that led them straight to the new tool. While total employee adoption of Skype never exceeded 25%, adoption of Teams skyrocketed to 75% before Skype was shut down. And thanks in part to Moveworks, Teams adoption rose to more than 90% by the end of last year. Check out the full case study here.
 
@@ -64,44 +76,43 @@ Less than a year after launching the bot, Equinix has already witnessed a 32% re
 
 
 
+![mw_teams_Logo_Lock](https://www.moveworks.com/hs-fs/hubfs/img/blog/mw_teams_Logo_Lock.png?noresize&width=600&name=mw_teams_Logo_Lock.png)
+
 Contact Moveworks to demo and deploy our AI chatbot in your Teams environment.
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
 
 
           Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
         
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
+
 
           Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
         
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
 
 
           3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
         
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
+
 
           Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
         
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
 
 
           From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
         
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
+
 
           AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.
         
 
-
-
-![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
-![](https://www.moveworks.com/hubfs/moveworks-and-microsoft-teams.jpg)
-![](https://www.moveworks.com/hubfs/moveworks-and-microsoft-teams.jpg)
-![SoftwareAccess_Mobile_MSTeams_InDevice](https://www.moveworks.com/hs-fs/hubfs/img/blog/SoftwareAccess_Mobile_MSTeams_InDevice.png?noresize&width=400&name=SoftwareAccess_Mobile_MSTeams_InDevice.png)
-![Device_Forms_Mobile_MSTeams](https://www.moveworks.com/hs-fs/hubfs/img/blog/Device_Forms_Mobile_MSTeams.png?noresize&width=400&name=Device_Forms_Mobile_MSTeams.png)
-![moveworks-teams-flow](https://www.moveworks.com/hs-fs/hubfs/img/blog/mw-teams-flowB.png?noresize&width=600&name=mw-teams-flowB.png)
-![mw_teams_Logo_Lock](https://www.moveworks.com/hs-fs/hubfs/img/blog/mw_teams_Logo_Lock.png?noresize&width=600&name=mw_teams_Logo_Lock.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)

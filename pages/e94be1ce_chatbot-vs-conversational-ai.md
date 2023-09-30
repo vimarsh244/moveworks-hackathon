@@ -4,6 +4,8 @@ Forrester names Moveworks a leader in Chatbot for IT operations. Read the report
 
 Moveworks named a Forrester leader in Chatbot for IT operations. 
 
+![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
+
 Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
 
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
@@ -21,6 +23,10 @@ A member of the Moveworks team will be in touch within the next 24 hours.
 
 Margo Poda, Content Marketing Manager
 
+
+![](https://www.moveworks.com/hubfs/34-MW-BLOG%20Adaptive%20Response-01-v3-invert%20%281%29.jpeg)
+
+![](https://www.moveworks.com/hubfs/34-MW-BLOG%20Adaptive%20Response-01-v3-invert%20%281%29.jpeg)
 
 Picture a world where communicating with technology is as effortless as talking to your colleagues, friends, and family. With ChatGPT leading the way, this vision is on its way to becoming a reality. 
 
@@ -40,6 +46,8 @@ Crucially, these bots depend on a team of engineers to build every single flow, 
 
 
 
+![blog-figure-03b-mobile@2x-4](https://www.moveworks.com/hs-fs/hubfs/Imported_Blog_Media/blog-figure-03b-mobile@2x-4.png?width=450&height=504&name=blog-figure-03b-mobile@2x-4.png)
+
 Figure 1: Rules-based chatbots with pre-scripted responses can’t keep up
 
 with unexpected user responses.
@@ -55,6 +63,8 @@ Conversational AI technology can be used to power various applications beyond ju
 Virtual assistants are another type of conversational AI that can perform tasks for users based on voice or text commands. These can be standalone applications or integrated into other systems, such as customer support chatbots or smart home systems. 
 
 
+
+![AdaptiveResponse_PPL-1](https://www.moveworks.com/hs-fs/hubfs/AdaptiveResponse_PPL-1.png?width=400&height=475&name=AdaptiveResponse_PPL-1.png)
 
 Figure 2: Conversations can go in an infinite number of directions. 
 
@@ -114,40 +124,39 @@ To learn more about the history and future of conversational AI in the enterpris
 
 Contact Moveworks to learn how AI can supercharge your workforce's productivity.
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
+
 
           Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
         
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
 
 
           Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
         
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
+
 
           3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
         
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
 
 
           Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
         
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
+
 
           From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
         
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
 
 
           AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.
         
 
-
-
-![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
-![](https://www.moveworks.com/hubfs/34-MW-BLOG%20Adaptive%20Response-01-v3-invert%20%281%29.jpeg)
-![](https://www.moveworks.com/hubfs/34-MW-BLOG%20Adaptive%20Response-01-v3-invert%20%281%29.jpeg)
-![blog-figure-03b-mobile@2x-4](https://www.moveworks.com/hs-fs/hubfs/Imported_Blog_Media/blog-figure-03b-mobile@2x-4.png?width=450&height=504&name=blog-figure-03b-mobile@2x-4.png)
-![AdaptiveResponse_PPL-1](https://www.moveworks.com/hs-fs/hubfs/AdaptiveResponse_PPL-1.png?width=400&height=475&name=AdaptiveResponse_PPL-1.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)

@@ -4,6 +4,8 @@ Forrester names Moveworks a leader in Chatbot for IT operations. Read the report
 
 Moveworks named a Forrester leader in Chatbot for IT operations. 
 
+![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
+
 Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
 
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
@@ -22,6 +24,10 @@ A member of the Moveworks team will be in touch within the next 24 hours.
 Al-Husein Madhany, Head of People
 
 
+![](https://www.moveworks.com/hubfs/41-BLOG-MW-BestPlacesToWork-2.jpg)
+
+![](https://www.moveworks.com/hubfs/41-BLOG-MW-BestPlacesToWork-2.jpg)
+
 It’s HR’s role to make company culture happen. We take pride in creating big, ambitious plans to improve the employee experience, from team trips to new benefits to leadership training.
 
 But the truth is small moments define how employees experience HR — much more than these big ideas. Whether employees need to track down the latest travel policy, enroll in healthcare benefits, or simply look up a colleague’s phone number, small moments cause immense frustration when they disrupt the workday.
@@ -36,6 +42,8 @@ By shifting your attention away from individual support and focusing instead on 
 
 
 
+![PrpChat_HR_Benefits_LocationBased_Toronto-1](https://www.moveworks.com/hs-fs/hubfs/PrpChat_HR_Benefits_LocationBased_Toronto-1.png?noresize&width=400&name=PrpChat_HR_Benefits_LocationBased_Toronto-1.png)
+
 Figure 1: When resources are easily understood, employees help themselves.
 
 The thing is, an employee can better understand a clear paragraph that covers a single topic than a hundred-page employee handbook. By organizing resources into an easy-to-consume format and investing in the right tools, employees will be able to pinpoint a specifically relevant snippet of information within a trove of massive documents, all on their own. This way, when an employee asks HR about their paid time-off, paternity leave, or clarifications on the expense policy, there’s a resource that allows them to answer their own question.
@@ -47,6 +55,8 @@ HR teams have been tasked with ensuring employees are safe in the face of a fast
  
 
 
+
+![PrpChat-Answers-CovidTesting](https://www.moveworks.com/hs-fs/hubfs/PrpChat-Answers-CovidTesting.png?noresize&width=400&name=PrpChat-Answers-CovidTesting.png)
 
 Figure 2: Answer common questions in seconds with AI.
 
@@ -64,6 +74,8 @@ The root of many support requests is change. Launching a new 401(k) program is g
 
 
 
+![PrpChat-EmployeeComms-401k-1](https://www.moveworks.com/hs-fs/hubfs/PrpChat-EmployeeComms-401k-1.png?noresize&width=400&name=PrpChat-EmployeeComms-401k-1.png)
+
 Figure 3: Send actionable messages to prevent issues before they happen.
 
 To stop the deluge, first, you need a way to give every employee actionable next steps. When my team sends a comm, we give employees the resources they need to complete the task — whether it’s filling out a form, linking to a portal, or reading the latest travel policy — directly in the message.
@@ -78,42 +90,41 @@ That’s why it’s a big deal when minor things take a huge amount of time and 
 
 Check out our Careers to help Moveworks build the best HR experience.
 
+![Request Demo](https://no-cache.hubspot.com/cta/default/4204135/01fb8c68-5711-46f6-afd0-c984065bc3c4.png)
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
+
 
           Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
         
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
 
 
           Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
         
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
+
 
           3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
         
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
 
 
           Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
         
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
+
 
           From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
         
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
 
 
           AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.
         
 
-
-
-![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
-![](https://www.moveworks.com/hubfs/41-BLOG-MW-BestPlacesToWork-2.jpg)
-![](https://www.moveworks.com/hubfs/41-BLOG-MW-BestPlacesToWork-2.jpg)
-![PrpChat_HR_Benefits_LocationBased_Toronto-1](https://www.moveworks.com/hs-fs/hubfs/PrpChat_HR_Benefits_LocationBased_Toronto-1.png?noresize&width=400&name=PrpChat_HR_Benefits_LocationBased_Toronto-1.png)
-![PrpChat-Answers-CovidTesting](https://www.moveworks.com/hs-fs/hubfs/PrpChat-Answers-CovidTesting.png?noresize&width=400&name=PrpChat-Answers-CovidTesting.png)
-![PrpChat-EmployeeComms-401k-1](https://www.moveworks.com/hs-fs/hubfs/PrpChat-EmployeeComms-401k-1.png?noresize&width=400&name=PrpChat-EmployeeComms-401k-1.png)
-![Request Demo](https://no-cache.hubspot.com/cta/default/4204135/01fb8c68-5711-46f6-afd0-c984065bc3c4.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)

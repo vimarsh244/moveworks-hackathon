@@ -4,6 +4,8 @@ Forrester names Moveworks a leader in Chatbot for IT operations. Read the report
 
 Moveworks named a Forrester leader in Chatbot for IT operations. 
 
+![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
+
 Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
 
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
@@ -23,6 +25,8 @@ Click here to read the full press release.
 Employees can automatically resolve workplace requests through simple conversations with Moveworks — freeing up HR teams to focus on the projects that matter most
 
 MOUNTAIN VIEW, Calif. -- Moveworks, the AI platform that powers the best places to work, today introduced Moveworks for HR: a sophisticated artificial intelligence solution built for human resources. The platform now automatically resolves employees' HR requests, including benefits inquiries, PTO applications, payroll questions, and more.
+
+![Employees receive personalized support based on their unique role, location, and language preference.](https://mma.prnewswire.com/media/1805902/Moveworks_for_HR.jpg?w=500)
 
 The shift to flexible work has created enormous challenges for HR teams, since employees expect to stay productive, informed, and fulfilled from anywhere in the world. These employees overwhelm HR with thousands of requests, at all hours of the day, and they continue to quit at a record rate as their companies struggle to support them. Moveworks for HR solves these challenges at scale — with AI that provides instant, personalized help to every employee based on their unique role, department, seniority, benefits, location, and language.
 
@@ -48,7 +52,3 @@ Today, employees deal with endless distractions: they wait days to get IT suppor
 
 Media Contact Sophia Xepoleas, Sr PR ManagerEmail: pr@moveworks.aiWeb: Moveworks.com/contact 
 
-
-
-![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
-![Employees receive personalized support based on their unique role, location, and language preference.](https://mma.prnewswire.com/media/1805902/Moveworks_for_HR.jpg?w=500)

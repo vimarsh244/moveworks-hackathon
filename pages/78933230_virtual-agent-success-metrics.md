@@ -4,6 +4,8 @@ Forrester names Moveworks a leader in Chatbot for IT operations. Read the report
 
 Moveworks named a Forrester leader in Chatbot for IT operations. 
 
+![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
+
 Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
 
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
@@ -21,6 +23,10 @@ A member of the Moveworks team will be in touch within the next 24 hours.
 
 Varun Singh, VP of Product
 
+
+![](https://www.moveworks.com/hubfs/37_Blog-mw-hero-03c.jpg)
+
+![](https://www.moveworks.com/hubfs/37_Blog-mw-hero-03c.jpg)
 
 Every company wants to grow. But with thousands of issues to solve and employees working all over the world, supporting a growing workforce has never been a greater challenge. That’s why support teams are increasingly turning to virtual agents to get their people the help they need — anytime and anywhere.
 
@@ -54,6 +60,8 @@ It's easy to get lost in the numbers, but in a larger sense, it’s clear this b
 
 Figure 1: Seagen’s virtual agent instantly resolves employees’ problems, tackling an increasing number of issues over time.
 
+![resolutio_seagen](https://www.moveworks.com/hs-fs/hubfs/resolutio_seagen.png?noresize&width=650&name=resolutio_seagen.png)
+
  
 
 Time to value (TTV)
@@ -80,6 +88,8 @@ Incremental improvements in knowledge creation and identity management increased
 
 
 
+![blog-mw-Aug2021-fig04-update](https://www.moveworks.com/hs-fs/hubfs/blog-mw-Aug2021-fig04-update.png?width=650&height=650&name=blog-mw-Aug2021-fig04-update.png)
+
 Figure 2: loanDepot’s virtual agent started solving issues from day one. Today, Moveworks-powered Elle-Dee uses AI to keep up with new use cases across support departments, ensuring happy employees.
 
  
@@ -103,6 +113,8 @@ Equinix accelerates support with its virtual agent
 Equinix used a virtual agent to decrease its TTR by almost a third. Based in the Philippines, Equinix’s help desk reads every ticket to decide which subject-matter experts were best suited for the job. Given that its international workforce is concentrated in the US and UK, Equinix wanted to avoid having IT issues pile up in a distant time zone. 
 
 
+
+![triage_equinix](https://www.moveworks.com/hs-fs/hubfs/triage_equinix.png?noresize&width=650&name=triage_equinix.png)
 
 Figure 3: With Moveworks, Equinix massively decreased the time it takes to get help at work.
 
@@ -132,6 +144,8 @@ Broadcom — a world-leading tech infrastructure company — dramatically increa
 
 
 
+![knowledgebase_broadcom](https://www.moveworks.com/hs-fs/hubfs/knowledgebase_broadcom.png?noresize&width=650&name=knowledgebase_broadcom.png)
+
 Figure 4: Broadcom increased its virtual agent’s resolution rate by improving its knowledge base. The chart above demonstrates a strong correlation between Broadcom’s resolution rate — represented above by a blue line — and the increasing number of knowledge articles — represented by the purple bars.
 
  
@@ -157,6 +171,8 @@ For Vituity — an organization dedicated to transforming healthcare — a signi
 Vituity realized that — to create a lasting employee habit — the bot would have to intercept issues no matter what channel employees used. Known internally as Otto, their Moveworks bot is now the single place to go for help. Whether users need to reset their passwords, access software, or ask HR about a policy, they can always ask Otto, reinforcing the habit of using it as the go-to place for support. Otto is constantly improving through machine learning — understanding company lingo, automatically syncing with backend systems and adapting to user feedback.
 
 
+
+![botpreference_vituity](https://www.moveworks.com/hs-fs/hubfs/botpreference_vituity.png?noresize&width=650&name=botpreference_vituity.png)
 
 Figure 5: Employees want a single place to resolve every issue right away. 
 
@@ -186,6 +202,8 @@ Nowhere has proactive support made a bigger impact than in resolving account iss
 
 
 
+![issueprevention_verisk](https://www.moveworks.com/hs-fs/hubfs/issueprevention_verisk.png?noresize&width=602&name=issueprevention_verisk.png)
+
 Figure 6:To build one place for help at work, Vituity’s virtual agent — Otto — intercepts support issues no matter where they were submitted and solves them in seconds.
 
  
@@ -212,6 +230,8 @@ At Unity, 91% of employees are satisfied with NinjaUnicorn — their Moveworks b
 
 
 
+![CSAT_unity](https://www.moveworks.com/hs-fs/hubfs/CSAT_unity.png?noresize&width=600&name=CSAT_unity.png)
+
 Figure 7: The key to a successful virtual agent — like Unity’s NinjaUnicorn — is an experience that keeps employees coming back. This figure features a selection of anonymized reviews of their virtual agent.
 
 Monitoring your virtual agent’s performance is the key to creating a seamless employee experience. This list of seven metrics is not exhaustive by any means, but it’s a great place to start.
@@ -220,45 +240,39 @@ Depending on your employee experience goals, you can add other metrics to this l
 
 Request a demo to see the Moveworks platform in action.
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
+
 
           Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
         
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
 
 
           Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
         
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
+
 
           3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
         
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
 
 
           Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
         
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
+
 
           From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
         
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
 
 
           AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.
         
 
-
-
-![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
-![](https://www.moveworks.com/hubfs/37_Blog-mw-hero-03c.jpg)
-![](https://www.moveworks.com/hubfs/37_Blog-mw-hero-03c.jpg)
-![resolutio_seagen](https://www.moveworks.com/hs-fs/hubfs/resolutio_seagen.png?noresize&width=650&name=resolutio_seagen.png)
-![blog-mw-Aug2021-fig04-update](https://www.moveworks.com/hs-fs/hubfs/blog-mw-Aug2021-fig04-update.png?width=650&height=650&name=blog-mw-Aug2021-fig04-update.png)
-![triage_equinix](https://www.moveworks.com/hs-fs/hubfs/triage_equinix.png?noresize&width=650&name=triage_equinix.png)
-![knowledgebase_broadcom](https://www.moveworks.com/hs-fs/hubfs/knowledgebase_broadcom.png?noresize&width=650&name=knowledgebase_broadcom.png)
-![botpreference_vituity](https://www.moveworks.com/hs-fs/hubfs/botpreference_vituity.png?noresize&width=650&name=botpreference_vituity.png)
-![issueprevention_verisk](https://www.moveworks.com/hs-fs/hubfs/issueprevention_verisk.png?noresize&width=602&name=issueprevention_verisk.png)
-![CSAT_unity](https://www.moveworks.com/hs-fs/hubfs/CSAT_unity.png?noresize&width=600&name=CSAT_unity.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)

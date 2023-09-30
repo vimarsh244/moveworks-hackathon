@@ -4,6 +4,8 @@ Forrester names Moveworks a leader in Chatbot for IT operations. Read the report
 
 Moveworks named a Forrester leader in Chatbot for IT operations. 
 
+![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
+
 Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
 
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
@@ -22,11 +24,17 @@ A member of the Moveworks team will be in touch within the next 24 hours.
 Jiang Chen, VP of Machine Learning
 
 
+![](https://www.moveworks.com/hubfs/MIE_Feature.jpeg)
+
+![](https://www.moveworks.com/hubfs/MIE_Feature.jpeg)
+
 At Moveworks, we’ve spent five years engineering an incredibly simple support experience to make work feel less like, well, work. In practice, this means taking complex processes like IT support and HR service delivery — which usually involve lots of manual effort from busy professionals — and automating them end-to-end, from the initial request for help to the full resolution of the issue.
 
 Creating this simple experience forced us to build machine learning components that are the first of their kind — at every step of the support process. So we did. The result of our effort is what we call the Moveworks Intelligence Engine™. 
 
  
+
+![Vaibhav_02](https://www.moveworks.com/hs-fs/hubfs/Moveweb/photos/Vaibhav_02.jpg?width=300&name=Vaibhav_02.jpg)
 
  
 
@@ -39,6 +47,8 @@ Take chatbots, for example. You’ve probably interacted with one in the last we
 So here’s the question: What would it take to create a chatbot that people actually prefer to use for support? To give employees whatever they need, right away, directly through the bot? Enter the Intelligence Engine. In this blog post, we’ll distill our learnings from the past five years to show how the Intelligence Engine tackles the five challenges of automating support at work:
 
 
+
+![MIE_GIF2](https://www.moveworks.com/hs-fs/hubfs/MIE_GIF2.gif?width=600&name=MIE_GIF2.gif)
 
 Figure 1: The Moveworks Intelligence Engine has five components, which work together to resolve employee support issues end-to-end. 
 
@@ -53,6 +63,8 @@ Understanding would be easy if everyone sought help in the same way, but they do
 So in approaching this challenge, you need a layer cake of dozens of deep learning models to correct spelling mistakes, to identify unique employees and software applications at each company, and to separate the signal from noise in the context of a single user. That’s why we built Language Core.
 
 
+
+![MIEBlog_LanguageCore](https://www.moveworks.com/hs-fs/hubfs/MIEBlog_LanguageCore.png?noresize&width=600&name=MIEBlog_LanguageCore.png)
 
 Figure 2: Language Core breaks down and restructures complex requests to understand what an employee is looking for. 
 
@@ -75,6 +87,8 @@ Most chatbots are terrible conversationalists simply because the unpredictabilit
 Dynamic Flow works to handle even the most erratic conversations by determining responses in real time. Instead of following a pre-programmed path, it analyzes conversational context to seamlessly shift between topics and generate dialog on the fly.
 
 
+
+![MIEBlog_DynamicFlow](https://www.moveworks.com/hs-fs/hubfs/MIEBlog_DynamicFlow.png?noresize&width=600&name=MIEBlog_DynamicFlow.png)
 
 Figure 3: While some conversations are straightforward, more often than not, employees have complicated issues that require a deep understanding of past interactions and current context to resolve. 
 
@@ -104,6 +118,8 @@ So the key to finding that ideal solution is keeping track of every possible sol
 
 
 
+![MIE_AB](https://www.moveworks.com/hs-fs/hubfs/MIE_AB.png?noresize&width=600&name=MIE_AB.png)
+
 Figure 4: Different solutions bid for the opportunity to solve an issue. When one or multiple options reach the confidence threshold, a response is sent to the user in seconds.
 
 When John asks his question, there’s an infinity of ways to potentially address his request: remove someone from an email group, show contact information, surface a form, file a ticket, offer up a knowledge base article. And within these larger categories, there’re even more specific solutions — remove Jenny from the marketing distribution list, show contact information on Marshall on the Accounting Team, surface a request form, file an IT ticket on JIRA, offer up a single line from the Employee Handbook. 
@@ -124,6 +140,8 @@ The key is wading through all this detail to get only the correct information in
 
 
 
+![MIEBlog_EnterpriseCache](https://www.moveworks.com/hs-fs/hubfs/MIEBlog_EnterpriseCache.png?noresize&width=600&name=MIEBlog_EnterpriseCache.png)
+
 Figure 5: Moveworks personalizes the support experience by giving employees exactly the resource they need, whether that is a single sentence from a knowledge article or a conversationalized form.
 
 As mentioned, when John asks his question there are a thousand possible solutions on the backend. Action Bid works to find out what type of solution is most meaningful for him. Maybe he needs an article on troubleshooting Outlook, contact information, access to marketing email software, a map to a certain conference room. 
@@ -141,6 +159,8 @@ Employees expect personalized support. The same question doesn't always have the
 Semantic Match provides precise answers to employees’ questions — directly over chat. It leverages relevance and personalization models to find the most helpful information across disparate knowledge bases.
 
 
+
+![MIE_Blog_SemanticMatch](https://www.moveworks.com/hs-fs/hubfs/MIE_Blog_SemanticMatch.png?noresize&width=600&name=MIE_Blog_SemanticMatch.png)
 
 Figure 6: Keeping track of an employee’s location, department, and other context, Semantic Match surfaces the most relevant answer to each employee.
 
@@ -164,45 +184,39 @@ We built our Intelligence Engine the hard way, putting thousands of hours of R&D
 
 Request a demo to see the Moveworks Intelligence Engine™ in action.
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
+
 
           Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
         
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
 
 
           Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
         
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
+
 
           3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
         
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
 
 
           Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
         
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
+
 
           From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
         
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
 
 
           AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.
         
 
-
-
-![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
-![](https://www.moveworks.com/hubfs/MIE_Feature.jpeg)
-![](https://www.moveworks.com/hubfs/MIE_Feature.jpeg)
-![Vaibhav_02](https://www.moveworks.com/hs-fs/hubfs/Moveweb/photos/Vaibhav_02.jpg?width=300&name=Vaibhav_02.jpg)
-![MIE_GIF2](https://www.moveworks.com/hs-fs/hubfs/MIE_GIF2.gif?width=600&name=MIE_GIF2.gif)
-![MIEBlog_LanguageCore](https://www.moveworks.com/hs-fs/hubfs/MIEBlog_LanguageCore.png?noresize&width=600&name=MIEBlog_LanguageCore.png)
-![MIEBlog_DynamicFlow](https://www.moveworks.com/hs-fs/hubfs/MIEBlog_DynamicFlow.png?noresize&width=600&name=MIEBlog_DynamicFlow.png)
-![MIE_AB](https://www.moveworks.com/hs-fs/hubfs/MIE_AB.png?noresize&width=600&name=MIE_AB.png)
-![MIEBlog_EnterpriseCache](https://www.moveworks.com/hs-fs/hubfs/MIEBlog_EnterpriseCache.png?noresize&width=600&name=MIEBlog_EnterpriseCache.png)
-![MIE_Blog_SemanticMatch](https://www.moveworks.com/hs-fs/hubfs/MIE_Blog_SemanticMatch.png?noresize&width=600&name=MIE_Blog_SemanticMatch.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)

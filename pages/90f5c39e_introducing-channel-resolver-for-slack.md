@@ -4,6 +4,8 @@ Forrester names Moveworks a leader in Chatbot for IT operations. Read the report
 
 Moveworks named a Forrester leader in Chatbot for IT operations. 
 
+![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
+
 Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
 
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
@@ -26,6 +28,10 @@ Sushanth Bhaskarabhatla, Product Manager
 Jing Chen, Tech Lead and Manager
 
 
+![](https://www.moveworks.com/hubfs/img/blog/07_MW_Blog_Feature_ChannelResolver_Dark-2.jpg)
+
+![](https://www.moveworks.com/hubfs/img/blog/07_MW_Blog_Feature_ChannelResolver_Dark-2.jpg)
+
 The premise of a Slack channel is simple: strength in numbers. Over the last few years, IT teams have embraced employee-facing chat channels as an alternative way to provide support, since there’s a good chance that someone in the group is experiencing the same issue, or has created a workaround, or even knows the solution. 
 
 In reality, of course, these helpful messages will be mixed in with just as many unhelpful ones, meaning that service desk agents must read through each thread to determine the best course of action. It all amounts to lots of extra work for IT teams that are already overextended.
@@ -34,6 +40,8 @@ Now imagine the ideal team member in the IT support channel. They read every sin
 
 Figure 1: Channel Resolver messages the employee directly, then updates the channel.
 
+![Channel_Resolver_Light-2](https://www.moveworks.com/hs-fs/hubfs/Channel_Resolver_Light-2.jpg?noresize&width=650&name=Channel_Resolver_Light-2.jpg)
+
 Moveworks understands the challenges employees face when trying to get a support issue resolved — and how delays in resolution hinder their productivity. Our vision has always been to make it easy to solve employee issues through the use of natural language understanding and conversational AI: resolution should come instantly, no matter where those issues are reported. Channel Resolver represents a major step toward realizing that vision of frictionless IT support.
 
 Available to all Moveworks customers who use Slack, Channel Resolver is a version of our AI bot that resides in a public chat channel. It analyzes each employee question, and if our natural language understanding (NLU) and resolution platform predicts that it can remediate the issue, it jumps in. In fact, an initial group of a dozen customers — including AppDynamics — have already transformed their IT support with Channel Resolver. 
@@ -41,6 +49,8 @@ Available to all Moveworks customers who use Slack, Channel Resolver is a versio
 Unsurprisingly, the trend toward Slack channels extends across most enterprise workstreams, since they promote transparency and enable teams to benefit from the wisdom of the crowd. IT teams in particular have adopted this open communication approach, using a dedicated channel where employees can raise issues and get assistance. Such “Ask-IT” channels are becoming increasingly popular places for employees to raise common questions:
 
 Figure 2: Using standard emojis, Channel Resolver indicates both that it’s analyzed an employee’s message (the eyes) and that the issue’s been resolved (the checkmark).
+
+![05_MW_Blog_ContentImage01_DesktopChannelResolver](https://www.moveworks.com/hs-fs/hubfs/img/blog/05_MW_Blog_ContentImage01_DesktopChannelResolver.jpg?noresize&width=600&name=05_MW_Blog_ContentImage01_DesktopChannelResolver.jpg)
 
 From a broader perspective, IT channels complement the modern, chat-first business strategy, which integrates formerly separate workflows on the chat tool that employees use every day. There’s no longer any need to log in to specialized tools like portals, as we explained in our post, "Anytime, anywhere, automatic." But resolving employees’ issues over chat also presents challenges for IT teams. How do you stay on top of so many questions and requests? And how do you respond fast enough that employees feel they're being heard?
 
@@ -58,6 +68,8 @@ To illustrate the point, consider this example of signal intermixed with noise �
 
 Figure 3: Separating the signal from the noise is intuitive for humans, but profoundly difficult for machines.
 
+![Filtering Noise_Combo](https://www.moveworks.com/hs-fs/hubfs/Filtering%20Noise_Combo.jpg?noresize&width=512&name=Filtering%20Noise_Combo.jpg)
+
 The overarching challenge here is that the structure of messages, comments, and responses is unpredictable. Our NLU system needs to be able to parse these complex utterances and provide users with the right answers when needed, an objective that requires many machine learning models to achieve.
 
 As we’ve seen, channels are not a good place for trigger-happy bots. Given the public nature of the channel setting, it’s critical for a bot to jump in only when it’s confident it can resolve an employee issue. The machine learning model thresholds for in-channel responses must therefore be tuned to trigger at higher confidence level than for DMs. 
@@ -66,56 +78,57 @@ So how does Moveworks actually decide which, if any, response is appropriate for
 
 Figure 4: A typical, noisy message in an IT support channel, filled with red herrings and irrelevant details that would confuse historical chatbots.
 
+![Channel_Resolver_Light-1](https://www.moveworks.com/hs-fs/hubfs/Channel_Resolver_Light-1.jpg?noresize&width=550&name=Channel_Resolver_Light-1.jpg)
+
 By contrast, Moveworks’ probabilistic engine weighs a number of variables — including syntax, semantics, previous IT tickets from the company, and even the employee’s department — to tackle the nuances of natural human language. Each of our resolution skills, such as our Software Access skill, then “bids” on the right to resolve an employee’s issue, with higher bids corresponding to higher levels of confidence in the model’s prediction. In this case, the Software Access skill generates the only bid that exceeds the confidence threshold, prompting the bot to autonomously provision Microsoft Office.
 
 Figure 5: Moveworks’ probabilistic engine uses an auction system to determine the best action.
+
+![05_MW_Blog_ContentImage_BiddingSystem](https://www.moveworks.com/hs-fs/hubfs/05_MW_Blog_ContentImage_BiddingSystem.png?noresize&width=600&name=05_MW_Blog_ContentImage_BiddingSystem.png)
 
 When our bot can’t fully resolve an issue, it must seamlessly hand off to the right person on the service desk. We met this goal by developing a new system of interaction that allows Channel Resolver to provide the necessary information for agents to step in and pick up where the bot left off, facilitating faster response.
 
 Figure 6: For employees awaiting IT support, Channel Resolver turns days into seconds.
 
+![05_MW_Blog_ContentImage_ChannelResolver_Callouts-3](https://www.moveworks.com/hs-fs/hubfs/05_MW_Blog_ContentImage_ChannelResolver_Callouts-3.png?noresize&width=600&name=05_MW_Blog_ContentImage_ChannelResolver_Callouts-3.png)
+
 For the first time, employees can get instant resolution directly in the IT support channel — from software provisioning to account unlocks to installation instructions to the guest WiFi password. And for IT teams, Channel Resolver means that Ask-IT channels no longer require an army of agents to maintain. The verdict is clear: it’s time to supercharge your Slack workspace with AI.
 
 Contact Moveworks to demo and deploy Channel Resolver on your IT support channel.
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
 
 
           Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
         
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
+
 
           Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
         
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
 
 
           3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
         
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
+
 
           Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
         
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
 
 
           From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
         
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
+
 
           AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.
         
 
-
-
-![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
-![](https://www.moveworks.com/hubfs/img/blog/07_MW_Blog_Feature_ChannelResolver_Dark-2.jpg)
-![](https://www.moveworks.com/hubfs/img/blog/07_MW_Blog_Feature_ChannelResolver_Dark-2.jpg)
-![Channel_Resolver_Light-2](https://www.moveworks.com/hs-fs/hubfs/Channel_Resolver_Light-2.jpg?noresize&width=650&name=Channel_Resolver_Light-2.jpg)
-![05_MW_Blog_ContentImage01_DesktopChannelResolver](https://www.moveworks.com/hs-fs/hubfs/img/blog/05_MW_Blog_ContentImage01_DesktopChannelResolver.jpg?noresize&width=600&name=05_MW_Blog_ContentImage01_DesktopChannelResolver.jpg)
-![Filtering Noise_Combo](https://www.moveworks.com/hs-fs/hubfs/Filtering%20Noise_Combo.jpg?noresize&width=512&name=Filtering%20Noise_Combo.jpg)
-![Channel_Resolver_Light-1](https://www.moveworks.com/hs-fs/hubfs/Channel_Resolver_Light-1.jpg?noresize&width=550&name=Channel_Resolver_Light-1.jpg)
-![05_MW_Blog_ContentImage_BiddingSystem](https://www.moveworks.com/hs-fs/hubfs/05_MW_Blog_ContentImage_BiddingSystem.png?noresize&width=600&name=05_MW_Blog_ContentImage_BiddingSystem.png)
-![05_MW_Blog_ContentImage_ChannelResolver_Callouts-3](https://www.moveworks.com/hs-fs/hubfs/05_MW_Blog_ContentImage_ChannelResolver_Callouts-3.png?noresize&width=600&name=05_MW_Blog_ContentImage_ChannelResolver_Callouts-3.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)

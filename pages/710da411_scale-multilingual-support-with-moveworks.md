@@ -4,6 +4,8 @@ Forrester names Moveworks a leader in Chatbot for IT operations. Read the report
 
 Moveworks named a Forrester leader in Chatbot for IT operations. 
 
+![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
+
 Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
 
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
@@ -21,6 +23,10 @@ A member of the Moveworks team will be in touch within the next 24 hours.
 
 Andrew Mairena, Group Product Manager
 
+
+![](https://www.moveworks.com/hubfs/Forrester%20T%26I%20Blog%20Header-2.png)
+
+![](https://www.moveworks.com/hubfs/Forrester%20T%26I%20Blog%20Header-2.png)
 
 The world is getting smaller — and that means trouble for IT teams. 
 
@@ -54,6 +60,8 @@ Data annotation ensures high-quality training data and, consequently, the accura
 
 Figure 1:“Necesito un nuevo equipo para mi equipo” means “I need a new computer for my team.” Google incorrectly translates the statement since it’s not trained on enterprise data. This is just one example of how generalized language models can be wrong.
 
+![image3-31](https://www.moveworks.com/hs-fs/hubfs/image3-31.png?width=691&height=356&name=image3-31.png)
+
  
 
 Existing chatbots are deterministic, relying heavily on rigid dialogue flows that provide pre-determined “conversational” paths the user can go down. 
@@ -76,6 +84,8 @@ Before going through the Language Core™, the bot conducts on-the-fly translati
 
 Figure 2: How Moveworks translates non-English user utterances.
 
+![image1-33](https://www.moveworks.com/hs-fs/hubfs/image1-33.png?width=691&height=288&name=image1-33.png)
+
  
 
 When do you translate words, and when do you not? In an enterprise setting, there may be terms that are only used in the primary language.
@@ -87,6 +97,8 @@ Let’s look at a simple example. A Spanish speaker may ask for access as so: �
 Moveworks' models leverage multilingual named entity recognition. We preemptively tag entities — the modifier the customer uses to describe their issue — and preserve them during the transformation process. Our bot is then able to use the original English entity to ensure accurate results.
 
 Figure 3: Here is an example of Moveworks' multilingual support named entity recognition. “Roman” and “Trello” are identified as entities and are not translated. 
+
+![image2-35](https://www.moveworks.com/hs-fs/hubfs/image2-35.png?width=691&height=288&name=image2-35.png)
 
  
 
@@ -112,41 +124,39 @@ There is rarely a silver bullet. A lot of work has gone into our multilingual pl
 
 Reach out to schedule a demo and see how you can scale support to 100+ languages.
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
+
 
           Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
         
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
 
 
           Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
         
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
+
 
           3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
         
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
 
 
           Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
         
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
+
 
           From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
         
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
 
 
           AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.
         
 
-
-
-![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
-![](https://www.moveworks.com/hubfs/Forrester%20T%26I%20Blog%20Header-2.png)
-![](https://www.moveworks.com/hubfs/Forrester%20T%26I%20Blog%20Header-2.png)
-![image3-31](https://www.moveworks.com/hs-fs/hubfs/image3-31.png?width=691&height=356&name=image3-31.png)
-![image1-33](https://www.moveworks.com/hs-fs/hubfs/image1-33.png?width=691&height=288&name=image1-33.png)
-![image2-35](https://www.moveworks.com/hs-fs/hubfs/image2-35.png?width=691&height=288&name=image2-35.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)

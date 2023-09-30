@@ -1,11 +1,17 @@
-import os
-import requests
-from bs4 import BeautifulSoup
 # from sentence_transformers import SentenceTransformer, util
 # import faiss
-import markdown
-import urllib.parse
+import os
+import re
+import requests
 import hashlib
+import urllib.parse
+from bs4 import BeautifulSoup
+from PIL import Image
+import PIL
+import pytesseract
+import markdown
+import io
+
 
 # Function to extract URLs from a sitemap.xml file
 def extract_sitemap_urls(sitemap_url):
@@ -26,27 +32,75 @@ def scrape_and_save_as_markdown(url, output_dir):
     response = requests.get(url)
     soup = BeautifulSoup(response.text, 'html.parser')
     
-    # Extract text
-    text = ""
-    for paragraph in soup.find_all('p'):
-        text += f"{paragraph.get_text()}\n\n"
-
     # Generate a unique filename based on the URL
     filename = generate_filename(url)
     output_path = os.path.join(output_dir, filename)
 
-    # Save as Markdown with inline images
-    markdown_content = f"# {url}\n\n{text}\n\n"
-
-    for img_tag in soup.find_all('img'):
-        alt_text = img_tag.get('alt', 'Image')
-        img_url = img_tag.get('src', '')
-
-        if img_url.startswith('http'):
-            markdown_content += f"![{alt_text}]({img_url})\n"
-
+    # Open the Markdown file for writing
     with open(output_path, 'w', encoding='utf-8') as markdown_file:
-        markdown_file.write(markdown_content)
+        markdown_file.write(f"# {url}\n\n")
+
+        # Extract text and images while keeping them inline
+        for element in soup.find_all(['p', 'img']):
+            if element.name == 'p':
+                text = element.get_text()
+                markdown_file.write(f"{text}\n\n")
+            elif element.name == 'img':
+                alt_text = element.get('alt', 'Image')
+                img_url = element.get('src', '')
+
+                if img_url.startswith('http'):
+                    markdown_file.write(f"![{alt_text}]({img_url})\n\n")
+
+
+# Function to prune the width part from image URLs
+def prune_image_width(image_url):
+    # Remove the width parameter from the URL
+    return re.sub(r'\?width=\d+', '', image_url)
+
+# Function to perform OCR on an image and return the extracted text (only for supported formats)
+# Function to perform OCR on an image and return the extracted text (only for supported formats)
+def perform_ocr(image_url):
+    response = requests.get(image_url)
+    image_bytes = response.content
+
+    # Check if the image is in a supported format (e.g., PNG)
+    if image_url.lower().endswith(('.png', '.jpeg', '.jpg', '.bmp', '.tiff')):
+        try:
+            image = Image.open(io.BytesIO(image_bytes))
+            extracted_text = pytesseract.image_to_string(image)
+            return extracted_text
+        except PIL.UnidentifiedImageError:
+            return None
+    else:
+        return None
+
+# Function to update alt-text in Markdown files with OCR results
+def update_alt_text_with_ocr(markdown_dir):
+    for filename in os.listdir(markdown_dir):
+        if filename.endswith('.md'):
+            with open(os.path.join(markdown_dir, filename), 'r+', encoding='utf-8') as markdown_file:
+                markdown_content = markdown_file.read()
+
+                # Find image URLs and perform OCR (for supported formats)
+                for match in re.finditer(r'!\[([^\]]*)\]\(([^)]*)\)', markdown_content):
+                    alt_text = match.group(1)
+                    img_url = match.group(2)
+
+                    # Prune image width if necessary
+                    img_url = prune_image_width(img_url)
+
+                    # Perform OCR (only for supported formats) and update alt-text
+                    extracted_text = perform_ocr(img_url)
+                    if extracted_text:
+                        markdown_content = markdown_content.replace(match.group(0), f"![{alt_text} | {extracted_text.strip()}]({img_url})")
+
+                # Rewind the file and write updated content
+                markdown_file.seek(0)
+                markdown_file.write(markdown_content)
+                markdown_file.truncate()
+
+
 
 
 """
@@ -83,8 +137,12 @@ if __name__ == "__main__":
     urls = extract_sitemap_urls(sitemap_url)
 
     # Scrape and save as Markdown
-    for url in urls:
-        scrape_and_save_as_markdown(url, output_dir)
+    # for url in urls:
+    #     scrape_and_save_as_markdown(url, output_dir)
+
+    markdown_dir = output_dir
+
+    update_alt_text_with_ocr(markdown_dir)
 
     # Create embeddings
     # create_embeddings(output_dir, model_name, embeddings_output_file)

@@ -4,6 +4,8 @@ Forrester names Moveworks a leader in Chatbot for IT operations. Read the report
 
 Moveworks named a Forrester leader in Chatbot for IT operations. 
 
+![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
+
 Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
 
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
@@ -21,6 +23,10 @@ A member of the Moveworks team will be in touch within the next 24 hours.
 
 Avi Dalal, Product Marketing Manager
 
+
+![](https://www.moveworks.com/hubfs/exi-featured-image.jpeg)
+
+![](https://www.moveworks.com/hubfs/exi-featured-image.jpeg)
 
 It’s time to rethink how we measure employee experience.
 
@@ -96,6 +102,8 @@ All of this boils down to everyone from the CEO to service leaders having a more
 
 
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/undefined-2.png?width=565&height=574&name=undefined-2.png)
+
 Figure 1: Using NLU techniques trained on over half a billion support tickets, AI analytics can pull key insights from unstructured data, like IT support tickets.
 
  
@@ -112,6 +120,8 @@ EXI provides an in-depth analysis of your organization's app usage and potential
 
 
 
+![Image](https://www.moveworks.com/hubfs/image-png-1.png)
+
 Figure 2: Not only does EXI let you slice and dice tickets by issue type, but also it lets you view common problems from the perspective of the individual apps and services used in your enterprise.
 
 For instance, imagine a situation where an increasing number of your new hires are facing hardware issues, leading them to wait an extra month for keyboards and monitors. With EXI, you can spot this growing trend and take prompt action. After identifying the issue, you can further investigate its root cause, such as a vendor experiencing delays. In response, you can adjust your device policy, making it easier for specific employees to purchase the required hardware themselves.
@@ -125,6 +135,8 @@ The challenge of addressing employee concerns promptly and accurately can seem d
 Specifically, natural language understanding (NLU) is a driving force in identifying and classifying employee issues on a large scale. Using the NLU hotspot grid in the Employee Issues module, organizations extract valuable insights from tickets logged by their workforce. 
 
 Figure 3: By leveraging AI analytics, specific team-related issues can be identified early on, which enables support teams to address and resolve these problems before they escalate, ensuring a smoother work environment.
+
+![Image](https://www.moveworks.com/hubfs/image-png-3.png)
 
 So, how does this work?
 
@@ -145,6 +157,8 @@ How to improve your employee experience KPIs
 In today's competitive business landscape, staying informed about industry benchmarks can be crucial to making strategic decisions that bring growth and success. But traditional analytics solutions may only provide benchmarks relative to your past performance, which isn't always enough for a comprehensive comparative analysis. 
 
 Figure 4: By analyzing both industry and company size benchmarks with EXI, you can compare your business' performance against a broader range of companies similar to yours.
+
+![Image](https://www.moveworks.com/hubfs/image-png-2.png)
 
 However, Moveworks' data from over 250 customers offers a more holistic perspective, allowing you to set informed, targeted goals and remain agile in a constantly evolving market. By analyzing both industry and company size benchmarks with EXI, you can compare your business' performance against a broader range of companies similar to yours. These benchmarks are regularly refreshed and hold the key to refining your strategies to meet industry standards and stay ahead of your competitors. 
 
@@ -170,42 +184,39 @@ See your entire employee experience, on a single screen. Request a demo.
 
 Learn more about our EXI roadmap. Watch Moveworks Live on-demand.  
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
+
 
           Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
         
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
 
 
           Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
         
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
+
 
           3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
         
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
 
 
           Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
         
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
+
 
           From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
         
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
 
 
           AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.
         
 
-
-
-![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
-![](https://www.moveworks.com/hubfs/exi-featured-image.jpeg)
-![](https://www.moveworks.com/hubfs/exi-featured-image.jpeg)
-![Image](https://www.moveworks.com/hs-fs/hubfs/undefined-2.png?width=565&height=574&name=undefined-2.png)
-![Image](https://www.moveworks.com/hubfs/image-png-1.png)
-![Image](https://www.moveworks.com/hubfs/image-png-3.png)
-![Image](https://www.moveworks.com/hubfs/image-png-2.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)

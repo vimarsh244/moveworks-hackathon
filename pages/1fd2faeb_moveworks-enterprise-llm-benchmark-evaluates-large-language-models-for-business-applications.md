@@ -4,6 +4,8 @@ Forrester names Moveworks a leader in Chatbot for IT operations. Read the report
 
 Moveworks named a Forrester leader in Chatbot for IT operations. 
 
+![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
+
 Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
 
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
@@ -25,6 +27,10 @@ Andrew Mairena, Group Product Manager
 
 Chang Liu, Director, Engineering
 
+
+![](https://www.moveworks.com/hubfs/moveworks-enterprise-llm-benchmark-ft-image.png)
+
+![](https://www.moveworks.com/hubfs/moveworks-enterprise-llm-benchmark-ft-image.png)
 
 Since ChatGPT burst onto the scene, large language models (LLMs) have been making waves in the business world, capturing the attention of everyone from tech titans to ambitious startups. It should come as no surprise, then, that the market is flooded with a vast array of LLM solutions.
 
@@ -210,15 +216,21 @@ Consider the following example cases:
 
 
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/undefined-May-23-2023-02-13-51-8084-PM.png?width=814&height=212&name=undefined-May-23-2023-02-13-51-8084-PM.png)
+
 In above example, closing comment — while curt — does include resolution steps on how to update the disk. GPT-3.5 Turbo's output is false, incorrectly identifying the comment as unhelpful. However, MoveLM correctly identifies the comment as helpful, providing the true output.
 
 
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/undefined-May-23-2023-02-13-51-6040-PM.png?width=778&height=310&name=undefined-May-23-2023-02-13-51-6040-PM.png)
 
 In this instance, while the comment is long, it does not include detailed steps for resolution. GPT-3.5 Turbo's output is True, wrongly classifying the comment as helpful. But MoveLM accurately identifies the comment as unhelpful, returning the true output.
 
 The examples demonstrate MoveLM's capability to discern helpful comments, which contributes to a better understanding and resolution of user issues in enterprise environments.
 
 
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/image-png-May-24-2023-02-11-51-2748-AM.png?width=572&height=508&name=image-png-May-24-2023-02-11-51-2748-AM.png)
 
 Figure 1: Even though was a zero-shot experiment, MoveLM performed better against few-shot experiments with competing models featured in this benchmark.
 
@@ -232,13 +244,19 @@ With our corpus of 500 million enterprise support tickets at Moveworks, our LLMs
 
 
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/undefined-May-23-2023-02-14-54-9317-PM.png?width=821&height=227&name=undefined-May-23-2023-02-14-54-9317-PM.png)
+
 The above example demonstrates intent classification in the case of a ticket submitted to request a specific form. MoveLM model accurately labels the ticket as Provision, signifying that the requested document needs to be shared with the user. On the other hand, GPT-4 marks the same ticket as Manage, failing to recognize the enterprise context.
 
 
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/undefined-May-23-2023-02-14-54-7388-PM.png?width=827&height=178&name=undefined-May-23-2023-02-14-54-7388-PM.png)
+
 Additionally, in cases where a ticket refers to a pre-existing ticket, the fine-tuned MoveLM™ model can correctly classify the ticket as Information. In contrast, GPT-4, without proper context, may inaccurately label the ticket as Hardware, further highlighting the advantage of training LLMs on a corpus of enterprise support tickets.
 
 
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/undefined-May-23-2023-11-26-28-4242-PM.png?width=572&height=529&name=undefined-May-23-2023-11-26-28-4242-PM.png)
 
 Figure 2: Even though was a zero-shot experiment, MoveLM performed better against few-shot experiments with competing models featured in this benchmark.
 
@@ -254,13 +272,19 @@ Consider two examples where users submit requests to Moveworks:
 
 
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/undefined-May-23-2023-02-16-18-2409-PM.png?width=797&height=148&name=undefined-May-23-2023-02-16-18-2409-PM.png)
+
 In the above example, given the query "What's Moveworks ARR?" MoveLM successfully understands the user's request and is able to generate an API call given a list of API’s and its descriptions in context. On the other hand, the GPT-4 model incorrectly responds, saying that it doesn't have an API to answer the query. 
 
 
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/undefined-May-23-2023-02-16-18-7077-PM.png?width=859&height=160&name=undefined-May-23-2023-02-16-18-7077-PM.png)
+
 The example above demonstrates how fine-tuned MoveLM is able to understand enterprise specific context. In this case, the GPT-4 model does not understand from context that ‘Clover’ is a on-site location and mistakenly responds by attempting to retrieve the customer profile for Clover. On the other hand, the MoveLM model correctly identifies the context of the query and fetches site information about Clover, demonstrating its superior understanding of user intent and language subtleties.
 
 
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/image-png-4.png?width=572&height=548&name=image-png-4.png)
 
 Figure 1: Even though was a zero-shot experiment, MoveLM performed better against few-shot experiments with competing models featured in this benchmark.
 
@@ -464,47 +488,39 @@ With these advancements in play, we are confident that we are well on our way to
 
 Contact Moveworks to learn how AI can supercharge your workforce's productivity.
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
+
 
           Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
         
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
 
 
           Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
         
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
+
 
           3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
         
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
 
 
           Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
         
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
+
 
           From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
         
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
 
 
           AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.
         
 
-
-
-![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
-![](https://www.moveworks.com/hubfs/moveworks-enterprise-llm-benchmark-ft-image.png)
-![](https://www.moveworks.com/hubfs/moveworks-enterprise-llm-benchmark-ft-image.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/undefined-May-23-2023-02-13-51-8084-PM.png?width=814&height=212&name=undefined-May-23-2023-02-13-51-8084-PM.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/undefined-May-23-2023-02-13-51-6040-PM.png?width=778&height=310&name=undefined-May-23-2023-02-13-51-6040-PM.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/image-png-May-24-2023-02-11-51-2748-AM.png?width=572&height=508&name=image-png-May-24-2023-02-11-51-2748-AM.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/undefined-May-23-2023-02-14-54-9317-PM.png?width=821&height=227&name=undefined-May-23-2023-02-14-54-9317-PM.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/undefined-May-23-2023-02-14-54-7388-PM.png?width=827&height=178&name=undefined-May-23-2023-02-14-54-7388-PM.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/undefined-May-23-2023-11-26-28-4242-PM.png?width=572&height=529&name=undefined-May-23-2023-11-26-28-4242-PM.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/undefined-May-23-2023-02-16-18-2409-PM.png?width=797&height=148&name=undefined-May-23-2023-02-16-18-2409-PM.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/undefined-May-23-2023-02-16-18-7077-PM.png?width=859&height=160&name=undefined-May-23-2023-02-16-18-7077-PM.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/image-png-4.png?width=572&height=548&name=image-png-4.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)

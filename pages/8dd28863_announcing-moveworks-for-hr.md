@@ -4,6 +4,8 @@ Forrester names Moveworks a leader in Chatbot for IT operations. Read the report
 
 Moveworks named a Forrester leader in Chatbot for IT operations. 
 
+![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
+
 Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
 
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
@@ -22,6 +24,10 @@ A member of the Moveworks team will be in touch within the next 24 hours.
 Varun Singh, VP of Product
 
 
+![](https://www.moveworks.com/hubfs/Moveworks_for-HR_Feature.jpeg)
+
+![](https://www.moveworks.com/hubfs/Moveworks_for-HR_Feature.jpeg)
+
 At Moveworks, our mission is to make every workplace the best workplace. For this reason, we empowered our platform to move beyond IT, starting last year. Since then, Moveworks bots worldwide have answered thousands of HR questions. Today, we’re excited to announce the next stage: Moveworks for HR, a sophisticated artificial intelligence solution built for people teams.
 
 HR’s always been complex, but we have witnessed a sea change on an industry level over the last 20-plus months. HR teams have been put on the spot, responsible for creating the best places to work during a time of extreme unpredictability. They’ve had to develop health and safety protocols; address employee burnout and well-being; manage flexible and hybrid work logistics; and recruit, hire, and onboard. The list goes on. 
@@ -36,6 +42,8 @@ Consider a common question about parental leave. There are dozens of ways to ask
 
 Figure 1: HR support requires deep understanding and personalization. With AI, we ensure that every employee gets a custom-built response.
 
+![47-BLOG-CONTENT-16-9-MW-HRblog](https://www.moveworks.com/hs-fs/hubfs/47-BLOG-CONTENT-16-9-MW-HRblog.jpeg?width=755&name=47-BLOG-CONTENT-16-9-MW-HRblog.jpeg)
+
 An additional complication is that the majority of HR knowledge is localized. If a Canadian and a Spanish employee ask the same question, they’re likely to need two different answers. This presents a unique challenge for automation. A hardcoded solution will lead both people down the same rabbit hole. Maybe one will get the answer they’re looking for, maybe not. 
 
 Moveworks for HR uses conversational AI to deeply understand what an employee is asking for and who they are. With this context, our bot delivers a personalized answer entirely autonomously. Employees can check remaining PTO balances, inquire about benefits, review company holiday schedules — and get information tailored to their needs, immediately.
@@ -47,6 +55,8 @@ If your goal is always to let employees pick the benefits, schedule, and work ar
 HR issues are rarely as simple as a question and an answer. Again, this is where the human element of human resources comes into play. Why have I been taxed so much? My job title isn’t right. I’m having trouble with a co-worker. None of these issues have a simple solution. 
 
 Figure 2: With Moveworks for HR, even complex issues are accelerated. Employees can fill out forms, request approvals, or crowdsource support directly in chat.
+
+![47-BLOG-CONTENT-Desktop Channel Mockup-v2](https://www.moveworks.com/hs-fs/hubfs/47-BLOG-CONTENT-Desktop%20Channel%20Mockup-v2.jpeg?width=769&name=47-BLOG-CONTENT-Desktop%20Channel%20Mockup-v2.jpeg)
 
 Moveworks automates many issues all by itself, but some situations will always require a person to step in and help out. Our AI routes issues to the right specialist or manager for approvals to make this handoff seamless, even if the employee has no idea who that person is or what department they’re in. Employees can fill out forms directly on their chat platform. And it’s even possible to crowdsource support with our Channel Resolver.
 
@@ -61,6 +71,8 @@ Employees aren’t thinking about complex backend reporting systems or the suppo
 Instead of forcing employees to learn yet another system, Moveworks for HR offers a single place for employees to get help. Manage a life event, request an employment verification letter, find tax forms, approve expenses, and update healthcare benefits — our platform can help with all these use cases and more.
 
 Figure 3: Moveworks for HR unifies existing HR systems to provide the best up-to-date answer or action.
+
+![47-BLOG-CONTENT-PrpChat_HR_Unifying Systems-Legacy-nodrop](https://www.moveworks.com/hs-fs/hubfs/47-BLOG-CONTENT-PrpChat_HR_Unifying%20Systems-Legacy-nodrop.jpeg?width=399&name=47-BLOG-CONTENT-PrpChat_HR_Unifying%20Systems-Legacy-nodrop.jpeg)
 
 Keeping track of all these disconnected systems is just as frustrating for HR teams. Manually updating a dialog flow every time you adjust the return to office plan is more trouble than it’s worth. HR teams just don’t have the resources.
 
@@ -84,41 +96,39 @@ Here at Moveworks, we realize that every employee deserves to work at the best w
 
 Let your HR team get back to work that matters with Moveworks — request a demo!
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
+
 
           Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
         
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
 
 
           Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
         
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
+
 
           3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
         
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
 
 
           Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
         
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
+
 
           From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
         
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
 
 
           AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.
         
 
-
-
-![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
-![](https://www.moveworks.com/hubfs/Moveworks_for-HR_Feature.jpeg)
-![](https://www.moveworks.com/hubfs/Moveworks_for-HR_Feature.jpeg)
-![47-BLOG-CONTENT-16-9-MW-HRblog](https://www.moveworks.com/hs-fs/hubfs/47-BLOG-CONTENT-16-9-MW-HRblog.jpeg?width=755&name=47-BLOG-CONTENT-16-9-MW-HRblog.jpeg)
-![47-BLOG-CONTENT-Desktop Channel Mockup-v2](https://www.moveworks.com/hs-fs/hubfs/47-BLOG-CONTENT-Desktop%20Channel%20Mockup-v2.jpeg?width=769&name=47-BLOG-CONTENT-Desktop%20Channel%20Mockup-v2.jpeg)
-![47-BLOG-CONTENT-PrpChat_HR_Unifying Systems-Legacy-nodrop](https://www.moveworks.com/hs-fs/hubfs/47-BLOG-CONTENT-PrpChat_HR_Unifying%20Systems-Legacy-nodrop.jpeg?width=399&name=47-BLOG-CONTENT-PrpChat_HR_Unifying%20Systems-Legacy-nodrop.jpeg)
-![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)

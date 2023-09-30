@@ -4,6 +4,8 @@ Forrester names Moveworks a leader in Chatbot for IT operations. Read the report
 
 Moveworks named a Forrester leader in Chatbot for IT operations. 
 
+![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
+
 Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
 
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
@@ -21,6 +23,10 @@ A member of the Moveworks team will be in touch within the next 24 hours.
 
 Varun Singh, Co-Founder and President
 
+
+![](https://www.moveworks.com/hubfs/ai-transformation-featured-image-final-1.png)
+
+![](https://www.moveworks.com/hubfs/ai-transformation-featured-image-final-1.png)
 
 It's no secret that the world of business is abuzz with the potential of AI. 
 
@@ -44,6 +50,8 @@ The good news is that AI is positioned to transform this reality, with huge stri
 
 
 
+![Image](https://www.moveworks.com/hubfs/image-png-Jul-05-2023-09-18-37-4617-PM.png)
+
 Figure 1: Right now it takes your employees so long to get help because it’s such a manual process and they don’t know where to go for help.
 
  
@@ -53,6 +61,8 @@ In fact, AI is already making waves in the enterprise world, enhancing efficienc
 So it shouldn’t come as a surprise that already 40% of enterprises are already embracing AI or carefully evaluating its potential use cases. This remarkable shift embodies the growing momentum toward fully realizing the incredible advantages AI has to offer in optimizing employee service and expediting operational processes.
 
 
+
+![Image](https://www.moveworks.com/hubfs/image-png-Jul-05-2023-09-20-13-0265-PM.png)
 
 Figure 2: Enterprises will continue to experiment with AI. According to Bain, 40% of enterprises are already embracing AI or carefully evaluating its potential use cases.
 
@@ -68,6 +78,8 @@ It's crucial to understand that copilots, while an essential part of the AI land
 
 
 
+![Image](https://www.moveworks.com/hubfs/image-png-Jul-05-2023-09-21-53-7512-PM.png)
+
 Figure 3: AI transformation extends beyond AI copilots.
 
 It’s also important to note that merely relying on point solutions, such as chatbot toolkits, standalone LLMs, and single-ecosystem copilots, can lead to disappointment, as they often target small, isolated problems rather than the broader challenges that need to be addressed. 
@@ -77,6 +89,8 @@ In contrast, a well-rounded AI transformation approach involves strategic integr
 It's worth highlighting the value of copilots in the context of AI transformation. Copilots serve as valuable assets designed to improve the products and tools that your employees depend on every day. By harnessing their capabilities, you can further optimize daily processes while ensuring seamless integration with your existing systems.
 
 
+
+![Image](https://www.moveworks.com/hubfs/image-png-Jul-05-2023-09-26-40-1038-PM.png)
 
 Figure 4: AI copilots are going to enhance the products you and your employees already use on a daily basis.
 
@@ -98,42 +112,39 @@ As organizations navigate the rapidly evolving technological landscape, it is es
 
 Watch our webinar with Microsoft to learn more about Toyota's AI transformation with Moveworks. Check it out!
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
+
 
           Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
         
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
 
 
           Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
         
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
+
 
           3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
         
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
 
 
           Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
         
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
+
 
           From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
         
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
 
 
           AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.
         
 
-
-
-![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
-![](https://www.moveworks.com/hubfs/ai-transformation-featured-image-final-1.png)
-![](https://www.moveworks.com/hubfs/ai-transformation-featured-image-final-1.png)
-![Image](https://www.moveworks.com/hubfs/image-png-Jul-05-2023-09-18-37-4617-PM.png)
-![Image](https://www.moveworks.com/hubfs/image-png-Jul-05-2023-09-20-13-0265-PM.png)
-![Image](https://www.moveworks.com/hubfs/image-png-Jul-05-2023-09-21-53-7512-PM.png)
-![Image](https://www.moveworks.com/hubfs/image-png-Jul-05-2023-09-26-40-1038-PM.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)

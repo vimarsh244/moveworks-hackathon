@@ -4,6 +4,8 @@ Forrester names Moveworks a leader in Chatbot for IT operations. Read the report
 
 Moveworks named a Forrester leader in Chatbot for IT operations. 
 
+![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
+
 Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
 
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
@@ -21,6 +23,10 @@ A member of the Moveworks team will be in touch within the next 24 hours.
 
 Ritwik Raj, Technical Program Manager
 
+
+![](https://www.moveworks.com/hubfs/grounding-ai-blog-featured-image.png)
+
+![](https://www.moveworks.com/hubfs/grounding-ai-blog-featured-image.png)
 
 Using a solution like OpenAI’s ChatGPT can be incredibly appealing, but there’s a catch: occasionally, these AI solutions generate responses containing misleading or incorrect information. In critical tasks, can you confidently rely on these systems? 
 
@@ -60,6 +66,8 @@ For instance, when answering a question like, "How many dinosaurs were in the Ju
 
 
 
+![Image](https://www.moveworks.com/hubfs/image-png-Jul-26-2023-05-06-41-4559-PM.png)
+
 Figure 1: If we provided the LLM with a Wikipedia article on the Jurassic period and told it to only use that article, but it still produced text that was not supported by that article, that would also be a hallucination — even if the entire generated response was accurate.
 
 This is to say that hallucination is an intrinsic characteristic of AI systems and sometimes can be beneficial. The key is identifying when hallucinations are problematic and mitigating their drawbacks while harnessing their potential for producing more engaging and contextually relevant AI-generated responses. This is where grounding plays a vital role.
@@ -87,6 +95,8 @@ On the other hand, if we utilize a grounded LLM connected to an internal employe
 By employing a grounded LLM in this scenario, we can ensure that the information provided is both accurate and efficient, significantly enhancing the employee data lookup process. 
 
 
+
+![Image](https://www.moveworks.com/hubfs/image-png-Jul-26-2023-05-10-27-7211-PM.png)
 
 Figure 2: Grounding prevents a language model from being misled by unrelated information.
 
@@ -202,40 +212,39 @@ To harness the potential of grounded AI, further research and development are es
 
 Large language models are not one-size-fits-all. Learn more about benchmarking LLM performance for the enterprise. 
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
+
 
           Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
         
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
 
 
           Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
         
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
+
 
           3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
         
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
 
 
           Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
         
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
+
 
           From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
         
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
 
 
           AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.
         
 
-
-
-![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
-![](https://www.moveworks.com/hubfs/grounding-ai-blog-featured-image.png)
-![](https://www.moveworks.com/hubfs/grounding-ai-blog-featured-image.png)
-![Image](https://www.moveworks.com/hubfs/image-png-Jul-26-2023-05-06-41-4559-PM.png)
-![Image](https://www.moveworks.com/hubfs/image-png-Jul-26-2023-05-10-27-7211-PM.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)

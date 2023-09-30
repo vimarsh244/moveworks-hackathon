@@ -4,6 +4,8 @@ Forrester names Moveworks a leader in Chatbot for IT operations. Read the report
 
 Moveworks named a Forrester leader in Chatbot for IT operations. 
 
+![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
+
 Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
 
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
@@ -21,6 +23,10 @@ A member of the Moveworks team will be in touch within the next 24 hours.
 
 Jiang Chen,  Co-Founder and VP of Machine Learning
 
+
+![](https://www.moveworks.com/hubfs/featured-image-the-new-stack-2.jpg)
+
+![](https://www.moveworks.com/hubfs/featured-image-the-new-stack-2.jpg)
 
 ChatGPT is a groundbreaking technology that’s captured the world’s imagination with its ability to show off the magic of AI.
 
@@ -58,9 +64,13 @@ You could give ChatGPT one hundred percent of the context needed to give you the
 
 
 
+![ChatGPT_Hallucination1](https://www.moveworks.com/hs-fs/hubfs/ChatGPT_Hallucination1.png?width=559&height=353&name=ChatGPT_Hallucination1.png)
+
 Quoting from different sources can’t solve the problem either since the model often takes sentences out of context and reassembles them into a paragraph to create an incorrect answer. In the instance below, the pricing of g4dn.xlarge is grafted to g4dn.4xlarge. 
 
 
+
+![ChatGPT_Hallucination2](https://www.moveworks.com/hs-fs/hubfs/ChatGPT_Hallucination2.png?width=559&height=433&name=ChatGPT_Hallucination2.png)
 
 The subtlety of these inaccuracies can appear innocent but have much broader implications when dealing with more sensitive subjects. To the untrained eye, incorrect statements could very well seem true. In its research, OpenAI acknowledges this challenge, stating that hallucination poses a very real threat when LLMs are used for real-world applications — like responding to employee questions in a business setting or providing automated patient support in a healthcare setting.
 
@@ -82,6 +92,8 @@ Just as the car driver can apply the accelerator and the brake to change the car
 
 
 
+![JiangChen_LLM_Visual](https://www.moveworks.com/hs-fs/hubfs/JiangChen_LLM_Visual.png?width=769&height=510&name=JiangChen_LLM_Visual.png)
+
 Adding to that challenge, programming an LLM is currently limited to writing prompts. But, as visualized by the diagram above, written prompts are limited. At this time, prompt length can’t exceed 2048 tokens. While that number could extend, it doesn’t address the core challenge of only being able to communicate with LLMs via text-based prompts of limited size.
 
 On the contrary, the communication bandwidth between the traditional layered intelligent system and the enterprise environment is much higher than LLMs can provide and offer more opportunities for us to control, fine-tune and override the behaviors. 
@@ -100,6 +112,8 @@ For example, if an LLM was trained on data from 2020, like GPT3.5, the model Cha
 
 
 
+![JamesWebb_ChatGPT](https://www.moveworks.com/hs-fs/hubfs/JamesWebb_ChatGPT.png?width=559&height=319&name=JamesWebb_ChatGPT.png)
+
 Even though people are attempting to put a search engine underneath it to bring in fresh data, it isn’t easy to instruct the LLM to override parts of the model’s knowledge while retaining the other in order to generate an up-to-date answer. There is no guarantee that an LLM won’t give out stale information even though the search engine it is paired with has up-to-date information. This poses a novel and unique challenge, especially with respect to a business setting, where most of the information is private and changes in real-time.
 
  
@@ -114,42 +128,39 @@ We’re planning to embrace the GPT family, and other generative AI models to br
 
 Contact Moveworks to learn what conversational AI can do for you and your business.
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
+
 
           Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
         
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
 
 
           Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
         
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
+
 
           3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
         
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
 
 
           Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
         
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
+
 
           From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
         
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
 
 
           AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.
         
 
-
-
-![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
-![](https://www.moveworks.com/hubfs/featured-image-the-new-stack-2.jpg)
-![](https://www.moveworks.com/hubfs/featured-image-the-new-stack-2.jpg)
-![ChatGPT_Hallucination1](https://www.moveworks.com/hs-fs/hubfs/ChatGPT_Hallucination1.png?width=559&height=353&name=ChatGPT_Hallucination1.png)
-![ChatGPT_Hallucination2](https://www.moveworks.com/hs-fs/hubfs/ChatGPT_Hallucination2.png?width=559&height=433&name=ChatGPT_Hallucination2.png)
-![JiangChen_LLM_Visual](https://www.moveworks.com/hs-fs/hubfs/JiangChen_LLM_Visual.png?width=769&height=510&name=JiangChen_LLM_Visual.png)
-![JamesWebb_ChatGPT](https://www.moveworks.com/hs-fs/hubfs/JamesWebb_ChatGPT.png?width=559&height=319&name=JamesWebb_ChatGPT.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)

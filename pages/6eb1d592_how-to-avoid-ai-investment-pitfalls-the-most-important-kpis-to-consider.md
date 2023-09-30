@@ -4,6 +4,8 @@ Forrester names Moveworks a leader in Chatbot for IT operations. Read the report
 
 Moveworks named a Forrester leader in Chatbot for IT operations. 
 
+![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
+
 Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
 
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
@@ -21,6 +23,10 @@ A member of the Moveworks team will be in touch within the next 24 hours.
 
 Brandon Cohan, Head of Business Value Services
 
+
+![](https://www.moveworks.com/hubfs/measuring-ai-value-2.jpg)
+
+![](https://www.moveworks.com/hubfs/measuring-ai-value-2.jpg)
 
 We’ve crossed the chasm. AI is no longer just nice to have. It’s as important a building block for your organization as any other. 
 
@@ -43,6 +49,8 @@ In this blog series, I’ll focus on the third step, walking you through a frame
 Countless research studies highlight the importance of tying technology investments to measurable business outcomes. We’ve all heard the saying, what doesn’t get measured, doesn’t get done. We take that same approach at Moveworks, grounding our AI value framework in three business outcome categories:
 
 
+
+![blog-MLS-1200x500-figure1 (1)](https://www.moveworks.com/hs-fs/hubfs/blog-MLS-1200x500-figure1%20(1).png?width=760&height=317&name=blog-MLS-1200x500-figure1%20(1).png)
 
 Figure 1: Moveworks’ AI value framework is grounded in three key business outcomes: improving operational efficiency, enhancing experiences, and accelerating business transformation.
 
@@ -70,6 +78,8 @@ A strong security posture is essential for businesses, as it helps prevent syste
 
 
 
+![blog-MLS-1200x500-figure2 (1)](https://www.moveworks.com/hs-fs/hubfs/blog-MLS-1200x500-figure2%20(1).png?width=760&height=317&name=blog-MLS-1200x500-figure2%20(1).png)
+
 Figure 2: Moveworks breaks down each business outcome into eight measurable impact areas.
 
  
@@ -78,40 +88,39 @@ Identifying the business objectives, defining the use cases and capabilities req
 
 Contact  Moveworks to learn how AI can supercharge your workforce productivity.
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
+
 
           Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
         
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
 
 
           Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
         
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
+
 
           3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
         
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
 
 
           Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
         
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
+
 
           From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
         
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
 
 
           AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.
         
 
-
-
-![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
-![](https://www.moveworks.com/hubfs/measuring-ai-value-2.jpg)
-![](https://www.moveworks.com/hubfs/measuring-ai-value-2.jpg)
-![blog-MLS-1200x500-figure1 (1)](https://www.moveworks.com/hs-fs/hubfs/blog-MLS-1200x500-figure1%20(1).png?width=760&height=317&name=blog-MLS-1200x500-figure1%20(1).png)
-![blog-MLS-1200x500-figure2 (1)](https://www.moveworks.com/hs-fs/hubfs/blog-MLS-1200x500-figure2%20(1).png?width=760&height=317&name=blog-MLS-1200x500-figure2%20(1).png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)

@@ -4,6 +4,8 @@ Forrester names Moveworks a leader in Chatbot for IT operations. Read the report
 
 Moveworks named a Forrester leader in Chatbot for IT operations. 
 
+![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
+
 Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
 
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
@@ -21,6 +23,10 @@ A member of the Moveworks team will be in touch within the next 24 hours.
 
 Andrew Mairena, Group Product Manager
 
+
+![](https://www.moveworks.com/hubfs/Moveworks_LLM_Feature.png)
+
+![](https://www.moveworks.com/hubfs/Moveworks_LLM_Feature.png)
 
 Employee service has always been stubbornly people-intensive. But this past year, everything changed.
 
@@ -66,6 +72,8 @@ While other companies are starting to sprinkle ChatGPT experiences in their apps
 
 
 
+![Image](https://lh5.googleusercontent.com/KVSq82vo52lji1VSROT3lhxfL1bGjHP1PuVdVN1mH9f_eneyjLCbi5kW91fiI25kt25hE5crIQ9atMJlLJd8MlsVmqg7-ZkEAlWns_iG0KUY7oIAhShER3YYCde4apyHfA3q3tByU3VfGSV8KQQOELs)
+
 Figure 1: Moveworks is the enterprise copilot platform that unifies all enterprise systems.
 
  
@@ -76,6 +84,8 @@ To connect these models, Moveworks also employs chaining — sequentially combin
 
 
 
+![Image](https://lh4.googleusercontent.com/aZ61RCg5fOzbqmn-Qb-oi2h0YaRhP3U6t0vOJp1pNTBkgjRiWmr7GC7NL4J_8rgArrfG0NMLAs_dSwLvLPt8gVwnhGA5aeVWUdtLGYi2IThnYxwkZ_vPak5yUzJobXqKToZH1sgyR0sr3xU4FU3toOg)
+
 Figure 2: Moveworks chains together outputs from different AI models to deliver specialized yet natural conversational experiences.
 
 Powerful foundation models like GPT-4 and Bard provide general natural language capabilities. They allow Moveworks to excel at a wide range of language understanding and generation tasks:
@@ -83,6 +93,8 @@ Powerful foundation models like GPT-4 and Bard provide general natural language 
 These foundation models understand nuance, context, and the latent human intent within employee questions, helping Moveworks handle various support needs expressed in natural language.
 
 
+
+![Image](https://lh3.googleusercontent.com/G0_k6Z0r-49O-wX1BjRkkswp3ws8D5DDqMWoL4LY15g8LtOe-uyZDEW82A0CAGjsuKUglKtS69xhGkZfb6OuuRNAnKnL9N399jbRIQJGV8RKfE-lup0jB0C5OW_b5YAZqElqQGRm5rlntFEwqLHKMqA)
 
 Figure 3: Foundation models allow Moveworks to excel at understanding nuance, context, and intent within employee questions and generate tailored, natural responses.
 
@@ -106,6 +118,8 @@ By combining these models, Moveworks can handle the full scope of employee servi
 
 
 
+![Image](https://lh5.googleusercontent.com/yqEhxcuAna8lgtkGkACnsh6fHhYDlmgsoMxypa2jjaDxmIz-CcWvnWStd3vX9PvXT8-dr2vTfJiP-8xEGiQePobF-stI_8ayi40Q1e-LPGrmiV-GsjoFXAQfI7thF2xNANzddYuwRbPk2Gi_xhaLqG8)
+
 Figure 4: Unlike general foundation models, Moveworks trained its own large language model called MoveLM on enterprise data, enhancing its ability to understand and resolve employee needs across verticals and provide more accurate support.
 
 What it takes to implement large language models effectively and safely in the enterprise
@@ -126,42 +140,39 @@ Moveworks offers a blueprint for leveraging these models safely and responsibly 
 
 Contact Moveworks to learn how AI can supercharge your workforce's productivity.
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
+
 
           Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
         
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
 
 
           Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
         
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
+
 
           3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
         
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
 
 
           Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
         
 
+![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
+
 
           From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
         
+
+![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
 
 
           AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.
         
 
-
-
-![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
-![](https://www.moveworks.com/hubfs/Moveworks_LLM_Feature.png)
-![](https://www.moveworks.com/hubfs/Moveworks_LLM_Feature.png)
-![Image](https://lh5.googleusercontent.com/KVSq82vo52lji1VSROT3lhxfL1bGjHP1PuVdVN1mH9f_eneyjLCbi5kW91fiI25kt25hE5crIQ9atMJlLJd8MlsVmqg7-ZkEAlWns_iG0KUY7oIAhShER3YYCde4apyHfA3q3tByU3VfGSV8KQQOELs)
-![Image](https://lh4.googleusercontent.com/aZ61RCg5fOzbqmn-Qb-oi2h0YaRhP3U6t0vOJp1pNTBkgjRiWmr7GC7NL4J_8rgArrfG0NMLAs_dSwLvLPt8gVwnhGA5aeVWUdtLGYi2IThnYxwkZ_vPak5yUzJobXqKToZH1sgyR0sr3xU4FU3toOg)
-![Image](https://lh3.googleusercontent.com/G0_k6Z0r-49O-wX1BjRkkswp3ws8D5DDqMWoL4LY15g8LtOe-uyZDEW82A0CAGjsuKUglKtS69xhGkZfb6OuuRNAnKnL9N399jbRIQJGV8RKfE-lup0jB0C5OW_b5YAZqElqQGRm5rlntFEwqLHKMqA)
-![Image](https://lh5.googleusercontent.com/yqEhxcuAna8lgtkGkACnsh6fHhYDlmgsoMxypa2jjaDxmIz-CcWvnWStd3vX9PvXT8-dr2vTfJiP-8xEGiQePobF-stI_8ayi40Q1e-LPGrmiV-GsjoFXAQfI7thF2xNANzddYuwRbPk2Gi_xhaLqG8)
-![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
-![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
