@@ -216,13 +216,13 @@ Consider the following example cases:
 
 
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/undefined-May-23-2023-02-13-51-8084-PM.png?width=814&height=212&name=undefined-May-23-2023-02-13-51-8084-PM.png)
+![Image](https://www.moveworks.com/hs-fs/hubfs/undefined-May-23-2023-02-13-51-8084-PM.png?&height=212&name=undefined-May-23-2023-02-13-51-8084-PM.png)
 
 In above example, closing comment — while curt — does include resolution steps on how to update the disk. GPT-3.5 Turbo's output is false, incorrectly identifying the comment as unhelpful. However, MoveLM correctly identifies the comment as helpful, providing the true output.
 
 
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/undefined-May-23-2023-02-13-51-6040-PM.png?width=778&height=310&name=undefined-May-23-2023-02-13-51-6040-PM.png)
+![Image](https://www.moveworks.com/hs-fs/hubfs/undefined-May-23-2023-02-13-51-6040-PM.png?&height=310&name=undefined-May-23-2023-02-13-51-6040-PM.png)
 
 In this instance, while the comment is long, it does not include detailed steps for resolution. GPT-3.5 Turbo's output is True, wrongly classifying the comment as helpful. But MoveLM accurately identifies the comment as unhelpful, returning the true output.
 
@@ -230,7 +230,7 @@ The examples demonstrate MoveLM's capability to discern helpful comments, which 
 
 
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/image-png-May-24-2023-02-11-51-2748-AM.png?width=572&height=508&name=image-png-May-24-2023-02-11-51-2748-AM.png)
+![Image](https://www.moveworks.com/hs-fs/hubfs/image-png-May-24-2023-02-11-51-2748-AM.png?&height=508&name=image-png-May-24-2023-02-11-51-2748-AM.png)
 
 Figure 1: Even though was a zero-shot experiment, MoveLM performed better against few-shot experiments with competing models featured in this benchmark.
 
@@ -244,19 +244,19 @@ With our corpus of 500 million enterprise support tickets at Moveworks, our LLMs
 
 
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/undefined-May-23-2023-02-14-54-9317-PM.png?width=821&height=227&name=undefined-May-23-2023-02-14-54-9317-PM.png)
+![Image](https://www.moveworks.com/hs-fs/hubfs/undefined-May-23-2023-02-14-54-9317-PM.png?&height=227&name=undefined-May-23-2023-02-14-54-9317-PM.png)
 
 The above example demonstrates intent classification in the case of a ticket submitted to request a specific form. MoveLM model accurately labels the ticket as Provision, signifying that the requested document needs to be shared with the user. On the other hand, GPT-4 marks the same ticket as Manage, failing to recognize the enterprise context.
 
 
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/undefined-May-23-2023-02-14-54-7388-PM.png?width=827&height=178&name=undefined-May-23-2023-02-14-54-7388-PM.png)
+![Image](https://www.moveworks.com/hs-fs/hubfs/undefined-May-23-2023-02-14-54-7388-PM.png?&height=178&name=undefined-May-23-2023-02-14-54-7388-PM.png)
 
 Additionally, in cases where a ticket refers to a pre-existing ticket, the fine-tuned MoveLM™ model can correctly classify the ticket as Information. In contrast, GPT-4, without proper context, may inaccurately label the ticket as Hardware, further highlighting the advantage of training LLMs on a corpus of enterprise support tickets.
 
 
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/undefined-May-23-2023-11-26-28-4242-PM.png?width=572&height=529&name=undefined-May-23-2023-11-26-28-4242-PM.png)
+![Image](https://www.moveworks.com/hs-fs/hubfs/undefined-May-23-2023-11-26-28-4242-PM.png?&height=529&name=undefined-May-23-2023-11-26-28-4242-PM.png)
 
 Figure 2: Even though was a zero-shot experiment, MoveLM performed better against few-shot experiments with competing models featured in this benchmark.
 
@@ -272,19 +272,19 @@ Consider two examples where users submit requests to Moveworks:
 
 
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/undefined-May-23-2023-02-16-18-2409-PM.png?width=797&height=148&name=undefined-May-23-2023-02-16-18-2409-PM.png)
+![Image](https://www.moveworks.com/hs-fs/hubfs/undefined-May-23-2023-02-16-18-2409-PM.png?&height=148&name=undefined-May-23-2023-02-16-18-2409-PM.png)
 
 In the above example, given the query "What's Moveworks ARR?" MoveLM successfully understands the user's request and is able to generate an API call given a list of API’s and its descriptions in context. On the other hand, the GPT-4 model incorrectly responds, saying that it doesn't have an API to answer the query. 
 
 
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/undefined-May-23-2023-02-16-18-7077-PM.png?width=859&height=160&name=undefined-May-23-2023-02-16-18-7077-PM.png)
+![Image](https://www.moveworks.com/hs-fs/hubfs/undefined-May-23-2023-02-16-18-7077-PM.png?&height=160&name=undefined-May-23-2023-02-16-18-7077-PM.png)
 
 The example above demonstrates how fine-tuned MoveLM is able to understand enterprise specific context. In this case, the GPT-4 model does not understand from context that ‘Clover’ is a on-site location and mistakenly responds by attempting to retrieve the customer profile for Clover. On the other hand, the MoveLM model correctly identifies the context of the query and fetches site information about Clover, demonstrating its superior understanding of user intent and language subtleties.
 
 
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/image-png-4.png?width=572&height=548&name=image-png-4.png)
+![Image](https://www.moveworks.com/hs-fs/hubfs/image-png-4.png?&height=548&name=image-png-4.png)
 
 Figure 1: Even though was a zero-shot experiment, MoveLM performed better against few-shot experiments with competing models featured in this benchmark.
 
