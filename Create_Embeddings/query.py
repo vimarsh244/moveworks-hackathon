@@ -9,6 +9,7 @@ import json
 from urllib.request import urlopen
 import json
 from token_search import *
+from random import sample
 
 
 embeddings = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
@@ -34,7 +35,8 @@ def get_answer(query):
         print(doc[0].page_content)
 
     token_search_response = token_search(query)
-    for key in token_search_response:
+    check_list = sample(list(token_search_response.keys()), 3)
+    for key in check_list:
         if key not in response:
             response[key] = token_search_response[key]
         else:
