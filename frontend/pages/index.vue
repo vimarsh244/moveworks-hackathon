@@ -1,4 +1,5 @@
 <script setup>
+
 	const messages = ref([
 		{
 			role: 'AI',
@@ -47,34 +48,45 @@
 
 		loading.value = false;
 		scrollToEnd();
+		
 	};
+	// import VueMarked from 'vue-marked';
+    
 </script>
 
 <template>
+	<!-- <div class = "bg-black"> -->
 	<div class="max-w-xl mx-auto text-black">
-		<a href="/chatbot_logo_clipdrop-background-removal.png">
+
+		<div class="flex items-center justify-center">
+
+		<a href="/">
   <img src="chatbot_logo_clipdrop-background-removal.png" alt="Logo">
-</a>
+	</a>
 		<h1 class="my-8 text-5xl font-bold text-center text-black">Moveworks Chatbot</h1>
+	</div>
+
 		<div class="max-w-xl mx-auto">
 			<div class="bg-purple-100 rounded-md shadow h-[60vh] flex flex-col justify-between">
-				<div class="h-full overflow-auto chat-messages">
+					<div class="h-full overflow-auto chat-messages">
 					<div v-for="(message, i) in messages" :key="i" class="flex flex-col p-4">
 						<div v-if="message.role === 'AI'" class="pr-8 mr-auto">
-							<div class="p-2 mt-1 text-sm text-black bg-blue-300 rounded-lg text-smp-2">
-								{{ message.message }}
+						<div class="p-2 mt-1 text-sm text-black bg-blue-300 rounded-lg text-smp-2">
+							<!-- Parse message.message as Markdown -->
+							{{ message.message }}
 							</div>
 						</div>
 						<div v-else class="pl-8 ml-auto">
-							<div class="p-2 mt-1 text-sm text-black bg-blue-300 rounded-lg">
+							<div class="p-2 mt-1 text-sm text-black bg-green-300 rounded-lg">
 								{{ message.message }}
-							</div>
+						</div>
 						</div>
 					</div>
 					<div class="p-4 ml-10 mr-auto" v-if="loading">
 						<span class="loader"></span>
 					</div>
-				</div>
+					</div>
+
 				<form @submit.prevent="sendPrompt">
 					<div class="flex items-center w-full p-4">
 						<input
@@ -129,6 +141,7 @@
 			</div>
 		</div>
 	</div>
+<!-- </div> -->
 </template>
 
 <style>

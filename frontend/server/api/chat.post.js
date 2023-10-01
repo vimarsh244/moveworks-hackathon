@@ -10,7 +10,7 @@ export default defineEventHandler(async (event) => {
 
 
 	// Create a formatted prompt string
-	let prompt = "";
+	let prompt = "Instructions: \nYour name is Movewiser. \nYour task is to help users on Moveworks website get short and precise answer to their questions. Use the provided Context to concisely answer the asked question. \nIf you don't know an answer, reply with 'I am not aware regarding that right now.'\n";
 	let url_data;
 	let sources_data = "";
 	// Define the URL you want to make a GET request to
@@ -24,7 +24,7 @@ export default defineEventHandler(async (event) => {
 		// console.log(message)
 
 		if (i === 0) {
-
+		// {
 			const url = 'https://prime-bits-pharmacology-carrier.trycloudflare.com/get_answer/' + `${message.message}`;
 
 
@@ -74,12 +74,14 @@ export default defineEventHandler(async (event) => {
 
 
 			user_input: prompt,
-			temperature: 0.0,
+			temperature: 0.3,
 			max_new_tokens: 512,
+			// 'stopping_strings': []
+			mode: 'instruct',
 			// top_p: 1.0,
 			// frequency_penalty: 0,
 			// presence_penalty: 0.6,
-			// stop: [' User:', ' AI:']
+			stopping_strings: [' User:', ' AI:']
 		})
 	});
 
