@@ -49,13 +49,15 @@
 		scrollToEnd();
 	};
 </script>
-
 <template>
 	<div class="max-w-xl mx-auto text-black">
-		<a href="/chatbot_logo_clipdrop-background-removal.png">
-  <img src="chatbot_logo_clipdrop-background-removal.png" alt="Logo">
-</a>
-		<h1 class="my-8 text-5xl font-bold text-center text-black">Moveworks Chatbot</h1>
+		<a
+			href="https://vercel.com/templates/next.js/blob-sveltekit"
+			class="flex justify-center px-10 py-2 mx-auto space-x-1 text-sm font-medium text-center text-gray-600 transition-all rounded-full shadow-sm group bg-white/30 ring-1 ring-gray-900/5 hover:shadow-lg active:shadow-sm"
+		>
+			Deploy your own to Vercel
+		</a>
+		<h1 class="my-8 text-5xl font-bold text-center text-black">AI Chatbot</h1>
 		<div class="max-w-xl mx-auto">
 			<div class="bg-purple-100 rounded-md shadow h-[60vh] flex flex-col justify-between">
 				<div class="h-full overflow-auto chat-messages">
@@ -157,14 +159,4 @@
 			box-shadow: 14px 0 0 2px, 38px 0 0 -2px;
 		}
 	}
-	img {
-  margin-left: auto;
-  margin-right: auto;
-  border-radius: 4px;
-  padding: 1px;
-  width: auto;
-  height: 150px;
-  
-}
-
 </style>

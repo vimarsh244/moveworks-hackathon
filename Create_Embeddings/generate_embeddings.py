@@ -6,7 +6,10 @@ from pathlib import Path
 import glob
 import os
 
-model = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
+model = HuggingFaceEmbeddings(model_name="all-mpnet-base-v2")
+##Its descriptions says:
+# This model was tuned for semantic search: Given a query/question, if can find relevant passages. It was trained on a large and diverse set of (question, answer) pairs.
+
 
 path_to_dir = "../pages"
 
@@ -19,10 +22,10 @@ for file in markdown_files:
     loader = UnstructuredMarkdownLoader(file)
     documents = loader.load()
 
-    text_splitter = CharacterTextSplitter(chunk_size=500, chunk_overlap=0)
+    text_splitter = CharacterTextSplitter(chunk_size=1000, chunk_overlap=300)
     docs = text_splitter.split_documents(documents)
 
-    embeddings = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
+    embeddings = HuggingFaceEmbeddings(model_name="all-mpnet-base-v2")
 
     db = FAISS.from_documents(docs, embeddings)
     print(Path(file).stem)

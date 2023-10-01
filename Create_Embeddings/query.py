@@ -11,19 +11,25 @@ import json
 
 
 embeddings = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
-main = FAISS.load_local("faiss_main", embeddings)
+
+model = HuggingFaceEmbeddings(model_name="all-mpnet-base-v2")
+
+
+main = FAISS.load_local("faiss_main", model)
 
 
 def get_answer(query):
+    print(query)
     response = {}
-    # query = "How can moveworks help me with HR related tasks?"
+    # query = "Open career positions at moveworks"
+    # docs = main.similarity_search(query)
     docs = main.similarity_search_with_score(query)
-    comic_list = list()
+    
     for doc in docs:
         file = str(doc[0].metadata['source'])
         with open(file, "r") as f:
             url = f.readline().strip().split()[-1]
         response[url] = doc[0].page_content
-        #print(doc[0].page_content)
+        print(doc[0].page_content)
         
     return response

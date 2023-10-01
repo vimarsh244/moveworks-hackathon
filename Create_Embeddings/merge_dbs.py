@@ -8,7 +8,7 @@ import time
 import os
 
 
-embeddings = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
+embeddings = HuggingFaceEmbeddings(model_name="all-mpnet-base-v2")
 loader = TextLoader('blank.txt')
 documents = loader.load()
 text_splitter = CharacterTextSplitter(chunk_size=1, chunk_overlap=0)
