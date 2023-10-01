@@ -49,6 +49,14 @@ We did not have too much time for making it look good, and adding the features t
 - Alongside using similarity search, we wrote a simple token based keyword search to answer direct questions, which otherwise could be missed.
 
 
+## Running locally
+
+- Run an API inference of any LLM you wish (we used oobabooga's text-generation-webui with Mistral-AI-7B)
+- `embeddings/data_get.py` has the availibility to change the website URL and download all pages on that website. It also performs OCR on images and stores that.
+- `Create_Embeddings/generate_embeddings.py` would generate embeddings for the downloaded website pages. Followed by `merge_dbs.py` which merges various faiss databases which were created, while preserving true source of data.
+- On starting `Create_Embeddings/flask_endpoint.py` it creates an API endpoint where on querying a question it returns relevant parts.
+- Go to `/frontend` and install npm packages `yarn install` followed by `yarn dev`.
+
 
 ## Team: Ctrl+Alt+Defeat
 
@@ -56,3 +64,7 @@ We did not have too much time for making it look good, and adding the features t
 - Param Gandhi
 - Ritwik Sharma
 - Vimarsh Shah
+
+
+
+![Logo](images/movewiser-logo.png)
