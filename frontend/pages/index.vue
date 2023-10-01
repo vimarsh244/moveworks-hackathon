@@ -52,24 +52,21 @@
 
 <template>
 	<div class="max-w-xl mx-auto text-black">
-		<a
-			href="https://vercel.com/templates/next.js/blob-sveltekit"
-			class="flex justify-center px-10 py-2 mx-auto space-x-1 text-sm font-medium text-center text-gray-600 transition-all rounded-full shadow-sm group bg-white/30 ring-1 ring-gray-900/5 hover:shadow-lg active:shadow-sm"
-		>
-			Deploy your own to Vercel
-		</a>
-		<h1 class="my-8 text-5xl font-bold text-center text-black">AI Chatbot</h1>
+		<a href="/chatbot_logo_clipdrop-background-removal.png">
+  <img src="chatbot_logo_clipdrop-background-removal.png" alt="Logo">
+</a>
+		<h1 class="my-8 text-5xl font-bold text-center text-black">Moveworks Chatbot</h1>
 		<div class="max-w-xl mx-auto">
-			<div class="bg-white rounded-md shadow h-[60vh] flex flex-col justify-between">
+			<div class="bg-purple-100 rounded-md shadow h-[60vh] flex flex-col justify-between">
 				<div class="h-full overflow-auto chat-messages">
 					<div v-for="(message, i) in messages" :key="i" class="flex flex-col p-4">
 						<div v-if="message.role === 'AI'" class="pr-8 mr-auto">
-							<div class="p-2 mt-1 text-sm text-gray-700 bg-gray-200 rounded-lg text-smp-2">
+							<div class="p-2 mt-1 text-sm text-black bg-blue-300 rounded-lg text-smp-2">
 								{{ message.message }}
 							</div>
 						</div>
 						<div v-else class="pl-8 ml-auto">
-							<div class="p-2 mt-1 text-sm text-white bg-blue-400 rounded-lg">
+							<div class="p-2 mt-1 text-sm text-black bg-blue-300 rounded-lg">
 								{{ message.message }}
 							</div>
 						</div>
@@ -83,8 +80,8 @@
 						<input
 							v-model="message"
 							type="text"
-							placeholder="Type here..."
-							class="w-full p-1 text-sm text-black bg-transparent bg-gray-100 border rounded-md shadow border-white/40 grow"
+							placeholder="Ask your doubts about Moveworks.com!"
+							class="w-full p-1 text-sm text-black bg-gray-100 border rounded-md shadow border-white/40 grow"
 						/>
 						<button
 							:disabled="loading"
@@ -119,30 +116,11 @@
 			</div>
 		</div>
 		<div class="flex flex-col justify-center w-full my-4">
-			<div class="flex items-center justify-center my-2">
-				<span>Built with</span>
-				<a
-					href="https://openai.com/blog/gpt-3-apps"
-					class="flex items-center mx-1 font-medium underline transition-colors underline-offset-4 hover:text-black/70"
-				>
-					<p>gpt-3</p>
-				</a>
-				<span>and</span>
-				<a
-					href="https://nuxt.com/docs"
-					class="flex items-center font-medium underline transition-colors underline-offset-4 hover:text-black/70"
-				>
-					<img src="/nuxt.svg" class="h-6 mx-2" />
-					<p>Nuxt</p>
-				</a>
-				.
-			</div>
+			
 			<div class="flex flex-col items-center justify-center">
-				<a href="https://vercel.com">
-					<img src="/vercel.svg" alt="Vercel Logo" class="h-4 my-2 text-white" />
-				</a>
+				
 				<a
-					href="https://github.com/StephDietz/nuxt-ai-chat"
+					href="https://github.com/vimarsh244/moveworks-hackathon"
 					class="flex items-center font-medium underline transition-colors underline-offset-4 hover:text-black/70"
 				>
 					<img src="/github.svg" alt="GitHub Logo" class="h-4" />
@@ -179,4 +157,14 @@
 			box-shadow: 14px 0 0 2px, 38px 0 0 -2px;
 		}
 	}
+	img {
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 4px;
+  padding: 1px;
+  width: auto;
+  height: 150px;
+  
+}
+
 </style>
