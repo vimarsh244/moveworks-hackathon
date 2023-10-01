@@ -2,33 +2,30 @@ import os
 import re
 
 # Define the folder path and the token you want to search for
-folder_path = "pages"
-token_to_search = "token"
+folder_path = "../pages"
+token_to_search = "CEO of Moveworks"
 
 # Define a regular expression pattern to match the token (case insensitive)
 pattern = re.compile(fr'\b{re.escape(token_to_search)}\b', re.IGNORECASE)
 
-
-# Function to search for tokens in a file
+context_length = 200
+# Function to search for tokens in a file and get context
 def search_tokens_in_file(file_path, token):
     with open(file_path, 'r', encoding='utf-8') as file:
         content = file.read()
-        matches = re.findall(token, content)
-        return matches
-
-match_list = []
+        matches = re.finditer(token, content)
+        for match in matches:
+            start_index = max(0, match.start() - context_length)
+            end_index = min(len(content), match.end() + context_length)
+            context = content[start_index:end_index]
+            yield context
 
 # Iterate through files in the folder
 for root, dirs, files in os.walk(folder_path):
     for file_name in files:
         if file_name.endswith('.md'):
             file_path = os.path.join(root, file_name)
-            matches = search_tokens_in_file(file_path, pattern)
-
-            if matches:
-                print(f"Found {len(matches)} occurrences of '{token_to_search}' in {file_path}:")
-                match_list.append(file_name)
-                for match in matches:
-                    print(f"  - {match}")
-
-print(match_list)
+            for context in search_tokens_in_file(file_path, pattern):
+                print(f"Context for '{token_to_search}' in {file_path}:")
+                print(context)
+                print("-" * 50)
