@@ -1,18 +1,10 @@
 # https://www.moveworks.com/return-to-work-with-employee-support-automation
 
-Forrester names Moveworks a leader in Chatbot for IT operations. Read the report today.
-
-Moveworks named a Forrester leader in Chatbot for IT operations. 
-
-![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
-
-Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
-
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
 
-Thank you.
 
-A member of the Moveworks team will be in touch within the next 24 hours.
+
+
 
 
 
@@ -28,15 +20,15 @@ So what does it take to make a seamless transition? The challenge looks differen
 
 That’s why leading companies are using automation and AI to resolve support issues instantly — at scale. We broke down the top use cases for automation:
 
-![Moveworks sends targeted employee communications en mass](https://www.moveworks.com/hs-fs/hubfs/Moveweb/Device%20Screenshots/PrpChat-Website-expense%20reporting.png?width=50&name=PrpChat-Website-expense%20reporting.png)
+![Moveworks sends targeted employee communications en mass | Moveworks 3:23 PM VF HiClara J Starting next month, there will be a new expense reporting policy for all members of the Indian engineering team. | Expense reporting - UPDATE For any expense reports submitted after September 30, 2021, please use the form below Fill this form](https://www.moveworks.com/hs-fs/hubfs/Moveweb/Device%20Screenshots/PrpChat-Website-expense%20reporting.png)
 
 Target your comms 
 
-![Moveworks lets employees look up conference room location via chat](https://www.moveworks.com/hs-fs/hubfs/Moveweb/Device%20Screenshots/PrpChat-Website-Room_Lookup.png?width=50&name=PrpChat-Website-Room_Lookup.png)
+![Moveworks lets employees look up conference room location via chat | ¥ @O Nicholas 7:37 AM Where's alt-q? Moveworks 7:37 AM Ok, you are asking about the AltQ conference room. Here is what | found: Room name: AltQ Max occupancy: 4 Room phone number: 8418715632 Room amenities: Apple TV, Chromecast, Whiteboard poms Nicholas 7:37 AM Ah! Thanks much](https://www.moveworks.com/hs-fs/hubfs/Moveweb/Device%20Screenshots/PrpChat-Website-Room_Lookup.png)
 
 Deliver instant answers 
 
-![Moveworks sends and collects feedback from smart forms](https://www.moveworks.com/hs-fs/hubfs/Moveweb/Device%20Screenshots/PrpChat-Website-Certificate%20of%20Vaccination.png?width=50&name=PrpChat-Website-Certificate%20of%20Vaccination.png)
+![Moveworks sends and collects feedback from smart forms | Moveworks 9:23 AM Hi Reina, i The office opening is opening soon! » All employees based in our Chicago HQ must complete a Certification of Vaccination Status form. Please complete the document by Friday, September 28. Reina 9:25 AM Just filled out the form — is there more info on the reopening? Moveworks 9:25 AM Ok, here’s what I’ve found: » Return to Office Checklist [updated 48 hours ago] This document details all the steps employees need to complete before returning to the office. Click here to read the full article.](https://www.moveworks.com/hs-fs/hubfs/Moveweb/Device%20Screenshots/PrpChat-Website-Certificate%20of%20Vaccination.png)
 
 Serve smart forms 
 

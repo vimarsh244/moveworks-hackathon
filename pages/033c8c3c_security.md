@@ -1,18 +1,10 @@
 # https://www.moveworks.com/security
 
-Forrester names Moveworks a leader in Chatbot for IT operations. Read the report today.
-
-Moveworks named a Forrester leader in Chatbot for IT operations. 
-
-![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
-
-Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
-
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
 
-Thank you.
 
-A member of the Moveworks team will be in touch within the next 24 hours.
+
+
 
 
 
@@ -24,21 +16,21 @@ A member of the Moveworks team will be in touch within the next 24 hours.
 
 At Moveworks, security is ingrained in every aspect of our business. Whether we’re designing machine learning models or training new team members, our customers’ trust is our top priority. The gold standard for security is constantly evolving. That’s why we never stop refining our AI platform to lead our industry — ensuring that customer data is always restricted, encrypted, and secure.
 
-![csa-level-3-logo](https://www.moveworks.com/hubfs/img/site/logos/csa-level-3-logo.png)
+![csa-level-3-logo | cloud CS. Fx security alliance®](https://www.moveworks.com/hubfs/img/site/logos/csa-level-3-logo.png)
 
 
       Represents continued certification of Moveworks’ CSA Star Level 2 Gold, highest level given to the most mature cloud security programs.
       
   
 
-![Moveworks is AICPA-SOC certified](https://www.moveworks.com/hubfs/img/site/AICPA-SOC.png)
+![Moveworks is AICPA-SOC certified | ](https://www.moveworks.com/hubfs/img/site/AICPA-SOC.png)
 
 
       Moveworks is compliant with both SOC 2 Type 1 and Type 2, proving we keep your data confidential at all times.
       Read the blog
 
 
-![Moveworks is GDPR certified](https://www.moveworks.com/hubfs/img/site/GDPR.png)
+![Moveworks is GDPR certified | ](https://www.moveworks.com/hubfs/img/site/GDPR.png)
 
 
       Moveworks complies with the General Data Protection Regulation when handling all customer data, both inside and outside the EU.
@@ -68,7 +60,7 @@ At Moveworks, security is ingrained in every aspect of our business. Whether we�
 
 Saran Mandair VP of Global IT, DocuSign
 
-![Moveworks customer - Saran Mandair](https://www.moveworks.com/hs-fs/hubfs/img/clients/BnW-purple-BG/Headshot_SaranMandair_DocuSign_Left.png?width=450&name=Headshot_SaranMandair_DocuSign_Left.png)
+![Moveworks customer - Saran Mandair | ](https://www.moveworks.com/hs-fs/hubfs/img/clients/BnW-purple-BG/Headshot_SaranMandair_DocuSign_Left.png)
 
 ![Image](https://www.moveworks.com/hubfs/Icon-Security-ConfidentialityBuiltIntoDev-48x48-Dark.svg)
 

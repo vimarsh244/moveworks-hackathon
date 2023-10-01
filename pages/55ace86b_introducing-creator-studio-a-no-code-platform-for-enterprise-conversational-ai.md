@@ -1,18 +1,10 @@
 # https://www.moveworks.com/insights/introducing-creator-studio-a-no-code-platform-for-enterprise-conversational-ai
 
-Forrester names Moveworks a leader in Chatbot for IT operations. Read the report today.
-
-Moveworks named a Forrester leader in Chatbot for IT operations. 
-
-![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
-
-Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
-
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
 
-Thank you.
 
-A member of the Moveworks team will be in touch within the next 24 hours.
+
+
 
 
 
@@ -24,9 +16,9 @@ A member of the Moveworks team will be in touch within the next 24 hours.
 Varun Singh, Co-Founder and President
 
 
-![](https://www.moveworks.com/hubfs/CreatorStudio_Moveworks_FeaturedImage.png)
+![ | ](https://www.moveworks.com/hubfs/CreatorStudio_Moveworks_FeaturedImage.png)
 
-![](https://www.moveworks.com/hubfs/CreatorStudio_Moveworks_FeaturedImage.png)
+![ | ](https://www.moveworks.com/hubfs/CreatorStudio_Moveworks_FeaturedImage.png)
 
 Let’s not fool ourselves. The massive number of apps and workflows deployed by modern enterprises has made it increasingly difficult to work efficiently. 
 
@@ -54,7 +46,7 @@ Traditional conversational AI toolkits can be complex and difficult to work with
 
 Figure 1: With Creator Studio Paths, you can generate customer conversational AI use cases with natural language.
 
-![230331_CreatorStudio_Paths](https://www.moveworks.com/hs-fs/hubfs/230331_CreatorStudio_Paths.gif?width=765&height=450&name=230331_CreatorStudio_Paths.gif)
+![230331_CreatorStudio_Paths](https://www.moveworks.com/hs-fs/hubfs/230331_CreatorStudio_Paths.gif?&height=450&name=230331_CreatorStudio_Paths.gif)
 
 Paths makes it possible for anyone to use a system conversationally. Let’s look at expense management. Instead of finding the right app and figuring out the new user interface, employees to access their expense reports conversationally, saving time and effort for both themselves and their managers.
 
@@ -62,7 +54,7 @@ Other use cases include: 
 
 Figure 2: Enable your employees to access their expenses with a simple question with Creator Studio.
 
-![prp-chat-queries-finance-expenses](https://www.moveworks.com/hs-fs/hubfs/prp-chat-queries-finance-expenses.png?width=300&height=454&name=prp-chat-queries-finance-expenses.png)
+![prp-chat-queries-finance-expenses | eo Lewis 4:38 PM When will my expense get reimbursed? a wv Moveworks 4:38 PM One moment, fetching results. This may take ~10 seconds EXPENSE REPORT #192 Reimbursement Date : March 3rd, 2023 Click here for more information ° Lewis 4:38 PM Thank you! hh wr Moveworks 9:05 AM My pleasure.](https://www.moveworks.com/hs-fs/hubfs/prp-chat-queries-finance-expenses.png)
 
  
 
@@ -72,7 +64,7 @@ With Queries workspace, employees can access data from any system, app, or workf
 
 Figure 3: With Creator Studio Queries, you can securely access data from any system. 
 
-![230331_CreatorStudio_Queries](https://www.moveworks.com/hs-fs/hubfs/230331_CreatorStudio_Queries.gif?width=765&height=450&name=230331_CreatorStudio_Queries.gif)
+![230331_CreatorStudio_Queries](https://www.moveworks.com/hs-fs/hubfs/230331_CreatorStudio_Queries.gif?&height=450&name=230331_CreatorStudio_Queries.gif)
 
 With the ability to enable data queries across applications, Creator Studio can enhance efficiency and productivity for employees, including the Sales team. For example, by allowing the applicable employee to query Salesforce data, Creator Studio can surface essential account information, freeing up time for more impactful analyses and prospect conversations.
 
@@ -80,7 +72,7 @@ Other use cases include: 
 
 Figure 4: Creator Studio lets anyone query Salesforce data so your team can focus on more impactful analyses.
 
-![prp-chat-queries-sales-ops](https://www.moveworks.com/hs-fs/hubfs/prp-chat-queries-sales-ops.png?width=300&height=467&name=prp-chat-queries-sales-ops.png)
+![prp-chat-queries-sales-ops | aH Ellen 9:05 AM | need to find out the number of Prius sales for 2022 in the Southeast territory. a wv Moveworks 9:05 AM One moment, fetching results. This may take ~10 seconds Prius Sales SE Sales: 3,245 vehicles Click here for more information A Ellen 9:05 AM Thank you! hh wr Moveworks 9:05 AM Happy to help.](https://www.moveworks.com/hs-fs/hubfs/prp-chat-queries-sales-ops.png)
 
  
 
@@ -90,7 +82,7 @@ With Events workspace, you can integrate with any application to streamline noti
 
 Figure 5: With Creator Studio Events, you can send proactive, actionable recommendations.
 
-![230331_CreatorStudio_Events](https://www.moveworks.com/hs-fs/hubfs/230331_CreatorStudio_Events.gif?width=765&height=450&name=230331_CreatorStudio_Events.gif)
+![230331_CreatorStudio_Events](https://www.moveworks.com/hs-fs/hubfs/230331_CreatorStudio_Events.gif?&height=450&name=230331_CreatorStudio_Events.gif)
 
 From a user-experience perspective, Creator Studio helps employees act quickly in the face of critical events. With its rapid incident escalation capabilities, your team can resolve issues quickly and with minimal disruption.
 
@@ -98,7 +90,7 @@ Other use cases include: 
 
 Figure 6: Creator Studio helps developers to rapidly escalate business critical incidents.
 
-![prp-chat-events-outage-alert](https://www.moveworks.com/hs-fs/hubfs/prp-chat-events-outage-alert.png?width=300&height=543&name=prp-chat-events-outage-alert.png)
+![prp-chat-events-outage-alert | alg ah wr Moveworks 11:58 PM Pagerduty Event: Alert Detected Inventory API Health Check violated API Request Failure Priority: Critical Status: Triggered Created: January 28, 2023 at 11:58 PM Service: Inventory API Assignment group: SRE Team 2 ANE TET ES EEE (=) Alex 11:58 PM Please escalate this immediately. INN wv Moveworks 11:58 PM Sure thing.](https://www.moveworks.com/hs-fs/hubfs/prp-chat-events-outage-alert.png)
 
  
 
@@ -132,37 +124,37 @@ To experience the full potential of Creator Studio, interested parties can sched
 
 Join us at Moveworks Live to learn how conversational AI is transforming the enterprise. Register now. 
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png)
 
 
           Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png)
 
 
           Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
+![Image | Ay TECHNOLOGY &](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png)
 
 
           3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png)
 
 
           Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
+![Image | a . oe ° ° * ° ° ° ra](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png)
 
 
           From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png)
 
 
           AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.

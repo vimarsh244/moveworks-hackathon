@@ -1,18 +1,10 @@
 # https://www.moveworks.com/insights/what-is-grounding-ai
 
-Forrester names Moveworks a leader in Chatbot for IT operations. Read the report today.
-
-Moveworks named a Forrester leader in Chatbot for IT operations. 
-
-![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
-
-Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
-
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
 
-Thank you.
 
-A member of the Moveworks team will be in touch within the next 24 hours.
+
+
 
 
 
@@ -24,9 +16,9 @@ A member of the Moveworks team will be in touch within the next 24 hours.
 Ritwik Raj, Technical Program Manager
 
 
-![](https://www.moveworks.com/hubfs/grounding-ai-blog-featured-image.png)
+![ | ](https://www.moveworks.com/hubfs/grounding-ai-blog-featured-image.png)
 
-![](https://www.moveworks.com/hubfs/grounding-ai-blog-featured-image.png)
+![ | ](https://www.moveworks.com/hubfs/grounding-ai-blog-featured-image.png)
 
 Using a solution like OpenAI’s ChatGPT can be incredibly appealing, but there’s a catch: occasionally, these AI solutions generate responses containing misleading or incorrect information. In critical tasks, can you confidently rely on these systems? 
 
@@ -66,7 +58,7 @@ For instance, when answering a question like, "How many dinosaurs were in the Ju
 
 
 
-![Image](https://www.moveworks.com/hubfs/image-png-Jul-26-2023-05-06-41-4559-PM.png)
+![Image | how many dinosaurs were in the jurassic period? View other drafts v ‘The exact number of dinosaurs that lived in the Jurassic period is unknown, but estimates range from 2 billion to 4 billion. This means that there were likely more dinosaurs on Earth during the Jurassic period than there are people alive today. The Jurassic period was a time of great diversity for dinosaurs, and many different types of dinosaurs lived <during this time, including sauropods, theropods, ornithopods, and stegosaurs. Here are some of the most common dinosaurs that lived in the Jurassic period: + Sauropods: These were the largest dinosaurs, and they included species such as Diplodocus, Brachiosaurus, and ‘Apatosaurus. Sauropods were herbivores, and they had long necks and tals. + Theropods: These were the meat-eating dinosaurs, and they included species such as Allosaurus, Tyrannosaurus rex, and Velociraptor. Theropods had sharp teeth and claws, and they were some of the most fearsome predators of the Jurassic period. + Ornithopods: These were the bird-hipped dinosaurs, and they included species such as Stegosaurus, Triceratops, and iguenodon. Ornithopods were herbivores, and they had beaks and teeth that were well-suited for eating plants. + Stegosaurs: These were the armored dinosaurs, and they included species such as Stegosaurus and Kentrosaurus. Stegosaurs had plates and spikes on their backs, which they used to protect themselves from predators. ‘The Jurassic period was a time of great change for dinosaurs, and many new species evolved during this time. The dinosaurs eventually went extinct at the end of the Cretaceous period, but they left a lasting legacy on the Earth.](https://www.moveworks.com/hubfs/image-png-Jul-26-2023-05-06-41-4559-PM.png)
 
 Figure 1: If we provided the LLM with a Wikipedia article on the Jurassic period and told it to only use that article, but it still produced text that was not supported by that article, that would also be a hallucination — even if the entire generated response was accurate.
 
@@ -96,7 +88,7 @@ By employing a grounded LLM in this scenario, we can ensure that the information
 
 
 
-![Image](https://www.moveworks.com/hubfs/image-png-Jul-26-2023-05-10-27-7211-PM.png)
+![Image | Tee aad eae eee Cue ae Oe a a ne Uc chairman of the Charlotte Hornets, an NBA team. The team is based in Charlotte, North eR eee Ra en Ce Ue een oe UNO ue with the Charlotte Hornets are primarily based in Charlotte. However, please note that my Eu i See eer een ee Ue Ere CON aC CC Secs](https://www.moveworks.com/hubfs/image-png-Jul-26-2023-05-10-27-7211-PM.png)
 
 Figure 2: Grounding prevents a language model from being misled by unrelated information.
 
@@ -212,37 +204,37 @@ To harness the potential of grounded AI, further research and development are es
 
 Large language models are not one-size-fits-all. Learn more about benchmarking LLM performance for the enterprise. 
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png)
 
 
           Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png)
 
 
           Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
+![Image | Ay TECHNOLOGY &](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png)
 
 
           3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png)
 
 
           Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
+![Image | a . oe ° ° * ° ° ° ra](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png)
 
 
           From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png)
 
 
           AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.

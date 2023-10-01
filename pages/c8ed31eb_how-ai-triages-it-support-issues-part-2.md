@@ -1,18 +1,10 @@
 # https://www.moveworks.com/insights/how-ai-triages-it-support-issues-part-2
 
-Forrester names Moveworks a leader in Chatbot for IT operations. Read the report today.
-
-Moveworks named a Forrester leader in Chatbot for IT operations. 
-
-![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
-
-Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
-
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
 
-Thank you.
 
-A member of the Moveworks team will be in touch within the next 24 hours.
+
+
 
 
 
@@ -28,9 +20,9 @@ Andrew Mairena, Product Manager
 Cody Kala, Machine Learning Tech Lead
 
 
-![](https://www.moveworks.com/hubfs/img/blog/08_MW_Blog_Feature_Triage_p2.png)
+![ | oe](https://www.moveworks.com/hubfs/img/blog/08_MW_Blog_Feature_Triage_p2.png)
 
-![](https://www.moveworks.com/hubfs/img/blog/08_MW_Blog_Feature_Triage_p2.png)
+![ | oe](https://www.moveworks.com/hubfs/img/blog/08_MW_Blog_Feature_Triage_p2.png)
 
 For those who follow the tech world, hardly a week goes by without the news of another domain conquered for good by machining learning (ML). From IBM Watson’s victory over human Jeopardy champions in 2011, to DeepMind's defeat of the world’s best Go players in 2016, to Libratus’s win against millionaire poker pros in 2017, ML is redrawing the boundaries of the possible in math, logic, and strategy. 
 
@@ -40,7 +32,7 @@ The result? While ML automates routine tasks across nearly every industry, those
 
 
 
-![08_MW_Blog_KeywordsBrittle](https://www.moveworks.com/hs-fs/hubfs/img/blog/2019-11-13-triage/08_MW_Blog_KeywordsBrittle.png?width=1366&name=08_MW_Blog_KeywordsBrittle.png)
+![08_MW_Blog_KeywordsBrittle | Q What is the process to order a monitor? | Q | need to monitor the order process. | R | can’t process a monitor order. |](https://www.moveworks.com/hs-fs/hubfs/img/blog/2019-11-13-triage/08_MW_Blog_KeywordsBrittle.png)
 
 Figure 1: Unlike math problems that computers can approach as a series of discrete operations, the meaning of a sentence can’t be gleaned from its individual words without context.
 
@@ -52,7 +44,7 @@ At a high level, automated ticket triage entails correlating an IT ticket’s va
 
 Figure 2: After learning from labeled tickets, Moveworks’ models can then make predictions about unlabeled data.
 
-![08_MW_Blog_ContentImage04_LabelledTix-2](https://www.moveworks.com/hs-fs/hubfs/img/blog/2019-11-13-triage/08_MW_Blog_ContentImage04_LabelledTix-2.jpg?width=1366&name=08_MW_Blog_ContentImage04_LabelledTix-2.jpg)
+![08_MW_Blog_ContentImage04_LabelledTix-2 | Ticket ID INCOO7B135, ‘Subcategory VPN Location Mountain-View-HTB ‘Short description Short description | got a new phone and need to reset my Okta Moveworks learns from labelled ticket data](https://www.moveworks.com/hs-fs/hubfs/img/blog/2019-11-13-triage/08_MW_Blog_ContentImage04_LabelledTix-2.jpg)
 
 Needless to say, supervised learning depends on a historical set of tickets that are accurately labeled. That’s why — before supervised learning begins — Moveworks validates both that the historical tickets have indeed been labeled consistently and that machine learning is the right solution to the problem at hand. In rare cases, we see an erratic distribution of labels for a given field, which prompts us to work with the service desk team to identify the problematic areas and suggest ways to improve the quality of the labels. 
 
@@ -62,7 +54,7 @@ But why is that context important? Couldn’t an automated triaging tool assign 
 
 
 
-![08_MW_Blog_ContentImage07_UserContext-2](https://www.moveworks.com/hs-fs/hubfs/img/blog/2019-11-13-triage/08_MW_Blog_ContentImage07_UserContext-2.png?width=2000&name=08_MW_Blog_ContentImage07_UserContext-2.png)
+![08_MW_Blog_ContentImage07_UserContext-2 | Akbar 3:11 2 | need access to the quarterly reports | ROLE: Sales Director LOC: NY-White-Plains DEPT: Sales Sales Dept: Salesforce fo a, 0 ¢ 87% woe be i Paula 3:12PM | can’t log in to reports ROLE: Financial Analyst LOC: TX-Houston DEPT: Finance ‘ “e Finance Dept: Tableau 78%](https://www.moveworks.com/hs-fs/hubfs/img/blog/2019-11-13-triage/08_MW_Blog_ContentImage07_UserContext-2.png)
 
 Figure 3: Historical tickets submitted by employees in the same department help Moveworks differentiate between these requests — facilitating not only ticket routing but also resolution. 
 
@@ -72,7 +64,7 @@ Yet even machine learning models are prone to miss the needle in such an enormou
 
 
 
-![IT Email (1)](https://www.moveworks.com/hs-fs/hubfs/img/blog/2019-11-13-triage/IT%20Email%20(1).png?width=1688&name=IT%20Email%20(1).png)
+![IT Email (1)](https://www.moveworks.com/hs-fs/hubfs/img/blog/2019-11-13-triage/IT%20Email%20(1).png?&name=IT%20Email%20(1).png)
 
 Figure 4: A superficial analysis of keywords would probably assign this ticket to the IT Service Desk, as opposed to the Salesforce Admin group where it belongs.
 
@@ -92,7 +84,7 @@ In order for this experience to be useful, however, the models must be able to g
 
 
 
-![08_MW_Blog_ContentImage07_ITWordEmbedding-1](https://www.moveworks.com/hs-fs/hubfs/img/blog/2019-11-13-triage/08_MW_Blog_ContentImage07_ITWordEmbedding-1.png?width=2000&name=08_MW_Blog_ContentImage07_ITWordEmbedding-1.png)
+![08_MW_Blog_ContentImage07_ITWordEmbedding-1 | Company @ me oy Moveworks @ me @ Employee ~~ e@ Movester](https://www.moveworks.com/hs-fs/hubfs/img/blog/2019-11-13-triage/08_MW_Blog_ContentImage07_ITWordEmbedding-1.png)
 
 Figure 5: Understanding the relationships between words allows Moveworks to generalize insights about syntax and semantics, despite the superficial differences between organizations. 
 
@@ -100,7 +92,7 @@ With ML-powered triage, nearly every ticket is automatically routed, dramaticall
 
 
 
-![MTTR (1)](https://www.moveworks.com/hs-fs/hubfs/img/blog/2019-11-13-triage/MTTR%20(1).png?width=1749&name=MTTR%20(1).png)
+![MTTR (1)](https://www.moveworks.com/hs-fs/hubfs/img/blog/2019-11-13-triage/MTTR%20(1).png?&name=MTTR%20(1).png)
 
 Figure 6: Automated ticket triaging is finally a reality — and the technology is only getting better.
 
@@ -108,37 +100,37 @@ Machine learning still has ample room to improve in the fast-evolving field of n
 
 Contact Moveworks to learn more about how our deep learning automates ticket triage.
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png)
 
 
           Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png)
 
 
           Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
+![Image | Ay TECHNOLOGY &](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png)
 
 
           3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png)
 
 
           Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
+![Image | a . oe ° ° * ° ° ° ra](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png)
 
 
           From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png)
 
 
           AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.

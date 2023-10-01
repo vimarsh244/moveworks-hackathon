@@ -1,18 +1,10 @@
 # https://www.moveworks.com/insights/how-machines-learn-secrets-of-language
 
-Forrester names Moveworks a leader in Chatbot for IT operations. Read the report today.
-
-Moveworks named a Forrester leader in Chatbot for IT operations. 
-
-![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
-
-Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
-
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
 
-Thank you.
 
-A member of the Moveworks team will be in touch within the next 24 hours.
+
+
 
 
 
@@ -24,9 +16,9 @@ A member of the Moveworks team will be in touch within the next 24 hours.
 Jing Chen, Tech Lead
 
 
-![](https://www.moveworks.com/hubfs/19_MW_Blog_Conversational_AI_Part2_Light_NoText.jpg)
+![ | ](https://www.moveworks.com/hubfs/19_MW_Blog_Conversational_AI_Part2_Light_NoText.jpg)
 
-![](https://www.moveworks.com/hubfs/19_MW_Blog_Conversational_AI_Part2_Light_NoText.jpg)
+![ | ](https://www.moveworks.com/hubfs/19_MW_Blog_Conversational_AI_Part2_Light_NoText.jpg)
 
 Over the last decade, we've seen an explosion of software tools designed to save us time. But while these tools should make life easier, learning to use so many applications — each with their own array of buttons, menus, and submenus — often has the opposite effect. The fundamental problem here is this language barrier between us and our technology: people communicate with conversation, not by clicking buttons and navigating through menus.
 
@@ -36,7 +28,7 @@ In this blog, we’ll explore how that new approach is streamlining human-comput
 
 Figure 1: Overcoming the language barrier between humans and computers requires probabilistic chatbots, which engage users in natural conversation.
 
-![Continuum human-computer interaction](https://www.moveworks.com/hs-fs/hubfs/Continuum.png?width=1366&name=Continuum.png)
+![Continuum human-computer interaction | Continuum of Human-Computer Interaction Command-line interface Graphical user interface (GUI) Deterministic chatbot Probabilistic chatbot Requires users to communicate Still involves a significant learning Attempts to engage users in Allows users to interact with on the computer's terms with curve for users to navigate menus. conversation — but results in computers on their terms, in complex commands and buttons robotic interactions natural conversation — Less natural More natural](https://www.moveworks.com/hs-fs/hubfs/Continuum.png)
 
 All of us have had bad experiences with chatbots. The question is, what does it take to build a good experience? Not surprisingly, if you want a chatbot that works, it needs a strong enough understanding of language to be conversational.
 
@@ -52,7 +44,7 @@ The following four examples demonstrate how each kind of context plays a key rol
 
 Figure 2: Understanding syntax allows chatbots to disambiguate similar user utterances, separating important signals from distracting noise.
 
-![syntactic-context](https://www.moveworks.com/hs-fs/hubfs/blog-02-figure-02-mobile@2crop.png?width=512&name=blog-02-figure-02-mobile@2crop.png)
+![syntactic-context | User intent: request software User intent: update email group 1 1 | Alex @ | Alex @ Lhave to manage a|marketing|project for Could you add /|Brad Smith|to the Brad Smith|so | need a Trello license marketing|group](https://www.moveworks.com/hs-fs/hubfs/blog-02-figure-02-mobile@2crop.png)
 
 One of the fundamental challenges of understanding language is that the same words often have different meanings, depending on the syntax of the sentence. And determining the relevant meaning is the only way to decide which information in that sentence is actionable signal and which is irrelevant noise. This deep, syntactic knowledge takes a layer cake of machine learning techniques, from semantic frame parsing to entity inference to statistical grammar models.
 
@@ -60,7 +52,7 @@ In Figure 2, both requests for IT support use the words “marketing” and “B
 
 Figure 3: By taking into account the user, bots can deliver information specific to that individual user’s needs, based on their role, location, or department.
 
-![user-context](https://www.moveworks.com/hs-fs/hubfs/user-context.png?width=1600&name=user-context.png)
+![user-context | Akbar Paula | need access to the regional dashboard | have to use the regional dashboard but don’t have access | Dept: ' | Finance ' Sales Dept: © “es ' Salesforce ' §7” EZ. o beeen nn--eeees sae -o Finance Dept: z, : ~ o_*” : Tableau : 1% “ - Sse too! 18 Sas a oo](https://www.moveworks.com/hs-fs/hubfs/user-context.png)
 
 But understanding what a user wants takes more than just looking at syntax. Take a look at Figure 3. There are two very similar requests, both about accessing a regional dashboard. Before taking into account the users’ roles and departments, these requests appear identical. However, for Akbar, a sales director, our machine learning models tell us probabilistically that he needs access to Salesforce to view the relevant dashboard; whereas Paula, an analyst, needs access to Tableau, where her organization’s financial data lives.
 
@@ -68,7 +60,7 @@ The difference between Akbar and Paula is a perfect illustration of the differen
 
  Figure 4: Domain context allows chatbots to deliver responses that are specific to a particular organization.
 
-![domain-context](https://www.moveworks.com/hs-fs/hubfs/blog-02-figure-04-mobile@2crop.png?width=760&name=blog-02-figure-04-mobile@2crop.png)
+![domain-context | non? El Where is john lennon? John Lennon MBE Born John Winston Lennon 9 October 1940 Liverpool, England Died 8 December 1980 (aged 40) New York City, US Cause of death Murder by gunshot wounds Resting place Ashes scattered in Central park, New York City von? El Where is john lennon? Moveworks Ok, you are asking about John Lennon conference room. Here is what | found eJohnLennon ~ * Building 2107 i 4 floor [——=_-* F von? El Where is john lennon? Moveworks Ok, you are asking about John Lennon. Here is what | found Name Title John Lennon SVP, Engineering Department Manager R&D Janet Fyfe Location Office Mountain View — Building 2107](https://www.moveworks.com/hs-fs/hubfs/blog-02-figure-04-mobile@2crop.png)
 
 Already, by factoring in syntactic and user context, we’ve gone a long way toward demystifying the complexity of language, but there is another critical component of conversation left out of this picture. 
 
@@ -78,7 +70,7 @@ To make conversational AI successful, we needed models built to understand that 
 
 Figure 5: Awareness of past conversational back-and-forth helps chatbots disambiguate user requests and respond with relevant information.
 
-![historical-context](https://www.moveworks.com/hs-fs/hubfs/blog-02-figure-05-mobile@2crop.png?width=760&name=blog-02-figure-05-mobile@2crop.png)
+![historical-context | With prior/relevant context: No prior/relevant context: Moveworks Moveworks Hi Ankoor, an agent has now Hi, how may | help you today? been assigned to your issue: Maria 'M | Ankoor This issue has been fixed This issue has been fixed Moveworks Glad to hear that. I’ve closed Moveworks Looks like you are trying to close a ticket. Which one? INC0012879 | INC0012381 - excel keeps crashing | REQ0015479 -need an HDMI cable](https://www.moveworks.com/hs-fs/hubfs/blog-02-figure-05-mobile@2crop.png)
 
 Historical context allows a bot to respond differently to the same utterance, depending on past conversations. While simple at first glance, “This issue has been fixed” can actually be quite a complex statement.
 
@@ -96,7 +88,7 @@ An added challenge is that a conversation doesn’t look like a list of search r
 
 
 
-![blog-02-figure-06-mobile@2crop](https://www.moveworks.com/hs-fs/hubfs/blog-02-figure-06-mobile@2crop.png?width=512&name=blog-02-figure-06-mobile@2crop.png)
+![blog-02-figure-06-mobile@2crop | Considerall = —, . inputs @ Generate bids Language Analysis — | vy Simulation a](https://www.moveworks.com/hs-fs/hubfs/blog-02-figure-06-mobile@2crop.png)
 
 Figure 6: Making decisions based on models — not hardcoded rules — allows chatbots to adjust to changing context in real time.
 
@@ -108,7 +100,7 @@ This leads us to another inherent benefit of machine learning — a chatbot lear
 
 
 
-![solutions-bid-IT-issue-resolution](https://www.moveworks.com/hs-fs/hubfs/solutions-bid-IT-issue-resolution.png?width=1600&name=solutions-bid-IT-issue-resolution.png)
+![solutions-bid-IT-issue-resolution | Can | please get access to Adobe Acrobat Pro? —— 4 Provide generic software request form aC MC Cig with IT team (ole) NT 1D) S(O] a od q \](https://www.moveworks.com/hs-fs/hubfs/solutions-bid-IT-issue-resolution.png)
 
 Figure 7: Different solutions bid for the opportunity to solve an IT issue. When one or multiple options reach the confidence threshold, a response is sent to the user in seconds.
 
@@ -120,37 +112,37 @@ Turns out, it’s simple to build a chatbot that’s complicated, but profoundly
 
 Contact  Moveworks to learn how AI can supercharge your workforce productivity.
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png)
 
 
           Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png)
 
 
           Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
+![Image | Ay TECHNOLOGY &](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png)
 
 
           3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png)
 
 
           Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
+![Image | a . oe ° ° * ° ° ° ra](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png)
 
 
           From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png)
 
 
           AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.

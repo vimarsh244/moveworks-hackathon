@@ -1,0 +1,4 @@
+fastapi==0.103.2
+Flask==3.0.0
+langchain==0.0.305
+uvicorn==0.23.2

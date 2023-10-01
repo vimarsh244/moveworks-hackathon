@@ -1,18 +1,10 @@
 # https://www.moveworks.com/insights/respond-to-issues-wherever-reported
 
-Forrester names Moveworks a leader in Chatbot for IT operations. Read the report today.
-
-Moveworks named a Forrester leader in Chatbot for IT operations. 
-
-![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
-
-Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
-
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
 
-Thank you.
 
-A member of the Moveworks team will be in touch within the next 24 hours.
+
+
 
 
 
@@ -24,9 +16,9 @@ A member of the Moveworks team will be in touch within the next 24 hours.
 Ahmed Al-Bahar, Product Lead
 
 
-![Moveworks blog - Respond To IT Issues However They’re Reported](https://www.moveworks.com/hubfs/img/blog/06_MW_Blog_Feature_InterceptTicketsAcrossChannels_v03.jpg)
+![Moveworks blog - Respond To IT Issues However They’re Reported | ](https://www.moveworks.com/hubfs/img/blog/06_MW_Blog_Feature_InterceptTicketsAcrossChannels_v03.jpg)
 
-![Moveworks blog - Respond To IT Issues However They’re Reported](https://www.moveworks.com/hubfs/img/blog/06_MW_Blog_Feature_InterceptTicketsAcrossChannels_v03.jpg)
+![Moveworks blog - Respond To IT Issues However They’re Reported | ](https://www.moveworks.com/hubfs/img/blog/06_MW_Blog_Feature_InterceptTicketsAcrossChannels_v03.jpg)
 
 We live in a world of choice. If I want to talk to my friends, I can choose to call them, text them, ping them on WhatsApp or maybe Facebook Messenger, I can email them, or even send them a letter! 
 
@@ -36,7 +28,7 @@ So it should come as no surprise that when an employee is in a moment of need in
 
 
 
-![Moveworks automated support channels](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191022-intercept-all-issues/IT_Support_Channels.jpg?width=1366&name=IT_Support_Channels.jpg)
+![Moveworks automated support channels | Phone Email Portal OOO Chat](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191022-intercept-all-issues/IT_Support_Channels.jpg)
 
 Figure 1: IT teams need to support many communications channels
 
@@ -50,7 +42,7 @@ Consider a good old-fashioned email. For an employee, it’s a great channel, be
 
 
 
-![Employee support timeline](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191022-intercept-all-issues/Ticket_Timeline_new.jpg?width=1262&name=Ticket_Timeline_new.jpg)
+![Employee support timeline | Employee IT agent Issue filed via emi Triaged to level 2 Escalated to level 3 Assigned to an agent Ask employee for a clarification Employee responds Manager Issue with clarification approves resolved 0 Ask manager Create for approval license](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191022-intercept-all-issues/Ticket_Timeline_new.jpg)
 
 Figure 2: Issues filed and managed via email often suffer delays in resolution
 
@@ -62,7 +54,7 @@ It’s worth pointing out that some employees do use portals. Some even prefer p
 
 
 
-![Web portal](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191022-intercept-all-issues/IT_WebPortal_Wireframe.jpg?width=857&name=IT_WebPortal_Wireframe.jpg)
+![Web portal | ](https://www.moveworks.com/hs-fs/hubfs/img/blog/20191022-intercept-all-issues/IT_WebPortal_Wireframe.jpg)
 
 Figure 3: As portals become complex, employees find them hard to navigate 
 
@@ -96,7 +88,7 @@ A well-instrumented IT environment often knows about an issue before the affecte
 
 
 
-![Bot_ReachOut_Chat](https://www.moveworks.com/hs-fs/hubfs/Bot_ReachOut_Chat.jpg?width=760&name=Bot_ReachOut_Chat.jpg)
+![Bot_ReachOut_Chat | Moveworks 6:25 Av Hi Alex, Okta alerted me you might need some help Moveworks 8:25 AM Hi Alex, Okta alerted me you might need some help - Moveworks OS A@w: Moveworks OS AQ@r: he he Aa wr unlocking your account. unlocking your account. Would you like me to unlock your Okta account? Would you like me to unlock your Okta account? Yes Yes Get IT help Get IT help Got it, working on it... ® Good news, | have unlocked your Okta account. Your old password should be working again.](https://www.moveworks.com/hs-fs/hubfs/Bot_ReachOut_Chat.jpg)
 
 Figure 4: IT systems can reach out to employees to alert them about issues
 
@@ -112,37 +104,37 @@ To see how this plays out in an organization that's quickly adopting chat as its
 
 Other relevant case studies include:
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png)
 
 
           Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png)
 
 
           Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
+![Image | Ay TECHNOLOGY &](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png)
 
 
           3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png)
 
 
           Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
+![Image | a . oe ° ° * ° ° ° ra](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png)
 
 
           From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png)
 
 
           AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.

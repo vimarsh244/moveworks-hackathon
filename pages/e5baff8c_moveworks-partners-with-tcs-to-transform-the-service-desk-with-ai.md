@@ -1,18 +1,10 @@
 # https://www.moveworks.com/press-releases/2022/07/moveworks-partners-with-tcs-to-transform-the-service-desk-with-ai
 
-Forrester names Moveworks a leader in Chatbot for IT operations. Read the report today.
-
-Moveworks named a Forrester leader in Chatbot for IT operations. 
-
-![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
-
-Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
-
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
 
-Thank you.
 
-A member of the Moveworks team will be in touch within the next 24 hours.
+
+
 
 
 
@@ -21,8 +13,6 @@ A member of the Moveworks team will be in touch within the next 24 hours.
 
 
 Click here to read the full press release.
-
-By leveraging Moveworks’ AI platform, TCS enables businesses to automatically support employees around the world.
 
 MOUNTAIN VIEW, Calif.--Moveworks, the AI platform that powers the best places to work, today announced its partnership with Tata Consultancy Services (TCS), a leading global IT services, consulting, and business solutions organization. The partnership allows joint customers to provide seamless support to their employees at any time, in any language, and from any location.
 

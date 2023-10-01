@@ -1,18 +1,10 @@
 # https://www.moveworks.com/product/performance-insights-dashboards
 
-Forrester names Moveworks a leader in Chatbot for IT operations. Read the report today.
-
-Moveworks named a Forrester leader in Chatbot for IT operations. 
-
-![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
-
-Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
-
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
 
-Thank you.
 
-A member of the Moveworks team will be in touch within the next 24 hours.
+
+
 
 
 
@@ -44,5 +36,5 @@ For business application owners, technical writers, and other specialists concer
 
 The dashboards provide a comprehensive performance analysis of individual Moveworks skills and shed light on the most requested knowledge articles.
 
-![Request Demo](https://no-cache.hubspot.com/cta/default/4204135/01fb8c68-5711-46f6-afd0-c984065bc3c4.png)
+![Request Demo | ](https://no-cache.hubspot.com/cta/default/4204135/01fb8c68-5711-46f6-afd0-c984065bc3c4.png)
 

@@ -1,18 +1,10 @@
 # https://www.moveworks.com/insights/employee-experience-measurement-with-ai
 
-Forrester names Moveworks a leader in Chatbot for IT operations. Read the report today.
-
-Moveworks named a Forrester leader in Chatbot for IT operations. 
-
-![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
-
-Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
-
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
 
-Thank you.
 
-A member of the Moveworks team will be in touch within the next 24 hours.
+
+
 
 
 
@@ -24,9 +16,9 @@ A member of the Moveworks team will be in touch within the next 24 hours.
 Avi Dalal, Product Marketing Manager
 
 
-![](https://www.moveworks.com/hubfs/exi-featured-image.jpeg)
+![ | ](https://www.moveworks.com/hubfs/exi-featured-image.jpeg)
 
-![](https://www.moveworks.com/hubfs/exi-featured-image.jpeg)
+![ | ](https://www.moveworks.com/hubfs/exi-featured-image.jpeg)
 
 It’s time to rethink how we measure employee experience.
 
@@ -102,7 +94,7 @@ All of this boils down to everyone from the CEO to service leaders having a more
 
 
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/undefined-2.png?width=565&height=574&name=undefined-2.png)
+![Image | Short Description: Having trouble hearing others on Webex I) Long Description: I've been on calls all morning and have had issues hearing others on Webex |") with my headset iEnueu It works fine when | disconnect Lie) the headset, but when | connect my headset via Bluetooth!iiie) and also to Webex, | can't hear anyone. SYaieiay How can | fix this? | really need your help. Ss" Additional Comments: Can you please check to see if your headset was updated to the latest firmware?](https://www.moveworks.com/hs-fs/hubfs/undefined-2.png)
 
 Figure 1: Using NLU techniques trained on over half a billion support tickets, AI analytics can pull key insights from unstructured data, like IT support tickets.
 
@@ -120,7 +112,7 @@ EXI provides an in-depth analysis of your organization's app usage and potential
 
 
 
-![Image](https://www.moveworks.com/hubfs/image-png-1.png)
+![Image | ne a S 4 APPS AND SERVICES DETAIL, What's the service experience for Zoom ~ Overall, 1,043 employees raised 1,954 issues related to Zoom. Majority of issues are from New Hires team. Provision is the most common issue type. Issue Type ~ ) (TTR) ( Country Code») ( Role v) { Tenure) ( Contact Type ~ ) | Ticket Type») Showing 1,954 / 1,954 issues 1.9 88.1 hr 88.4% Issues Per Employee Time To Resolution First Touch Resolution SERVICE DETAIL Howis |ssues Volume @ipCROECroticup trending over time? What is the distribution of TTR across issues? vo - £100 iso feo boo Jo Fo F 20 50 : Tonouss rnos.oy genos2s aneawese aneeonay aesoeres —aeenere ° = Time To Resolution (Hours) car digsts.tooseieleca dedi esi sane What are the most common types of issues? What are the most impacted Persona ~ by issue volume? Provision is the most common type of Zoom issues. Majority of Zoom issues are filed by New Hires team. Issue Type Issue Volume Persona Issue Volume TTR (hours) Provision ze New Hires 873 1137 ‘Troubleshoot m5 Sales 398 M45 Miscellaneous ore Operations 243 659 Marketing 131 724 Manage 180](https://www.moveworks.com/hubfs/image-png-1.png)
 
 Figure 2: Not only does EXI let you slice and dice tickets by issue type, but also it lets you view common problems from the perspective of the individual apps and services used in your enterprise.
 
@@ -136,7 +128,7 @@ Specifically, natural language understanding (NLU) is a driving force in identif
 
 Figure 3: By leveraging AI analytics, specific team-related issues can be identified early on, which enables support teams to address and resolve these problems before they escalate, ensuring a smoother work environment.
 
-![Image](https://www.moveworks.com/hubfs/image-png-3.png)
+![Image | EMPLOYEE ISSUES What did Sales ~ need help with in Mar, 2023 - ? Overall, 295 employees raised 378 issues in this period when: (Hide filters ) Country Code: UK (378 issues) €) ( Role~ ) ( Tenure v ) ( Contact Type ~ ) | Ticket Type: Incident (378 issues) Showing 378 / 2,213 issues 13 74.2 hr 85.8% Issues Per Employee Time To Resolution First Touch Resolution EMPLOYEE ISSUES MAP Software Account Hardware Information Infrastructure Provision 19% 0.8% Troubleshoot 3.7% 1.6% 16% Manage 0.5% 1.3% 0.5% Miscellaneous 13% 3.2% 26% Shown in Volume Percentage](https://www.moveworks.com/hubfs/image-png-3.png)
 
 So, how does this work?
 
@@ -158,7 +150,7 @@ In today's competitive business landscape, staying informed about industry bench
 
 Figure 4: By analyzing both industry and company size benchmarks with EXI, you can compare your business' performance against a broader range of companies similar to yours.
 
-![Image](https://www.moveworks.com/hubfs/image-png-2.png)
+![Image | BENCHMARKS How does my employee experience compare with the industry Overall, 30,194 employees raised 101,808 issues in this period 3.4 Issues Per Employee Industry Benchmark:3.4 @ BENCHMARK BREAKDOWN Issue Category Provision Software Troubleshoot Software Provision Hardware Manage Account 87.2% First Touch Resolution 194.3 hr Time To Resolution Industry Benchmark:49.2 hr @ Q1, 2023 ~ Industry Benchmark:92.1% @ Lower than benchmark Variance % @ mmm Volume | Issue per Employee org Benchmark 22,292 2.16 170 | 1.42 | 1.98 Benchmarks Industry 1.70 Top Quartile 1.42 Similar in Employee Size 1.98 Variance % 8.74% 18,085, 1.90 1.29 | 1.16 | 1.87 10,216 2.28 1.30 | 1.10 | 1.52 a7 1.41 1.51 | 1.29 | 1.72 Higher than benchmark Time to Resolution (Days) y Org ark 2.55 1.75 | 0.69 | 1.17 Benchmarks Industry 1.75 Top Quartile 0.69 Similar in Employee Size 7 Variance % 45.50% 2.11 | 0.60 | 1.25 3.16 | 0.39 | 0.92 1.64 0.84 | 0.11 | 0.36](https://www.moveworks.com/hubfs/image-png-2.png)
 
 However, Moveworks' data from over 250 customers offers a more holistic perspective, allowing you to set informed, targeted goals and remain agile in a constantly evolving market. By analyzing both industry and company size benchmarks with EXI, you can compare your business' performance against a broader range of companies similar to yours. These benchmarks are regularly refreshed and hold the key to refining your strategies to meet industry standards and stay ahead of your competitors. 
 
@@ -184,37 +176,37 @@ See your entire employee experience, on a single screen. Request a demo.
 
 Learn more about our EXI roadmap. Watch Moveworks Live on-demand.  
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png)
 
 
           Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png)
 
 
           Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
+![Image | Ay TECHNOLOGY &](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png)
 
 
           3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png)
 
 
           Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
+![Image | a . oe ° ° * ° ° ° ra](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png)
 
 
           From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png)
 
 
           AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.

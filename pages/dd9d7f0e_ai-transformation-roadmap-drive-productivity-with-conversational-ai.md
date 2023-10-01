@@ -1,18 +1,10 @@
 # https://www.moveworks.com/insights/ai-transformation-roadmap-drive-productivity-with-conversational-ai
 
-Forrester names Moveworks a leader in Chatbot for IT operations. Read the report today.
-
-Moveworks named a Forrester leader in Chatbot for IT operations. 
-
-![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
-
-Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
-
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
 
-Thank you.
 
-A member of the Moveworks team will be in touch within the next 24 hours.
+
+
 
 
 
@@ -24,9 +16,9 @@ A member of the Moveworks team will be in touch within the next 24 hours.
 Varun Singh, Co-Founder and President
 
 
-![](https://www.moveworks.com/hubfs/ai-transformation-featured-image-final-1.png)
+![ | ](https://www.moveworks.com/hubfs/ai-transformation-featured-image-final-1.png)
 
-![](https://www.moveworks.com/hubfs/ai-transformation-featured-image-final-1.png)
+![ | ](https://www.moveworks.com/hubfs/ai-transformation-featured-image-final-1.png)
 
 It's no secret that the world of business is abuzz with the potential of AI. 
 
@@ -50,7 +42,7 @@ The good news is that AI is positioned to transform this reality, with huge stri
 
 
 
-![Image](https://www.moveworks.com/hubfs/image-png-Jul-05-2023-09-18-37-4617-PM.png)
+![Image | Help! | just got back from vacation and I'm locked out of my Okta account! request? Can | get the status of my new WFH headset employees? ~~ How do Ladd a beneficiary tomy health plan? Sales & Marketing Ops SMEs Can | add Steve to the Salesforce admin DL? Finance SMEs J Gan add Michelle to the marketing dP Forms -¢@ — Orchestration Knowledge —> — Approvals Tickets —H @—- Records / Data Facilities SMEs Manufacturing Ops SMEs > HR Service SMEs HRIS Gp — rN Cv ALG Talteclal-ig Orchestration m=](https://www.moveworks.com/hubfs/image-png-Jul-05-2023-09-18-37-4617-PM.png)
 
 Figure 1: Right now it takes your employees so long to get help because it’s such a manual process and they don’t know where to go for help.
 
@@ -62,7 +54,7 @@ So it shouldn’t come as a surprise that already 40% of enterprises are already
 
 
 
-![Image](https://www.moveworks.com/hubfs/image-png-Jul-05-2023-09-20-13-0265-PM.png)
+![Image | % enterprises at different stages of Foundational model/GenAl, by use cases Product & R&D SG&A | don’t know No plans to evaluate Plan to evaluate in next 1-2 years Currently Evaluating Fave asopres a i | | | a eee EE eee ee Coding Customer Knowledge IT admin Marketing |Product Demand Supply Labor ChatUX assistant |comms assistants automation materials |design forecasting chain forecasting New <———_ Use cases where we are seeing most traction ——————> Source: 2023 Bain aAl/GenAl Survey (N=571 in tech, %in Retail, Financial services, CPG, Health & Life Sciences, Advanced manufacturing, Energy & natural resources, Auto & transportation, Telecom, Media & entertainment, marketing & advertising)](https://www.moveworks.com/hubfs/image-png-Jul-05-2023-09-20-13-0265-PM.png)
 
 Figure 2: Enterprises will continue to experiment with AI. According to Bain, 40% of enterprises are already embracing AI or carefully evaluating its potential use cases.
 
@@ -78,7 +70,7 @@ It's crucial to understand that copilots, while an essential part of the AI land
 
 
 
-![Image](https://www.moveworks.com/hubfs/image-png-Jul-05-2023-09-21-53-7512-PM.png)
+![Image | Analytics (Performance, opportunities) Workflow action + authoring (Automations, business processes, tasks) Security (Hardened infra, data protection, responsible Al) Content finding + creation (Knowledge, FAQs, documents, files) Success Plans (Prescription, professional services, customer success) Al Transformation Platform Copilot (LLMs chaining, fine tuning, grounding, reasoning) Adoption (comms, change, multi lingual, web, chat, phone) Integrations (deep + enterprise wide, permissions)](https://www.moveworks.com/hubfs/image-png-Jul-05-2023-09-21-53-7512-PM.png)
 
 Figure 3: AI transformation extends beyond AI copilots.
 
@@ -90,7 +82,7 @@ It's worth highlighting the value of copilots in the context of AI transformatio
 
 
 
-![Image](https://www.moveworks.com/hubfs/image-png-Jul-05-2023-09-26-40-1038-PM.png)
+![Image | IT applications HR applications Mittens v. Finance applications Sales applications . wt a i 0 : “now ie = okta onelogin: = ADD NL, samnaigiss(h, ME ZENEFITS wérkdby | C6 omen er peopleci GRD SSS = = SS SS) SS) = =) =| = = = oS =| i = = = =| = wi =|i= =| iS) 0 S| iS =| iS : — — — — — — — \ \ — — — — — —](https://www.moveworks.com/hubfs/image-png-Jul-05-2023-09-26-40-1038-PM.png)
 
 Figure 4: AI copilots are going to enhance the products you and your employees already use on a daily basis.
 
@@ -112,37 +104,37 @@ As organizations navigate the rapidly evolving technological landscape, it is es
 
 Watch our webinar with Microsoft to learn more about Toyota's AI transformation with Moveworks. Check it out!
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png)
 
 
           Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png)
 
 
           Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
+![Image | Ay TECHNOLOGY &](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png)
 
 
           3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png)
 
 
           Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
+![Image | a . oe ° ° * ° ° ° ra](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png)
 
 
           From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png)
 
 
           AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.

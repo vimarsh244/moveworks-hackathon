@@ -1,18 +1,10 @@
 # https://www.moveworks.com/insights/strategies-to-boost-engagement-employee-comms
 
-Forrester names Moveworks a leader in Chatbot for IT operations. Read the report today.
-
-Moveworks named a Forrester leader in Chatbot for IT operations. 
-
-![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
-
-Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
-
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
 
-Thank you.
 
-A member of the Moveworks team will be in touch within the next 24 hours.
+
+
 
 
 
@@ -24,9 +16,9 @@ A member of the Moveworks team will be in touch within the next 24 hours.
 Varun Singh, VP of Product
 
 
-![](https://www.moveworks.com/hubfs/31_MW_Blog_Employee_Communications.jpg)
+![ | ](https://www.moveworks.com/hubfs/31_MW_Blog_Employee_Communications.jpg)
 
-![](https://www.moveworks.com/hubfs/31_MW_Blog_Employee_Communications.jpg)
+![ | ](https://www.moveworks.com/hubfs/31_MW_Blog_Employee_Communications.jpg)
 
 When you need every employee to update their benefits before the deadline or to immediately change their passwords to counter a security threat, you don’t just want them to hear you — you need them to hear you. Here’s the problem: your comms are getting ignored. 
 
@@ -50,7 +42,7 @@ By itself, the collaboration tool is not a magic bullet — employees can ignore
 
  
 
-![Grimse_Mark_CIO_19-04-11_3232](https://www.moveworks.com/hs-fs/hubfs/Grimse_Mark_CIO_19-04-11_3232.jpg?width=300&name=Grimse_Mark_CIO_19-04-11_3232.jpg)
+![Grimse_Mark_CIO_19-04-11_3232 | ](https://www.moveworks.com/hs-fs/hubfs/Grimse_Mark_CIO_19-04-11_3232.jpg)
 
 Read about how Robert Half built a virtual workplace with AI →
 
@@ -68,7 +60,7 @@ The challenge for comms teams is that manually tailoring messages to individual 
 
  
 
-![Kota_Prakash_CIO](https://www.moveworks.com/hs-fs/hubfs/Photos_heroes/Kota_Prakash_CIO.jpg?width=300&name=Kota_Prakash_CIO.jpg)
+![Kota_Prakash_CIO | ](https://www.moveworks.com/hs-fs/hubfs/Photos_heroes/Kota_Prakash_CIO.jpg)
 
 Find out how Autodesk used AI to transform their employee experience →
 
@@ -86,7 +78,7 @@ Inspired by the results of our customers, we worked to apply their best practice
 
 
 
-![PrpChat_EmployeeComms_HR_CompleteEnrollment](https://www.moveworks.com/hs-fs/hubfs/PrpChat_EmployeeComms_HR_CompleteEnrollment.png?width=500&name=PrpChat_EmployeeComms_HR_CompleteEnrollment.png)
+![PrpChat_EmployeeComms_HR_CompleteEnrollment | 6 ©) M8 9:00 AM Hi Paul, © Time is Running Out! Complete Open Enrollment Now! You have less than 1 day to enroll (or waive) health insurance or you run the risk of being without benefits coverage. It is imperative that youmake an election before 3:00p PT tomorrow, Dec 15. Click here to complete enrollment! | Just did it! | Reminde me later Paul 9:01AM Where do | find information about the available plans? M8 9:01AM Ok, just checked our knowledge base, here is the closest answer | could find: * Available Healthcare Plans To view 2021 Moveworks Medical, Dental, and Vision benefit offerings, go to: ww..moveworks.com/benefits](https://www.moveworks.com/hs-fs/hubfs/PrpChat_EmployeeComms_HR_CompleteEnrollment.png)
 
 Figure 1: Inspired by the success of our customers, we use employee comms at Moveworks to ensure that everyone is on the same page. 
 
@@ -102,7 +94,7 @@ To replicate this most successful model of communication — talking to people �
 
  
 
-![AmithNair_Vituity_ListingPage](https://www.moveworks.com/hs-fs/hubfs/AmithNair_Vituity_ListingPage.png?width=300&name=AmithNair_Vituity_ListingPage.png)
+![AmithNair_Vituity_ListingPage | ](https://www.moveworks.com/hs-fs/hubfs/AmithNair_Vituity_ListingPage.png)
 
 Read more about Vituity’s employee comms strategy →
 
@@ -110,37 +102,37 @@ Read more about Vituity’s employee comms strategy →
 
 Request a demo to see the Moveworks platform in action.
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png)
 
 
           Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png)
 
 
           Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
+![Image | Ay TECHNOLOGY &](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png)
 
 
           3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png)
 
 
           Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
+![Image | a . oe ° ° * ° ° ° ra](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png)
 
 
           From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png)
 
 
           AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.

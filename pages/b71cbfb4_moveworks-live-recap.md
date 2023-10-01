@@ -1,18 +1,10 @@
 # https://www.moveworks.com/insights/moveworks-live-recap
 
-Forrester names Moveworks a leader in Chatbot for IT operations. Read the report today.
-
-Moveworks named a Forrester leader in Chatbot for IT operations. 
-
-![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
-
-Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
-
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
 
-Thank you.
 
-A member of the Moveworks team will be in touch within the next 24 hours.
+
+
 
 
 
@@ -24,9 +16,9 @@ A member of the Moveworks team will be in touch within the next 24 hours.
 Margo Poda, Content Marketing Manager
 
 
-![](https://www.moveworks.com/hubfs/moveworks-live-takeaway-ft-image.jpeg)
+![ | ](https://www.moveworks.com/hubfs/moveworks-live-takeaway-ft-image.jpeg)
 
-![](https://www.moveworks.com/hubfs/moveworks-live-takeaway-ft-image.jpeg)
+![ | ](https://www.moveworks.com/hubfs/moveworks-live-takeaway-ft-image.jpeg)
 
 We want to extend a big thanks to everyone who joined us at Moveworks Live!
 
@@ -44,13 +36,13 @@ The opening section of Moveworks Live served as a powerful introduction to the t
 
 
 
-![12025_JB_218_F_05112023_068](https://www.moveworks.com/hs-fs/hubfs/12025_JB_218_F_05112023_068.jpg?width=6240&height=4160&name=12025_JB_218_F_05112023_068.jpg)
+![12025_JB_218_F_05112023_068 | ](https://www.moveworks.com/hs-fs/hubfs/12025_JB_218_F_05112023_068.jpg)
 
 We understand that businesses are looking for ways to leverage large language models (LLMs) effectively to create a tailored strategy. That’s why at Moveworks Live, CTO Vaibhav Nivargi shared a simple four-tier copilot framework to help you understand the level of investment and technology needed to build your copilot, depending on the specific use cases:
 
 
 
-![12025_JB_218_F_05112023_058](https://www.moveworks.com/hs-fs/hubfs/12025_JB_218_F_05112023_058.jpg?width=4395&height=2930&name=12025_JB_218_F_05112023_058.jpg)
+![12025_JB_218_F_05112023_058 | enone](https://www.moveworks.com/hs-fs/hubfs/12025_JB_218_F_05112023_058.jpg)
 
 MoveLM™ has two variations: a 7 billion parameter version that allows for a higher degree of customization and a 175 billion parameter version with enhanced reasoning capabilities.
 
@@ -80,7 +72,7 @@ If you’re a current Moveworks customer, you can request a 14-day free trial of
 
 
 
-![12025_JB_218_F_05112023_132](https://www.moveworks.com/hs-fs/hubfs/12025_JB_218_F_05112023_132.jpg?width=6240&height=4160&name=12025_JB_218_F_05112023_132.jpg)
+![12025_JB_218_F_05112023_132 | ](https://www.moveworks.com/hs-fs/hubfs/12025_JB_218_F_05112023_132.jpg)
 
 Moveworks Knowledge Writer is a game-changing tool designed to significantly reduce the time it takes to create, maintain, and update informative content for employees. 
 
@@ -106,7 +98,7 @@ With the addition of Moveworks Voice, your organization will benefit from effici
 
 
 
-![12025_JB_218_F_05112023_208](https://www.moveworks.com/hs-fs/hubfs/12025_JB_218_F_05112023_208.jpg?width=6240&height=4160&name=12025_JB_218_F_05112023_208.jpg)
+![12025_JB_218_F_05112023_208 | ee aici ee ome](https://www.moveworks.com/hs-fs/hubfs/12025_JB_218_F_05112023_208.jpg)
 
 At Moveworks Live, we introduced a next-generation enterprise-wide copilot that’s designed to work with text, images, video, and voice. This Moveworks copilot uses the remarkable reasoning capabilities of large language models to serve as a helpful and reliable advisor for the entire organization. 
 
@@ -126,7 +118,7 @@ The experts agreed that AI will become an integral part of every product, and no
 
 
 
-![12025_JB_218_F_05112023_195](https://www.moveworks.com/hs-fs/hubfs/12025_JB_218_F_05112023_195.jpg?width=6240&height=4160&name=12025_JB_218_F_05112023_195.jpg)
+![12025_JB_218_F_05112023_195 | ](https://www.moveworks.com/hs-fs/hubfs/12025_JB_218_F_05112023_195.jpg)
 
 Eager to uncover more insights from the Moveworks Live event? You're in luck! On-demand recordings will be available starting Monday, May 15th. Don't miss out on learning from industry experts as they share their thoughts on the transformative power of conversational AI.
 
@@ -136,37 +128,37 @@ Experience the future of work.
 
 Watch Moveworks Live on-demand starting Monday, May 15th!
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png)
 
 
           Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png)
 
 
           Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
+![Image | Ay TECHNOLOGY &](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png)
 
 
           3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png)
 
 
           Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
+![Image | a . oe ° ° * ° ° ° ra](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png)
 
 
           From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png)
 
 
           AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.

@@ -11,6 +11,8 @@ import PIL
 import pytesseract
 import markdown
 import io
+import time
+
 
 
 # Function to extract URLs from a sitemap.xml file
@@ -27,11 +29,64 @@ def generate_filename(url):
     url_hash = hashlib.sha1(url_path.encode()).hexdigest()[:8]
     return f"{url_hash}_{os.path.basename(url_path)}.md"
 
+
+
+# Function to prune the width part from image URLs
+def prune_image_width(image_url):
+    # Remove the width parameter from the URL
+    return re.sub(r'\?width=\d+', '?', image_url)
+
+
+
+def prune_image_url(image_url):
+    return image_url.split('?')[0]
+
+
+# Function to exclude header and footer elements from the parsed HTML
+def exclude_header_footer(soup):
+    # Specify CSS selectors or attributes to identify header and footer elements
+    header_selectors = ['header', '.header', '#header']
+    footer_selectors = ['footer', '.footer', '#footer']
+
+    
+    # Specify text content to identify cookie prompt elements
+    cookie_prompt_text = [
+        "By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.",
+        "By checking this box, I agree to receive company news and updates.",
+        "Learn more in the Privacy Policy.",
+        "Thank you.",
+        "A member of the Moveworks team will be in touch within the next 24 hours.",
+        " Close this modal"
+    ]
+
+    # Remove header elements
+    for selector in header_selectors:
+        header_elements = soup.select(selector)
+        for element in header_elements:
+            element.extract()
+
+    # Remove footer elements
+    for selector in footer_selectors:
+        footer_elements = soup.select(selector)
+        for element in footer_elements:
+            element.extract()
+
+    # Remove cookie prompt elements by matching text content
+    for text in cookie_prompt_text:
+        elements_with_text = soup.find_all(string=text)
+        for element in elements_with_text:
+            element.extract()
+
+
+    return soup
+
 # Function to scrape text and images from a webpage and save as Markdown with inline images
 def scrape_and_save_as_markdown(url, output_dir):
     response = requests.get(url)
     soup = BeautifulSoup(response.text, 'html.parser')
-    
+    soup = exclude_header_footer(soup)
+    # print(soup)
+
     # Generate a unique filename based on the URL
     filename = generate_filename(url)
     output_path = os.path.join(output_dir, filename)
@@ -48,32 +103,41 @@ def scrape_and_save_as_markdown(url, output_dir):
             elif element.name == 'img':
                 alt_text = element.get('alt', 'Image')
                 img_url = element.get('src', '')
+                img_url = prune_image_width(img_url)
 
                 if img_url.startswith('http'):
                     markdown_file.write(f"![{alt_text}]({img_url})\n\n")
 
 
-# Function to prune the width part from image URLs
-def prune_image_width(image_url):
-    # Remove the width parameter from the URL
-    return re.sub(r'\?width=\d+', '', image_url)
-
-# Function to perform OCR on an image and return the extracted text (only for supported formats)
-# Function to perform OCR on an image and return the extracted text (only for supported formats)
+# Function to perform OCR on an image and return the extracted text (only for supported formats, excluding .svg)
 def perform_ocr(image_url):
-    response = requests.get(image_url)
-    image_bytes = response.content
+    max_retries = 3  # Maximum number of retries
+    retry_delay = 30  # Delay in seconds between retries
 
-    # Check if the image is in a supported format (e.g., PNG)
-    if image_url.lower().endswith(('.png', '.jpeg', '.jpg', '.bmp', '.tiff')):
+    for retry in range(max_retries):
         try:
-            image = Image.open(io.BytesIO(image_bytes))
-            extracted_text = pytesseract.image_to_string(image)
-            return extracted_text
-        except PIL.UnidentifiedImageError:
-            return None
-    else:
-        return None
+            response = requests.get(image_url)
+            image_bytes = response.content
+
+            # Check if the image is in a supported format (e.g., PNG) and not an SVG
+            if image_url.lower().endswith(('.png', '.jpeg', '.jpg', '.bmp', '.tiff')) and not image_url.lower().endswith('.svg'):
+                try:
+                    image = Image.open(io.BytesIO(image_bytes))
+                    extracted_text = pytesseract.image_to_string(image)
+                    return extracted_text
+                except PIL.UnidentifiedImageError:
+                    return None
+            else:
+                return None
+        except (requests.exceptions.ConnectionError, ConnectionResetError):
+            if retry < max_retries - 1:
+                print(f"Connection error occurred. Retrying in {retry_delay} seconds...")
+                time.sleep(retry_delay)
+                continue
+            else:
+                print("Maximum retries reached. Exiting OCR process.")
+                return None
+
 
 # Function to update alt-text in Markdown files with OCR results
 def update_alt_text_with_ocr(markdown_dir):
@@ -88,12 +152,26 @@ def update_alt_text_with_ocr(markdown_dir):
                     img_url = match.group(2)
 
                     # Prune image width if necessary
-                    img_url = prune_image_width(img_url)
+                    img_url = prune_image_url(img_url)
 
                     # Perform OCR (only for supported formats) and update alt-text
+                    print("doing OCR for : " + img_url)
                     extracted_text = perform_ocr(img_url)
                     if extracted_text:
-                        markdown_content = markdown_content.replace(match.group(0), f"![{alt_text} | {extracted_text.strip()}]({img_url})")
+                        print("Got text: " + extracted_text)
+                    if extracted_text:
+                        # Sanitize extracted text and alt text
+                        extracted_text = ' '.join(extracted_text.split())  # Replace consecutive spaces with single space
+                        extracted_text = extracted_text.strip()  # Remove leading and trailing whitespace
+                        extracted_text = extracted_text.replace('\n', '\\n')  # Replace new lines with "\\n"
+                        
+                        alt_text = ' '.join(alt_text.split())  # Replace consecutive spaces with single space
+                        alt_text = alt_text.strip()  # Remove leading and trailing whitespace
+                        alt_text = alt_text.replace('\n', '\\n')  # Replace new lines with "\\n"
+
+                        markdown_content = markdown_content.replace(match.group(0), f"![{alt_text} | {extracted_text}]({img_url})")
+
+                        # markdown_content = markdown_content.replace(match.group(0), f"![{alt_text} | {extracted_text.strip()}]({img_url})")
 
                 # Rewind the file and write updated content
                 markdown_file.seek(0)
@@ -129,6 +207,7 @@ if __name__ == "__main__":
     model_name = "paraphrase-MiniLM-L6-v2"
     embeddings_output_file = "embeddings.index"
 
+    print("getting sitemap...")
     # Create output directory if it doesn't exist
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
@@ -136,11 +215,14 @@ if __name__ == "__main__":
     # Extract URLs from sitemap.xml
     urls = extract_sitemap_urls(sitemap_url)
 
+    print("downloading pages...")
     # Scrape and save as Markdown
-    # for url in urls:
-    #     scrape_and_save_as_markdown(url, output_dir)
+    for url in urls:
+        scrape_and_save_as_markdown(url, output_dir)
 
     markdown_dir = output_dir
+    
+    print("doing OCR")
 
     update_alt_text_with_ocr(markdown_dir)
 

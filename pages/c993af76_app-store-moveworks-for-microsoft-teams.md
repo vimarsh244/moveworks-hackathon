@@ -1,18 +1,10 @@
 # https://www.moveworks.com/insights/app-store-moveworks-for-microsoft-teams
 
-Forrester names Moveworks a leader in Chatbot for IT operations. Read the report today.
-
-Moveworks named a Forrester leader in Chatbot for IT operations. 
-
-![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
-
-Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
-
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
 
-Thank you.
 
-A member of the Moveworks team will be in touch within the next 24 hours.
+
+
 
 
 
@@ -24,9 +16,9 @@ A member of the Moveworks team will be in touch within the next 24 hours.
 Bhavin Shah, CEO and Founder
 
 
-![](https://www.moveworks.com/hubfs/17_MW_Blog_MSFT_AppStore.jpg)
+![ | TIT Microsoft Teams](https://www.moveworks.com/hubfs/17_MW_Blog_MSFT_AppStore.jpg)
 
-![](https://www.moveworks.com/hubfs/17_MW_Blog_MSFT_AppStore.jpg)
+![ | TIT Microsoft Teams](https://www.moveworks.com/hubfs/17_MW_Blog_MSFT_AppStore.jpg)
 
 If you’re an IT leader, you know that most useful technology takes way too much of your time to build, deploy, and maintain. And unless you happen to have a team of world-class AI experts on hand, this do-it-yourself model makes truly game-changing technology seem out of reach.
 
@@ -38,15 +30,15 @@ Now, the Moveworks chatbot app is available for customers to install directly fr
 
 Mike Ammerlaan, Director, Microsoft 365 Ecosystem at Microsoft
 
-![Access Software](https://www.moveworks.com/hs-fs/hubfs/img/blog/Adding-Moveworks-to-Microsoft-Teams/01_Access-Software.png?width=1366&name=01_Access-Software.png)
+![Access Software | b> Moveworks Conversation About | need to work on a deck, but don’t have MS Office. Can | get a license? Moveworks ”" Ok, you need Microsoft 365. Do you want me to get Microsoft ; 365 for you? Microsoft when and where you need it. Work anywhere, anytime, on any device. Microsoft 365 is ready when you are. UT aa 5) Uo EMPLOYEES JUST ASK ai](https://www.moveworks.com/hs-fs/hubfs/img/blog/Adding-Moveworks-to-Microsoft-Teams/01_Access-Software.png)
 
-![Account Access](https://www.moveworks.com/hs-fs/hubfs/img/blog/Adding-Moveworks-to-Microsoft-Teams/04_Account-Access.png?width=1366&name=04_Account-Access.png)
+![Account Access | vv "v "v Moveworks About Moveworks Hi Alex, Okta alerted me you might need some help unlocking your account. Would you like me to unlock your Okta account? Yes please! Moveworks Got it, working on it... ® Good news, | have unlocked your Okta account. Your old password should be working again. UL ACCOUNTS THAN ea 3 AA IS ASLEEP](https://www.moveworks.com/hs-fs/hubfs/img/blog/Adding-Moveworks-to-Microsoft-Teams/04_Account-Access.png)
 
-![Answers](https://www.moveworks.com/hs-fs/hubfs/img/blog/Adding-Moveworks-to-Microsoft-Teams/03_Answers.png?width=1366&name=03_Answers.png)
+![Answers | bs Moveworks About I've been wondering what our policy is around the current situation with WFH and covid. Need advice pls. Moveworks ”’ Ok, | think you might be talking about the following topics. COVID-19 » Coronavirus disease, COVID-19, outbreak » Moveworks’ current coronavirus policies and recommendations Work from home DELIVER LUN LASS EMPLOYEES NEED — MINUS aga ada](https://www.moveworks.com/hs-fs/hubfs/img/blog/Adding-Moveworks-to-Microsoft-Teams/03_Answers.png)
 
-![Groups Access](https://www.moveworks.com/hs-fs/hubfs/img/blog/Adding-Moveworks-to-Microsoft-Teams/02_Groups-Access.png?width=1366&name=02_Groups-Access.png)
+![Groups Access | bs ~Moveworks About Can | create a new DL for my sales team? Moveworks Ok, | understand you want to create a group. " What would you like to name it? Example you can type: Lunch and learn or Inl-list@company.com Ta UN TT LIST LC Waa ay PTA](https://www.moveworks.com/hs-fs/hubfs/img/blog/Adding-Moveworks-to-Microsoft-Teams/02_Groups-Access.png)
 
-![Ticket Accleration](https://www.moveworks.com/hs-fs/hubfs/img/blog/Adding-Moveworks-to-Microsoft-Teams/05_Ticket-Accleration.png?width=1366&name=05_Ticket-Accleration.png)
+![Ticket Accleration | bs Moveworks ae [ ia eda | spilled coffee on my computer and now it won't turn on, please help. A Hy Moveworks Ld Ok, looks like you need some troubleshooting help. Let me draft a ticket for you. ‘Drat) | EU AS (Draft) | spilled coffee on my computer and now it won't turn on, please help. KNOWS tl Send now? 10 NT Uy] "vr keep typing](https://www.moveworks.com/hs-fs/hubfs/img/blog/Adding-Moveworks-to-Microsoft-Teams/05_Ticket-Accleration.png)
 
  
 
@@ -58,7 +50,7 @@ You can read Equinix’s success story here on Microsoft.com.
 
 
 
-![bring new users to teams](https://www.moveworks.com/hs-fs/hubfs/CS%20Deck%20Slides-WEB-2.png?width=700&name=CS%20Deck%20Slides-WEB-2.png)
+![bring new users to teams | Moveworks intercepts IT tickets from emails, forms, and portals x IT@company.com From alex@company.com Need help — contract approvals Hi IT team, | have some contracts that need a digital client signature but | don’t have the right license for DocuSign... Can you please fix this for me? Thanks, Alex Notifies the employee when Al can instantly resolve their issue Sati Pi 12:04 Thursday, July 23 Delivers the right resolution on Teams and logs the event in a ticket Hi, Alex, | noticied that you've requested DocuSign in ticket ® DocuSign has been added to your Okta page , the DocuSign icon should show up DocuSign keeps track of everything, from the big picture to the minute details.](https://www.moveworks.com/hs-fs/hubfs/CS%20Deck%20Slides-WEB-2.png)
 
 Particularly in this new normal of remote work, the ability to remain productive anywhere and anytime defines successful employees. But without a physical office or access to in-person help, these employees often don’t know where to find critical resources.
 
@@ -66,37 +58,37 @@ With Teams, however, every key team member, workflow, and file is consolidated i
 
 Contact Moveworks to demo and deploy our AI chatbot in your Teams environment.
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png)
 
 
           Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png)
 
 
           Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
+![Image | Ay TECHNOLOGY &](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png)
 
 
           3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png)
 
 
           Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
+![Image | a . oe ° ° * ° ° ° ra](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png)
 
 
           From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png)
 
 
           AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.

@@ -1,18 +1,10 @@
 # https://www.moveworks.com/insights/moveworks-employee-communications-inspire-action
 
-Forrester names Moveworks a leader in Chatbot for IT operations. Read the report today.
-
-Moveworks named a Forrester leader in Chatbot for IT operations. 
-
-![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
-
-Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
-
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
 
-Thank you.
 
-A member of the Moveworks team will be in touch within the next 24 hours.
+
+
 
 
 
@@ -32,9 +24,9 @@ Anand Sainath, Tech Lead
 Ameet Mehta, Design Lead
 
 
-![](https://www.moveworks.com/hubfs/26_MW_Blog-EmployeeComms-illos-05.jpg)
+![ | ](https://www.moveworks.com/hubfs/26_MW_Blog-EmployeeComms-illos-05.jpg)
 
-![](https://www.moveworks.com/hubfs/26_MW_Blog-EmployeeComms-illos-05.jpg)
+![ | ](https://www.moveworks.com/hubfs/26_MW_Blog-EmployeeComms-illos-05.jpg)
 
 As a business leader, you have to adapt to survive change. But making those changes — whether you're switching CRMs, returning to the office, or rolling out new software — requires massive coordination.
 
@@ -42,7 +34,7 @@ That's why communication is at the heart of every company. To manage change, you
 
 Figure 1: Typical mass communication approaches, like emails, are often left unread by employees — making it difficult to keep priorities aligned company-wide.
 
-![Blog-EmployeeComms-Gmail Desktop](https://www.moveworks.com/hs-fs/hubfs/Blog-EmployeeComms-Gmail%20Desktop.png?noresize&width=680&name=Blog-EmployeeComms-Gmail%20Desktop.png)
+![Blog-EmployeeComms-Gmail Desktop | Google Gmail ~ COMPOSE Inbox (11,457) Starred Important Chats Sent Mail All Mail My Important todos | work stuff (1,233) | holiday plans Jason | Q Larry Dimmick 27 You: | did that Det. Freddie Newa You: Haha, don’t Vic Vega You: Don’t fck w me Mr. Pink You: Boom, | got it Cime, Mr Pink You were in a vide Mr. Brown X You: Man, you nailed it De 9 ‘eS More | Primary Okta Admin Security Admin Okta Admin Holly Booker Security Admin Security Admin Alexander, me (2) Health Benefits AUTOMATION from Jira AUTOMATION from Jira Security Admin Main Office Admin HR, Payroll Dept Payroll Dept Security Admin HR, Health Benefits Okta Admin Security Admin Okta Admin HR Okta Admin AUTOMATION form Jira AUTOMATION from Jira AUTOMATION from Jira AUTOMATION from Jira ea, Social > Promotions Your account needs maintenance! Don't Forget Security Training Today! Reset your password Did you get my last message? Security Training Check-in IMPORTANT Training scheduled Changes coming watch your Gmail Health News Important to you [JIRA-TICKET][AB-12345] TICKET ASSIGNED TO YOU [JIRA-TICKET][AB-13457] TICKET CHANGES ADDED Training for your computer Company Event --- All hands call Your W-2 is Available Today Direct Deposit Slip Required Security Training UPDATE Updated Health Benefits Available for review Password Reset(3) Training Scheduled for this week Password Reset (2) Benefits Selected Confirmation Password Reset!! [JIRA-TICKET][AB-56789] TICKET CHANGED TO DONE [JIRA-TICKET][GH-45632] ASSIGNED TO YOU [JIRA-TICKET][GH-456326] ASSIGNED TO YOU [JIRA-TICKET][GH-45612] ASSIGNED TO YOU Updates EE) Kickstarter.com 1-100 of 45,900 nO @ > 0 02 @ Q 0 0 0 @ @ Q a Feb 23 Feb 15 Feb 11 Feb 11 Feb 11 Feb 11 Feb 11 Feb 7 Feb 7 Feb 7 Feb 5 Feb 5 Feb 5 Feb 4 Feb 4 Feb 3 Feb 3 Feb 2 Jan 29 Jan 28 Jan 29 Jan 28 Jan 28 Jan 28 Jan 28](https://www.moveworks.com/hs-fs/hubfs/Blog-EmployeeComms-Gmail%20Desktop.png)
 
 Now the bad news: traditional employee communications are no longer effective. Employees are experts at tuning out irrelevant information, so if even a single email isn’t important, they learn to ignore that sender completely. And seeing how our customers' employees were already accustomed to using Moveworks as a one-stop shop for help, we decided to build a solution that tackles the challenge of keeping your organization in sync and moving forward with purpose. 
 
@@ -50,7 +42,7 @@ We’re thrilled to officially announce that Moveworks for Employee Communicatio
 
 
 
-![PrpChat_EmployeeComms_HR_BenefitsEnrollment](https://www.moveworks.com/hs-fs/hubfs/PrpChat_EmployeeComms_HR_BenefitsEnrollment.png?noresize&width=334&name=PrpChat_EmployeeComms_HR_BenefitsEnrollment.png)
+![PrpChat_EmployeeComms_HR_BenefitsEnrollment | Moveworks 9:00 AM WV Hi Eric, “YI noticed that you have not yet completed enrollment for our new healthcare options for 2021. The HR team realizes that theree are a lot of new options to choose from this year. If you have questions about enrollment, | can help. Here are some examples you can ask me right now: ¢ What are the main differences between providers this year? ¢ What are the benefits for a high deductible plan? ¢ What are the differences between HMO an PPO options? ¢ What insurance options provide me the lowest copay? ¢ Will | need a referral to a specialist with our new policy? For more detailed questions, the HR team is hosting information sessions at 12:00 PT on Monday and Wednesday of this week. Would you like me to guide you through the enrollment process now? | Not helpful |](https://www.moveworks.com/hs-fs/hubfs/PrpChat_EmployeeComms_HR_BenefitsEnrollment.png)
 
 Figure 2: With Moveworks for Employee Communications, company leaders can send actionable messages to precisely the right people.
 
@@ -62,7 +54,7 @@ This was the challenge that inspired us to build a way to easily send messages t
 
 Figure 3: With Moveworks, targeting the right audience is as easy as filtering employees by demographic, from job title to location.
 
-![UI-03-Campaign audience](https://www.moveworks.com/hs-fs/hubfs/UI-03-Campaign%20audience.png?noresize&width=512&name=UI-03-Campaign%20audience.png)
+![UI-03-Campaign audience | Moveworks @ Campaigns <£] Sign Out @ Select campaign settings Mandatory Open Enrollment (CA) Select your audience Who are you sending this campaign to? Employee list Select list All employees Previous audience @ Create campaign message v ‘> FILTER Import via CSV 6 Select audience 1174 Castro St, Mt View 1174 Castro St, Mt View 1174 Castro St, Mt View Columns Operators Value 4 Region v contains v Los Angeles Operators Columns Operators Value 4 Or v Region v contains v Mountain View Operators Columns Operators Value xX And v Employment status v equals v Full-time + ADD FILTER Name Email Role Department Location Leslie Brown Ibrown@moveworks.ai Network Service Eng III Network Ops 8711 Washington, LA Jenny Fisher jfisher@moveworks.ai Executive Asssitant HR 8711 Washington, LA Chelsie Griffen cgriffen@moveworks.ai Senior Contols Specialist Operations Anaya Patel apatel@moveworks.ai Sr. Developer Engineering Work From Home John Stokes jstokes@moveworks.ai Product Analyst II Al Analytics Christine Tint ctint@moverworks.ai Analytics Reporting Al Analytics g@ 128 employees reachable based on criteria. CLOSE wy EXPORT CSV Region Los Angeles Los Angeles Mountain View Los Angeles Mountain View Mountain View Rows per page: 10 v 6 Confirm and publish Employment status Full-time Full-time Full-time Full-time Full-time Full-time 1-5 of 128 < BACK CONTINUE](https://www.moveworks.com/hs-fs/hubfs/UI-03-Campaign%20audience.png)
 
 Typically, the more messages you send, the more you’re ignored. But with Moveworks — it’s just the opposite. Since every message is meaningful, every one reinforces the idea that our chatbot is the place to go for consistently high-quality information. In fact, by sending targeted campaigns, our early adopters have seen engagement rates as high as 72%. 
 
@@ -76,7 +68,7 @@ Chat is the way to do employee comms. Workers spend their entire day on Teams, S
 
 Figure 4: Employees easily complete next steps over chat.
 
-![PrpChat-Employee_Comms_OutageNotification-Light](https://www.moveworks.com/hs-fs/hubfs/PrpChat-Employee_Comms_OutageNotification-Light.png?noresize&width=512&name=PrpChat-Employee_Comms_OutageNotification-Light.png)
+![PrpChat-Employee_Comms_OutageNotification-Light | Moveworks 12:22 AM A. Outage Notification 4. | noticed you just tried to access our SSO portal. Unfortunately our SSO portal is down. IT has been paged and is working to resolve the issue. Do you want to know when it’s fixed? | mo | Chelsea 12:22 AM Thanks! Let me know when it’s back. Untill then I'll catch some 27. Moveworks 12:22 AM «& IT will notify you when the SSO portal is back.](https://www.moveworks.com/hs-fs/hubfs/PrpChat-Employee_Comms_OutageNotification-Light.png)
 
 Think about the last time you were reminded to take a survey sent out the previous week. How long are you going to spend digging through your inbox for that link? Even if you think it’s important, there is a limit to the amount of time you’ll spend on it. 
 
@@ -84,7 +76,7 @@ By moving employee comms into chat, we can intelligently link employees to the t
 
 
 
-![SoftwareDeprovisioning_Metrics](https://www.moveworks.com/hs-fs/hubfs/SoftwareDeprovisioning_Metrics.png?noresize&width=589&name=SoftwareDeprovisioning_Metrics.png)
+![SoftwareDeprovisioning_Metrics | v v Moveworks 11:15 AM Hi Georgia © I noticed you haven’t used Smartsheet in over 60 days. Please let me know if Moveworks IT can remove your license. PS: You can always DM me to request access for Smartsheet again in the future. 386 Messages delivered G May I deprovision Smartsheet? DER el EC ACE: Lete} No - I still need access Georgia 11:15 AM Go for it! 75% Responded Moveworks 11:15 AM &# Great! | have removed Smartsheet access. Feel free to DM me to request access to Smartsheet again in the future.](https://www.moveworks.com/hs-fs/hubfs/SoftwareDeprovisioning_Metrics.png)
 
 Figure 5: Moveworks offers visibility into how employees engage with campaigns. 
 
@@ -98,7 +90,7 @@ With Moveworks, every message is the beginning of a conversation with an expert.
 
 Figure 6: Employee Comms open a direct communication line where employees can ask questions and get immediate answers.
 
-![PrpChat_EmployeeComms_MFA_withFollowUp](https://www.moveworks.com/hs-fs/hubfs/PrpChat_EmployeeComms_MFA_withFollowUp.png?noresize&width=328&name=PrpChat_EmployeeComms_MFA_withFollowUp.png)
+![PrpChat_EmployeeComms_MFA_withFollowUp | WV Moveworks 12:02 PM Hi Madison, Immediate Action Requested As previously communicated by the security organization, due to a heightened security risk, we will require every employee to set up their Multi-Factor Authentication (MFA) immediately! You need to set up your MFA immediately! Please follow these instructions to complete your enrollment. If you have any questions, please contact the Customer Care Center at 866-300-2600 or just ask me “How do | set up my MFA?” Thanks, already completed | Not helpful | Madison 12:02 PM How do | set up MFA on Android? Moveworks 12:02 PM Ok, just checked our knowledge base, here is the closest answer | could find: * MFA Set Up for Android On your Android phone or tablet, open the device's Settings app, navigate to your Google Account. At the top, go to Security... Read the full article...](https://www.moveworks.com/hs-fs/hubfs/PrpChat_EmployeeComms_MFA_withFollowUp.png)
 
 With this new approach, employees aren’t just getting a message — they’re getting Moveworks and all our bot has to offer. Since our AI has read all your knowledge articles, ingested every FAQ, and knows your employee handbook to the letter, our bot can answer whatever questions they have. And unlike a static message, the bot also handles the back-and-forth on the company’s behalf, so sending an update doesn’t flood support teams with requests for clarification. 
 
@@ -112,41 +104,41 @@ By rethinking employee comms as personalized, actionable messages that connect e
 
 Figure 7: Leading companies use Moveworks to update employees with relevant and actionable messages.
 
-![RH-BLOG-chart-blog-01c](https://www.moveworks.com/hs-fs/hubfs/Imported_Blog_Media/RH-BLOG-chart-blog-01c.png?noresize&width=680&name=RH-BLOG-chart-blog-01c.png)
+![RH-BLOG-chart-blog-01c | Robert Half employees helped by Moveworks on Teams Ongoing promotion of Teams features Regular broadcast notifications sent via Moveworks on Teams Moveworks and Teams promotion begins](https://www.moveworks.com/hs-fs/hubfs/Imported_Blog_Media/RH-BLOG-chart-blog-01c.png)
 
 Contact Moveworks to learn how you can transform your employee communications.
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png?length=50&name=AIOps-featured-image.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/AIOps-featured-image.png)
 
 
           Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png?length=50&name=Public-Sector-Convo-AI.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/Public-Sector-Convo-AI.png)
 
 
           Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png?length=50&name=Forrester%20T&I%20%281%29.png)
+![Image | Ay TECHNOLOGY &](https://www.moveworks.com/hs-fs/hubfs/Forrester%20T%26I%20%281%29.png)
 
 
           3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png?length=50&name=healthcare-test.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/healthcare-test.png)
 
 
           Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png?length=50&name=Moveworks_LLM_Feature.png)
+![Image | a . oe ° ° * ° ° ° ra](https://www.moveworks.com/hs-fs/hubfs/Moveworks_LLM_Feature.png)
 
 
           From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
         
 
-![Image](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png?length=50&name=ITOA_feature.png)
+![Image | ](https://www.moveworks.com/hs-fs/hubfs/ITOA_feature.png)
 
 
           AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.

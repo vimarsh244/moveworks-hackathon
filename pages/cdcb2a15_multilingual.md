@@ -1,18 +1,10 @@
 # https://www.moveworks.com/multilingual
 
-Forrester names Moveworks a leader in Chatbot for IT operations. Read the report today.
-
-Moveworks named a Forrester leader in Chatbot for IT operations. 
-
-![Image](https://www.moveworks.com/hubfs/img/site/qr-demo.png)
-
-Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
-
 By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
 
-Thank you.
 
-A member of the Moveworks team will be in touch within the next 24 hours.
+
+
 
 
 
@@ -34,23 +26,19 @@ Moveworks provides truly multilingual support to employees in their native langu
 
 No training required: employees can get help just by asking. And when they switch languages, Moveworks adapts on a dime.
 
-![Moveworks automatically detecting German support request](https://www.moveworks.com/hubfs/img/screenshots/multi-language/PrpChat_WhereMikeFordSit-GER-v2.png)
+![Moveworks automatically detecting German support request | i) Karl 9:25 AM Muss Ahmed zu der Verkauf-Verteilerliste hinzufugen Moveworks 9:25 A Ok, it seems like you are speaking German. Would you like me to set your default bot language to German? LANGUAGE SETTING @ Méchten Sie Ihre Standardsprache flr den Bot festlegen Deutsch? | Other language | | No, English | Other related results: 1 - Distribution List | Complete a form |](https://www.moveworks.com/hubfs/img/screenshots/multi-language/PrpChat_WhereMikeFordSit-GER-v2.png)
 
 Moveworks is a one-stop shop for every employee to submit every issue — in every language. 
 
 Our platform goes well beyond translation to interpret enterprise jargon, including conference room names, email groups, and company policies. It’s engineered to understand the way employees request help at work.
 
-![Requesting Zoom in spanish using Moveworks](https://www.moveworks.com/hubfs/img/screenshots/multi-language/PrpChat_SoftwareRequestZoom-SPN-blogshadow.png)
+![Requesting Zoom in spanish using Moveworks | Maria 9:25 AM Puedo obtener una licensia de zoom, por favor? Moveworks 9:25 A VV _ Encontré un formulario relacionado. Compleétalo para proporcionar detalles a tu agente. & Zoom Pro Convertir tu cuenta de Zoom Basic en una cuenta de Zoom Pro. éRellenar este formulario? | Ayuda | | Cancelar |](https://www.moveworks.com/hubfs/img/screenshots/multi-language/PrpChat_SoftwareRequestZoom-SPN-blogshadow.png)
 
 Moveworks provides the right solution to employees’ requests, such as snippets from knowledge articles in the appropriate language.
 
 Our platform ingests thousands of support resources, the moment they’re published, so employees don’t need to go digging for what they need.
 
-![Moveworks providing printer support in French](https://www.moveworks.com/hubfs/img/screenshots/multi-language/PrpChat_PrinterConnection-FRE.png)
-
-Moveworks has pioneered the first AI platform that engages employees in their native language, deeply understands their requests, and provides the right resources in real time.
-
-Under the hood, we had to evolve the entire Moveworks Intelligence Engine™ to become multilingual:
+![Moveworks providing printer support in French | Antoine 9:25 AM J'ai un probleme de connecter mon imprimante réseau a mon Mac. Moveworks ‘= Connexion a une imprimante réseau a l'aide d'un Mac Installer une imprimante utilisant une adresse IP avant de commencer : Obtenir l'adresse IP de l'imprimante IT ou I'imprimante. 1. Vérifiez qu'elle est connectée au réseau d'entreprise et deconnectée du VPN. 2. Cliquez sur le menu Apple> Préférences systeme> Imprimantes et scanners. 3. Cliquez sur l'icéne Plus (+) a la gauche pour ouvrir la fenétre Ajouter. 4. Cliquez sur IP, saisissez l'adresse IP dans le champ Adresse et cliquez Ajouter. Votre imprimante est installée!](https://www.moveworks.com/hubfs/img/screenshots/multi-language/PrpChat_PrinterConnection-FRE.png)
 
 Moveworks is designed to engage employees on their terms, without following a script. Now, our platform can switch languages and determine the ideal response on the fly — using machine learning models trained on more than 250 million support requests. 
 
