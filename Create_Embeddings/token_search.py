@@ -3,13 +3,21 @@ import re
 
 # Define the folder path and the token you want to search for
 folder_path = "../pages"
+<<<<<<< HEAD
 token_to_search = "CEO of Moveworks"
+=======
+token_to_search = "CEO of moveworks"
+>>>>>>> e12cb0e7d0e21e0ae88b34e4cf822bbf09b834a2
 
 # Define a regular expression pattern to match the token (case insensitive)
-pattern = re.compile(fr'\b{re.escape(token_to_search)}\b', re.IGNORECASE)
+pattern = re.compile(fr'(.{{0,25}}\b{re.escape(token_to_search)}\b.{{0,25}})', re.IGNORECASE)
 
+<<<<<<< HEAD
 context_length = 200
 # Function to search for tokens in a file and get context
+=======
+# Function to search for tokens in a file and return the surrounding text
+>>>>>>> e12cb0e7d0e21e0ae88b34e4cf822bbf09b834a2
 def search_tokens_in_file(file_path, token):
     with open(file_path, 'r', encoding='utf-8') as file:
         content = file.read()
