@@ -8,6 +8,7 @@ import re
 import json
 from urllib.request import urlopen
 import json
+from token_search import *
 
 
 embeddings = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
@@ -31,5 +32,12 @@ def get_answer(query):
             url = f.readline().strip().split()[-1]
         response[url] = doc[0].page_content
         print(doc[0].page_content)
+
+    token_search_response = token_search(query)
+    for key in token_search_response:
+        if key not in response:
+            response[key] = token_search_response[key]
+        else:
+            response[key] = response[key] + "\n" + token_search_response[key]
         
     return response
