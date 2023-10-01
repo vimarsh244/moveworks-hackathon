@@ -35,11 +35,12 @@ def get_answer(query):
         print(doc[0].page_content)
 
     token_search_response = token_search(query)
-    check_list = sample(list(token_search_response.keys()), 3)
-    for key in check_list:
-        if key not in response:
-            response[key] = token_search_response[key]
-        else:
-            response[key] = response[key] + "\n" + token_search_response[key]
-        
+    if(token_search_response):
+        check_list = sample(list(token_search_response.keys()), 3)
+        for key in check_list:
+            if key not in response:
+                response[key] = token_search_response[key]
+            else:
+                response[key] = response[key] + "\n" + token_search_response[key]
+            
     return response

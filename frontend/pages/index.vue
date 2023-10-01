@@ -63,7 +63,7 @@
 		<a href="/">
   <img src="chatbot_logo_clipdrop-background-removal.png" alt="Logo">
 	</a>
-		<h1 class="my-8 text-5xl font-bold text-center text-black">Moveworks Chatbot</h1>
+		<h1 class="my-8 text-5xl font-bold text-center text-black">MoveWiser</h1>
 	</div>
 
 		<div class="max-w-xl mx-auto">
