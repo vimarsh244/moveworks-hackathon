@@ -10,7 +10,7 @@ export default defineEventHandler(async (event) => {
 
 
 	// Create a formatted prompt string
-	let prompt = "Instructions: \nYour name is Movewiser. \nYour task is to help users on Moveworks website get short and precise answer to their questions. Use the provided Context to concisely answer the asked question. \nIf you don't know an answer, reply with 'I am not aware regarding that right now.'\n";
+	let prompt = "Instructions: \nYour name is Movewiser. \nYour task is to help users on Moveworks website get short and precise answer to their questions. Use the provided Context to concisely answer the asked question. \n If there are any relevant image links in the context, include them as well in the response. Also, format your output strictly in markdown. \nIf you don't know an answer, reply with 'I am not aware regarding that right now.'\n";
 	let url_data;
 	let sources_data = "";
 	// Define the URL you want to make a GET request to
